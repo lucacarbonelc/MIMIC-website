@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MIMIc Project</title>
+    <link>/authors/eth_user1/</link>
+      <atom:link href="/authors/eth_user1/index.xml" rel="self" type="application/rss+xml" />
+    <description>MIMIc Project</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 852317)</copyright>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>MIMIc Project</title>
+      <link>/authors/eth_user1/</link>
+    </image>
+    
+  </channel>
+</rss>

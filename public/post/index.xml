@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | MIMIc Project</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 852317)</copyright><lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title>List of works on cultural and cognitive sociology</title>
+      <link>/post/index_cultcog/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/post/index_cultcog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

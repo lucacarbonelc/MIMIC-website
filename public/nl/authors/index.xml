@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | MIMIc</title>
+    <link>/nl/authors/</link>
+      <atom:link href="/nl/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>nl</language><copyright>This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 852317)</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>/nl/authors/</link>
+    </image>
+    
+    <item>
+      <title>admin</title>
+      <link>/nl/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/nl/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/nl/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/nl/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/nl/authors/admin1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/nl/authors/admin1/</guid>
+      <description>&lt;p&gt;Laura Vandenbosch is sinds 2017 een docent aan de School voor Massacommunicatie-Research (BOF-ZAP onderzoeksprofessor fonds). De relatie tussen media en welzijn is een centraal thema  binnen haar onderzoek, leidende tot internationale publicaties in verschillende onderzoeksvelden zoals ontwikkelingspsychologie, seksuologie, lichaamsbeeld, sociale relaties en communicatietheorie.&lt;/p&gt;
+&lt;p&gt;In 2015 is ze verkozen als secretaris van de Kinderen, Adolescenten en Media Afdeling van de Internationale Communicatie Vereniging (ICA 2015-2018). Laura zetelt ook bij de redactieraad van ISI-gerankte tijdschriften Human Communication Research, Journal of Children and Media, en Communications: The European Journal of Communication Research.
+Momenteel is ze betrokken in verschillende (internationale) onderzoeksprojecten gericht op het onderzoeken van de invloed die media kan hebben op welzijn met een focus op factoren die nog niet goed begrepen zijn, zoals de rol van sociale relaties, culturele achtergrond, seksualisering, media geletterdheid en maakbaarheidsidealen. Een deel van deze projecten zijn gelinkt aan het internationale netwerk dat ze doorheen de jaren heeft opgebouwd door periodes in het buitenland door te brengen waaronder, de Universiteit van Michigan, De Universiteit van Toronto, en de Universiteit van Wenen. Haar werk heeft tot verschillende prijzen geleid, zoals de Top Paper, Top Artikel en Top Thesis prijzen van de Kinderen, Adolescenten en Media (CAM) divisie van de Internationale Communicatie Associatie (2013-2016) en de Prijs Onderzoeksraad in de Menswetenschappen (2016).&lt;/p&gt;
+&lt;p&gt;In 2019, heeft ze de ERC starting grant (Europese OnderzoeksCommisie startfonds), voor het project &amp;ldquo;Malleability in Mediated Ideals: A paradigm to understand effects of contemporary media in adolescents&amp;rsquo; well-being&amp;rdquo; (Maakbaarheid in gemedieerde idealen: Een paradigma om de effecten van hedendaagse media op adolescentenwelzijn.)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/nl/authors/admin2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/nl/authors/admin2/</guid>
+      <description>&lt;p&gt;Anaëlle Gonzalez is een PhD student aan de School voor MassaCommunicatie-Research (KU Leuven) onder toezicht van Professor Laura Vandenbosch, haar PhD project focust op het Mediadieet van Adolescenten, het individualistisch discours, en Politieke overtuigingen en activisme. Het is deel van het grotere ERC startfonds met betrekking tot Maakbare Gemedieerde Idealen en welzijn bij adolescenten. Dit project hanteert een multidisciplinaire aanpak waarbij het communicatiewetenschappen, culturele sociologie en psychologie combineert.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/nl/authors/admin3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/nl/authors/admin3/</guid>
+      <description>&lt;p&gt;Brent Swinnen is een PhD student aan de School voor Massacommunicatie-Research. Hij werkt onder toezicht van Professor Laura Vandenbosch aan het ERC-gefundeerde project: Malleability in Mediated Ideals: A paradigm to understand effects of contemporary media in adolescents&amp;rsquo; well-being. (Maakbaarheid in gemedieerde idealen: Een paradigma om de effecten van hedendaagse media op adolescentenwelzijn.) Zijn PhD project betreft specifiek de concepten van maakbaarheid, prestatiedruk en welzijn bij adolescenten.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/nl/authors/admin4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/nl/authors/admin4/</guid>
+      <description>&lt;p&gt;Ik ben een PhD kandidaat bij de School voor MassaCommunicatie-Research (KU Leuven, Belgi?). Mijn onderzoeksinteresses liggen bij de samenloop tussen media-effecten, en culturele en cognitieve sociologie. Ik maak gebruik van dual-process modellen van cognitie om te onderzoeken hoe media de percepties van ongelijkheid tussen gender, klasse, en ras be?nvloedt en het enculturatieprocess achter deze invloed te begrijpen.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,84 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "Home"
+  url = "#hero"
+  weight = 1
+
+[[main]]
+  name = "Team"
+  identifier = "authors"
+  URL = "#"
+  weight = 2.0
+
+[[main]]
+  name = "Laura Vandenbosch"
+  parent = "authors"
+  url = "/authors/admin1"
+  weight = 2.1
+  
+[[main]]
+  name = "Anaëlle Gonzalez"
+  parent = "authors"
+  url = "/authors/admin2"
+  weight = 2.2
+
+[[main]]
+  name = "Brent Swinnen"
+  parent = "authors"
+  url = "/authors/admin3"
+  weight = 2.3
+
+[[main]]
+  name = "Luca Carbone"
+  parent = "authors"
+  url = "/authors/admin4"
+  weight = 2.4
+
+[[main]]
+  name = "Bojana Lobe"
+  parent = "authors"
+  url = "/authors/admin10"
+  weight = 2.5
+
+[[main]]
+  name = "Caroline Giraudeau"
+  parent = "authors"
+  url = "/authors/admin11"
+  weight = 2.6
+
+[[main]]
+  name = "Resources"
+  identifier = "resources"
+  url = "#"
+  weight = 3.0
+
+[[main]]
+  name = "Open material"
+  parent = "resources"
+  url = "#projects"
+  weight = 3.1
+
+[[main]]
+  name = "For adolescents"
+  parent = "resources"
+  url = "#projects"
+  weight = 3.2
+  
+[[main]]
+  name = "For parents and schools"
+  parent = "resources"
+  url = "#projects"
+  weight = 3.3
+
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 4
+
+[[main_right]]
+    name = "<img src=\"/img/logo.png\" style=\"height:50px\" alt=\"ERC\">"
+
