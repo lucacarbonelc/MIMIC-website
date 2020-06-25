@@ -1,3 +1,3 @@
-Website for the ERC project Malleability in Mediated Ideals (MIMIc) @KULeuven.
+Malleability in Mediated Ideals (MIMIc)
 
 http://www.projectmimic.eu
