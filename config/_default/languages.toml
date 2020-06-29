@@ -7,30 +7,31 @@
   languageCode = "en-us"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
-# Uncomment the lines below to configure your website in a second language.
-[fr]
-  languageCode = "fr"
-  contentDir = "content/fr"
-  title = "MIMIc"
-#  [[fr.menu.main]]
-#    name = "Home"
-#    url = "#hero.fr"
-#    weight = 1
-
-[nl]
-  languageCode = "nl"
-  contentDir = "content/nl"
-  title = "MIMIc"
-#  [[fr.menu.main]]
-#    name = "Home"
-#    url = "#hero.nl"
-#    weight = 1
-
-#[sl]
-#  languageCode = "sl"
-#  contentDir = "content/sl"
+## Uncomment the lines below to configure your website in a second language.
+#[fr]
+#  languageCode = "fr"
+#  contentDir = "content/fr"
 #  title = "MIMIc"
-#  [[fr.menu.main]]
-#    name = "Home"
-#    url = "#hero.sl"
-#    weight = 1
+##  [[fr.menu.main]]
+##    name = "Home"
+##    url = "#hero.fr"
+##    weight = 1
+#
+#[nl]
+#  languageCode = "nl"
+#  contentDir = "content/nl"
+#  title = "MIMIc"
+##  [[fr.menu.main]]
+##    name = "Home"
+##    url = "#hero.nl"
+##    weight = 1
+#
+##[sl]
+##  languageCode = "sl"
+##  contentDir = "content/sl"
+##  title = "MIMIc"
+##  [[fr.menu.main]]
+##    name = "Home"
+##    url = "#hero.sl"
+##    weight = 1
+#

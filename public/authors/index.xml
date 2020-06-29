@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 852317)</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 852317)</copyright><lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>admin</title>
-      <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <title>Laura Vandenbosch</title>
+      <link>/authors/laura-vandenbosch/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/laura-vandenbosch/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/robert-ford/</guid>
+      <title>Steven Eggermont</title>
+      <link>/authors/steven-eggermont/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/steven-eggermont/</guid>
       <description></description>
     </item>
     
@@ -33,10 +33,16 @@
       <link>/authors/1admin1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/1admin1/</guid>
-      <description>&lt;p&gt;Starting from 2017, Laura Vandenbosch is an assistant professor at the School for Mass Communication Research (BOF-ZAP research professorship grant). The relationship between media and well-being is the core subject of her research, leading to international publications in several fields including developmental psychology, sexology, body image, social relationships and communication theory.&lt;/p&gt;
+      <description>
+
+
+&lt;p&gt;Starting from 2017, Laura Vandenbosch is an assistant professor at the School for Mass Communication Research (BOF-ZAP research professorship grant). The relationship between media and well-being is the core subject of her research, leading to international publications in several fields including developmental psychology, sexology, body image, social relationships and communication theory.&lt;/p&gt;
 &lt;p&gt;In 2015 she was elected as the secretary of the Children, Adolescents and Media Division of the International Communication Association (2015-2018). Laura is currently also an editorial board member of ISI-ranked journals Human Communication Research, Journal of Children and Media, and Communications: The European Journal of Communication Research.&lt;/p&gt;
 &lt;p&gt;Currently, she is involved in several (international) research projects aimed to study how media may affect well-being by focusing on factors that have not been understood well, such as the role of social relationships, cultural background, sexualization, media literacy and malleability beliefs. Part of these projects are embedded within the international network she has built throughout the years by spending periods abroad at, for instance, the U of Michigan, the U of Toronto and the U of Vienna. Her work has led to several awards, such as the Top Paper, Top Article and Top Dissertation Awards from the Children, Adolescents and Media (CAM) Division of the International Communication Association (2013-2016) and the Research Council Award in the Humanities (Prijs Onderzoeksraad, 2016).&lt;/p&gt;
 &lt;p&gt;In 2019, she received an ERC starting grant for the project “Malleability in mediated ideals: A paradigm to understand effects of contemporary media in adolescents’ well-being.”&lt;/p&gt;
+&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+&lt;source src=&#34;LV.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
 </description>
     </item>
     
