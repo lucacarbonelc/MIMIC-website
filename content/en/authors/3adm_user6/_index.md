@@ -5,7 +5,7 @@ bio:
 education:
 email:
 interests:
-name: Chrisoph Klimmt
+name: Christoph Klimmt
 organizations:
 role: Narrative communication (U of Hannover, DE)
 social:

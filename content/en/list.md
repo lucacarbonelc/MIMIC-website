@@ -1,22 +1,26 @@
 +++
-# A Featured Publications section created with the Featured Content widget.
-# This section displays publications from `content/publication/` which have
-# `featured = true` in their front matter.
+# A Recent Publications section created with the Pages widget.
+# This section displays recent blog posts from `content/publication/`.
 
-widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 90  # Order that this section will appear.
 
-title = "Featured Publications"
-subtitle = ""
+title = "Schools"
+subtitle = "The research project MIMIc has been made possible thanks to the efforts of the schools who participate in the research project. Below a list of the participating schools in France, Belgium and Slovenia can be found."
+date = "2020-06-30T00:00:00+01:00"
+lastmod = [":fileModTime", ":default"]
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+  page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 5
+  
+  # Choose how many pages you would like to offset by
+  offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
@@ -26,6 +30,7 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = ""
+    exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.
@@ -33,14 +38,14 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-  
+    
   # Background color.
   # color = "navy"
   
@@ -62,3 +67,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+[insert here school list]
+

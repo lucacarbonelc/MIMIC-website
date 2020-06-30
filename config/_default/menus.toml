@@ -57,27 +57,57 @@
   weight = 3.0
 
 [[main]]
-  name = "Open material"
+  name = "Academic Output"
   parent = "resources"
-  url = "#projects"
+  url = "#academic_output"
   weight = 3.1
 
 [[main]]
-  name = "For adolescents"
+  name = "Open science"
   parent = "resources"
-  url = "#projects"
+  url = "/open_science"
   weight = 3.2
-  
+
 [[main]]
-  name = "For parents and schools"
-  parent = "resources"
-  url = "#projects"
-  weight = 3.3
+  name = "Schools"
+  identifier = "schools"
+  url = "#"
+  weight = 4.0
+
+[[main]]
+  name = "List of participating schools"
+  parent = "schools"
+  url = "/list"
+  weight = 4.1
+
+[[main]]
+  name = "Additional information"
+  parent = "schools"
+  url = "/additional"
+  weight = 4.2
+
+[[main]]
+  name = "Parent and Adolescents"
+  identifier = "parents_adolescents"
+  url = "#"
+  weight = 5.0
+
+[[main]]
+  name = "For Parents"
+  parent = "parents_adolescents"
+  url = "/parents"
+  weight = 5.1
+
+[[main]]
+  name = "For Adolescents"
+  parent = "parents_adolescents"
+  url = "/adolescents"
+  weight = 5.2
 
 [[main]]
   name = "Contact"
   url = "/contact"
-  weight = 4
+  weight = 6
 
 [[main_right]]
     name = "<img src=\"/img/logo.png\" style=\"height:50px\" alt=\"ERC\">"

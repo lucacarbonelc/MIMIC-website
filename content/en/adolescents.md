@@ -1,18 +1,20 @@
 +++
-# A Recent and Upcoming Talks section created with the Pages widget.
-# This section displays recent talks from `content/talk/`.
+# A Recent Publications section created with the Pages widget.
+# This section displays recent blog posts from `content/publication/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 90  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "For Adolescents"
 subtitle = ""
+date = "2020-06-30T00:00:00+01:00"
+lastmod = [":fileModTime", ":default"]
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "talk"
+  page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -29,9 +31,7 @@ subtitle = ""
     category = ""
     publication_type = ""
     exclude_featured = false
-    exclude_past = false
-    exclude_future = false
-    
+  
 [design]
   # Toggle between the various page layout types.
   #   1 = List
@@ -45,7 +45,7 @@ subtitle = ""
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-
+    
   # Background color.
   # color = "navy"
   
@@ -67,3 +67,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+

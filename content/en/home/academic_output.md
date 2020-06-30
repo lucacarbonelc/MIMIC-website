@@ -9,6 +9,8 @@ weight = 90  # Order that this section will appear.
 
 title = "Academic Output"
 subtitle = ""
+date = "2020-06-30T00:00:00+01:00"
+lastmod = [":fileModTime", ":default"]
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
