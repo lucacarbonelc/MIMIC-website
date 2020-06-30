@@ -17,37 +17,37 @@
 [[main]]
   name = "Laura Vandenbosch"
   parent = "authors"
-  url = "/authors/admin1"
+  url = "/authors/1admin1"
   weight = 2.1
   
 [[main]]
   name = "Anaëlle Gonzalez"
   parent = "authors"
-  url = "/authors/admin2"
+  url = "/authors/1admin2"
   weight = 2.2
 
 [[main]]
   name = "Brent Swinnen"
   parent = "authors"
-  url = "/authors/admin3"
+  url = "/authors/1admin3"
   weight = 2.3
 
 [[main]]
   name = "Luca Carbone"
   parent = "authors"
-  url = "/authors/admin4"
+  url = "/authors/1admin4"
   weight = 2.4
 
 [[main]]
   name = "Bojana Lobe"
   parent = "authors"
-  url = "/authors/admin10"
+  url = "/authors/4clb_user10"
   weight = 2.5
 
 [[main]]
   name = "Caroline Giraudeau"
   parent = "authors"
-  url = "/authors/admin11"
+  url = "/authors/4clb_user11"
   weight = 2.6
 
 [[main]]
