@@ -1,6 +1,6 @@
 ---
 authors:
-- user10
+- admin10
 bio: 
 education:
   courses:
