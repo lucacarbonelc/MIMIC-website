@@ -29,14 +29,14 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "home.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+#  image = "home.jpg"  # Name of image in `static/img/`.
+#  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is #transparent and 1 is opaque.
+#  image_size = "cover"  #  Options are `cover` (default), `contain`, #or `actual` size.
+#  image_position = "center"  # Options include `left`, `center` #(default), or `right`.
+#  image_parallax = true  # Use a fun parallax-like fixed background #effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -50,6 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-A paradigm to understand effects of contemporary media in adolescents’ well-being.
+Project MIMIc: A project to understand the role of media in boys’ and girls’ lives anno 2020-2025
 
-Popular media among adolescents abound with idealised representations of how one should look, talk, behave, and perform in order to acquire more from life. Based on insights from cultural sociology, media theory, and developmental psychology, the current project argues that media not only describe a variety of ideals, but also portray these ideals as models that are within reach for anyone who works hard or follows a certain ‘recipe’. Such representations are labelled as ‘malleable mediated ideals’ and parallel a societal emphasis on individual choice as the prominent route towards self-realisation in all types of roles. The extent to which malleable ideals in media feed this emphasis on individual choice as a way to achieve self-realisation is central in the project. This question is pressing in today’s society as the pressures that adolescents experience are viewed as an important factor in the relatively high prevalence of both internalising and externalising problems in adolescence. Content analytical, diary, and longitudinal studies in three different cultural contexts will be triangulated to develop a theoretical model: the Malleable Ideals Media Effects model (MIME). The project is called MIMIc and thus captures how Malleability In Media Ideals leads adolescents to mimiC and act upon the malleable ideals in their own lives while suffering from the pressure and responsibility attributions accompanying these ideals.
+“Do youth mimic the lifestyles they encounter at their social media walls and in entertainment fiction?” is at the core of the research that the MIMIc team conducts in Belgium, France and Slovenia across 4,500 adolescents. The project is targeted at learning how youth enrich their lives with the affordances offered by the rich digital media landscape they grow up. Moreover, we would like to find out how youth think and feel about being online all the time and processing an unlimited stream of information on how other peers at social media or in popular television shows and movies organize their lives. To build this knowledge, project MIMIc takes up a multi-method design meaning we will (1) look at the social media profiles of youth and the celebrities and influencers who are popular among youth, (2) follow a group of youngsters aged 12 to 16 years old over the course of 1.5 years to see how grow-up in a mediated world and (3) monitor youth to survey them on a day-to-day basis what the daily interactions with social media and popular TV shows mean.
+[READ more about the research in the parents and participants’ section](http://www.projectmimic.eu/parents/).

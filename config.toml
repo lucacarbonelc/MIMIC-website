@@ -99,5 +99,3 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   logo = "logo.png"
 
 
-
-
