@@ -4,7 +4,7 @@
   
   <url>
     <loc>/additional/</loc>
-    <lastmod>2020-06-30T00:00:00+01:00</lastmod>
+    <lastmod>2020-08-31T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -28,8 +28,13 @@
   </url>
   
   <url>
+    <loc>/contact/</loc>
+    <lastmod>2020-08-31T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2020-06-30T00:00:00+01:00</lastmod>
+    <lastmod>2020-08-31T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -78,11 +83,6 @@
   </url>
   
   <url>
-    <loc>/contact/</loc>
-    <lastmod>2020-05-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/data_confidentiality/</loc>
     <lastmod>2020-05-01T00:00:00+01:00</lastmod>
   </url>
@@ -106,42 +106,6 @@
   
   <url>
     <loc>/authors/1admin4/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/2eth_user1/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/2eth_user2/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/2eth_user3/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/2eth_user4/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/3adm_user5/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/3adm_user6/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/3adm_user7/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/3adm_user8/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/3adm_user9/</loc>
   </url>
   
   <url>

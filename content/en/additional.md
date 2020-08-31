@@ -9,7 +9,7 @@ weight = 90  # Order that this section will appear.
 
 title = "Additional information"
 subtitle = ""
-date = "2020-06-30T00:00:00+01:00"
+date = "2020-08-31T00:00:00+01:00"
 lastmod = [":fileModTime", ":default"]
 
 [content]
@@ -68,6 +68,15 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
--	“Participating schools receive at the end of the MIMIc project a digital literacy training package. This package contains a report about the research results,  two digital video clips and a discussion guide. The first digital video clip is targeted at adolescents and explains the results of the research and their implications for the lives of adolescents. Schools are highly supported to motivate teachers and pupils to watch the video clip together and have a discussion about the results afterwards. To train teachers into experienced moderators for discussions about media literacy skills, a second digital video clip is targeted at teachers and explains them the core attention points that have to be taken into account when moderating classroom discussions about the results of the research. To organize the discussion, the discussion guide contains a detailed step-wise explanation on how a conversation can unfold and presents several subjects to discuss in class. Schools who implement the digital literacy training package in their curriculum are invited to also ask students to complete a brief survey before and after the training. This survey is analysed by the MIMIc Team and gives the school feedback on the training. “
--	“As the MIMIc research project is organized across multiple years (i.e., 2020-2022) schools will receive rapid communication reports when a sub-project has ended in the research. For more information, please [contact](http://www.projectmimic.eu/contact/) the responsible researcher in your country.”
+## Digital literacy training package
+Participating schools receive at the end of the MIMIc project a digital literacy training package. This package contains a report about the research results, two digital video clips and a discussion guide. 
+
+The first digital video clip is targeted at adolescents and explains the results of the research and their implications for the lives of adolescents. Schools are highly supported to motivate teachers and pupils to watch the video clip together and have a discussion about the results afterwards. 
+
+To train teachers into experienced moderators for discussions about media literacy skills, a second digital video clip is targeted at teachers and explains them the core attention points that have to be taken into account when moderating classroom discussions about the results of the research. 
+
+To organize the discussion, the discussion guide contains a detailed step-wise explanation on how a conversation can unfold and presents several subjects to discuss in class. Schools who implement the digital literacy training package in their curriculum are invited to also ask students to complete a brief survey before and after the training. This survey is analysed by the MIMIc Team and gives the school feedback on the training.
+
+## Monitoring
+As the MIMIc research project is organized across multiple years (i.e., 2020-2022) schools will receive rapid communication reports when a sub-project has ended in the research. For more information, please [contact](http://www.projectmimic.eu/contact/) the responsible researcher in your country.
 
