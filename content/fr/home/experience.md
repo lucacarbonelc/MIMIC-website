@@ -59,7 +59,7 @@ date_format = "02 Jan 2006"
 
 [[experience]]
   title = "Fonctions Creation R pour faire correspondre les accords de musique avec les paroles"
-  date_start = "18/06/2020"
+  date_start = "2021-06-18"
   description = "[Luca Carbone](http://www.projectmimic.eu/authors/admin4/) a créé deux fonctions pour faire correspondre les mots des paroles de la musique avec l'accord correspondant, ensuite inséré dans le package R [` chorrrds`](https://github.com/r-music/chorrrds). Vous pouvez trouver une description des fonctions et un petit exemple d'utilisation du thème [ici](https://www.lucacarbone.com/post/functions_chorrrds / functions_chorrrds /). "
 
 [[experience]]
