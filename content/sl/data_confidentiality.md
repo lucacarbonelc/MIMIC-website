@@ -7,7 +7,7 @@ header:
   caption: ""
   image: ""
 share: false
-title: Privacy Policy
+title: Politika zasebnosti
 ---
 
-The MIMIc research has been approved by the ethical committees of the KU Leuven, U of Tours and U of Ljubljana. An ethical board monitors the ethical guidelines in the project. Confidentiality of identifying data is guaranteed. The obtained research results will be used for scientific research only, these scientific reports will never contain any identifying information (such as your child’s name or birth date). The data are used in agreement with the law (GDPR) and the strict KU Leuven, University De Tours, University of Ljubljana rules. Parents and participating adolescents can find more information on the procedures and the confidentiality of the research in information brochures. Adolescents can only participate in the research after parental approval. For more information, please [contact](http://www.projectmimic.eu/contact/) the responsible researcher in your country.”
+Raziskavo MIMIc so odobrili etični odbori KU Leuven, U Tours in U Ljubljana. Etični odbor spremlja etične smernice v projektu. Zaupnost identifikacijskih podatkov je zagotovljena. Pridobljeni rezultati raziskav bodo uporabljeni samo za znanstvene raziskave, ta znanstvena poročila ne bodo nikoli vsebovala nobenih identifikacijskih podatkov (kot je ime ali datum rojstva vašega otroka). Podatki se uporabljajo v skladu z zakonom (GDPR) in strogimi pravili KU Leuven, University De Tours, Univerza v Ljubljani. Starši in mladostniki, ki sodelujejo, lahko v informativnih brošurah najdejo več informacij o postopkih in zaupnosti raziskav. Mladostniki lahko v raziskavi sodelujejo šele po odobritvi staršev. Za več informacij prosimo, [kontaktirajte](http://www.projectmimic.eu/sl/contact/) odgovornega raziskovalca v vaši državi.

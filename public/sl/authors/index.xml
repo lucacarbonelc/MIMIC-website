@@ -5,7 +5,7 @@
     <link>/sl/authors/</link>
       <atom:link href="/sl/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>sl</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>sl</language><copyright>This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 852317)</copyright><lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -13,57 +13,81 @@
     </image>
     
     <item>
-      <title>admin</title>
-      <link>/sl/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/sl/authors/admin/</guid>
+      <title>Laura Vandenbosch</title>
+      <link>/sl/authors/laura-vandenbosch/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/sl/authors/laura-vandenbosch/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>/sl/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/sl/authors/robert-ford/</guid>
+      <title>Steven Eggermont</title>
+      <link>/sl/authors/steven-eggermont/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/sl/authors/steven-eggermont/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/sl/authors/admin1/</link>
+      <link>/sl/authors/1admin1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sl/authors/admin1/</guid>
-      <description>&lt;p&gt;Starting from 2017, Laura Vandenbosch is an assistant professor at the School for Mass Communication Research (BOF-ZAP research professorship grant). The relationship between media and well-being is the core subject of her research, leading to international publications in several fields including developmental psychology, sexology, body image, social relationships and communication theory.&lt;/p&gt;
-&lt;p&gt;In 2015 she was elected as the secretary of the Children, Adolescents and Media Division of the International Communication Association (2015-2018). Laura is currently also an editorial board member of ISI-ranked journals Human Communication Research, Journal of Children and Media, and Communications: The European Journal of Communication Research.&lt;/p&gt;
-&lt;p&gt;Currently, she is involved in several (international) research projects aimed to study how media may affect well-being by focusing on factors that have not been understood well, such as the role of social relationships, cultural background, sexualization, media literacy and malleability beliefs. Part of these projects are embedded within the international network she has built throughout the years by spending periods abroad at, for instance, the U of Michigan, the U of Toronto and the U of Vienna. Her work has led to several awards, such as the Top Paper, Top Article and Top Dissertation Awards from the Children, Adolescents and Media (CAM) Division of the International Communication Association (2013-2016) and the Research Council Award in the Humanities (Prijs Onderzoeksraad, 2016).&lt;/p&gt;
-&lt;p&gt;In 2019, she received an ERC starting grant for the project “Malleability in mediated ideals: A paradigm to understand effects of contemporary media in adolescents’ well-being.”&lt;/p&gt;
+      <guid>/sl/authors/1admin1/</guid>
+      <description>
+
+
+&lt;p&gt;Od leta 2017 je Laura Vandenbosch docentka na Šoli za raziskave množičnih komunikacij (dotacija za raziskovalno profesorstvo BOF-ZAP). Odnos med mediji in blaginjo je osrednja tema njenih raziskav, ki vodijo do mednarodnih publikacij na več področjih, vključno z razvojno psihologijo, seksologijo, podobo telesa, socialnimi odnosi in teorijo komunikacije.&lt;/p&gt;
+&lt;p&gt;Leta 2015 je bila izvoljena za sekretarko oddelka za otroke, mladostnike in medije Mednarodnega združenja za komuniciranje (2015-2018). Laura je trenutno tudi članica uredništva revij Human Communication Research, Journal of Children and Media in Communications: The European Journal of Communication Research, ki jih uvršča ISI.&lt;/p&gt;
+&lt;p&gt;Trenutno sodeluje pri več (mednarodnih) raziskovalnih projektih, katerih namen je preučiti, kako lahko mediji vplivajo na dobro počutje, tako da se osredotoča na dejavnike, ki niso bili dobro razumljeni, kot so vloga družbenih odnosov, kulturno ozadje, seksualizacija, medijska pismenost in voljnost. prepričanj. Del teh projektov je vključenih v mednarodno mrežo, ki jo je gradila skozi leta, tako da je preživela obdobja v tujini, na primer v zvezni državi Michigan, univerzi Toronto in univerzi Dunaj. Njeno delo je privedlo do številnih nagrad, kot so nagrade za najboljši članek, najboljši članek in najboljšo disertacijo oddelka za otroke, mladostnike in medije (CAM) Mednarodnega združenja za komuniciranje (2013–2016) in nagrado Raziskovalnega sveta za humanistiko ( Prijs Onderzoeksraad, 2016).&lt;/p&gt;
+&lt;p&gt;Leta 2019 je prejela začetno štipendijo ERC za projekt „Gibnost v posredovanih idealih: paradigma za razumevanje učinkov sodobnih medijev na dobro počutje mladostnikov.“&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/sl/authors/admin2/</link>
+      <link>/sl/authors/1admin2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sl/authors/admin2/</guid>
-      <description>&lt;p&gt;Anaëlle Gonzalez is a PhD student at the Leuven School for Mass Communication Research (KU Leuven) under supervision of Professor Laura Vandenbosch. Her PhD project focuses on Adolescents’ Media Diets, the Individualistic Discourse et Political beliefs and Participation. It is part of the bigger ERC starting grant on Malleable Mediated Ideals and adolescents’ wellbeing. This project uses a multidisciplinary approach as it combines communication science, cultural sociology and psychology.&lt;/p&gt;
+      <guid>/sl/authors/1admin2/</guid>
+      <description>&lt;p&gt;Anaëlle Gonzalez je doktorska študentka na Leuvenski šoli za raziskovanje množičnih komunikacij (KU Leuven) pod nadzorom profesorice Laure Vandenbosch. Njen doktorat se osredotoča na medijsko prehrano mladostnikov, individualistični diskurz in politična prepričanja ter sodelovanje. Je del večje ERC začetne podpore za voljne posredovane ideale in dobro počutje mladostnikov. Ta projekt uporablja multidisciplinarni pristop, saj združuje komunikologijo, kulturno sociologijo in psihologijo.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/sl/authors/admin3/</link>
+      <link>/sl/authors/1admin3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sl/authors/admin3/</guid>
-      <description>&lt;p&gt;Brent Swinnen is a PhD student at the Leuven School for Mass Communication. He’s currently working under supervision of Professor Laura Vandenbosch on the ERC-funded project: “Malleability in mediated ideals: A paradigm to understand effects of contemporary media in adolescents’ well-being”. His PhD project specifically pertains to the notions of malleability, performance pressure and well-being amongst adolescents.&lt;/p&gt;
+      <guid>/sl/authors/1admin3/</guid>
+      <description>&lt;p&gt;Brent Swinnen je doktorski študent na šoli za množično komuniciranje v Leuvenu. Trenutno dela pod nadzorom profesorice Laure Vandenbosch pri projektu, ki ga financira ERC: &amp;ldquo;Gibljivost v posredovanih idealih: paradigma za razumevanje učinkov sodobnih medijev na dobro počutje mladostnikov&amp;rdquo;. Njegov doktorat se posebej nanaša na pojme gibčnosti, pritiska na uspešnost in dobrega počutja mladostnikov.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/sl/authors/admin4/</link>
+      <link>/sl/authors/1admin4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sl/authors/admin4/</guid>
-      <description>&lt;p&gt;I am PhD candidate at the School for Mass Communication Research, KU Leuven (BE). My research interests lie at the intersection of media effects, cultural and cognitive sociology. I employ dual-process models of cognition to study how media shape perceptions of inequalities about gender, class, and race and to understand the enculturation process behind this transmission.&lt;/p&gt;
+      <guid>/sl/authors/1admin4/</guid>
+      <description>&lt;p&gt;Sem doktorski študent na Šoli za raziskovanje množičnih komunikacij, KU Leuven (BE). Moja raziskovalna zanimanja ležijo na stičišču kulturne in kognitivne sociologije, raziskav medijskih učinkov in preučevanja neenakosti.
+S teoretičnega vidika preučujem, kako lahko socializacijski procesi med mladostniki oblikujejo oblikovanje njihovega prepričanja o neenakostih. Izhajajoč iz kulturne sociologije preučujem, kako bi lahko družbeno stratificirani dostop in sodelovanje s prestižnimi simbolnimi dobrinami (tj. Glasbenimi zvrstmi) delovali kot oblika kulturne diferenciacije. Na podlagi literature o medijskih učinkih preučujem, kako glasba prikazuje družbeni status in možne poti, po katerih ti prikazi vplivajo na prepričanja mladostnikov.
+Empirično uporabljam kvantitativne metodologije, kot so analiza socialnih omrežij, modeliranje strukturnih enačb in računska analiza besedila. Zavzemam se za odprt znanstveni okvir in miselnost.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/sl/authors/4clb_user10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/sl/authors/4clb_user10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/sl/authors/4clb_user11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/sl/authors/4clb_user11/</guid>
+      <description>&lt;p&gt;Caroline Giraudeau je predavateljica na Oddelku za psihologijo (University of Tours, Francija). Zanimajo jo odnosi med mladostniki in mladostniki ter njihovimi starimi starši in še posebej čustvena bližina med njimi.&lt;/p&gt;
+&lt;p&gt;Trenutno sodeluje v več (mednarodnih) raziskovalnih projektih o odnosih med študentom in učiteljem (z Univerzo v Kentuckyju), multinacionalni študiji o čustvenih lastnostih in relacijskem ter psihološkem zdravju (npr. Stres, depresija, samopodoba) (z Univerza v Arizoni) in medkulturna študija o odnosih in pričakovanjih starih staršev in mlajših odraslih (z Penn State Hazleton University).&lt;/p&gt;
+&lt;p&gt;V projektu MIMIc jo zanima dva francoska udeleženca: Katere fotografije in besedila najstniki delijo o svojih starih starših v družabnih omrežjih? Prijateljstvo med mladostništvom v družbenih omrežjih: Kakšne izkušnje čustvene bližine imajo francoski mladostniki s svojimi vrstniki in zvezdniki?&lt;/p&gt;
 </description>
     </item>
     

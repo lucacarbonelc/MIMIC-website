@@ -29,14 +29,14 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "home.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+#  image = "home.jpg"  # Name of image in `static/img/`.
+#  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is #transparent and 1 is opaque.
+#  image_size = "cover"  #  Options are `cover` (default), `contain`, #or `actual` size.
+#  image_position = "center"  # Options include `left`, `center` #(default), or `right`.
+#  image_parallax = true  # Use a fun parallax-like fixed background #effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -50,7 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-Een paradigma om de effecten van hedendaagse media op welzijn van Adolescenten te begrijpen.
+Project MIMIc: een project om de rol van media in het leven van jongens en meisjes anno 2020-2025 te begrijpen
 
-Populaire media bij adolesscenten zitten vol met geïdealiseerde representaties van hoe iemand er moet uitzien, moet praten en zich moet gedragen om meer uit het leven te halen. Gebaseerd op ideeën van culturele sociologie, media theorie en ontwikkelingspsychologie, argumenteert het huidige project dat media niet alleen een variëteit aan idealen weergeeft, maar deze idealen ook afbeeld als bereikbare rolmodellen voor iedereen die hard genoeg werkt of een bepaald "recept" volgt. Dergelijke representaties worden gelabeld als "maakbare gemedieerde idealen" en lopen parallel met een maatschappelijke nadruk op individuele keuze als de prominente weg waarlangs zelf-realisatie bereikt kan worden. De mate waarin maakbare idealen op media deze nadruk op individuele keuzes als de weg naar zelf-realisatie vormen staan centraal in het project. De invulling van deze vraag is in het huidige sociale landschap essentieel, aangezien de druk die jongeren ervaren gezien wordt als een belangrijke component in de relatief hoge graad van zowel geïnternaliseerde als geëxternaliseerde problemen bij adolescenten. Het theoretisch model:  "Maakbare Idealen Media Effecten Model (MIME)" wordt ontwikkeld door een combinatie van inhoudsanalytisch, dagboek en longitudinale studies in drie verschillende culturele contexten. Het project is genaamd MIMIc, en vat dus hoe Maakbaarheid in Media Idealen ertoe leidt dat adolescenten deze idealen gaan nastreven (to mimic) en zullen handelen naar deze idealen in hun eigen leven, terwijl ze de druk en verantwoordelijkheid die met het nastreven van deze idealen komt moeten ondergaan.
-
+"Nabootsen jongeren de levensstijl die ze tegenkomen op hun social media-feed en in entertainmentfictie?" vormt de kern van het onderzoek uitgevoerd door het MIMIc-team in BelgiÃ«, Frankrijk en SloveniÃ« bij 4.500 adolescenten. Het project wil leren hoe jonge mensen hun leven verrijken met de voordelen die het rijke digitale medialandschap waarin ze opgroeien, bieden. Bovendien streven we ernaar om een beter begrip te krijgen van hoe jongeren denken en voelen over het continu online zijn, constant blootgesteld aan een onbeperkte stroom aan informatie over hoe hun leeftijdsgenoten hun leven organiseren op sociale media, in populaire televisieprogramma's en of in films. Om deze kennis op te bouwen, maakt project MIMIc gebruik van een multi-method design, wat betekent dat we: (1) kijken naar de social media profielen van jongeren en de beroemdheden en influencers die populair zijn onder jongeren, (2) een groep jongeren van 12 jaar volgen tot 16 jaar in de loop van 1,5 jaar om te zien hoe ze opgroeien in een gemedieerde wereld en (3) jongeren te volgen door middel van dagelijkse enquÃªtes om beter te begrijpen wat hun dagelijkse interacties met sociale media en populaire tv-programma's inhouden . [LEES meer over het onderzoek in de sectie ouders en deelnemers](http://www.projectmimic.eu/nl/parents/).

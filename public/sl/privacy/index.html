@@ -28,7 +28,8 @@
   
     
   
-  <meta name="description" content="&hellip;">
+  <meta name="description" content="Ta stran vas obvešča o naših politikah glede zbiranja, uporabe in razkritja osebnih podatkov, ki jih prejmemo od uporabnikov spletnega mesta. Vaše osebne podatke uporabljamo samo za zagotavljanje in izboljšanje spletnega mesta. Z uporabo spletnega mesta se strinjate z zbiranjem in uporabo informacij v skladu s to politiko.
+Zbiranje in uporaba informacij  To spletno mesto ne zahteva, da se identificirate. Edini osebni podatki, zbrani med obiskom tega spletnega mesta, so podatki, ki ne omogočajo identifikacije, na primer vrsta brskalnika in operacijski sistem.">
 
   
   <link rel="alternate" hreflang="en" href="/privacy/">
@@ -212,6 +213,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162811786-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-162811786-2', { 'anonymize_ip': true });
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -236,14 +275,15 @@
   
   <meta property="og:site_name" content="MIMIc">
   <meta property="og:url" content="/sl/privacy/">
-  <meta property="og:title" content="Privacy Policy | MIMIc">
-  <meta property="og:description" content="&hellip;"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="og:title" content="Politika zasebnosti | MIMIc">
+  <meta property="og:description" content="Ta stran vas obvešča o naših politikah glede zbiranja, uporabe in razkritja osebnih podatkov, ki jih prejmemo od uporabnikov spletnega mesta. Vaše osebne podatke uporabljamo samo za zagotavljanje in izboljšanje spletnega mesta. Z uporabo spletnega mesta se strinjate z zbiranjem in uporabo informacij v skladu s to politiko.
+Zbiranje in uporaba informacij  To spletno mesto ne zahteva, da se identificirate. Edini osebni podatki, zbrani med obiskom tega spletnega mesta, so podatki, ki ne omogočajo identifikacije, na primer vrsta brskalnika in operacijski sistem."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="sl">
   
     
-      <meta property="article:published_time" content="2018-06-28T00:00:00&#43;01:00">
+      <meta property="article:published_time" content="2020-05-01T00:00:00&#43;01:00">
     
-    <meta property="article:modified_time" content="2018-06-28T00:00:00&#43;01:00">
+    <meta property="article:modified_time" content="2020-05-01T00:00:00&#43;01:00">
   
 
   
@@ -254,6 +294,36 @@
 
 
   
+  
+  
+  
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin="anonymous">
+  
+  <script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#2962ff",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#2962ff"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "Spletno mesto uporablja piškotke za zagotovitev najboljše izkušnje brskanja.",
+        "dismiss": "Ok!",
+        "link": "Preberite podrobnosti",
+        "href": "/sl/privacy/"
+      }
+    })});
+  </script>
+
 
 
   
@@ -262,7 +332,7 @@
 
 
 
-  <title>Privacy Policy | MIMIc</title>
+  <title>Politika zasebnosti | MIMIc</title>
 
 </head>
 
@@ -274,7 +344,7 @@
 
       <div class="row no-gutters justify-content-between mb-3">
         <div class="col-6">
-          <h1>Search</h1>
+          <h1>Išči</h1>
         </div>
         <div class="col-6 col-search-close">
           <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
@@ -283,7 +353,7 @@
 
       <div id="search-box">
         
-        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        <input name="q" id="search-query" placeholder="Išči ..." autocapitalize="off"
         autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
@@ -319,7 +389,7 @@
 
     
     <button type="button" class="navbar-toggler" data-toggle="collapse"
-            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Omogoči navigacijo">
     <span><i class="fas fa-bars"></i></span>
     </button>
     
@@ -332,7 +402,7 @@
 
     
     
-    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
 
       
       <ul class="navbar-nav d-md-inline-flex">
@@ -369,17 +439,69 @@
 
         
         <li class="nav-item dropdown">
-          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>People</span><span class="caret"></span>
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Team</span><span class="caret"></span>
           </a>
           <div class="dropdown-menu">
             
-              <a class="dropdown-item" href="/sl/authors/admin2"><span>Anaëlle Gonzalez</span></a>
+              <a class="dropdown-item" href="/sl/authors/1admin2"><span>Anaëlle Gonzalez</span></a>
             
-              <a class="dropdown-item" href="/sl/authors/admin3"><span>Brent Swinnen</span></a>
+              <a class="dropdown-item" href="/sl/authors/4clb_user10"><span>Bojana Lobe</span></a>
             
-              <a class="dropdown-item" href="/sl/authors/admin1"><span>Laura Vandenbosch</span></a>
+              <a class="dropdown-item" href="/sl/authors/1admin3"><span>Brent Swinnen</span></a>
             
-              <a class="dropdown-item" href="/sl/authors/admin4"><span>Luca Carbone</span></a>
+              <a class="dropdown-item" href="/sl/authors/4clb_user11"><span>Caroline Giraudeau</span></a>
+            
+              <a class="dropdown-item" href="/sl/authors/1admin1"><span>Laura Vandenbosch</span></a>
+            
+              <a class="dropdown-item" href="/sl/authors/1admin4"><span>Luca Carbone</span></a>
+            
+          </div>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Viri</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="/sl/#academic_output"><span>Akademske rezultate</span></a>
+            
+              <a class="dropdown-item" href="/sl/open_science"><span>Odprta znanost</span></a>
+            
+          </div>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Šole</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="/sl/media_lit_schools"><span>Medijsko pismene šole</span></a>
+            
+              <a class="dropdown-item" href="/sl/list"><span>Seznam sodelujočih šol</span></a>
+            
+          </div>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Starši in udeleženci</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="/sl/parents"><span>Za starše</span></a>
+            
+              <a class="dropdown-item" href="/sl/adolescents"><span>Za udeležence</span></a>
             
           </div>
         </li>
@@ -401,74 +523,9 @@
         
         
         
-          
-          
-          
-            
-          
-          
-        
 
         <li class="nav-item">
-          <a class="nav-link " href="/sl/#projects"><span>Resources</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/sl/#posts"><span>Academic Output</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/sl/#contact"><span>Contact</span></a>
+          <a class="nav-link " href="/sl/contact"><span>Kontakt</span></a>
         </li>
 
         
@@ -492,11 +549,11 @@
       
       <li class="nav-item dropdown i18n-dropdown">
         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
-          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline"></span>
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">Slovenščina</span>
         </a>
         <div class="dropdown-menu">
           <div class="dropdown-item i18n-active font-weight-bold">
-            <span></span>
+            <span>Slovenščina</span>
           </div>
           
           <a class="dropdown-item" href="/privacy/">
@@ -542,7 +599,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Privacy Policy</h1>
+  <h1>Politika zasebnosti</h1>
 
   
 
@@ -561,7 +618,7 @@
     
       
     
-    2018-06-28
+    May 1, 2020
   </span>
   
 
@@ -601,7 +658,22 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>&hellip;</p>
+      <p>Ta stran vas obvešča o naših politikah glede zbiranja, uporabe in razkritja osebnih podatkov, ki jih prejmemo od uporabnikov spletnega mesta.
+Vaše osebne podatke uporabljamo samo za zagotavljanje in izboljšanje spletnega mesta. Z uporabo spletnega mesta se strinjate z zbiranjem in uporabo informacij v skladu s to politiko.</p>
+<p><strong>Zbiranje in uporaba informacij</strong> <br/>
+To spletno mesto ne zahteva, da se identificirate. Edini osebni podatki, zbrani med obiskom tega spletnega mesta, so podatki, ki ne omogočajo identifikacije, na primer vrsta brskalnika in operacijski sistem. Te podatke zbira Google Analytics za merjenje obiska obiskovalcev te strani.</p>
+<p>Teh podatkov ne zbiramo in do njih nimamo dostopa, razen kot zbirna poročila. 
+<a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">Tukaj</a> je stran o zasebnosti storitve Google Analytics. Da bi ta postopek anonimizirali, smo nastavili možnosti Hugo GDPR, tako da je vaš naslov IP anonimiziran v storitvi Google Analytics in je upoštevana zahteva »Ne sledi«.</p>
+<p>Za vsakega obiskovalca, ki pride na spletno mesto, Google Analytics zbere naslednje podatke, ki ne omogočajo osebne identifikacije, vključno z, vendar ne omejeno na vrsto brskalnika, različico in jezikom, operacijskim sistemom, stranmi, ogledanimi med brskanjem po spletnem mestu, časom dostopa do strani in naslovom referenčnega spletnega mesta. Te informacije so nam predstavljene kot zbirna poročila za merjenje prometa in trendov obiskovalcev.</p>
+<p><strong>Piškotki</strong> <br/>
+Ti podatki se zbirajo s pomočjo piškotkov. Večina spletnih brskalnikov omogoča nadzor nad ravnanjem s piškotki. Vse piškotke na tej spletni strani lahko onemogočite, ne da bi na kakršen koli način zmanjšali funkcionalnost uporabnika.</p>
+<p>Če želite izvedeti več o piškotkih, obiščite to 
+<a href="https://www.cookiesandyou.com" target="_blank" rel="noopener">spletno mesto</a>.</p>
+<p><strong>Spremembe tega pravilnika o zasebnosti</strong> <br/>
+Ta pravilnik o zasebnosti velja od 1. maja 2020 in bo veljal, razen v zvezi s spremembami določb v prihodnosti, ki bodo veljale takoj po objavi na tej strani.</p>
+<p>Pridržujemo si pravico, da kadar koli posodobimo ali spremenimo našo Politiko zasebnosti, zato jo morate redno preverjati. Vaša nadaljnja uporaba storitve, potem ko bomo na tej strani objavili kakršne koli spremembe pravilnika o zasebnosti, pomeni, da potrjujete spremembe in soglašate s tem, da spoštujete in spreminjate pravilnik o zasebnosti.</p>
+<p><strong>Pišite nam</strong> <br/>
+Če imate kakršna koli vprašanja o tej politiki zasebnosti, se obrnite na nas.</p>
 
     </div>
 
@@ -616,106 +688,6 @@
 
 
 
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-  
-  
-  
-  
-  
-  <div class="media author-card content-widget-hr">
-    
-      
-      <img class="avatar mr-3 avatar-circle" src="/sl/authors/admin1/avatar_hucc0312013ae6dcbd71b764fbffe0d453_495851_270x270_fill_lanczos_center_2.png" alt="Avatar">
-    
-
-    <div class="media-body">
-      <h5 class="card-title"><a href="/sl/authors/admin1/">Laura Vandenbosch</a></h5>
-      <h6 class="card-subtitle">Assistant professor at the School for Mass Communication Research</h6>
-      
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="/sl/laura.vandenbosch@kuleuven.be" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://twitter.com/l__vandenbosch" target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://scholar.google.com/citations?hl=en&amp;user=damaWSwAAAAJ&amp;view_op=list_works&amp;citft=1&amp;email_for_op=LucaCarbone.LC%40gmail.com&amp;gmla=AJsN-F7t2CYHHlWeJY3deewm-X4ZMmGIyZTX8n6I4B0oyaPhiurr6O2RUvipMX5kj9NwSv5kCHA2iTvFV4Mkw7GA0m9U2mBQIWHnywgqOTMUu29QbimAgPW-k6oqxRFTvedMc-D8SrQc4AFyq6LA87ar4PJhZDpsA_B1-Z4uS742VbL1rEjrScyqh32yVBuYH_9IQXpNhLYqxWzdcpTOOOCxzpH6y9I_rk1ygE4T84JbQJD0nAO6CnsJZ1xjg5s4r59O_87gwvRR" target="_blank" rel="noopener">
-        <i class="ai ai-google-scholar"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://orcid.org/0000-0001-6834-8386" target="_blank" rel="noopener">
-        <i class="ai ai-orcid ai ai-orcid-orcid"></i>
-      </a>
-    </li>
-  
-</ul>
-
-    </div>
-  </div>
 
 
 
@@ -778,12 +750,12 @@
     
     <script>
       const search_config = {"indexURI":"/sl/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const i18n = {"no_results":"Ni rezultatov","placeholder":"Išči ...","results":"Rezultati iskanja"};
       const content_type = {
-        'post': "Posts",
-        'project': "Projects",
-        'publication' : "Publications",
-        'talk' : "Talks"
+        'post': "Post",
+        'project': "Projekti",
+        'publication' : "Publikacije",
+        'talk' : "Konference"
         };
     </script>
     
@@ -848,18 +820,16 @@
   
   <p class="powered-by">
     
-      <a href="/sl/privacy/">Privacy Policy</a>
+      <a href="/sl/privacy/">Politika zasebnosti</a>
     
-    
-       &middot; 
-      <a href="/sl/terms/">Terms</a>
     
   </p>
   
 
   <p class="powered-by">
-    
+    This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 852317) &middot; 
 
+    <br>
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
     <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
@@ -884,7 +854,7 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title">Cite</h5>
+        <h5 class="modal-title">Citat</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -894,10 +864,10 @@
       </div>
       <div class="modal-footer">
         <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> Copy
+          <i class="fas fa-copy"></i> Kopiraj
         </a>
         <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
-          <i class="fas fa-download"></i> Download
+          <i class="fas fa-download"></i> Prenos
         </a>
         <div id="modal-error"></div>
       </div>

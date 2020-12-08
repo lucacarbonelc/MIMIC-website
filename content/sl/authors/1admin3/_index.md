@@ -4,25 +4,25 @@ authors:
 bio:
 education:
   courses:
-  - course: PhD in Communication Science
+  - course: PhD iz komunikologije
     institution: Katholieke Universiteit Leuven
-    year: 2020 - present
-  - course: MSc in Sociologie - Cultuur en Diversiteit
+    year: 2020 - prisoten
+  - course: MSc iz sociologije - Kultura in raznolikost
     year: 2019
-  - course: BSc in Politieke Wetenschappen en Sociologie
+  - course: BSc iz politologije in sociologije
     year: 2018
 email: ""
 interests:
-- Performance Pressure
-- Malleability
-- Protection Mechanisms
-- Utilitarian Individualism
-- Mental well-being
+- Tlak v delovanju
+- Prožnost
+- zaščitni mehanizmi
+- Utilitarni individualizem
+- Duševno počutje
 name: Brent Swinnen
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00113344"
-role: PhD student
+role: PhD študent
 social:
 - icon: envelope
   icon_pack: fas
@@ -35,4 +35,4 @@ user_groups:
 - Team
 ---
 
-Brent Swinnen is a PhD student at the Leuven School for Mass Communication. He’s currently working under supervision of Professor Laura Vandenbosch on the ERC-funded project: “Malleability in mediated ideals: A paradigm to understand effects of contemporary media in adolescents’ well-being”. His PhD project specifically pertains to the notions of malleability, performance pressure and well-being amongst adolescents.
+Brent Swinnen je doktorski študent na šoli za množično komuniciranje v Leuvenu. Trenutno dela pod nadzorom profesorice Laure Vandenbosch pri projektu, ki ga financira ERC: "Gibljivost v posredovanih idealih: paradigma za razumevanje učinkov sodobnih medijev na dobro počutje mladostnikov". Njegov doktorat se posebej nanaša na pojme gibčnosti, pritiska na uspešnost in dobrega počutja mladostnikov.

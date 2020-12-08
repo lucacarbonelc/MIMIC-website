@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Assistant professor at the School for Mass Communication Research">
+  <meta name="description" content="Docent na Šoli za raziskovanje množičnih komunikacij">
 
   
   <link rel="alternate" hreflang="en" href="/categories/">
@@ -212,6 +212,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162811786-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-162811786-2', { 'anonymize_ip': true });
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -239,10 +277,10 @@
   <meta property="og:site_name" content="MIMIc">
   <meta property="og:url" content="/sl/categories/">
   <meta property="og:title" content="Categories | MIMIc">
-  <meta property="og:description" content="Assistant professor at the School for Mass Communication Research"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="og:description" content="Docent na Šoli za raziskovanje množičnih komunikacij"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="sl">
   
-    <meta property="og:updated_time" content="2016-04-20T00:00:00&#43;00:00">
+    
   
 
   
@@ -251,6 +289,36 @@
 
 
   
+  
+  
+  
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin="anonymous">
+  
+  <script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#2962ff",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#2962ff"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "Spletno mesto uporablja piškotke za zagotovitev najboljše izkušnje brskanja.",
+        "dismiss": "Ok!",
+        "link": "Preberite podrobnosti",
+        "href": "/sl/privacy/"
+      }
+    })});
+  </script>
+
 
 
   
@@ -271,7 +339,7 @@
 
       <div class="row no-gutters justify-content-between mb-3">
         <div class="col-6">
-          <h1>Search</h1>
+          <h1>Išči</h1>
         </div>
         <div class="col-6 col-search-close">
           <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
@@ -280,7 +348,7 @@
 
       <div id="search-box">
         
-        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        <input name="q" id="search-query" placeholder="Išči ..." autocapitalize="off"
         autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
@@ -316,7 +384,7 @@
 
     
     <button type="button" class="navbar-toggler" data-toggle="collapse"
-            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Omogoči navigacijo">
     <span><i class="fas fa-bars"></i></span>
     </button>
     
@@ -329,7 +397,7 @@
 
     
     
-    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
 
       
       <ul class="navbar-nav d-md-inline-flex">
@@ -366,17 +434,69 @@
 
         
         <li class="nav-item dropdown">
-          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>People</span><span class="caret"></span>
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Team</span><span class="caret"></span>
           </a>
           <div class="dropdown-menu">
             
-              <a class="dropdown-item" href="/sl/authors/admin2"><span>Anaëlle Gonzalez</span></a>
+              <a class="dropdown-item" href="/sl/authors/1admin2"><span>Anaëlle Gonzalez</span></a>
             
-              <a class="dropdown-item" href="/sl/authors/admin3"><span>Brent Swinnen</span></a>
+              <a class="dropdown-item" href="/sl/authors/4clb_user10"><span>Bojana Lobe</span></a>
             
-              <a class="dropdown-item" href="/sl/authors/admin1"><span>Laura Vandenbosch</span></a>
+              <a class="dropdown-item" href="/sl/authors/1admin3"><span>Brent Swinnen</span></a>
             
-              <a class="dropdown-item" href="/sl/authors/admin4"><span>Luca Carbone</span></a>
+              <a class="dropdown-item" href="/sl/authors/4clb_user11"><span>Caroline Giraudeau</span></a>
+            
+              <a class="dropdown-item" href="/sl/authors/1admin1"><span>Laura Vandenbosch</span></a>
+            
+              <a class="dropdown-item" href="/sl/authors/1admin4"><span>Luca Carbone</span></a>
+            
+          </div>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Viri</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="/sl/#academic_output"><span>Akademske rezultate</span></a>
+            
+              <a class="dropdown-item" href="/sl/open_science"><span>Odprta znanost</span></a>
+            
+          </div>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Šole</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="/sl/media_lit_schools"><span>Medijsko pismene šole</span></a>
+            
+              <a class="dropdown-item" href="/sl/list"><span>Seznam sodelujočih šol</span></a>
+            
+          </div>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Starši in udeleženci</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="/sl/parents"><span>Za starše</span></a>
+            
+              <a class="dropdown-item" href="/sl/adolescents"><span>Za udeležence</span></a>
             
           </div>
         </li>
@@ -398,74 +518,9 @@
         
         
         
-          
-          
-          
-            
-          
-          
-        
 
         <li class="nav-item">
-          <a class="nav-link " href="/sl/#projects"><span>Resources</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/sl/#posts"><span>Academic Output</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/sl/#contact"><span>Contact</span></a>
+          <a class="nav-link " href="/sl/contact"><span>Kontakt</span></a>
         </li>
 
         
@@ -489,11 +544,11 @@
       
       <li class="nav-item dropdown i18n-dropdown">
         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
-          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline"></span>
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">Slovenščina</span>
         </a>
         <div class="dropdown-menu">
           <div class="dropdown-item i18n-active font-weight-bold">
-            <span></span>
+            <span>Slovenščina</span>
           </div>
           
           <a class="dropdown-item" href="/categories/">
@@ -553,16 +608,6 @@
 
   
   
-    
-    
-    
-    <div>
-      <h2><a href="/sl/categories/demo/" >Demo</a></h2>
-      <div class="article-style">
-        
-      </div>
-    </div>
-  
 
   
 
@@ -613,12 +658,12 @@
     
     <script>
       const search_config = {"indexURI":"/sl/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const i18n = {"no_results":"Ni rezultatov","placeholder":"Išči ...","results":"Rezultati iskanja"};
       const content_type = {
-        'post': "Posts",
-        'project': "Projects",
-        'publication' : "Publications",
-        'talk' : "Talks"
+        'post': "Post",
+        'project': "Projekti",
+        'publication' : "Publikacije",
+        'talk' : "Konference"
         };
     </script>
     
@@ -683,18 +728,16 @@
   
   <p class="powered-by">
     
-      <a href="/sl/privacy/">Privacy Policy</a>
+      <a href="/sl/privacy/">Politika zasebnosti</a>
     
-    
-       &middot; 
-      <a href="/sl/terms/">Terms</a>
     
   </p>
   
 
   <p class="powered-by">
-    
+    This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 852317) &middot; 
 
+    <br>
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
     <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
@@ -719,7 +762,7 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title">Cite</h5>
+        <h5 class="modal-title">Citat</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -729,10 +772,10 @@
       </div>
       <div class="modal-footer">
         <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> Copy
+          <i class="fas fa-copy"></i> Kopiraj
         </a>
         <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
-          <i class="fas fa-download"></i> Download
+          <i class="fas fa-download"></i> Prenos
         </a>
         <div id="modal-error"></div>
       </div>

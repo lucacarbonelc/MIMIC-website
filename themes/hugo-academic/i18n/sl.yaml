@@ -1,0 +1,130 @@
+- id: toggle_navigation
+  translation: Omogoči navigacijo
+- id: table_of_contents
+  translation: Kazalo
+- id: on_this_page
+  translation: Na tej strani
+- id: back_to_top
+  translation: Na vrh
+- id: related
+  translation: Sorodno
+- id: minute_read
+  translation: minute
+- id: previous
+  translation: Prejšnji
+- id: next
+  translation: Naprej
+- id: figure
+  translation: 'Slika% d:'
+- id: btn_preprint
+  translation: Preprint
+- id: btn_pdf
+  translation: PDF
+- id: btn_cite
+  translation: Citat
+- id: btn_slides
+  translation: Diapozitivi
+- id: btn_video
+  translation: Video
+- id: btn_code
+  translation: Koda
+- id: btn_dataset
+  translation: Nabor podatkov
+- id: btn_project
+  translation: Projekti
+- id: btn_poster
+  translation: Poster
+- id: btn_source
+  translation: Vir
+- id: btn_copy
+  translation: Kopiraj
+- id: btn_download
+  translation: Prenos
+- id: interests
+  translation: Interesi
+- id: education
+  translation: Usposabljanje
+- id: user_profile_latest
+  translation: Najnovejše
+- id: see_certificate
+  translation: Poglejte potrdilo
+- id: present
+  translation: sedanjost
+- id: more_pages
+  translation: Glej vse
+- id: more_posts
+  translation: Druge objave
+- id: more_talks
+  translation: Druge konference
+- id: more_publications
+  translation: Druge publikacije
+- id: contact_name
+  translation: Ime
+- id: contact_email
+  translation: E-pošta
+- id: contact_message
+  translation: Sporočilo
+- id: contact_send
+  translation: Enter
+- id: book_appointment
+  translation: Zahtevajte sestanek
+- id: abstract
+  translation: Povzetek
+- id: publication
+  translation: Založništvo
+- id: publication_type
+  translation: Tip
+- id: date
+  translation: Podatki
+- id: last_updated
+  translation: Posodobljeno dne
+- id: event
+  translation: Dogodek
+- id: location
+  translation: Kraj
+- id: pub_uncat
+  translation: Nekategorizirano
+- id: pub_conf
+  translation: Prispevek na konferenci
+- id: pub_journal
+  translation: Članek v reviji
+- id: pub_preprint
+  translation: Preprint
+- id: pub_report
+  translation: Poročilo
+- id: pub_book
+  translation: Knjiga
+- id: pub_book_section
+  translation: Knjižni odsek
+- id: pub_thesis
+  translation: Diplomsko delo
+- id: pub_patent
+  translation: Patent
+- id: open_project_site
+  translation: Odprite spletno mesto projekta
+- id: posts
+  translation: Post
+- id: publications
+  translation: Publikacije
+- id: talks
+  translation: Konference
+- id: projects
+  translation: Projekti
+- id: search
+  translation: Išči
+- id: search_placeholder
+  translation: Išči ...
+- id: search_results
+  translation: Rezultati iskanja
+- id: search_no_results
+  translation: Ni rezultatov
+- id: page_not_found
+  translation: Stran ni najdena
+- id: 404_recommendations
+  translation: Mogoče ste skrivali eno od teh?
+- id: cookie_message
+  translation: Spletno mesto uporablja piškotke za zagotovitev najboljše izkušnje brskanja.
+- id: cookie_dismiss
+  translation: Ok!
+- id: cookie_learn
+  translation: Preberite podrobnosti

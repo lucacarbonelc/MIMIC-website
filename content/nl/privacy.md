@@ -1,35 +1,34 @@
 ---
 commentable: false
-date: "2018-06-28T00:00:00+01:00"
+date: "2020-05-01T00:00:00+01:00"
 draft: false
 editable: false
 header:
   caption: ""
   image: ""
 share: false
-title: Privacy Policy
+title: Privacybeleid
 ---
 
-This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
-We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
+Deze pagina informeert u over ons beleid met betrekking tot het verzamelen, gebruiken en vrijgeven van persoonlijke informatie die we ontvangen van gebruikers van de site.
+We gebruiken uw persoonlijke gegevens alleen voor het aanbieden en verbeteren van de site. Door de site te gebruiken, gaat u akkoord met het verzamelen en gebruiken van informatie in overeenstemming met dit beleid.
 
-**Information Collection And Use**<br/>
-This website does not require you to identify yourself. The only personal information collected while you visit this site is non-identifying information, such as browser type and operating system. This information is collected by Google Analytics for measuring visitor traffic to this site.
+**Verzameling en gebruik van informatie** <br/>
+Deze website vereist niet dat u zich identificeert. De enige persoonlijke informatie die wordt verzameld terwijl u deze site bezoekt, is niet-identificeerbare informatie, zoals browsertype en besturingssysteem. Deze informatie wordt verzameld door Google Analytics om bezoekersverkeer naar deze site te meten.
 
-We do not collect this information and have no access to it other than as aggregated reports. [Here](https://policies.google.com/technologies/partner-sites) is the Google Analytics privacy page. In order to anonymize this process, we have set the Hugo GDPR options so that your IP address is anonymised within Google Analytics and the “Do Not Track” request is respected.
+We verzamelen deze informatie niet en hebben er geen toegang toe, behalve als geaggregeerde rapporten. [Here](https://policies.google.com/technologies/partner-sites) is de privacypagina van Google Analytics. Om dit proces te anonimiseren, hebben we de Hugo GDPR-opties zo ingesteld dat uw IP-adres binnen Google Analytics wordt geanonimiseerd en het verzoek "Do Not Track" wordt gerespecteerd.
 
-For each visitor to reach the site, Google Analytics collects the following non-personally identifiable information, including but not limited to browser type, version and language, operating system, pages viewed while browsing the site, page access times and referring website address. This information is presented to us as aggregated reports for the purpose of gauging visitor traffic and trends.
+Voor elke bezoeker die de site bezoekt, verzamelt Google Analytics de volgende niet-persoonlijk identificeerbare informatie, inclusief maar niet beperkt tot browsertype, versie en taal, besturingssysteem, bekeken pagina's tijdens het browsen op de site, paginatoegangstijden en verwijzend websiteadres. Deze informatie wordt aan ons gepresenteerd als geaggregeerde rapporten met als doel het bezoekersverkeer en trends te meten.
 
-**Cookies**<br/>
-This information is collected via cookies. Most web browsers allow you to control handling of cookies. It is possible to disable all cookies for this website without in any way reducing the functionality for the user.
+**Cookies** <br/>
+Deze informatie wordt verzameld via cookies. Met de meeste webbrowsers kunt u het gebruik van cookies regelen. Het is mogelijk om alle cookies voor deze website uit te schakelen zonder de functionaliteit voor de gebruiker op enigerlei wijze te verminderen.
 
-To learn more about cookies, please refer to this [website](https://www.cookiesandyou.com).
+Raadpleeg deze [website](https://www.cookiesandyou.com) voor meer informatie over cookies.
 
-**Changes To This Privacy Policy**<br/>
-This Privacy Policy is effective as of 01 May 2020 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+**Wijzigingen in dit privacybeleid** <br/>
+Dit privacybeleid is van kracht vanaf 1 mei 2020 en blijft van kracht, behalve met betrekking tot eventuele wijzigingen in de bepalingen ervan in de toekomst, die onmiddellijk van kracht worden nadat ze op deze pagina zijn geplaatst.
 
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+We behouden ons het recht voor om ons privacybeleid op elk moment bij te werken of te wijzigen en u dient dit privacybeleid regelmatig te raadplegen. Als u de service blijft gebruiken nadat we wijzigingen in het privacybeleid op deze pagina hebben geplaatst, betekent dit dat u de wijzigingen erkent en dat u ermee instemt zich te houden aan en gebonden te zijn aan het gewijzigde privacybeleid.
 
-**Contact Us**<br/>
-If you have any questions about this Privacy Policy, please contact us.
-
+**Neem contact met ons op** <br/>
+Als u vragen heeft over dit privacybeleid, neem dan contact met ons op.

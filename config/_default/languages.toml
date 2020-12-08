@@ -8,30 +8,335 @@
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 ## Uncomment the lines below to configure your website in a second language.
-#[fr]
-#  languageCode = "fr"
-#  contentDir = "content/fr"
-#  title = "MIMIc"
-##  [[fr.menu.main]]
-##    name = "Home"
-##    url = "#hero.fr"
-##    weight = 1
-#
-#[nl]
-#  languageCode = "nl"
-#  contentDir = "content/nl"
-#  title = "MIMIc"
-##  [[fr.menu.main]]
-##    name = "Home"
-##    url = "#hero.nl"
-##    weight = 1
-#
-##[sl]
-##  languageCode = "sl"
-##  contentDir = "content/sl"
-##  title = "MIMIc"
-##  [[fr.menu.main]]
-##    name = "Home"
-##    url = "#hero.sl"
-##    weight = 1
-#
+[fr]
+  languageCode = "fr"
+  contentDir = "content/fr"
+  title = "MIMIc"
+  
+[[fr.menu.main]]
+  name = "Home"
+  url = "#hero"
+  weight = 1
+
+[[fr.menu.main]]
+  name = "Team"
+  identifier = "authors"
+  URL = "#"
+  weight = 2.0
+
+[[fr.menu.main]]
+  name = "Laura Vandenbosch"
+  parent = "authors"
+  url = "/authors/1admin1"
+  weight = 2.1
+  
+[[fr.menu.main]]
+  name = "Anaëlle Gonzalez"
+  parent = "authors"
+  url = "/authors/1admin2"
+  weight = 2.2
+
+[[fr.menu.main]]
+  name = "Brent Swinnen"
+  parent = "authors"
+  url = "/authors/1admin3"
+  weight = 2.3
+
+[[fr.menu.main]]
+  name = "Luca Carbone"
+  parent = "authors"
+  url = "/authors/1admin4"
+  weight = 2.4
+
+[[fr.menu.main]]
+  name = "Bojana Lobe"
+  parent = "authors"
+  url = "/authors/4clb_user10"
+  weight = 2.5
+
+[[fr.menu.main]]
+  name = "Caroline Giraudeau"
+  parent = "authors"
+  url = "/authors/4clb_user11"
+  weight = 2.6
+
+[[fr.menu.main]]
+  name = "Ressources"
+  identifier = "resources"
+  url = "#"
+  weight = 3.0
+
+[[fr.menu.main]]
+  name = "Production académique"
+  parent = "resources"
+  url = "#academic_output"
+  weight = 3.1
+
+[[fr.menu.main]]
+  name = "Science ouverte"
+  parent = "resources"
+  url = "/open_science"
+  weight = 3.2
+
+[[fr.menu.main]]
+  name = "Écoles"
+  identifier = "schools"
+  url = "#"
+  weight = 4.0
+
+[[fr.menu.main]]
+  name = "Liste des écoles participantes"
+  parent = "schools"
+  url = "/list"
+  weight = 4.1
+
+[[fr.menu.main]]
+  name = "Ecoles éduquées à la littératie médiatique"
+  parent = "schools"
+  url = "/media_lit_schools"
+  weight = 4.2
+
+[[fr.menu.main]]
+  name = "Parents and Participants"
+  identifier = "parents_adolescents"
+  url = "#"
+  weight = 5.0
+
+[[fr.menu.main]]
+  name = "Pour les Parents"
+  parent = "parents_adolescents"
+  url = "/parents"
+  weight = 5.1
+
+[[fr.menu.main]]
+  name = "Pour les Participants"
+  parent = "parents_adolescents"
+  url = "/adolescents"
+  weight = 5.2
+
+[[fr.menu.main]]
+  name = "Contact"
+  url = "/contact"
+  weight = 6
+
+[nl]
+  languageCode = "nl"
+  contentDir = "content/nl"
+  title = "MIMIc"
+  
+[[nl.menu.main]]
+  name = "Home"
+  url = "#hero"
+  weight = 1
+
+[[nl.menu.main]]
+  name = "Team"
+  identifier = "authors"
+  URL = "#"
+  weight = 2.0
+
+[[nl.menu.main]]
+  name = "Laura Vandenbosch"
+  parent = "authors"
+  url = "/authors/1admin1"
+  weight = 2.1
+  
+[[nl.menu.main]]
+  name = "Anaëlle Gonzalez"
+  parent = "authors"
+  url = "/authors/1admin2"
+  weight = 2.2
+
+[[nl.menu.main]]
+  name = "Brent Swinnen"
+  parent = "authors"
+  url = "/authors/1admin3"
+  weight = 2.3
+
+[[nl.menu.main]]
+  name = "Luca Carbone"
+  parent = "authors"
+  url = "/authors/1admin4"
+  weight = 2.4
+
+[[nl.menu.main]]
+  name = "Bojana Lobe"
+  parent = "authors"
+  url = "/authors/4clb_user10"
+  weight = 2.5
+
+[[nl.menu.main]]
+  name = "Caroline Giraudeau"
+  parent = "authors"
+  url = "/authors/4clb_user11"
+  weight = 2.6
+
+[[nl.menu.main]]
+  name = "Middelen"
+  identifier = "resources"
+  url = "#"
+  weight = 3.0
+
+[[nl.menu.main]]
+  name = "Academische output"
+  parent = "resources"
+  url = "#academic_output"
+  weight = 3.1
+
+[[nl.menu.main]]
+  name = "Open wetenschap"
+  parent = "resources"
+  url = "/open_science"
+  weight = 3.2
+
+[[nl.menu.main]]
+  name = "Scholen"
+  identifier = "schools"
+  url = "#"
+  weight = 4.0
+
+[[nl.menu.main]]
+  name = "Lijst met deelnemende scholen"
+  parent = "schools"
+  url = "/list"
+  weight = 4.1
+
+[[nl.menu.main]]
+  name = "Mediageletterde scholen"
+  parent = "schools"
+  url = "/media_lit_schools"
+  weight = 4.2
+
+[[nl.menu.main]]
+  name = "Ouders en deelnemers"
+  identifier = "parents_adolescents"
+  url = "#"
+  weight = 5.0
+
+[[nl.menu.main]]
+  name = "Voor ouders"
+  parent = "parents_adolescents"
+  url = "/parents"
+  weight = 5.1
+
+[[nl.menu.main]]
+  name = "Voor deelnemers"
+  parent = "parents_adolescents"
+  url = "/adolescents"
+  weight = 5.2
+
+[[nl.menu.main]]
+  name = "Contact"
+  url = "/contact"
+  weight = 6
+
+[sl]
+  languageCode = "sl"
+  contentDir = "content/sl"
+  title = "MIMIc"
+  
+[[sl.menu.main]]
+  name = "Home"
+  url = "#hero"
+  weight = 1
+
+[[sl.menu.main]]
+  name = "Team"
+  identifier = "authors"
+  URL = "#"
+  weight = 2.0
+
+[[sl.menu.main]]
+  name = "Laura Vandenbosch"
+  parent = "authors"
+  url = "/authors/1admin1"
+  weight = 2.1
+  
+[[sl.menu.main]]
+  name = "Anaëlle Gonzalez"
+  parent = "authors"
+  url = "/authors/1admin2"
+  weight = 2.2
+
+[[sl.menu.main]]
+  name = "Brent Swinnen"
+  parent = "authors"
+  url = "/authors/1admin3"
+  weight = 2.3
+
+[[sl.menu.main]]
+  name = "Luca Carbone"
+  parent = "authors"
+  url = "/authors/1admin4"
+  weight = 2.4
+
+[[sl.menu.main]]
+  name = "Bojana Lobe"
+  parent = "authors"
+  url = "/authors/4clb_user10"
+  weight = 2.5
+
+[[sl.menu.main]]
+  name = "Caroline Giraudeau"
+  parent = "authors"
+  url = "/authors/4clb_user11"
+  weight = 2.6
+
+[[sl.menu.main]]
+  name = "Viri"
+  identifier = "resources"
+  url = "#"
+  weight = 3.0
+
+[[sl.menu.main]]
+  name = "Akademske rezultate"
+  parent = "resources"
+  url = "#academic_output"
+  weight = 3.1
+
+[[sl.menu.main]]
+  name = "Odprta znanost"
+  parent = "resources"
+  url = "/open_science"
+  weight = 3.2
+
+[[sl.menu.main]]
+  name = "Šole"
+  identifier = "schools"
+  url = "#"
+  weight = 4.0
+
+[[sl.menu.main]]
+  name = "Seznam sodelujočih šol"
+  parent = "schools"
+  url = "/list"
+  weight = 4.1
+
+[[sl.menu.main]]
+  name = "Medijsko pismene šole"
+  parent = "schools"
+  url = "/media_lit_schools"
+  weight = 4.2
+
+[[sl.menu.main]]
+  name = "Starši in udeleženci"
+  identifier = "parents_adolescents"
+  url = "#"
+  weight = 5.0
+
+[[sl.menu.main]]
+  name = "Za starše"
+  parent = "parents_adolescents"
+  url = "/parents"
+  weight = 5.1
+
+[[sl.menu.main]]
+  name = "Za udeležence"
+  parent = "parents_adolescents"
+  url = "/adolescents"
+  weight = 5.2
+
+[[sl.menu.main]]
+  name = "Kontakt"
+  url = "/contact"
+  weight = 6

@@ -1,123 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>/additional/</loc>
-    <lastmod>2020-08-31T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/adolescents/</loc>
-    <lastmod>2020-06-30T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/parents/</loc>
-    <lastmod>2020-06-30T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/open_science/</loc>
-    <lastmod>2020-06-30T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/list/</loc>
-    <lastmod>2020-06-30T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/contact/</loc>
-    <lastmod>2020-08-31T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-08-31T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/laura-vandenbosch/</loc>
-    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/steven-eggermont/</loc>
-    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/mimic_lv-se_2020/</loc>
-    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/theory/</loc>
-    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/data_confidentiality/</loc>
-    <lastmod>2020-05-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
-    <lastmod>2020-05-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/1admin1/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/1admin2/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/1admin3/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/1admin4/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/4clb_user10/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/4clb_user11/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>/en/sitemap.xml</loc>
+		
+	   	<lastmod>2020-12-07T00:00:00+01:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>/fr/sitemap.xml</loc>
+		
+	   	<lastmod>2020-12-07T00:00:00+01:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>/nl/sitemap.xml</loc>
+		
+	   	<lastmod>2020-12-07T00:00:00+01:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>/sl/sitemap.xml</loc>
+		
+	   	<lastmod>2020-12-07T00:00:00+01:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>

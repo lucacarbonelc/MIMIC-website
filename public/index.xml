@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>MIMIc Project</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 852317)</copyright><lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 852317)</copyright><lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>MIMIc Project</title>
@@ -13,64 +13,71 @@
     </image>
     
     <item>
-      <title>Additional information</title>
-      <link>/additional/</link>
-      <pubDate>Mon, 31 Aug 2020 00:00:00 +0100</pubDate>
-      <guid>/additional/</guid>
-      <description>&lt;h2 id=&#34;digital-literacy-training-package&#34;&gt;Digital literacy training package&lt;/h2&gt;
-&lt;p&gt;Participating schools receive at the end of the MIMIc project a digital literacy training package. This package contains a report about the research results, two digital video clips and a discussion guide.&lt;/p&gt;
+      <title>For Parents</title>
+      <link>/parents/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0100</pubDate>
+      <guid>/parents/</guid>
+      <description>&lt;p&gt;Dear sir/madam,
+We are project MIMIc. Our goal is to broaden the understanding of what it means to grow up in a digital world. “Do youth mimic the lifestyles they encounter on their social media feeds and in entertainment fiction?” is a key question in this project and refers to learning which norms and beliefs youth adopt from interacting with media.&lt;/p&gt;
+&lt;p&gt;We ask this question in hopes of helping youth, such as your child, better navigate the complexities of a digital society and make the most of their social media use. We aim to accomplish this goal by conducting three different studies amongst adolescents across Europe. Below you can find some more information on what these three studies entail. If you have any questions on the ethical measures undertaken by project MIMIc to ensure the wellbeing of every single participant, we would like to direct you to the “Adolescent” section on this website, or the digital information sheet accessible on the online platform of your child’s school.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;First, the MIMic research team will first look at media that are popular among adolescents to understand the lifestyles that are promoted on these platforms. This research will study music lyrics (for instance the lyrics of Katy Perry or Drake), TV shows (for instance the popular series 13 Reasons Why), Instagram profiles of famous influencers (for instance the Kardashian family) and the Instagram and Snapchat profiles of adolescents. By looking at the subjects that characters in popular TV series talk about, the images that influencers post online and the posts that adolescents share in their social network we learn more about the subjects adolescents are confronted with when using media.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Next, the MIMic research team will next follow a group of youngsters aged 12 to 16 years old over the course of one year to see what it’s like to grow-up in a media-filled world. Three countries (i.e., France, Slovenia and Belgium) take part in this ‘panel study’. More precisely, adolescents are asked at three different time points in 2020-2021 to answer a survey online at their home. Adolescents are invited to participate in the survey through their school. In the survey, we ask about adolescents’ media diets and how adolescents think about themselves, their peers, their body, school results and sexuality. With the answers that adolescents give to our questions we learn to understand how media interactions play a role in growing up.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lastly, the MIMIc research team will monitor adolescents, surveying them daily, for a period of 14 days near the end of 2021. The participants in this diary research will be a subset from the pool of participants from the longitudinal research. More precisely, adolescents are asked to complete a diary in the shape of a brief survey online at their home. In this diary survey, we ask about how adolescents have spent their day and in particular focus on their daily media interactions. With this study we learn to understand why on some days youth benefit from spending time with media, while on other days their media interactions seem to be rather fatiguing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>For Participants</title>
+      <link>/adolescents/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0100</pubDate>
+      <guid>/adolescents/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Collaboration&lt;/strong&gt;&lt;br&gt;
+We - at team MIMIc - want to help youngsters, such as yourself, get the most out of their media use. What this means is that we are committed to learning which elements from your media use help you or make you happy, and which don’t. In order to gain a better understanding of these things, we want to see how you and your peers use media. If you, like us, are curious about how your experience with media can be improved, maybe we can help each other out!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What do we do?&lt;/strong&gt;&lt;br&gt;
+We are organizing research across three different countries (Belgium, Slovenia and France) as part of a European project led by Prof. L. Vandenbosch. We want to gain insights into the media that you and your friends like to use (12 to 17 year-old) and the type of content you often see. Our team aims to understand how adolescents, such as yourself, interact with these messages that appear on social media, television and in popular music lyrics, both over a long period of time and on a daily basis. We would also like to know if and how you post about yourself on social media (e.g., Instagram and TikTok). More generally, we would like to learn more about the relationship between your media use and how you and your peers think about yourselves, each other, your body, your school results and the world around you.&lt;/p&gt;
+&lt;p&gt;After our research, we would provide you and your school with a report. This report would include tips &amp;amp; tricks to help you manage specific difficulties that come with media. In that way, these reports will help you reap the most benefit from using these media.&lt;/p&gt;
+&lt;p&gt;As a token of appreciation for your participation in our study, you will be given an &lt;em&gt;individual gift voucher&lt;/em&gt; (increasing in value as you participate in more parts of the study). In addition, there will also be  lotteries to win additional vouchers. The tokens of appreciation are given based on the time you invest in the research. If you decide to revoke the use of your personal data after completing the research, the vouchers will still be given.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What about data confidentiality (your privacy)?&lt;/strong&gt;&lt;br&gt;
+Confidentiality of identifying data will always be guaranteed. In other words, we promise that the information you provide us will remain private. The obtained research results will be used for scientific research only, these scientific reports will never contain any identifying information (such as your name or birth date). The data are used in agreement with the law (GDPR) and the strict rules set by KU Leuven, University of Tours, University of Ljubljana. You can find more information on the procedures and the confidentiality of the research in information brochures.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Practical information&lt;/strong&gt;&lt;br&gt;
+Our project consists of multiple studies. Find more information about each of them below.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Longitudinal Research&lt;/em&gt;&lt;br&gt;
+The Longitudinal Study is the largest study. Here, we will ask a large group (5,400) of students across Europe (Belgium, France &amp;amp; Slovenia) to participate. Taking part in this study is a requirement to be invited for any of the other studies.&lt;/p&gt;
+&lt;p&gt;If you participate in our Longitudinal Study, you will be asked to complete a survey on how you interact with the media at three different time points over the course of one year. These surveys will always be the same, because we want to see if and how your opinion on these topics evolves over time. The survey contains questions about your body, the importance of your appearance, school results, beauty ideals, sexuality, your media use (for instance social media) and how you think about your peers and the world around you.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Diary Research&lt;/em&gt;&lt;br&gt;
+The Diary Study is smaller in scope than the previous one. Here we will only ask a total of 1,000 adolescents to participate.&lt;/p&gt;
+&lt;p&gt;If you are invited to help us with the Diary Study, we will ask you to complete a brief survey at home on how you interact with the media, every evening before bed. This survey will always be the same, because we want to see how your daily experiences affect how you feel about certain things. Completing this survey will take approximately 10 minutes, and can be completed by using a computer, a phone or a tablet with internet connection. The survey contains questions about your body, the importance of your appearance, school results, beauty ideals, your media use (for instance social media) and how you think about your peers and the world around you.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Social Media Study&lt;/em&gt;&lt;br&gt;
+The final study we will organize is a social media study. Just like the Diary Study, a smaller group of 1,000 adolescents will be asked to participate.&lt;/p&gt;
+&lt;p&gt;If you are invited to participate in our Social Media Study, you will be asked to accept a friendship or follow request from a social media profile specifically designed for the current research. During the time of the data collection, the researchers will be part of your online network, similar to your other friends/followers on these networks. Next, the researchers will take screenshots to investigate the pictures, status updates and messages you post on your social media profiles. Only the researchers have access to the screenshots and will investigate them by calculating, for instance, the number of pictures on a profile before deleting these screenshots permanently.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results of the research&lt;/strong&gt;&lt;br&gt;
+If you participate in our research, you will receive a report presenting the most important results of the study every six months after the data collection has taken place. These reports will include the findings of the research, but also tips and tricks on how you can optimize your media interactions.&lt;/p&gt;
+&lt;p&gt;Thank you in advance for your cooperation, your help is greatly appreciated. Any questions? You can always 
+&lt;a href=&#34;http://www.projectmimic.eu/contact/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;contact&lt;/a&gt; the responsible researcher in your country.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Media Literate Schools</title>
+      <link>/media_lit_schools/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0100</pubDate>
+      <guid>/media_lit_schools/</guid>
+      <description>&lt;p&gt;This research is only made possible thanks to the participation of wonderful Media Literate Schools across Belgium, France &amp;amp; Slovenia. These media literate schools chose to expend considerable effort to help further the understanding of media effects on adolescents in Europe. We are thankful for their cooperation and commitment to helping adolescents gain the most out of their media use.&lt;/p&gt;
+&lt;p&gt;As token of our gratitude, these schools will receive a digital literacy training package at the end of Project MIMIc. This package will contain a report about the research results, two digital video clips and a discussion guide.&lt;/p&gt;
 &lt;p&gt;The first digital video clip is targeted at adolescents and explains the results of the research and their implications for the lives of adolescents. Schools are highly supported to motivate teachers and pupils to watch the video clip together and have a discussion about the results afterwards.&lt;/p&gt;
 &lt;p&gt;To train teachers into experienced moderators for discussions about media literacy skills, a second digital video clip is targeted at teachers and explains them the core attention points that have to be taken into account when moderating classroom discussions about the results of the research.&lt;/p&gt;
 &lt;p&gt;To organize the discussion, the discussion guide contains a detailed step-wise explanation on how a conversation can unfold and presents several subjects to discuss in class. Schools who implement the digital literacy training package in their curriculum are invited to also ask students to complete a brief survey before and after the training. This survey is analysed by the MIMIc Team and gives the school feedback on the training.&lt;/p&gt;
-&lt;h2 id=&#34;monitoring&#34;&gt;Monitoring&lt;/h2&gt;
-&lt;p&gt;As the MIMIc research project is organized across multiple years (i.e., 2020-2022) schools will receive rapid communication reports when a sub-project has ended in the research. For more information, please 
-&lt;a href=&#34;http://www.projectmimic.eu/contact/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;contact&lt;/a&gt; the responsible researcher in your country.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>For Adolescents</title>
-      <link>/adolescents/</link>
-      <pubDate>Tue, 30 Jun 2020 00:00:00 +0100</pubDate>
-      <guid>/adolescents/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Collaboration&lt;/strong&gt;&lt;br&gt;
-Team MIMIc aims to contribute to the improvement of today’s society and help you benefit the most from your media use. In order to do this, we first need to gain information on how you and your peers use media and how you react to the images you see on a daily basis. If, like us, you are curious about the effects of media use, and would like to help your generation gain the most out of their media, maybe we can help each other.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;What do we do?&lt;/strong&gt;&lt;br&gt;
-Our research is organized across three different countries (Belgium, Slovenia and France) and is part of a European project led by Prof. L. Vandenbosch. We want to gain insights into the media that you and your friends like to use (12 to 16 year-old) that regularly contain unrealistic messages relating to relationships, school success, body ideals, sexual and social success. Our team aims to understand how adolescents, such as yourself, interact with these messages that appear on social media, television and in popular music lyrics, both over a long period of time and on a daily basis. We would also like to know if and how you post about yourself on social media (e.g Instagram and TikTok). More generally, we would like to learn more about the relationship between media use and how you and your peers think about yourselves, each other, your body, school results and sexuality.&lt;/p&gt;
-&lt;p&gt;After our research, we would you and your school with a separate report. These reports would include tips &amp;amp; tricks to help you manage specific difficulties that come with social media, such as online privacy, cyberbullying… and thus allowing you to reap the most benefit from using these media.&lt;/p&gt;
-&lt;p&gt;As a token of appreciation for your participation in our study, you will be given an individual gift voucher, in addition to participations in lotteries to win additional vouchers. The tokens of appreciation are given based on your time investment in the research. If you decide to revoke the use of your personal data after completing the research, the vouchers will still be given.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;What about data confidentiality?&lt;/strong&gt;&lt;br&gt;
-Confidentiality of identifying data will always be guaranteed. The obtained research results will be used for scientific research only, these scientific reports will never contain any identifying information (such as your name or birth date). The data are used in agreement with the law (GDPR) and the strict KU Leuven, University De Tours, University of Ljubljana rules. You can find more information on the procedures and the confidentiality of the research in information brochures. All this information will also be explained orally to you when we visit the school to invite them to participate in our research.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Practical information&lt;/strong&gt;&lt;br&gt;
-Our project consists of multiple studies. Find more information about each of them below.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;In-depth interviewes Research&lt;/em&gt;&lt;br&gt;
-XXXX&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Longitudinal Research&lt;/em&gt;&lt;br&gt;
-If you participate in our Longitudinal Study, they will be asked to complete a questionnaire on how they interact with media at four different time points over the course of two years. These questionnaires will always be the same, because we want to see how your opinion on these topics evolves over time. The questionnaire contains questions about your body, the importance of your appearance, school results, beauty ideals, sexuality, your media use (for instance social media) and how you think about their peers.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Diary Research&lt;/em&gt;&lt;br&gt;
-The Diary Research study will ask you to complete a brief questionnaire at home on how you interact with media, every evening before bed. This questionnaire will always be the same, because we want to see how your opinion changes depending on your daily experiences. Answering this questionnaire will take approximately 10 minutes, and can be completed by using a computer, a phone or a tablet with internet connection. The questionnaire contains questions about your body, the importance of your appearance, school results, beauty ideals, sexuality, your media use (for instance social media) and how you think about their peers.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Content Analytical Research&lt;/em&gt;&lt;br&gt;
-A Content Analytical Study is research conducted on your social media profile. If you are invited to take part in this study, you will be asked to accept a friendship or follow request from a social media profile specifically designed for the current research. During the time of the data collection, the researchers will be part of your online network. Next, the researchers will take screenshots to investigate the pictures, status updates and messages posted on your social media profiles. Only the researchers have access to the screenshots and will investigate them by calculating, for instance, the number of pictures on a profile, before deleting these screenshots permanently.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Results of the research&lt;/strong&gt;&lt;br&gt;
-If you participate in our research, you will receive a report presenting the most important results of the study every six months after the data collection has taken place. These reports will include the findings of the research, but also tips and tricks on how you can optimize your media interactions&lt;br&gt;
-Thank you in advance for your cooperation, your help is greatly appreciated.
-Any questions? You can always 
-&lt;a href=&#34;http://www.projectmimic.eu/contact/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;contact&lt;/a&gt; the responsible researcher in your country.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>For Parents</title>
-      <link>/parents/</link>
-      <pubDate>Tue, 30 Jun 2020 00:00:00 +0100</pubDate>
-      <guid>/parents/</guid>
-      <description>&lt;p&gt;The MIMIc Research
-The goal of the MIMIc research is to increase our understandings of what it means to grow up in a digital world. “Do youth mimic the lifestyles hey encounter at their social media walls and in entertainment fiction?” is a key question in the study and refers to learning which norms and beliefs youth adopt from interacting with media. The question is answered through three studies in which an adolescent can participate.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;The MIMic research team will first look at media that are popular among adolescents to understand the lifestyles that are promoted in these platforms. This research will study music lyrics (for instance the lyrics of Katy Perry or Drake), TV shows (for instance the popular series 13 Reasons Why), Instagram profiles of famous influencers (for instance the Kardashian family) and the Instagram and Snapchat profiles of adolescents. By looking at the subjects that characters in popular TV series talk about, the images that influencers post online and the posts that adolescents share in their social network we learn more about the subjects adolescents are confronted with when using media.&lt;/li&gt;
-&lt;li&gt;The MIMic research team will next follow a group of youngsters aged 12 to 16 years old over the course of 1.5 years to see how grow-up in a mediated world. Three countries (i.e., France, Slovenia and Belgium) take part in the panel study. More precisely, adolescents are asked at three different time points in 2020-2021 to answer a survey online at their home. Adolescents are invited to participate in the survey through their school. In the survey, we ask about adolescents’ media diets and how adolescents think about themselves, their peers, their body, school results and sexuality. With the answers that adolescents give to our questions we learn to understand how media interactions play a role in growing up.&lt;/li&gt;
-&lt;li&gt;The MIMic research team will lastly monitor youth to survey them on a day-to-day basis what the daily interactions with social media and popular TV shows mean. Part of the youngsters who participate in the longitudinal study are also invited in this diary study in 2021-2022. More precisely, adolescents are asked to complete a diary in the shape of a brief survey online at their home during 14 days. In this diary survey, we ask about how adolescents have spent their day and in particular focus on their daily media interactions. With this study we learn to understand why on some days youth benefit from spending time with media, while on other days their media interactions seem to be rather fatiguing.&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;As such, schools that participate in Project MIMIc and make use of the digital literacy training package provided, can truly consider themselves a &lt;em&gt;Media Literate School&lt;/em&gt;. Fully equipped to help students navigate the complexities of an increasingly digital society.&lt;/p&gt;
+&lt;p&gt;To find a list of these helpful Media Literate Schools, 
+&lt;a href=&#34;http://www.projectmimic.eu/list/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;click here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -165,7 +172,7 @@ Questions regarding the approved ethical guidelines can be emailed to:&lt;/p&gt;
       <pubDate>Fri, 01 May 2020 00:00:00 +0100</pubDate>
       <guid>/data_confidentiality/</guid>
       <description>&lt;p&gt;The MIMIc research has been approved by the ethical committees of the KU Leuven, U of Tours and U of Ljubljana. An ethical board monitors the ethical guidelines in the project. Confidentiality of identifying data is guaranteed. The obtained research results will be used for scientific research only, these scientific reports will never contain any identifying information (such as your child’s name or birth date). The data are used in agreement with the law (GDPR) and the strict KU Leuven, University De Tours, University of Ljubljana rules. Parents and participating adolescents can find more information on the procedures and the confidentiality of the research in information brochures. Adolescents can only participate in the research after parental approval. For more information, please 
-&lt;a href=&#34;http://www.projectmimic.eu/contact/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;contact&lt;/a&gt; the responsible researcher in your country.”&lt;/p&gt;
+&lt;a href=&#34;http://www.projectmimic.eu/en/contact/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;contact&lt;/a&gt; the responsible researcher in your country.&lt;/p&gt;
 </description>
     </item>
     

@@ -19,24 +19,31 @@ date_format = "02 Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Diary research"
+  date_start = "2023-01-01"
+
+[[experience]]
   title = "Online survey (longitudinal)"
-  date_start = "2020-01-01"
-  description = "xxxx"
+  date_start = "2022-01-01"
+  description = "Wave 3"
+
+[[experience]]
+  title = "Online survey (longitudinal)"
+  date_start = "2021-09-01"
+  description = "Wave 2"
+
+[[experience]]
+  title = "Online survey (longitudinal)"
+  date_start = "2021-05-01"
+  description = "Wave 1 and gathering of screenshots of social media profiles"
 
 [[experience]]
   title = "Online survey (pilot)"
-  date_start = "2020-01-01"
-  description = "xxxx"
+  date_start = "2021-02-01"
 
 [[experience]]
   title = "Online in-depth interviews (pilot)"
-  date_start = "2020-01-01"
-  description = "xxxx"
-
-[[experience]]
-  title = "Content analytical studies"
-  date_start = "2020-01-01"
-  description = "xxxx"
+  date_start = "2020-12-01"
 
 [[experience]]
   title = "Creation R functions to match music chords with lyrics"

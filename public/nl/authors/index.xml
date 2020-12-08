@@ -5,7 +5,7 @@
     <link>/nl/authors/</link>
       <atom:link href="/nl/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>nl</language><copyright>This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 852317)</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>nl</language><copyright>This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 852317)</copyright><lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -13,57 +13,81 @@
     </image>
     
     <item>
-      <title>admin</title>
-      <link>/nl/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/nl/authors/admin/</guid>
+      <title>Laura Vandenbosch</title>
+      <link>/nl/authors/laura-vandenbosch/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/nl/authors/laura-vandenbosch/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>/nl/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/nl/authors/robert-ford/</guid>
+      <title>Steven Eggermont</title>
+      <link>/nl/authors/steven-eggermont/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/nl/authors/steven-eggermont/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/nl/authors/admin1/</link>
+      <link>/nl/authors/1admin1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/nl/authors/admin1/</guid>
-      <description>&lt;p&gt;Laura Vandenbosch is sinds 2017 een docent aan de School voor Massacommunicatie-Research (BOF-ZAP onderzoeksprofessor fonds). De relatie tussen media en welzijn is een centraal thema  binnen haar onderzoek, leidende tot internationale publicaties in verschillende onderzoeksvelden zoals ontwikkelingspsychologie, seksuologie, lichaamsbeeld, sociale relaties en communicatietheorie.&lt;/p&gt;
-&lt;p&gt;In 2015 is ze verkozen als secretaris van de Kinderen, Adolescenten en Media Afdeling van de Internationale Communicatie Vereniging (ICA 2015-2018). Laura zetelt ook bij de redactieraad van ISI-gerankte tijdschriften Human Communication Research, Journal of Children and Media, en Communications: The European Journal of Communication Research.
-Momenteel is ze betrokken in verschillende (internationale) onderzoeksprojecten gericht op het onderzoeken van de invloed die media kan hebben op welzijn met een focus op factoren die nog niet goed begrepen zijn, zoals de rol van sociale relaties, culturele achtergrond, seksualisering, media geletterdheid en maakbaarheidsidealen. Een deel van deze projecten zijn gelinkt aan het internationale netwerk dat ze doorheen de jaren heeft opgebouwd door periodes in het buitenland door te brengen waaronder, de Universiteit van Michigan, De Universiteit van Toronto, en de Universiteit van Wenen. Haar werk heeft tot verschillende prijzen geleid, zoals de Top Paper, Top Artikel en Top Thesis prijzen van de Kinderen, Adolescenten en Media (CAM) divisie van de Internationale Communicatie Associatie (2013-2016) en de Prijs Onderzoeksraad in de Menswetenschappen (2016).&lt;/p&gt;
-&lt;p&gt;In 2019, heeft ze de ERC starting grant (Europese OnderzoeksCommisie startfonds), voor het project &amp;ldquo;Malleability in Mediated Ideals: A paradigm to understand effects of contemporary media in adolescents&amp;rsquo; well-being&amp;rdquo; (Maakbaarheid in gemedieerde idealen: Een paradigma om de effecten van hedendaagse media op adolescentenwelzijn.)&lt;/p&gt;
+      <guid>/nl/authors/1admin1/</guid>
+      <description>
+
+
+&lt;p&gt;Laura Vandenbosch is sinds 2017 universitair docent aan de School for Mass Communication Research (BOF-ZAP Research Professororship Grant). De relatie tussen media en welzijn is het kernonderwerp van haar onderzoek en heeft geleid tot internationale publicaties op verschillende gebieden, waaronder ontwikkelingspsychologie, seksuologie, lichaamsbeeld, sociale relaties en communicatietheorie.&lt;/p&gt;
+&lt;p&gt;In 2015 werd ze verkozen tot secretaris van de afdeling Kinderen, Adolescenten en Media van de International Communication Association (2015-2018). Laura is momenteel ook redactielid van ISI-gerangschikte tijdschriften Human Communication Research, Journal of Children and Media en Communications: The European Journal of Communication Research.&lt;/p&gt;
+&lt;p&gt;Momenteel is ze betrokken bij verschillende (internationale) onderzoeksprojecten om te onderzoeken hoe media het welzijn kunnen beïnvloeden door zich te concentreren op factoren die niet goed zijn begrepen, zoals de rol van sociale relaties, culturele achtergrond, seksualisering, mediageletterdheid en maakbaarheid. overtuigingen. Een deel van deze projecten is ingebed in het internationale netwerk dat ze door de jaren heen heeft opgebouwd door periodes in het buitenland door te brengen, bijvoorbeeld in de U van Michigan, de U van Toronto en de U van Wenen. Haar werk heeft geleid tot verschillende prijzen, zoals de Top Paper, Top Article en Top Dissertation Awards van de Children, Adolescents and Media (CAM) Division van de International Communication Association (2013-2016) en de Research Council Award in the Humanities (Prijs Onderzoeksraad, 2016).&lt;/p&gt;
+&lt;p&gt;In 2019 ontving ze een ERC-startsubsidie voor het project ‘Smeedbaarheid in gemedieerde idealen: een paradigma om de effecten van hedendaagse media op het welzijn van adolescenten te begrijpen’.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/nl/authors/admin2/</link>
+      <link>/nl/authors/1admin2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/nl/authors/admin2/</guid>
-      <description>&lt;p&gt;Anaëlle Gonzalez is een PhD student aan de School voor MassaCommunicatie-Research (KU Leuven) onder toezicht van Professor Laura Vandenbosch, haar PhD project focust op het Mediadieet van Adolescenten, het individualistisch discours, en Politieke overtuigingen en activisme. Het is deel van het grotere ERC startfonds met betrekking tot Maakbare Gemedieerde Idealen en welzijn bij adolescenten. Dit project hanteert een multidisciplinaire aanpak waarbij het communicatiewetenschappen, culturele sociologie en psychologie combineert.&lt;/p&gt;
+      <guid>/nl/authors/1admin2/</guid>
+      <description>&lt;p&gt;Anaëlle Gonzalez is een doctoraatsstudente aan de Leuvense School voor Massacommunicatieonderzoek (KU Leuven) onder supervisie van professor Laura Vandenbosch. Haar PhD-project richt zich op de mediadiëten van adolescenten, het individualistische discours en politieke overtuigingen en participatie. Het maakt deel uit van de grotere ERC-startsubsidie voor Malleable Mediated Ideals en het welzijn van adolescenten. Dit project gebruikt een multidisciplinaire aanpak omdat het communicatiewetenschap, culturele sociologie en psychologie combineert.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/nl/authors/admin3/</link>
+      <link>/nl/authors/1admin3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/nl/authors/admin3/</guid>
-      <description>&lt;p&gt;Brent Swinnen is een PhD student aan de School voor Massacommunicatie-Research. Hij werkt onder toezicht van Professor Laura Vandenbosch aan het ERC-gefundeerde project: Malleability in Mediated Ideals: A paradigm to understand effects of contemporary media in adolescents&amp;rsquo; well-being. (Maakbaarheid in gemedieerde idealen: Een paradigma om de effecten van hedendaagse media op adolescentenwelzijn.) Zijn PhD project betreft specifiek de concepten van maakbaarheid, prestatiedruk en welzijn bij adolescenten.&lt;/p&gt;
+      <guid>/nl/authors/1admin3/</guid>
+      <description>&lt;p&gt;Brent Swinnen is een doctoraatsstudent aan de Leuvense School voor Massacommunicatie. Momenteel werkt hij onder supervisie van professor Laura Vandenbosch aan het door de ERC gefinancierde project: &amp;lsquo;Smeedbaarheid in gemedieerde idealen: een paradigma om de effecten van hedendaagse media op het welzijn van adolescenten te begrijpen&amp;rsquo;. Zijn doctoraatsproject heeft specifiek betrekking op de noties van maakbaarheid, prestatiedruk en welzijn bij adolescenten.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/nl/authors/admin4/</link>
+      <link>/nl/authors/1admin4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/nl/authors/admin4/</guid>
-      <description>&lt;p&gt;Ik ben een PhD kandidaat bij de School voor MassaCommunicatie-Research (KU Leuven, Belgi?). Mijn onderzoeksinteresses liggen bij de samenloop tussen media-effecten, en culturele en cognitieve sociologie. Ik maak gebruik van dual-process modellen van cognitie om te onderzoeken hoe media de percepties van ongelijkheid tussen gender, klasse, en ras be?nvloedt en het enculturatieprocess achter deze invloed te begrijpen.&lt;/p&gt;
+      <guid>/nl/authors/1admin4/</guid>
+      <description>&lt;p&gt;Ik ben een doctoraatsstudent aan de School voor Massacommunicatieonderzoek, KU Leuven (BE). Mijn onderzoeksinteresses liggen op het snijvlak van culturele en cognitieve sociologie, media-effectenonderzoek en de studie van ongelijkheden.
+Vanuit een theoretisch oogpunt bestudeer ik hoe socialisatieprocessen onder adolescenten de vorming van hun opvattingen over ongelijkheden kunnen beïnvloeden. Op basis van de culturele sociologie bestudeer ik hoe de sociaal gestratificeerde toegang tot en betrokkenheid bij prestigieuze symbolische goederen (d.w.z. muziekgenres) zou kunnen werken als een vorm van culturele differentiatie. Op basis van de literatuur over media-effecten bestudeer ik hoe muziek de sociale status weergeeft en de mogelijke routes waarlangs deze afbeeldingen de overtuigingen van adolescenten beïnvloeden.
+Empirisch gebruik ik kwantitatieve methoden, zoals sociale netwerkanalyse, structurele vergelijkingsmodellering en computationele tekstanalyse. Ik zet me in voor een open science framework en mindset.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/nl/authors/4clb_user10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/nl/authors/4clb_user10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/nl/authors/4clb_user11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/nl/authors/4clb_user11/</guid>
+      <description>&lt;p&gt;Caroline Giraudeau is docent aan de afdeling Psychologie (Universiteit van Tours, Frankrijk). Ze is geïnteresseerd in de relaties tussen adolescenten en jongvolwassenen en hun grootouders, en meer in het bijzonder in de emotionele verbondenheid tussen hen.&lt;/p&gt;
+&lt;p&gt;Momenteel is ze betrokken bij verschillende (internationale) onderzoeksprojecten naar leerling-leraar relaties (met de Universiteit van Kentucky), een multinationale studie naar emotionele eigenschappen en relationele en psychologische gezondheid (bijv. Stress, depressie, zelfrespect) (met de Universiteit van Arizona), en een interculturele studie naar de relaties en verwachtingen van grootouders en jongvolwassenen (met Penn State Hazleton University).&lt;/p&gt;
+&lt;p&gt;Ze heeft twee interesses in het MIMIc-project met betrekking tot de Franse deelnemers: welke foto&amp;rsquo;s en teksten delen tieners over hun grootouders op sociale netwerken? Vriendschap tijdens de adolescentie in sociale netwerken: welke ervaring (en) van emotionele nabijheid hebben Franse adolescenten met hun leeftijdsgenoten en met beroemdheden?&lt;/p&gt;
 </description>
     </item>
     

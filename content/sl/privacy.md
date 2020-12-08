@@ -7,28 +7,28 @@ header:
   caption: ""
   image: ""
 share: false
-title: Privacy Policy
+title: Politika zasebnosti
 ---
 
-This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
-We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
+Ta stran vas obvešča o naših politikah glede zbiranja, uporabe in razkritja osebnih podatkov, ki jih prejmemo od uporabnikov spletnega mesta.
+Vaše osebne podatke uporabljamo samo za zagotavljanje in izboljšanje spletnega mesta. Z uporabo spletnega mesta se strinjate z zbiranjem in uporabo informacij v skladu s to politiko.
 
-**Information Collection And Use**<br/>
-This website does not require you to identify yourself. The only personal information collected while you visit this site is non-identifying information, such as browser type and operating system. This information is collected by Google Analytics for measuring visitor traffic to this site.
+**Zbiranje in uporaba informacij** <br/>
+To spletno mesto ne zahteva, da se identificirate. Edini osebni podatki, zbrani med obiskom tega spletnega mesta, so podatki, ki ne omogočajo identifikacije, na primer vrsta brskalnika in operacijski sistem. Te podatke zbira Google Analytics za merjenje obiska obiskovalcev te strani.
 
-We do not collect this information and have no access to it other than as aggregated reports. [Here](https://policies.google.com/technologies/partner-sites) is the Google Analytics privacy page. In order to anonymize this process, we have set the Hugo GDPR options so that your IP address is anonymised within Google Analytics and the “Do Not Track” request is respected.
+Teh podatkov ne zbiramo in do njih nimamo dostopa, razen kot zbirna poročila. [Tukaj](https://policies.google.com/technologies/partner-sites) je stran o zasebnosti storitve Google Analytics. Da bi ta postopek anonimizirali, smo nastavili možnosti Hugo GDPR, tako da je vaš naslov IP anonimiziran v storitvi Google Analytics in je upoštevana zahteva »Ne sledi«.
 
-For each visitor to reach the site, Google Analytics collects the following non-personally identifiable information, including but not limited to browser type, version and language, operating system, pages viewed while browsing the site, page access times and referring website address. This information is presented to us as aggregated reports for the purpose of gauging visitor traffic and trends.
+Za vsakega obiskovalca, ki pride na spletno mesto, Google Analytics zbere naslednje podatke, ki ne omogočajo osebne identifikacije, vključno z, vendar ne omejeno na vrsto brskalnika, različico in jezikom, operacijskim sistemom, stranmi, ogledanimi med brskanjem po spletnem mestu, časom dostopa do strani in naslovom referenčnega spletnega mesta. Te informacije so nam predstavljene kot zbirna poročila za merjenje prometa in trendov obiskovalcev.
 
-**Cookies**<br/>
-This information is collected via cookies. Most web browsers allow you to control handling of cookies. It is possible to disable all cookies for this website without in any way reducing the functionality for the user.
+**Piškotki** <br/>
+Ti podatki se zbirajo s pomočjo piškotkov. Večina spletnih brskalnikov omogoča nadzor nad ravnanjem s piškotki. Vse piškotke na tej spletni strani lahko onemogočite, ne da bi na kakršen koli način zmanjšali funkcionalnost uporabnika.
 
-To learn more about cookies, please refer to this [website](https://www.cookiesandyou.com).
+Če želite izvedeti več o piškotkih, obiščite to [spletno mesto](https://www.cookiesandyou.com).
 
-**Changes To This Privacy Policy**<br/>
-This Privacy Policy is effective as of 01 May 2020 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+**Spremembe tega pravilnika o zasebnosti** <br/>
+Ta pravilnik o zasebnosti velja od 1. maja 2020 in bo veljal, razen v zvezi s spremembami določb v prihodnosti, ki bodo veljale takoj po objavi na tej strani.
 
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+Pridržujemo si pravico, da kadar koli posodobimo ali spremenimo našo Politiko zasebnosti, zato jo morate redno preverjati. Vaša nadaljnja uporaba storitve, potem ko bomo na tej strani objavili kakršne koli spremembe pravilnika o zasebnosti, pomeni, da potrjujete spremembe in soglašate s tem, da spoštujete in spreminjate pravilnik o zasebnosti.
 
-**Contact Us**<br/>
-If you have any questions about this Privacy Policy, please contact us.
+**Pišite nam** <br/>
+Če imate kakršna koli vprašanja o tej politiki zasebnosti, se obrnite na nas.

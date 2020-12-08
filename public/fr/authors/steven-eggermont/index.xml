@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steven Eggermont | MIMIc</title>
+    <link>/fr/authors/steven-eggermont/</link>
+      <atom:link href="/fr/authors/steven-eggermont/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steven Eggermont</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><copyright>This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 852317)</copyright><lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Steven Eggermont</title>
+      <link>/fr/authors/steven-eggermont/</link>
+    </image>
+    
+    <item>
+      <title>The Malleability Narrative in Entertainment and Social Media. Explaining Pathways to Happiness in Media Content.</title>
+      <link>/fr/publication/mimic_lv-se_2020/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/fr/publication/mimic_lv-se_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

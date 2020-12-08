@@ -4,23 +4,23 @@ authors:
 bio:
 education:
   courses:
-  - course: PhD in Communication Science
+  - course: PhD iz komunikologije
     institution: Katholieke Universiteit Leuven
     year: 2013
 email: ""
 interests:
-- Media psychology
-- Adolescents
-- Emerging adulthood
-- Well-being
-- Sexual maturation 
-- Media literacy
-- Malleability
+- Medijska psihologija
+- mladostniki
+- Nova odraslost
+- Dobro počutje
+- Spolno zorenje
+- Medijska pismenost
+- Prožnost
 name: Laura Vandenbosch
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00060068"
-role: Assistant professor at the School for Mass Communication Research
+role: Docent na Šoli za raziskovanje množičnih komunikacij
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,14 +39,10 @@ user_groups:
 - Team
 ---
 
-Starting from 2017, Laura Vandenbosch is an assistant professor at the School for Mass Communication Research (BOF-ZAP research professorship grant). The relationship between media and well-being is the core subject of her research, leading to international publications in several fields including developmental psychology, sexology, body image, social relationships and communication theory.
+Od leta 2017 je Laura Vandenbosch docentka na Šoli za raziskave množičnih komunikacij (dotacija za raziskovalno profesorstvo BOF-ZAP). Odnos med mediji in blaginjo je osrednja tema njenih raziskav, ki vodijo do mednarodnih publikacij na več področjih, vključno z razvojno psihologijo, seksologijo, podobo telesa, socialnimi odnosi in teorijo komunikacije.
 
-In 2015 she was elected as the secretary of the Children, Adolescents and Media Division of the International Communication Association (2015-2018). Laura is currently also an editorial board member of ISI-ranked journals Human Communication Research, Journal of Children and Media, and Communications: The European Journal of Communication Research.
+Leta 2015 je bila izvoljena za sekretarko oddelka za otroke, mladostnike in medije Mednarodnega združenja za komuniciranje (2015-2018). Laura je trenutno tudi članica uredništva revij Human Communication Research, Journal of Children and Media in Communications: The European Journal of Communication Research, ki jih uvršča ISI.
 
-Currently, she is involved in several (international) research projects aimed to study how media may affect well-being by focusing on factors that have not been understood well, such as the role of social relationships, cultural background, sexualization, media literacy and malleability beliefs. Part of these projects are embedded within the international network she has built throughout the years by spending periods abroad at, for instance, the U of Michigan, the U of Toronto and the U of Vienna. Her work has led to several awards, such as the Top Paper, Top Article and Top Dissertation Awards from the Children, Adolescents and Media (CAM) Division of the International Communication Association (2013-2016) and the Research Council Award in the Humanities (Prijs Onderzoeksraad, 2016).
+Trenutno sodeluje pri več (mednarodnih) raziskovalnih projektih, katerih namen je preučiti, kako lahko mediji vplivajo na dobro počutje, tako da se osredotoča na dejavnike, ki niso bili dobro razumljeni, kot so vloga družbenih odnosov, kulturno ozadje, seksualizacija, medijska pismenost in voljnost. prepričanj. Del teh projektov je vključenih v mednarodno mrežo, ki jo je gradila skozi leta, tako da je preživela obdobja v tujini, na primer v zvezni državi Michigan, univerzi Toronto in univerzi Dunaj. Njeno delo je privedlo do številnih nagrad, kot so nagrade za najboljši članek, najboljši članek in najboljšo disertacijo oddelka za otroke, mladostnike in medije (CAM) Mednarodnega združenja za komuniciranje (2013–2016) in nagrado Raziskovalnega sveta za humanistiko ( Prijs Onderzoeksraad, 2016).
 
-In 2019, she received an ERC starting grant for the project “Malleability in mediated ideals: A paradigm to understand effects of contemporary media in adolescents’ well-being.”
-
-<video width="320" height="240" controls>
-  <source src="LV.mp4" type="video/mp4">
-</video>
+Leta 2019 je prejela začetno štipendijo ERC za projekt „Gibnost v posredovanih idealih: paradigma za razumevanje učinkov sodobnih medijev na dobro počutje mladostnikov.“

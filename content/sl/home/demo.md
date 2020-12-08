@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Malleability in Mediated Ideals"
+title = "Gibnost v posredovanih idealih"
 subtitle = ""
 
 [design]
@@ -50,7 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-Project MIMIc: A project to understand the role of media in boys’ and girls’ lives anno 2020-2025
+Projekt MIMIc: projekt za razumevanje vloge medijev v življenju dečkov in deklet v obdobju 2020–2025
 
-“Do youth mimic the lifestyles they encounter at their social media walls and in entertainment fiction?” is at the core of the research that the MIMIc team conducts in Belgium, France and Slovenia across 4,500 adolescents. The project is targeted at learning how youth enrich their lives with the affordances offered by the rich digital media landscape they grow up. Moreover, we would like to find out how youth think and feel about being online all the time and processing an unlimited stream of information on how other peers at social media or in popular television shows and movies organize their lives. To build this knowledge, project MIMIc takes up a multi-method design meaning we will (1) look at the social media profiles of youth and the celebrities and influencers who are popular among youth, (2) follow a group of youngsters aged 12 to 16 years old over the course of 1.5 years to see how grow-up in a mediated world and (3) monitor youth to survey them on a day-to-day basis what the daily interactions with social media and popular TV shows mean.
-[READ more about the research in the parents and participants’ section](http://www.projectmimic.eu/parents/).
+"Ali mladi posnemajo način življenja, s katerim se srečujejo na svojih virih v družabnih omrežjih in v zabavni fantastiki?" je jedro raziskave, ki jo je izvedla ekipa MIMIc v Belgiji, Franciji in Sloveniji med 4.500 mladostniki. Projekt se želi naučiti, kako mladi bogatijo svoje življenje z ugodnostmi, ki jih ponuja bogata digitalna medijska pokrajina, v kateri odraščajo. Poleg tega si prizadevamo za boljše razumevanje tega, kako mladi mislijo in občutijo, da so ves čas na spletu, nenehno izpostavljeni neomejenemu toku informacij o tem, kako vrstniki organizirajo svoje življenje v družabnih medijih, v priljubljenih televizijskih oddajah ali v filmih. Za izgradnjo tega znanja projekt MIMIc prevzame večmetodno zasnovo, kar pomeni, da bomo: (1) pogledali profile mladih v družabnih omrežjih in med mladimi priljubljene zvezdnike in vplivneže, (2) spremljali skupino mladih, starih 12 let. do 16 let v 1,5 letih, da vidijo, kako odraščajo v posredovanem svetu, in (3) spremljajo mlade z dnevnimi raziskavami, da bi bolje razumeli, kaj vključujejo njihove vsakodnevne interakcije z družabnimi mediji in priljubljenimi TV oddajami . [PREBERITE več o raziskavi v oddelku za starše in udeležence](http://www.projectmimic.eu/sl/parents/).

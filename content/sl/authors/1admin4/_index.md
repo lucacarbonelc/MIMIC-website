@@ -4,26 +4,27 @@ authors:
 bio: 
 education:
   courses:
-  - course: PhD candidate in Communication Science
+  - course: PhD iz komunikologije
     institution: KU Leuven school for Mass Communication
-    year: 2019 - in progress
-  - course: Research MSc in Sociology
+    year: 2019 - prisoten
+  - course: Raziskujte MSc iz sociologije
     institution: Tilburg University
     year: 2017 - 2019
-  - course: BSc in Sociology
+  - course: BSc iz sociologiji
     institution: University of Trento
     year: 2014 - 2017
 email: "lucacarbone.lc@gmail.com"
 interests:
-- Cultural & Cognitive Sociology
-- Media
-- Social Inequalities
-- Methods & Open Science
+- Kulturna in kognitivna sociologija
+- Glasba
+- Meritokracija
+- Socialne neenakosti
+- Metode in odprta znanost
 name: Luca Carbone
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00135858"
-role: PhD student
+role: PhD študent
 social:
 - icon: envelope
   icon_pack: fa
@@ -40,15 +41,11 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/lucacarbone__lc
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/lucacarbone.lc/
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/profile.php?id=100004409205191
 superuser: true
 user_groups:
 - Team
 ---
 
-I am a PhD student at the School for Mass Communication Research, KU Leuven (BE). My research interests lie at the intersection of media effects, cultural and cognitive sociology. From a theoretical point of view, I study the process of belief formation from an embodied perspective, with particular attention to information encoding and storage of multisensory and linguistic stimuli. I apply this reasoning to the specific case of social inequalities and media framing effects: How do individuals form beliefs about poverty? What relationships between their own and others' social class? What role do media have in the formation and internalization of these beliefs? Empirically, I employ quantitative methodologies, such as social network analysis, structural equation modelling, and computational text analysis. I am committed to an open science framework and mindset.
+Sem doktorski študent na Šoli za raziskovanje množičnih komunikacij, KU Leuven (BE). Moja raziskovalna zanimanja ležijo na stičišču kulturne in kognitivne sociologije, raziskav medijskih učinkov in preučevanja neenakosti.
+S teoretičnega vidika preučujem, kako lahko socializacijski procesi med mladostniki oblikujejo oblikovanje njihovega prepričanja o neenakostih. Izhajajoč iz kulturne sociologije preučujem, kako bi lahko družbeno stratificirani dostop in sodelovanje s prestižnimi simbolnimi dobrinami (tj. Glasbenimi zvrstmi) delovali kot oblika kulturne diferenciacije. Na podlagi literature o medijskih učinkih preučujem, kako glasba prikazuje družbeni status in možne poti, po katerih ti prikazi vplivajo na prepričanja mladostnikov.
+Empirično uporabljam kvantitativne metodologije, kot so analiza socialnih omrežij, modeliranje strukturnih enačb in računska analiza besedila. Zavzemam se za odprt znanstveni okvir in miselnost.

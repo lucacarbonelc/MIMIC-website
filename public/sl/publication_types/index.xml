@@ -5,7 +5,7 @@
     <link>/sl/publication_types/</link>
       <atom:link href="/sl/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>sl</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>sl</language><copyright>This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 852317)</copyright><lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publication_types</title>
@@ -13,26 +13,10 @@
     </image>
     
     <item>
-      <title>3</title>
-      <link>/sl/publication_types/3/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/sl/publication_types/3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>2</title>
       <link>/sl/publication_types/2/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/sl/publication_types/2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>1</title>
-      <link>/sl/publication_types/1/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/sl/publication_types/1/</guid>
       <description></description>
     </item>
     

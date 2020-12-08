@@ -4,27 +4,27 @@ authors:
 bio: 
 education:
   courses:
-  - course: PhD in Psychology
+  - course: PhD iz psihologije
     institution: University of Nantes (France)
     year: 2000
 email:
 interests:
-- Adolescents
-- Emerging adulthood
-- Well-being
-- Grandparenting
-- Emotional Closeness
+- Mladostniki
+- Nova odraslost
+- Dobro počutje
+- Stari starši
+- Čustvena bližina
 name: Caroline Giraudeau
 organizations:
-role: Developmental and aging psychology (U of Tours, FR)
+role: Psihologija razvoja in staranja (U of Tours, FR)
 social:
 superuser: true
 user_groups:
 - International collaborators
 ---
 
-Caroline Giraudeau is a lecturer at the Department of Psychology (University of Tours, France). She is interested in the relationships between adolescents and young adults and their grandparents, and more particularly in the emotional closeness between them.
+Caroline Giraudeau je predavateljica na Oddelku za psihologijo (University of Tours, Francija). Zanimajo jo odnosi med mladostniki in mladostniki ter njihovimi starimi starši in še posebej čustvena bližina med njimi.
 
-Currently, she is involved in several (international) research projects on student-teacher relationships (with the University of Kentucky), a multinational study on emotional traits and relational and psychological health (e.g., stress, depression, self-esteem) (with the University of Arizona), and a cross-cultural study on the relationships and expectations of grandparents and young adults (with Penn State Hazleton University).
+Trenutno sodeluje v več (mednarodnih) raziskovalnih projektih o odnosih med študentom in učiteljem (z Univerzo v Kentuckyju), multinacionalni študiji o čustvenih lastnostih in relacijskem ter psihološkem zdravju (npr. Stres, depresija, samopodoba) (z Univerza v Arizoni) in medkulturna študija o odnosih in pričakovanjih starih staršev in mlajših odraslih (z Penn State Hazleton University).
 
-She has two interests in the MIMIc project concerning the French participants: What photos and texts do teenagers share about their grandparents in social networks? Friendship during adolescence in social networks: What experience(s) of emotional closeness do French adolescents have with their peers and with celebrities?
+V projektu MIMIc jo zanima dva francoska udeleženca: Katere fotografije in besedila najstniki delijo o svojih starih starših v družabnih omrežjih? Prijateljstvo med mladostništvom v družbenih omrežjih: Kakšne izkušnje čustvene bližine imajo francoski mladostniki s svojimi vrstniki in zvezdniki?

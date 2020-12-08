@@ -81,13 +81,13 @@
   weight = 4.1
 
 [[main]]
-  name = "Additional information"
+  name = "Media Literate Schools"
   parent = "schools"
-  url = "/additional"
+  url = "/media_lit_schools"
   weight = 4.2
 
 [[main]]
-  name = "Parent and Adolescents"
+  name = "Parents and Participants"
   identifier = "parents_adolescents"
   url = "#"
   weight = 5.0
@@ -99,7 +99,7 @@
   weight = 5.1
 
 [[main]]
-  name = "For Adolescents"
+  name = "For Participants"
   parent = "parents_adolescents"
   url = "/adolescents"
   weight = 5.2

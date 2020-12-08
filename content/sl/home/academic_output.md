@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Academic Output"
+title = "Akademske rezultate"
 subtitle = ""
 date = "2020-06-30T00:00:00+01:00"
 lastmod = [":fileModTime", ":default"]
@@ -69,5 +69,5 @@ lastmod = [":fileModTime", ":default"]
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+Hitro odkrivanje ustrezne vsebine s [filtriranjem publikacij]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}

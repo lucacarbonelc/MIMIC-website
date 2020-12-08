@@ -4,28 +4,28 @@ authors:
 bio:
 education:
   courses:
-  - course: PhD in Communication Science
+  - course: PhD iz komunikologije
     institution: Katholieke Universiteit Leuven
-    year: 2020 - present
-  - course: MSc in Political Psychology of International Relations
+    year: 2020 - prisoten
+  - course: MSc iz politični psihologiji mednarodnih odnosov
     institution: University of Birmingham, UK
     year: 2018-2019
-  - course: BSc in Psychology
+  - course: BSc iz Psihologija
     institution: University of Tours, France and University of Calgary, Canada
     year: 2015-2018
 email: ""
 interests:
-- Political Psychology
-- Anti-science, fake-news and conspiracy theories
-- Media psychology
-- Early political socialization
-- Social activism
-- Adolescents’ wellbeing
+- Politična psihologija
+- Proti-znanstvene, lažne novice in teorije zarote
+- Medijska psihologija
+- zgodnja politična socializacija
+- Družbeni aktivizem
+- dobro počutje mladostnikov
 name: Anaëlle Gonzalez
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00136069"
-role: PhD student
+role: PhD študent
 social:
 - icon: envelope
   icon_pack: fas
@@ -41,4 +41,4 @@ user_groups:
 - Team
 ---
 
-Anaëlle Gonzalez is a PhD student at the Leuven School for Mass Communication Research (KU Leuven) under supervision of Professor Laura Vandenbosch. Her PhD project focuses on Adolescents’ Media Diets, the Individualistic Discourse et Political beliefs and Participation. It is part of the bigger ERC starting grant on Malleable Mediated Ideals and adolescents’ wellbeing. This project uses a multidisciplinary approach as it combines communication science, cultural sociology and psychology.
+Anaëlle Gonzalez je doktorska študentka na Leuvenski šoli za raziskovanje množičnih komunikacij (KU Leuven) pod nadzorom profesorice Laure Vandenbosch. Njen doktorat se osredotoča na medijsko prehrano mladostnikov, individualistični diskurz in politična prepričanja ter sodelovanje. Je del večje ERC začetne podpore za voljne posredovane ideale in dobro počutje mladostnikov. Ta projekt uporablja multidisciplinarni pristop, saj združuje komunikologijo, kulturno sociologijo in psihologijo.

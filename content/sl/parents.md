@@ -7,9 +7,9 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "For Parents"
+title = "Za starše"
 subtitle = ""
-date = "2020-06-30T00:00:00+01:00"
+date = "2020-12-07T00:00:00+01:00"
 lastmod = [":fileModTime", ":default"]
 
 [content]
@@ -68,10 +68,13 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
-The MIMIc Research
-The goal of the MIMIc research is to increase our understandings of what it means to grow up in a digital world. “Do youth mimic the lifestyles hey encounter at their social media walls and in entertainment fiction?” is a key question in the study and refers to learning which norms and beliefs youth adopt from interacting with media. The question is answered through three studies in which an adolescent can participate.
-1)	The MIMic research team will first look at media that are popular among adolescents to understand the lifestyles that are promoted in these platforms. This research will study music lyrics (for instance the lyrics of Katy Perry or Drake), TV shows (for instance the popular series 13 Reasons Why), Instagram profiles of famous influencers (for instance the Kardashian family) and the Instagram and Snapchat profiles of adolescents. By looking at the subjects that characters in popular TV series talk about, the images that influencers post online and the posts that adolescents share in their social network we learn more about the subjects adolescents are confronted with when using media. 
-2)	The MIMic research team will next follow a group of youngsters aged 12 to 16 years old over the course of 1.5 years to see how grow-up in a mediated world. Three countries (i.e., France, Slovenia and Belgium) take part in the panel study. More precisely, adolescents are asked at three different time points in 2020-2021 to answer a survey online at their home. Adolescents are invited to participate in the survey through their school. In the survey, we ask about adolescents’ media diets and how adolescents think about themselves, their peers, their body, school results and sexuality. With the answers that adolescents give to our questions we learn to understand how media interactions play a role in growing up. 
-3)	The MIMic research team will lastly monitor youth to survey them on a day-to-day basis what the daily interactions with social media and popular TV shows mean. Part of the youngsters who participate in the longitudinal study are also invited in this diary study in 2021-2022. More precisely, adolescents are asked to complete a diary in the shape of a brief survey online at their home during 14 days. In this diary survey, we ask about how adolescents have spent their day and in particular focus on their daily media interactions. With this study we learn to understand why on some days youth benefit from spending time with media, while on other days their media interactions seem to be rather fatiguing. 
+Spoštovani gospod / gospa,
+Smo projekt MIMIc. Naš cilj je razširiti razumevanje, kaj pomeni odraščati v digitalnem svetu. "Ali mladi posnemajo način življenja, s katerim se srečujejo na svojih virih v družabnih omrežjih in v zabavni fantastiki?" je ključno vprašanje v tem projektu in se nanaša na učenje, katere norme in prepričanja mladi sprejemajo iz interakcije z mediji.
 
+To vprašanje zastavljamo v upanju, da bomo mladini, kot je vaš otrok, pomagali bolje krmariti po zapletenosti digitalne družbe in kar najbolje izkoristiti njihovo uporabo družbenih medijev. Ta cilj želimo doseči z izvedbo treh različnih študij med mladostniki po Evropi. Spodaj lahko najdete nekaj več informacij o tem, kaj vključujejo te tri študije. Če imate kakršna koli vprašanja o etičnih ukrepih, ki jih izvaja projekt MIMIc za zagotovitev dobrega počutja vsakega posameznega udeleženca, vas želimo usmeriti v razdelek »Mladostniki« na tej spletni strani ali digitalni informativni list, dostopen na spletni platformi vašega otroška šola.
 
+1. Najprej bo raziskovalna skupina MIMic najprej preučila medije, ki so med mladostniki priljubljeni, da bi razumela način življenja, ki se promovira na teh platformah. Ta raziskava bo preučevala glasbena besedila (na primer besedila Katy Perry ali Drake), televizijske oddaje (na primer priljubljena serija 13 razlogov, zakaj), Instagram profile znanih vplivnežev (na primer družina Kardashian) ter Instagram in Snapchat profila mladostniki. Če pogledamo teme, o katerih govorijo junaki priljubljenih televizijskih serij, slike, ki jih vplivneži objavljajo na spletu, in objave, ki jih mladostniki delijo v svojem socialnem omrežju, izvemo več o temah, s katerimi se mladostniki srečujejo pri uporabi medijev.
+
+2. Nato bo raziskovalna skupina MIMic v enem letu sledila skupini mladostnikov, starih od 12 do 16 let, da bi ugotovila, kako je odraščati v medijsko polnem svetu. V tej "panelni študiji" sodelujejo tri države (tj. Francija, Slovenija in Belgija). Natančneje, mladostnike v treh različnih časovnih točkah v obdobju 2020–2021 prosijo, naj na spletu odgovorijo na anketo doma. Mladostniki so vabljeni k sodelovanju v raziskavi prek svoje šole. V raziskavi se sprašujemo o medijski prehrani mladostnikov in o tem, kako mladostniki razmišljajo o sebi, svojih vrstnikih, svojem telesu, šolskih rezultatih in spolnosti. Z odgovori, ki jih mladostniki dajejo na naša vprašanja, se naučimo razumeti, kako imajo medsebojne interakcije z mediji vlogo pri odraščanju.
+
+3. Nenazadnje bo raziskovalna skupina MIMIc mladostnike spremljala in jih dnevno spremljala 14 dni pred koncem leta 2021. Udeleženci te raziskave v dnevniku bodo podmnožica iz skupine udeležencev longitudinalne raziskave. Natančneje, mladostnike prosimo, da na spletu doma izpolnijo dnevnik v obliki kratke ankete. V tej dnevniški raziskavi se sprašujemo o tem, kako so mladostniki preživeli svoj dan, in se osredotočimo predvsem na njihovo vsakodnevno interakcijo z mediji. S to študijo se naučimo razumeti, zakaj mladim včasih koristi preživljanje časa z mediji, medtem ko se zdi, da so njihove interakcije z mediji precej utrujajoče.

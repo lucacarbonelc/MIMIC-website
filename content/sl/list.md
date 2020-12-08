@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Schools"
-subtitle = "The research project MIMIc has been made possible thanks to the efforts of the schools who participate in the research project. Below a list of the participating schools in France, Belgium and Slovenia can be found."
+title = "Šole"
+subtitle = "Raziskovalni projekt MIMIc je bil omogočen zaradi prizadevanj šol, ki sodelujejo v raziskovalnem projektu. Spodaj je seznam sodelujočih šol v Franciji, Belgiji in Sloveniji."
 date = "2020-06-30T00:00:00+01:00"
 lastmod = [":fileModTime", ":default"]
 
@@ -69,4 +69,3 @@ lastmod = [":fileModTime", ":default"]
 +++
 
 [insert here school list]
-

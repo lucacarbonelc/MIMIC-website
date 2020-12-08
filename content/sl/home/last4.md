@@ -51,7 +51,7 @@ subtitle = ""
 +++
 
 <font size="4">
-Université de Tours, France
+University of Ljubljana, Slovenia
 <br>
 <a href="https://www.fdv.uni-lj.si/en">Faculty of Social Sciences</a>.
 </font>
