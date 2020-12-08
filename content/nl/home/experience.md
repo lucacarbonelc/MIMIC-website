@@ -55,7 +55,7 @@ date_format = "02 Jan 2006"
 
 [[experience]]
   title = "Begin ouderlijke toestemming te vragen"
-  date_start = "01-01-2021"
+  date_start = "2021-01-01"
 
 [[experience]]
   title = "Creation R-functies om muziekakkoorden te matchen met songteksten"
