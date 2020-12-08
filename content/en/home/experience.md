@@ -19,36 +19,48 @@ date_format = "02 Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Diary research"
-  date_start = "2023-01-01"
-
+  title = "Diary study"
+  date_start = "2022-09-01"
+  
 [[experience]]
-  title = "Online survey (longitudinal)"
+  title = "Longitudinal survey"
   date_start = "2022-01-01"
   description = "Wave 3"
 
 [[experience]]
-  title = "Online survey (longitudinal)"
+  title = "Recruiting social media profiles of adolescents"
+  date_start = "2021-09-01"
+
+[[experience]]
+  title = "Longitudinal survey"
   date_start = "2021-09-01"
   description = "Wave 2"
 
 [[experience]]
-  title = "Online survey (longitudinal)"
+  title = "Longitudinal survey"
   date_start = "2021-05-01"
-  description = "Wave 1 and gathering of screenshots of social media profiles"
+  description = "Wave 1"
 
 [[experience]]
-  title = "Online survey (pilot)"
+  title = "Analysis pilot data"
+  date_start = "2021-04-01"
+
+[[experience]]
+  title = "Pilot online survey"
+  date_start = "2021-03-01"
+
+[[experience]]
+  title = "Online in-depth interviews"
   date_start = "2021-02-01"
 
 [[experience]]
-  title = "Online in-depth interviews (pilot)"
-  date_start = "2020-12-01"
+  title = "Start asking parental consent"
+  date_start = "2021-01-01"
 
 [[experience]]
   title = "Creation R functions to match music chords with lyrics"
   date_start = "2020-06-18"
-  description = "[Luca Carbone](http://www.projectmimic.eu/authors/admin4/) created two functions to match words in music lyrics with the corresponding chord, subsequently inserted as part of the R package [`chorrrds`](https://github.com/r-music/chorrrds). Part of the music study that explores the influence of songs on individuals' beliefs about meritocracy, structural inequalities and individual concerns about poverty. You can find a description of the functions and a small example about how to use theme [here](https://www.lucacarbone.com/post/functions_chorrrds/functions_chorrrds/)."
+  description = "[Luca Carbone](http://www.projectmimic.eu/authors/admin4/) created two functions to match words in music lyrics with the corresponding chord, subsequently inserted as part of the R package [`chorrrds`](https://github.com/r-music/chorrrds). You can find a description of the functions and a small example about how to use theme [here](https://www.lucacarbone.com/post/functions_chorrrds/functions_chorrrds/)."
 
 [[experience]]
   title = "Creation website"

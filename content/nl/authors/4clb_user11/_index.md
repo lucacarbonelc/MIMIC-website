@@ -20,7 +20,7 @@ role: Ontwikkelings- en verouderingspsychologie (U of Tours, FR)
 social:
 superuser: true
 user_groups:
-- International collaborators
+- Internationale medewerkers
 ---
 
 Caroline Giraudeau is docent aan de afdeling Psychologie (Universiteit van Tours, Frankrijk). Ze is geïnteresseerd in de relaties tussen adolescenten en jongvolwassenen en hun grootouders, en meer in het bijzonder in de emotionele verbondenheid tussen hen.

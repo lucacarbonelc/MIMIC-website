@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Progress"
+title = "Napredek"
 subtitle = ""
 
 # Date format for experience
@@ -19,44 +19,56 @@ date_format = "02 Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Diary research"
-  date_start = "2023-01-01"
-
+  title = "Dnevnik študija"
+  date_start = "2022-09-01"
+  
 [[experience]]
-  title = "Online survey (longitudinal)"
+  title = "Vzdolžna anketa"
   date_start = "2022-01-01"
-  description = "Wave 3"
+  description = "3. val"
 
 [[experience]]
-  title = "Online survey (longitudinal)"
+  title = "Zaposlovanje profilov mladostnikov v družabnih omrežjih"
   date_start = "2021-09-01"
-  description = "Wave 2"
 
 [[experience]]
-  title = "Online survey (longitudinal)"
+  title = "Vzdolžna anketa"
+  date_start = "2021-09-01"
+  description = "2. val"
+
+[[experience]]
+  title = "Vzdolžna anketa"
   date_start = "2021-05-01"
-  description = "Wave 1 and gathering of screenshots of social media profiles"
+  description = "Wave 1"
 
 [[experience]]
-  title = "Online survey (pilot)"
+  title = "Analiza pilotnih podatkov"
+  date_start = "2021-04-01"
+
+[[experience]]
+  title = "Pilotna spletna anketa"
+  date_start = "2021-03-01"
+
+[[experience]]
+  title = "Poglobljeni spletni intervjuji"
   date_start = "2021-02-01"
 
 [[experience]]
-  title = "Online in-depth interviews (pilot)"
-  date_start = "2020-12-01"
+  title = "Začni spraševati soglasje staršev"
+  date_start = "2021-01-01"
 
 [[experience]]
-  title = "Creation R functions to match music chords with lyrics"
+  title = "Funkcije Creation R se ujemajo z glasbenimi akordi in besedili"
   date_start = "2020-06-18"
-  description = "[Luca Carbone](http://www.projectmimic.eu/authors/admin4/) created two functions to match words in music lyrics with the corresponding chord, subsequently inserted as part of the R package [`chorrrds`](https://github.com/r-music/chorrrds). Part of the music study that explores the influence of songs on individuals' beliefs about meritocracy, structural inequalities and individual concerns about poverty. You can find a description of the functions and a small example about how to use theme [here](https://www.lucacarbone.com/post/functions_chorrrds/functions_chorrrds/)."
+  description = "[Luca Carbone](http://www.projectmimic.eu/authors/admin4/) je ustvaril dve funkciji za ujemanje besed v glasbenih besedilih z ustreznim akordom, ki sta bili nato vstavljeni kot del paketa R [` chorrrds`](https://github.com/r-music/chorrrds). Opis funkcij in majhen primer uporabe teme najdete [tukaj](https://www.lucacarbone.com/post/functions_chorrrds / functions_chorrrds /). "
 
 [[experience]]
-  title = "Creation website"
+  title = "Spletno mesto za ustvarjanje"
   date_start = "2020-02-10"
   description = ""
   
 [[experience]]
-  title = "Launch ERC project"
+  title = "Zaženi projekt ERC"
   date_start = "2020-01-13"
   description = ""
 

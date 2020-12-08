@@ -12,5 +12,5 @@ role: Digitale media en kinderen (U van Ljubljana, SI)
 social:
 superuser: true
 user_groups:
-- International collaborators
+- Internationale medewerkers
 ---

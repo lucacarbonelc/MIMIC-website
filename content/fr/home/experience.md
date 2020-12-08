@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Progress"
+title = "Le progrès"
 subtitle = ""
 
 # Date format for experience
@@ -19,45 +19,57 @@ date_format = "02 Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Diary research"
-  date_start = "2023-01-01"
-
+  title = "Étude de journal"
+  date_start = "01/09/2022"
+  
 [[experience]]
-  title = "Online survey (longitudinal)"
-  date_start = "2022-01-01"
+  title = "Enquête longitudinale"
+  date_start = "01/01/2022"
   description = "Wave 3"
 
 [[experience]]
-  title = "Online survey (longitudinal)"
-  date_start = "2021-09-01"
+  title = "Recrutement des profils d'adolescents sur les réseaux sociaux"
+  date_start = "01/09/2021"
+
+[[experience]]
+  title = "Enquête longitudinale"
+  date_start = "01/09/2021"
   description = "Wave 2"
 
 [[experience]]
-  title = "Online survey (longitudinal)"
-  date_start = "2021-05-01"
-  description = "Wave 1 and gathering of screenshots of social media profiles"
+  title = "Enquête longitudinale"
+  date_start = "01/05/2021"
+  description = "Vague 1"
 
 [[experience]]
-  title = "Online survey (pilot)"
-  date_start = "2021-02-01"
+  title = "Analyse des données pilotes"
+  date_start = "01/04/2021"
 
 [[experience]]
-  title = "Online in-depth interviews (pilot)"
-  date_start = "2020-12-01"
+  title = "Enquête pilote en ligne"
+  date_start = "01/03/2021"
 
 [[experience]]
-  title = "Creation R functions to match music chords with lyrics"
-  date_start = "2020-06-18"
-  description = "[Luca Carbone](http://www.projectmimic.eu/authors/admin4/) created two functions to match words in music lyrics with the corresponding chord, subsequently inserted as part of the R package [`chorrrds`](https://github.com/r-music/chorrrds). Part of the music study that explores the influence of songs on individuals' beliefs about meritocracy, structural inequalities and individual concerns about poverty. You can find a description of the functions and a small example about how to use theme [here](https://www.lucacarbone.com/post/functions_chorrrds/functions_chorrrds/)."
+  title = "Entretiens approfondis en ligne"
+  date_start = "01/02/2021"
 
 [[experience]]
-  title = "Creation website"
-  date_start = "2020-02-10"
+  title = "Commencer à demander le consentement parental"
+  date_start = "01/01/2021"
+
+[[experience]]
+  title = "Fonctions Creation R pour faire correspondre les accords de musique avec les paroles"
+  date_start = "18/06/2020"
+  description = "[Luca Carbone](http://www.projectmimic.eu/authors/admin4/) a créé deux fonctions pour faire correspondre les mots des paroles de la musique avec l'accord correspondant, ensuite inséré dans le package R [` chorrrds`](https://github.com/r-music/chorrrds). Vous pouvez trouver une description des fonctions et un petit exemple d'utilisation du thème [ici](https://www.lucacarbone.com/post/functions_chorrrds / functions_chorrrds /). "
+
+[[experience]]
+  title = "Site de création"
+  date_start = "10/02/2020"
   description = ""
   
 [[experience]]
-  title = "Launch ERC project"
-  date_start = "2020-01-13"
+  title = "Lancer le projet ERC"
+  date_start = "13/01/2020"
   description = ""
 
 +++

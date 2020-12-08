@@ -12,5 +12,5 @@ role: Médias numériques et enfants (U de Ljubljana, SI)
 social:
 superuser: true
 user_groups:
-- International collaborators
+- Collaborateurs internationaux
 ---

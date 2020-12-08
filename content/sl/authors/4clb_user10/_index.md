@@ -12,5 +12,5 @@ role: Digitalni mediji in otroci (Ljubljana, SI)
 social:
 superuser: true
 user_groups:
-- International collaborators
+- Mednarodni sodelavci
 ---

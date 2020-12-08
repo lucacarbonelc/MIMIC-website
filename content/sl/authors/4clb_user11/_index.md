@@ -20,7 +20,7 @@ role: Psihologija razvoja in staranja (U of Tours, FR)
 social:
 superuser: true
 user_groups:
-- International collaborators
+- Mednarodni sodelavci
 ---
 
 Caroline Giraudeau je predavateljica na Oddelku za psihologijo (University of Tours, Francija). Zanimajo jo odnosi med mladostniki in mladostniki ter njihovimi starimi starši in še posebej čustvena bližina med njimi.

@@ -19,44 +19,56 @@ date_format = "02 Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Diary research"
-  date_start = "2023-01-01"
-
+  title = "Dagboekstudie"
+  date_start = "2022-09-01"
+  
 [[experience]]
-  title = "Online survey (longitudinal)"
+  title = "Longitudinaal onderzoek"
   date_start = "2022-01-01"
   description = "Wave 3"
 
 [[experience]]
-  title = "Online survey (longitudinal)"
+  title = "Sociale media profielen van adolescenten rekruteren"
+  date_start = "2021-09-01"
+
+[[experience]]
+  title = "Longitudinaal onderzoek"
   date_start = "2021-09-01"
   description = "Wave 2"
 
 [[experience]]
-  title = "Online survey (longitudinal)"
+  title = "Longitudinaal onderzoek"
   date_start = "2021-05-01"
-  description = "Wave 1 and gathering of screenshots of social media profiles"
+  description = "Wave 1"
 
 [[experience]]
-  title = "Online survey (pilot)"
+  title = "Analyse pilotgegevens"
+  date_start = "2021-04-01"
+
+[[experience]]
+  title = "Pilot online enquête"
+  date_start = "2021-03-01"
+
+[[experience]]
+  title = "Online diepte-interviews"
   date_start = "2021-02-01"
 
 [[experience]]
-  title = "Online in-depth interviews (pilot)"
-  date_start = "2020-12-01"
+  title = "Begin ouderlijke toestemming te vragen"
+  date_start = "01-01-2021"
 
 [[experience]]
-  title = "Creation R functions to match music chords with lyrics"
+  title = "Creation R-functies om muziekakkoorden te matchen met songteksten"
   date_start = "2020-06-18"
-  description = "[Luca Carbone](http://www.projectmimic.eu/authors/admin4/) created two functions to match words in music lyrics with the corresponding chord, subsequently inserted as part of the R package [`chorrrds`](https://github.com/r-music/chorrrds). Part of the music study that explores the influence of songs on individuals' beliefs about meritocracy, structural inequalities and individual concerns about poverty. You can find a description of the functions and a small example about how to use theme [here](https://www.lucacarbone.com/post/functions_chorrrds/functions_chorrrds/)."
+  description = "[Luca Carbone](http://www.projectmimic.eu/authors/admin4/) creëerde twee functies om woorden in muziekteksten te matchen met het corresponderende akkoord, vervolgens ingevoegd als onderdeel van het R-pakket [` chorrrds`](https://github.com/r-music/chorrrds) Een beschrijving van de functies en een klein voorbeeld over het gebruik van het thema vind je [hier](https://www.lucacarbone.com/post/functions_chorrrds / functions_chorrrds /). "
 
 [[experience]]
-  title = "Creation website"
+  title = "Creatie website"
   date_start = "2020-02-10"
   description = ""
   
 [[experience]]
-  title = "Launch ERC project"
+  title = "Start ERC-project"
   date_start = "2020-01-13"
   description = ""
 
