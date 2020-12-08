@@ -25,7 +25,7 @@ date_format = "02 Jan 2006"
 [[experience]]
   title = "Vzdolžna anketa"
   date_start = "2022-01-01"
-  description = "3. val"
+  description = "Wave 3"
 
 [[experience]]
   title = "Zaposlovanje profilov mladostnikov v družabnih omrežjih"
@@ -34,7 +34,7 @@ date_format = "02 Jan 2006"
 [[experience]]
   title = "Vzdolžna anketa"
   date_start = "2021-09-01"
-  description = "2. val"
+  description = "Wave 2"
 
 [[experience]]
   title = "Vzdolžna anketa"

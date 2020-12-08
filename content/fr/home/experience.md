@@ -20,42 +20,42 @@ date_format = "02 Jan 2006"
 
 [[experience]]
   title = "Étude de journal"
-  date_start = "01/09/2022"
+  date_start = "2022-09-01"
   
 [[experience]]
   title = "Enquête longitudinale"
-  date_start = "01/01/2022"
+  date_start = "2022-01-01"
   description = "Wave 3"
 
 [[experience]]
   title = "Recrutement des profils d'adolescents sur les réseaux sociaux"
-  date_start = "01/09/2021"
+  date_start = "2021-09-01"
 
 [[experience]]
   title = "Enquête longitudinale"
-  date_start = "01/09/2021"
+  date_start = "2021-09-01"
   description = "Wave 2"
 
 [[experience]]
   title = "Enquête longitudinale"
-  date_start = "01/05/2021"
-  description = "Vague 1"
+  date_start = "2021-04-01"
+  description = "Wave 1"
 
 [[experience]]
   title = "Analyse des données pilotes"
-  date_start = "01/04/2021"
+  date_start = "2021-04-01"
 
 [[experience]]
   title = "Enquête pilote en ligne"
-  date_start = "01/03/2021"
+  date_start = "2021-03-01"
 
 [[experience]]
   title = "Entretiens approfondis en ligne"
-  date_start = "01/02/2021"
+  date_start = "2021-02-01"
 
 [[experience]]
   title = "Commencer à demander le consentement parental"
-  date_start = "01/01/2021"
+  date_start = "2021-01-01"
 
 [[experience]]
   title = "Fonctions Creation R pour faire correspondre les accords de musique avec les paroles"
@@ -64,12 +64,12 @@ date_format = "02 Jan 2006"
 
 [[experience]]
   title = "Site de création"
-  date_start = "10/02/2020"
+  date_start = "2020-02-10"
   description = ""
   
 [[experience]]
   title = "Lancer le projet ERC"
-  date_start = "13/01/2020"
+  date_start = "2020-01-13"
   description = ""
 
 +++
