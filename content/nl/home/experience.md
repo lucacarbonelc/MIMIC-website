@@ -60,7 +60,7 @@ date_format = "02 Jan 2006"
 [[experience]]
   title = "Creation R-functies om muziekakkoorden te matchen met songteksten"
   date_start = "2020-06-18"
-  description = "[Luca Carbone](http://www.projectmimic.eu/authors/admin4/) creëerde twee functies om woorden in muziekteksten te matchen met het corresponderende akkoord, vervolgens ingevoegd als onderdeel van het R-pakket [` chorrrds`](https://github.com/r-music/chorrrds) Een beschrijving van de functies en een klein voorbeeld over het gebruik van het thema vind je [hier](https://www.lucacarbone.com/post/functions_chorrrds / functions_chorrrds /). "
+  description = "[Luca Carbone](http://www.projectmimic.eu/authors/admin4/) creëerde twee functies om woorden in muziekteksten te matchen met het corresponderende akkoord, vervolgens ingevoegd als onderdeel van het R-pakket [`chorrrds`](https://github.com/r-music/chorrrds) Een beschrijving van de functies en een klein voorbeeld over het gebruik van het thema vind je [hier](https://www.lucacarbone.com/post/functions_chorrrds/functions_chorrrds/). "
 
 [[experience]]
   title = "Creatie website"

@@ -68,16 +68,16 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
-Ta raziskava je mogoča le s sodelovanjem čudovitih medijsko pismenih šol po Belgiji, Franciji in Sloveniji. Te medijsko pismene šole so se odločile, da bodo vložile precej truda, da bi pomagale razumeti vpliv medijev na mladostnike v Evropi. Hvaležni smo za njihovo sodelovanje in zavezanost, da mladostnikom pomagajo, da čim bolje izkoristijo svojo uporabo medijev.
+Izvedba te raziskave je mogoča zgolj zaradi sodelovanja pomagajočih medijsko pismenih šol v Belgiji, Franciji in Sloveniji. Te medijsko pismene šole so se odločile, da bodo vložile precej truda, da bi pomagale razumeti vpliv medijev na mladostnike v Evropi. Hvaležni smo jim za njihovo sodelovanje in zavezanost, da mladostnikom pomagajo, kako čim bolje izkoristiti svojo uporabo medijev.
 
-V zahvalo bomo te šole ob koncu projekta MIMIc prejele sveženj digitalne pismenosti. Ta paket bo vseboval poročilo o rezultatih raziskav, dva digitalna video posnetka in vodnik za razpravo.
+V zahvalo bodo te šole ob koncu projekta MIMIc prejele paket digitalne pismenosti. Ta paket bo vseboval poročilo o rezultatih raziskav, dva video posnetka in priročnik za razpravo.
 
-Prvi digitalni video posnetek je namenjen mladostnikom in razlaga rezultate raziskave in njihove posledice za življenje mladostnikov. Šole zelo podpirajo, da motivirajo učitelje in učence, da si skupaj ogledajo video posnetek in se nato pogovorijo o rezultatih.
+Prvi video posnetek je namenjen mladostnikom in pojasni rezultate raziskave ter vsebuje napotke za življenje mladostnikov z mediji. Vodstvo šol, učitelje in učencev močno spodbujamo, da si video posnetek skupaj ogledajo in se nato pogovorijo o rezultatih.
 
-Da bi učitelje usposobili za izkušene moderatorje za razprave o veščinah medijske pismenosti, je drugi digitalni video posnetek namenjen učiteljem in jim razloži ključne točke pozornosti, ki jih je treba upoštevati pri moderiranju razprav v učilnici o rezultatih raziskave.
+Drugi video posnetek je namenjen učiteljem, da bi postali usposobljeni izkušeni moderatorji za razpravo o veščinah medijske pismenosti. Video posnetek jim razloži ključne točke, ki jih je treba upoštevati pri vodenju razprav z učenci o rezultatih raziskave.
 
-Za organizacijo razprave vodnik za razpravo vsebuje podrobno podrobno razlago o tem, kako se lahko pogovor odvija, in predstavlja več tem za razpravo v razredu. Šole, ki v svoj učni načrt vključujejo paket za usposabljanje za digitalno pismenost, vabijo, naj tudi pred izpolnjevanjem kratke ankete pred in po usposabljanju izpolnijo kratko anketo. To raziskavo analizira skupina MIMIc in daje šoli povratne informacije o usposabljanju.
+Priročnik za organizacijo razprave vsebuje podrobno razlago o tem, o katerih temah lahko učenci in učitelji razpravljajo, ter kako se lahko pogovor v razredu odvija. Šole, ki bodo v svoj učni načrt uvajale paket digitalne pismenosti, tudi vabimo, da učence pred in po usposabljanju povabijo k izpolnjevanju kratkega vprašalnika. Odgovore na vprašalnik bo analizirala skupina MIMIc in dala šoli povratne informacije o usposabljanju.
 
-Tako se lahko šole, ki sodelujejo v projektu MIMIc in uporabijo ponujeni paket usposabljanja za digitalno pismenost, resnično štejejo za medijsko pismeno šolo. Popolnoma opremljen za pomoč študentom pri krmarjenju po zapletenosti vse bolj digitalne družbe.
+Šole, ki sodelujejo v projektu MIMIc in uporabijo ponujeni paket digitalne pismenosti, se lahko štejejo za medijsko pismeno šolo. Slednje pomeni, da so popolnoma opremljene za pomoč učencem ali dijakom pri krmarjenju kompleksnosti vse bolj digitalne družbe.
 
-Če želite poiskati seznam teh koristnih medijsko pismenih šol, [kliknite tukaj](http://www.projectmimic.eu/sl/list/).
+Seznam teh pomagajočih medijsko pismenih šol se nahaja [tukaj](http://www.projectmimic.eu/sl/list/).

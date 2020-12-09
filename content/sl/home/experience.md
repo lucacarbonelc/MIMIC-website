@@ -60,7 +60,7 @@ date_format = "02 Jan 2006"
 [[experience]]
   title = "Funkcije Creation R se ujemajo z glasbenimi akordi in besedili"
   date_start = "2020-06-18"
-  description = "[Luca Carbone](http://www.projectmimic.eu/authors/admin4/) je ustvaril dve funkciji za ujemanje besed v glasbenih besedilih z ustreznim akordom, ki sta bili nato vstavljeni kot del paketa R [` chorrrds`](https://github.com/r-music/chorrrds). Opis funkcij in majhen primer uporabe teme najdete [tukaj](https://www.lucacarbone.com/post/functions_chorrrds / functions_chorrrds /). "
+  description = "[Luca Carbone](http://www.projectmimic.eu/authors/admin4/) je ustvaril dve funkciji za ujemanje besed v glasbenih besedilih z ustreznim akordom, ki sta bili nato vstavljeni kot del paketa R [`chorrrds`](https://github.com/r-music/chorrrds). Opis funkcij in majhen primer uporabe teme najdete [tukaj](https://www.lucacarbone.com/post/functions_chorrrds/functions_chorrrds/)."
 
 [[experience]]
   title = "Spletno mesto za ustvarjanje"
