@@ -20,7 +20,7 @@ name: Laura Vandenbosch
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00060068"
-role: Universitair docent aan de School for Mass Communication Research
+role: Universiteit Docent aan de School for Mass Communication Research
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,6 +43,6 @@ Laura Vandenbosch is sinds 2017 universitair docent aan de School for Mass Commu
 
 In 2015 werd ze verkozen tot secretaris van de afdeling Kinderen, Adolescenten en Media van de International Communication Association (2015-2018). Laura is momenteel ook redactielid van ISI-gerangschikte tijdschriften Human Communication Research, Journal of Children and Media en Communications: The European Journal of Communication Research.
 
-Momenteel is ze betrokken bij verschillende (internationale) onderzoeksprojecten om te onderzoeken hoe media het welzijn kunnen beïnvloeden door zich te concentreren op factoren die niet goed zijn begrepen, zoals de rol van sociale relaties, culturele achtergrond, seksualisering, mediageletterdheid en maakbaarheid. overtuigingen. Een deel van deze projecten is ingebed in het internationale netwerk dat ze door de jaren heen heeft opgebouwd door periodes in het buitenland door te brengen, bijvoorbeeld in de U van Michigan, de U van Toronto en de U van Wenen. Haar werk heeft geleid tot verschillende prijzen, zoals de Top Paper, Top Article en Top Dissertation Awards van de Children, Adolescents and Media (CAM) Division van de International Communication Association (2013-2016) en de Research Council Award in the Humanities (Prijs Onderzoeksraad, 2016).
+Momenteel is ze betrokken bij verschillende (internationale) onderzoeksprojecten om te onderzoeken hoe media het welzijn kunnen beïnvloeden door zich te concentreren op factoren die niet goed zijn begrepen, zoals de rol van sociale relaties, culturele achtergrond, seksualisering, mediageletterdheid en maakbaarheidsovertuigingen. Een deel van deze projecten is ingebed in het internationale netwerk dat ze door de jaren heen heeft opgebouwd door periodes in het buitenland door te brengen, bijvoorbeeld in de U van Michigan, de U van Toronto en de U van Wenen. Haar werk heeft geleid tot verschillende prijzen, zoals de Top Paper, Top Article en Top Dissertation Awards van de Children, Adolescents and Media (CAM) Division van de International Communication Association (2013-2016) en de Research Council Award in the Humanities (Prijs Onderzoeksraad, 2016).
 
-In 2019 ontving ze een ERC-startsubsidie voor het project 'Smeedbaarheid in gemedieerde idealen: een paradigma om de effecten van hedendaagse media op het welzijn van adolescenten te begrijpen'.
+In 2019 ontving ze een ERC-startsubsidie voor het project ‘Maakbaarheid in gemedieerde idealen: een paradigma om de effecten van hedendaagse media op het welzijn van adolescenten te begrijpen’.

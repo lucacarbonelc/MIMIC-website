@@ -51,7 +51,7 @@ subtitle = ""
 +++
 
 <font size="4">
-University of Ljubljana, Slovenia
+University of Ljubljana, Slovenië
 <br>
 <a href="https://www.fdv.uni-lj.si/en">Faculty of Social Sciences</a>.
 </font>

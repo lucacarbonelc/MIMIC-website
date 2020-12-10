@@ -68,16 +68,16 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
-Dit onderzoek is enkel mogelijk gemaakt dankzij de deelname van prachtige Media Literate Schools in België, Frankrijk en Slovenië. Deze mediageletterde scholen kozen ervoor aanzienlijke inspanningen te leveren om het begrip van media-effecten op adolescenten in Europa te helpen vergroten. We zijn dankbaar voor hun medewerking en toewijding om adolescenten te helpen het meeste uit hun mediagebruik te halen.
+Dit onderzoek is enkel mogelijk dankzij de deelname van de fantastische Media Literate Schools in België, Frankrijk en Slovenië. Deze mediageletterde scholen kozen ervoor aanzienlijke inspanningen te leveren om het begrip van media-effecten op adolescenten in Europa te helpen vergroten. We zijn dankbaar voor hun medewerking en toewijding om adolescenten te helpen het meeste uit hun mediagebruik te halen.
 
-Als blijk van onze dankbaarheid zullen deze scholen aan het einde van Project MIMIc een trainingspakket digitale geletterdheid ontvangen. Dit pakket bevat een verslag van de onderzoeksresultaten, twee digitale videoclips en een discussiegids.
+Als blijk van onze dankbaarheid zullen deze scholen aan het einde van Project MIMIc een digitaal trainingspakket over mediageletterdheid ontvangen. Dit pakket bevat een verslag van de onderzoeksresultaten, twee digitale videoclips en een discussiegids.
 
-De eerste digitale videoclip is gericht op adolescenten en legt de resultaten van het onderzoek en hun implicaties voor het leven van adolescenten uit. Scholen worden sterk ondersteund om leerkrachten en leerlingen te motiveren om samen naar de videoclip te kijken en achteraf de resultaten te bespreken.
+De eerste digitale videoclip is gericht op adolescenten en legt de resultaten van het onderzoek en de implicaties (op hun leven) uit. Scholen worden sterk aanbevolen om leerkrachten en leerlingen te motiveren om samen naar de videoclip te kijken en achteraf de resultaten te bespreken.
 
-Om leraren op te leiden tot ervaren moderatoren voor discussies over mediageletterdheid, is een tweede digitale videoclip gericht op docenten en legt hen de belangrijkste aandachtspunten uit waarmee rekening moet worden gehouden bij het modereren van klassikale discussies over de resultaten van het onderzoek.
+Om leraren op te leiden tot ervaren moderatoren voor discussies over mediageletterdheid, is een tweede digitale videoclip gericht op docenten. Deze clip behandelt de belangrijkste aandachtspunten met betrekking tot het modereren van klassikale discussies over de resultaten van het onderzoek.
 
-Om de discussie te organiseren, bevat de discussiegids een gedetailleerde stapsgewijze uitleg over hoe een gesprek zich kan ontvouwen en worden verschillende onderwerpen gepresenteerd om in de klas te bespreken. Scholen die het trainingspakket digitale geletterdheid in hun curriculum implementeren, worden uitgenodigd om studenten ook te vragen om voor en na de training een korte enquête in te vullen. Dit onderzoek wordt geanalyseerd door het MIMIc-team en geeft de school feedback op de training.
+De discussiegids bevat een gedetailleerde, stapsgewijze uitleg over hoe een gesprek zich kan ontvouwen en een reeks onderwerpen om in de klas te bespreken. Scholen die het trainingspakket digitale geletterdheid in hun curriculum implementeren, worden uitgenodigd om studenten ook te vragen om voor en na de training een korte enquête in te vullen. Deze enquête wordt geanalyseerd door het MIMIc-team die daarna de school feedback geeft over de resultaten van de training.
 
-Als zodanig kunnen scholen die deelnemen aan Project MIMIc en gebruik maken van het aangeboden trainingspakket voor digitale geletterdheid, zichzelf echt een Media Literate School noemen. Volledig uitgerust om studenten te helpen bij het navigeren door de complexiteit van een steeds digitaler wordende samenleving.
+Bijgevolg kunnen scholen die deelnemen aan Project MIMIc én gebruik maken van het aangeboden trainingspakket, zichzelf echt een Media Literate School noemen. Volledig bereid om studenten te helpen bij het navigeren van de complexiteit gepresenteerd door een digitale samenleving.
 
 Voor een lijst van deze behulpzame mediageletterde scholen [klik hier](http://www.projectmimic.eu/nl/list/).

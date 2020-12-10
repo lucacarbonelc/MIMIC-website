@@ -22,7 +22,7 @@ name: Brent Swinnen
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00113344"
-role: PhD leerling
+role: Doctoraatsstudent
 social:
 - icon: envelope
   icon_pack: fas
@@ -35,4 +35,4 @@ user_groups:
 - Team
 ---
 
-Brent Swinnen is een doctoraatsstudent aan de Leuvense School voor Massacommunicatie. Momenteel werkt hij onder supervisie van professor Laura Vandenbosch aan het door de ERC gefinancierde project: 'Smeedbaarheid in gemedieerde idealen: een paradigma om de effecten van hedendaagse media op het welzijn van adolescenten te begrijpen'. Zijn doctoraatsproject heeft specifiek betrekking op de noties van maakbaarheid, prestatiedruk en welzijn bij adolescenten.
+Brent Swinnen is een doctoraatsstudent aan de Leuvense School voor Massacommunicatie. Momenteel werkt hij onder supervisie van professor Laura Vandenbosch aan het door de ERC gefinancierde project: ‘Maakbaarheid in gemedieerde idealen: een paradigma om de effecten van hedendaagse media op het welzijn van adolescenten te begrijpen’. Zijn doctoraatsproject heeft specifiek betrekking op de noties van maakbaarheid, prestatiedruk en welzijn bij adolescenten.

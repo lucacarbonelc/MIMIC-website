@@ -51,7 +51,7 @@ subtitle = ""
 +++
 
 <font size="4">
-Université de Tours, France
+Université de Tours, Frankrijk
 <br>
 <a href="https://ash.univ-tours.fr/presentation/departement-de-psychologie-196052.kjsp?RH=1179214243747?RH=1179214243747">Department of Psychology</a>.
 </font>

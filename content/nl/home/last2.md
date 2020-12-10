@@ -51,7 +51,7 @@ subtitle = ""
 +++
 
 <font size="4">
-Katholieke Universiteit Leuven, Belgium
+Katholieke Universiteit Leuven, België
 <br>
 <a href="https://soc.kuleuven.be/smc">School for Mass Communication Research (SMCR)</a>.
 </font>

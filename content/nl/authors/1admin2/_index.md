@@ -25,7 +25,7 @@ name: Anaëlle Gonzalez
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00136069"
-role: PhD leerling
+role: Doctoraatsstudent
 social:
 - icon: envelope
   icon_pack: fas
@@ -41,4 +41,4 @@ user_groups:
 - Team
 ---
 
-Anaëlle Gonzalez is een doctoraatsstudente aan de Leuvense School voor Massacommunicatieonderzoek (KU Leuven) onder supervisie van professor Laura Vandenbosch. Haar PhD-project richt zich op de mediadiëten van adolescenten, het individualistische discours en politieke overtuigingen en participatie. Het maakt deel uit van de grotere ERC-startsubsidie voor Malleable Mediated Ideals en het welzijn van adolescenten. Dit project gebruikt een multidisciplinaire aanpak omdat het communicatiewetenschap, culturele sociologie en psychologie combineert.
+Anaëlle Gonzalez is een doctoraatsstudente aan de Leuvense School voor Massacommunicatieonderzoek (KU Leuven) onder supervisie van professor Laura Vandenbosch. Haar PhD-project richt zich op de mediadiëten van adolescenten, het individualistische discours en politieke overtuigingen en participatie. Het maakt deel uit van het grotere ERC-project over Malleable Mediated Ideals en het welzijn van adolescenten. Dit project gebruikt een multidisciplinaire aanpak die communicatiewetenschap, culturele sociologie en psychologie combineert.

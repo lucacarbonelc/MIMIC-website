@@ -46,7 +46,7 @@ date_format = "02 Jan 2006"
   date_start = "2021-04-01"
 
 [[experience]]
-  title = "Pilot online enquête"
+  title = "Piloot online enquête"
   date_start = "2021-03-01"
 
 [[experience]]
