@@ -47,18 +47,24 @@
   parent = "authors"
   url = "/authors/1admin4"
   weight = 2.4
+  
+[[fr.menu.main]]
+  name = "Jasmina Rosič"
+  parent = "authors"
+  url = "/authors/1admin5"
+  weight = 2.5
 
 [[fr.menu.main]]
   name = "Bojana Lobe"
   parent = "authors"
   url = "/authors/4clb_user10"
-  weight = 2.5
+  weight = 2.6
 
 [[fr.menu.main]]
   name = "Caroline Giraudeau"
   parent = "authors"
   url = "/authors/4clb_user11"
-  weight = 2.6
+  weight = 2.7
 
 [[fr.menu.main]]
   name = "Ressources"
@@ -160,16 +166,22 @@
   weight = 2.4
 
 [[nl.menu.main]]
+  name = "Jasmina Rosič"
+  parent = "authors"
+  url = "/authors/1admin5"
+  weight = 2.5
+
+[[nl.menu.main]]
   name = "Bojana Lobe"
   parent = "authors"
   url = "/authors/4clb_user10"
-  weight = 2.5
+  weight = 2.6
 
 [[nl.menu.main]]
   name = "Caroline Giraudeau"
   parent = "authors"
   url = "/authors/4clb_user11"
-  weight = 2.6
+  weight = 2.7
 
 [[nl.menu.main]]
   name = "Middelen"
@@ -269,18 +281,24 @@
   parent = "authors"
   url = "/authors/1admin4"
   weight = 2.4
+  
+[[sl.menu.main]]
+  name = "Jasmina Rosič"
+  parent = "authors"
+  url = "/authors/1admin5"
+  weight = 2.5
 
 [[sl.menu.main]]
   name = "Bojana Lobe"
   parent = "authors"
   url = "/authors/4clb_user10"
-  weight = 2.5
+  weight = 2.6
 
 [[sl.menu.main]]
   name = "Caroline Giraudeau"
   parent = "authors"
   url = "/authors/4clb_user11"
-  weight = 2.6
+  weight = 2.7
 
 [[sl.menu.main]]
   name = "Viri"
@@ -289,7 +307,7 @@
   weight = 3.0
 
 [[sl.menu.main]]
-  name = "Akademske rezultate"
+  name = "Znanstveni izsledki"
   parent = "resources"
   url = "#academic_output"
   weight = 3.1
@@ -331,7 +349,7 @@
   weight = 5.1
 
 [[sl.menu.main]]
-  name = "Za udeležence"
+  name = "Za sodelujoče mladostnike"
   parent = "parents_adolescents"
   url = "/adolescents"
   weight = 5.2

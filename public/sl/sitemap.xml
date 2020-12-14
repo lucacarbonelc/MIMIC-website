@@ -28,31 +28,6 @@
   </url>
   
   <url>
-    <loc>/sl/parents/</loc>
-    <lastmod>2020-12-07T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/parents/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/parents/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/nl/parents/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="/sl/parents/"
-                />
-  </url>
-  
-  <url>
     <loc>/sl/adolescents/</loc>
     <lastmod>2020-12-07T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -74,6 +49,31 @@
                 rel="alternate"
                 hreflang="sl"
                 href="/sl/adolescents/"
+                />
+  </url>
+  
+  <url>
+    <loc>/sl/parents/</loc>
+    <lastmod>2020-12-07T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/parents/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/parents/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="/nl/parents/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="/sl/parents/"
                 />
   </url>
   
@@ -545,6 +545,20 @@
                 rel="alternate"
                 hreflang="sl"
                 href="/sl/authors/1admin4/"
+                />
+  </url>
+  
+  <url>
+    <loc>/sl/authors/1admin5/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="/nl/authors/1admin5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="/sl/authors/1admin5/"
                 />
   </url>
   

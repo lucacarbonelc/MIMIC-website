@@ -16,11 +16,11 @@ interests:
 - Čustvena bližina
 name: Caroline Giraudeau
 organizations:
-role: Psihologija razvoja in staranja (U of Tours, FR)
+role: Razvojna psihologija in psihologija staranja (U v Toursu, FR)
 social:
 superuser: true
 user_groups:
-- Mednarodni sodelavci
+- Mednarodni sodelavki
 ---
 
 Caroline Giraudeau je predavateljica na Oddelku za psihologijo (University of Tours, Francija). Zanimajo jo odnosi med mladostniki in mladostniki ter njihovimi starimi starši in še posebej čustvena bližina med njimi.

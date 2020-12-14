@@ -14,7 +14,7 @@ education:
 email: ""
 interests:
 - Tlak v delovanju
-- Prožnost
+- Spremenljivost
 - zaščitni mehanizmi
 - Utilitarni individualizem
 - Duševno počutje
@@ -22,7 +22,7 @@ name: Brent Swinnen
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00113344"
-role: PhD študent
+role: Doktorska študentka
 social:
 - icon: envelope
   icon_pack: fas
@@ -35,4 +35,4 @@ user_groups:
 - Team
 ---
 
-Brent Swinnen je doktorski študent na šoli za množično komuniciranje v Leuvenu. Trenutno dela pod nadzorom profesorice Laure Vandenbosch pri projektu, ki ga financira ERC: "Gibljivost v posredovanih idealih: paradigma za razumevanje učinkov sodobnih medijev na dobro počutje mladostnikov". Njegov doktorat se posebej nanaša na pojme gibčnosti, pritiska na uspešnost in dobrega počutja mladostnikov.
+Brent Swinnen je doktorski student na Oddelku za raziskovanje množičnih komunikacij Univerze v Leuvnu. Trenutno pod mentorstvom docentke Laure Vandenbosch dela na projektu, podprtim z ERC štipendijo, Spremenljivost “pokvarljivih idealov”: paradigma za razumevanje učinkov sodobnih medijev na dobrobit otrok in mladostnikov. V svojem doktoratu se osredotoča na pojme spremenljivost (malleability), pritiska na uspešnost (performance pressure) in blaginje med mladostniki.

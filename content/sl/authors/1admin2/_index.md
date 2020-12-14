@@ -25,7 +25,7 @@ name: Anaëlle Gonzalez
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00136069"
-role: PhD študent
+role: Doktorska študentka
 social:
 - icon: envelope
   icon_pack: fas
@@ -41,4 +41,4 @@ user_groups:
 - Team
 ---
 
-Anaëlle Gonzalez je doktorska študentka na Leuvenski šoli za raziskovanje množičnih komunikacij (KU Leuven) pod nadzorom profesorice Laure Vandenbosch. Njen doktorat se osredotoča na medijsko prehrano mladostnikov, individualistični diskurz in politična prepričanja ter sodelovanje. Je del večje ERC začetne podpore za voljne posredovane ideale in dobro počutje mladostnikov. Ta projekt uporablja multidisciplinarni pristop, saj združuje komunikologijo, kulturno sociologijo in psihologijo.
+Anaëlle Gonzalez je doktorska študentka na Oddelku za raziskovanje množičnih komunikacij Univerze v Leuvnu pod mentorstvom docentke Laure Vandenbosch. V njenem doktorskem projektu se posveča tematikam uporabe medijev med mladostniki in z njo povezanimi političnimi prepričanji in participacijo (Adolescents’ Media Diets, the Individualistic Discourse et Political beliefs and Participation). Njeno delo poteka v okviru širšega z ERC štipendijo podprtega projekta z naslovom Spremenljivost “pokvarljivih idealov” in blaginja mladostnikov. Ta projekt uporablja multidisciplinaren pristop, saj združuje področja komunikologije, kulturne sociologije in psihologije.

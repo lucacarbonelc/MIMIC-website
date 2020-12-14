@@ -39,16 +39,22 @@
   weight = 2.4
 
 [[main]]
+  name = "Jasmina Rosič"
+  parent = "authors"
+  url = "/authors/1admin5"
+  weight = 2.5
+
+[[main]]
   name = "Bojana Lobe"
   parent = "authors"
   url = "/authors/4clb_user10"
-  weight = 2.5
+  weight = 2.6
 
 [[main]]
   name = "Caroline Giraudeau"
   parent = "authors"
   url = "/authors/4clb_user11"
-  weight = 2.6
+  weight = 2.7
 
 [[main]]
   name = "Resources"

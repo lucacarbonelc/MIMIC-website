@@ -29,7 +29,7 @@ lastmod: [":fileModTime", ":default"]
 • [spletno mesto](https://www.kuleuven.be/wieiswie/en/person/00060068).
 
 ## Etični postopki
-Če imate vprašanja o etičnih postopkih raziskave, vas želimo obvestiti, da je to študijo odobrila **Etična komisija za družbene in humanistične vede Katoliške univerze v Leuvenu** (SMEC), **CER Tours -Poitiers - Courriel Univerze v Toursu** in **etični odbor Univerze v Ljubljani**.
+Če imate vprašanja o etičnih postopkih raziskave, vas želimo obvestiti, da je to študijo odobrila **Etična komisija za družbene in humanistične vede Katoliške univerze v Leuvenu** (SMEC), **CER Tours -Poitiers - Courriel Univerze v Toursu** in **Komisija za etiko v raziskovanju FDV Univerze v Ljubljani** (KERFDV).
 Vprašanja v zvezi z odobrenimi etičnimi smernicami lahko pošljete na:
 
 - SMEC@kuleuven.be (za Belgijo)

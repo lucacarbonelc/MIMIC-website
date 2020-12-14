@@ -31,7 +31,7 @@ social:
   link: "mailto:lucacarbone.lc@gmail.com"
 - icon: osf
   icon_pack: ai ai-osf
-  link: https://osf.io/profile/
+  link: https://osf.io/r2s8q/
 - icon: orcid
   icon_pack: ai ai-orcid
   link: https://orcid.org/0000-0003-1688-9468

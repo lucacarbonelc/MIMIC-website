@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Za udeležence"
+title = "Za sodelujoče mladostnike"
 subtitle = ""
 date = "2020-12-07T00:00:00+01:00"
 lastmod = [":fileModTime", ":default"]
@@ -72,13 +72,12 @@ lastmod = [":fileModTime", ":default"]
 Člani raziskovalne skupine MIMIc želimo mladostnikom, kot si ti, pomagati, da bi imeli od uporabe medijev čim več koristi. Radi bi izvedeli, kaj vam med uporabo medijev pomaga, kaj vas osrečuje in kaj ne. Da bi to bolje razumeli, želimo videti, kako ti in tvoji vrstniki uporabljate medije. Če tudi tebe tako kot nas zanima, kako lahko tvoje izkušnje z uporabo medijev izboljšamo, potem lahko drug drugemu pomagamo!
 
 **Kaj počnemo?**\
-Naša raziskava poteka v treh različnih državah (Belgiji, Sloveniji in Franciji) in je del širšega evropskega projekta, ki ga vodi prof. Laura Vandenbosch. Želimo si pridobiti vpogled v medije, ki jih ti in tvoji prijatelji (stari od 12 do 17 let) radi uporabljate in kakšne vsebine na njih gledate. Zanima nas, kako se mladostniki, kot si ti, odzivate na sporočila, ki se pojavljajo na družbenih omrežjih, televiziji in tudi tekstih popularne glasbe, tako daljši čas kot tudi vsak dan. Zanima nas tudi, kaj o sebi objavljate na družbenih omrežjih (kot na primer na Instagramu ali TikToku). Na splošno si želimo izvedeti več o odnosu med uporabo medijev in o tem, kaj si ti in tvoji vrstniki mislite o sebi, o drugih, o svojem telesu, šolskem uspehu in svetu okrog vas.
-
+Naša raziskava poteka v treh različnih državah (Belgiji, Sloveniji in Franciji) in je del širšega evropskega projekta, ki ga vodi prof. Laura Vandenbosch. Želimo si pridobiti vpogled v medije, ki jih ti in tvoji prijatelji (stari od 12 do 17 let) radi uporabljate in kakšne vsebine na njih gledate. Zanima nas, kako se mladostniki, kot si ti, odzivate na sporočila, ki se pojavljajo na družbenih omrežjih, televiziji in tudi tekstih popularne glasbe, tako daljši čas kot tudi vsak dan. Zanima nas tudi, kaj o sebi objavljate na družbenih omrežjih (kot na primer na Instagramu ali TikToku). Na splošno si želimo izvedeti več o odnosu med uporabo medijev in o tem, kaj si ti in tvoji vrstniki mislite o sebi, o drugih, o svojem telesu, šolskem uspehu in svetu okrog vas. 
 Po koncu raziskave bomo tebi in tvoji šoli poslali poročilo. To poročilo bo vsebovalo nasvete in napotke, ki ti bodo v pomoč pri težavah ob uporabi medijev. Na ta način želimo doseči, da boš imel/a od uporabe medijev kar največ koristi.
 
 V zahvalo za sodelovanje v študiji boš prejel/a *darilni bon* (v več delih študije kot boš sodeloval/a, višja bo njegova vrednost). Prav tako boš sodeloval/a v loterijskem žrebu za dodatni darilni bon. Nagrado boš prejel/a, ker boš namenil/a čas raziskavi. Darilni bon boš prejel/a tudi, če se boš po zaključku raziskave odločil/a za izbris svojih osebnih podatkov.
 
-**Kaj pa zaupnost podatkov (vaša zasebnost)?**\
+**Kaj pa zaupnost podatkov (tvoja zasebnost)?**\
 Zaupnost osebnih podatkov bo vedno zagotovljena. Povedano drugače, obljubimo, da bodo podatki, ki nam jih boš zaupal/a, ostali zasebni. Zbrane podatke bomo uporabili samo za raziskovalne namene. Raziskovalna poročila ne bodo nikoli vsebovala nobenih osebnih podatkov (kot na primer tvojega imena ali datuma rojstva). Podatke bomo uporabljali v skladu s Splošno uredbo o varstvu osebnih podatkov (GDPR) in strogimi pravili Univerze v Leuvnu, Univerze v Ljubljani in Univerze v Toursu. Več informacij o postopkih in zaupnosti naše raziskave lahko najdeš v informacijski brošuri.
 
 **Praktične informacije**\

@@ -82,6 +82,11 @@
     <lastmod>2020-06-30T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="sl"
+                href="/sl/open_science/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="/open_science/"
                 />
@@ -89,11 +94,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/open_science/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="/sl/open_science/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -545,6 +545,20 @@
                 rel="alternate"
                 hreflang="nl"
                 href="/nl/authors/1admin4/"
+                />
+  </url>
+  
+  <url>
+    <loc>/nl/authors/1admin5/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="/sl/authors/1admin5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="/nl/authors/1admin5/"
                 />
   </url>
   

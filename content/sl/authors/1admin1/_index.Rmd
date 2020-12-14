@@ -9,18 +9,18 @@ education:
     year: 2013
 email: ""
 interests:
-- Medijska psihologija
-- mladostniki
-- Nova odraslost
-- Dobro počutje
-- Spolno zorenje
+- Psihologija medijev
+- Mladostniki
+- Prehod v odraslost
+- Blaginja
+- Spolno odraščanje
 - Medijska pismenost
-- Prožnost
+- Spremenljivost
 name: Laura Vandenbosch
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00060068"
-role: Docent na Šoli za raziskovanje množičnih komunikacij
+role: Docentka na Oddelku za raziskovanje množičnih komunikacij
 social:
 - icon: envelope
   icon_pack: fas
@@ -45,4 +45,4 @@ Leta 2015 je bila izvoljena za sekretarko oddelka za otroke, mladostnike in medi
 
 Trenutno sodeluje pri več (mednarodnih) raziskovalnih projektih, katerih namen je preučiti, kako lahko mediji vplivajo na dobro počutje, tako da se osredotoča na dejavnike, ki niso bili dobro razumljeni, kot so vloga družbenih odnosov, kulturno ozadje, seksualizacija, medijska pismenost in voljnost. prepričanj. Del teh projektov je vključenih v mednarodno mrežo, ki jo je gradila skozi leta, tako da je preživela obdobja v tujini, na primer v zvezni državi Michigan, univerzi Toronto in univerzi Dunaj. Njeno delo je privedlo do številnih nagrad, kot so nagrade za najboljši članek, najboljši članek in najboljšo disertacijo oddelka za otroke, mladostnike in medije (CAM) Mednarodnega združenja za komuniciranje (2013–2016) in nagrado Raziskovalnega sveta za humanistiko ( Prijs Onderzoeksraad, 2016).
 
-Leta 2019 je prejela začetno štipendijo ERC za projekt „Gibnost v posredovanih idealih: paradigma za razumevanje učinkov sodobnih medijev na dobro počutje mladostnikov.“
+Leta 2019 je prejela začetno štipendijo ERC za projekt »Spremenljivost “pokvarljivih idealov”: paradigma za razumevanje učinkov sodobnih medijev na dobrobit otrok in mladostnikov«.

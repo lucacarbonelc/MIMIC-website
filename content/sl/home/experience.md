@@ -19,38 +19,38 @@ date_format = "02 Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Dnevnik študija"
+  title = "Študija z dnevnikom"
   date_start = "2022-09-01"
   
 [[experience]]
-  title = "Vzdolžna anketa"
+  title = "Spletna anketa (longitudinalna)"
   date_start = "2022-01-01"
-  description = "Wave 3"
+  description = "3.val"
 
 [[experience]]
   title = "Zaposlovanje profilov mladostnikov v družabnih omrežjih"
   date_start = "2021-09-01"
 
 [[experience]]
-  title = "Vzdolžna anketa"
+  title = "Spletna anketa (longitudinalna)"
   date_start = "2021-09-01"
-  description = "Wave 2"
+  description = "2.val"
 
 [[experience]]
-  title = "Vzdolžna anketa"
+  title = "Spletna anketa (longitudinalna)"
   date_start = "2021-05-01"
-  description = "Wave 1"
+  description = "1. val in zbiranje posnetkov zaslona profilov na družbenih omrežjih"
 
 [[experience]]
   title = "Analiza pilotnih podatkov"
   date_start = "2021-04-01"
 
 [[experience]]
-  title = "Pilotna spletna anketa"
+  title = "Spletna anketa (testna)"
   date_start = "2021-03-01"
 
 [[experience]]
-  title = "Poglobljeni spletni intervjuji"
+  title = "Poglobljeni spletni intervjuji (testni)"
   date_start = "2021-02-01"
 
 [[experience]]
@@ -58,17 +58,17 @@ date_format = "02 Jan 2006"
   date_start = "2021-01-01"
 
 [[experience]]
-  title = "Funkcije Creation R se ujemajo z glasbenimi akordi in besedili"
+  title = "Narejene R funkcije, ki ujemajo glasbene akorde z besedili"
   date_start = "2020-06-18"
-  description = "[Luca Carbone](http://www.projectmimic.eu/authors/admin4/) je ustvaril dve funkciji za ujemanje besed v glasbenih besedilih z ustreznim akordom, ki sta bili nato vstavljeni kot del paketa R [`chorrrds`](https://github.com/r-music/chorrrds). Opis funkcij in majhen primer uporabe teme najdete [tukaj](https://www.lucacarbone.com/post/functions_chorrrds/functions_chorrrds/)."
+  description = "[Luca Carbone](http://www.projectmimic.eu/authors/admin4/) je ustvaril dve funkciji za ujemanje besed v glasbenih besedilih z ustreznim akordom in jih nato vstavil kot del paketa R [`chorrrds`](https://github.com/r-music/chorrrds). To je del študije glasbe, ki raziskuje vpliv pesmi na prepričanja posameznikov o meritokraciji, strukturnih neenakostih in zaskrbljenosti posameznika glede revščine. Opis funkcij in majhen primer uporabe teme najdete [tukaj](https://www.lucacarbone.com/post/functions_chorrrds/functions_chorrrds/)."
 
 [[experience]]
-  title = "Spletno mesto za ustvarjanje"
+  title = "Oblikovana spletna stran"
   date_start = "2020-02-10"
   description = ""
   
 [[experience]]
-  title = "Zaženi projekt ERC"
+  title = "Začetek projekta ERC"
   date_start = "2020-01-13"
   description = ""
 
