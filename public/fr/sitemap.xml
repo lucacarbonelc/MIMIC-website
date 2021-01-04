@@ -549,6 +549,30 @@
   </url>
   
   <url>
+    <loc>/fr/authors/1admin5/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/1admin5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="/nl/authors/1admin5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="/sl/authors/1admin5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/authors/1admin5/"
+                />
+  </url>
+  
+  <url>
     <loc>/fr/authors/4clb_user10/</loc>
     <xhtml:link
                 rel="alternate"

@@ -28,7 +28,7 @@ date_format = "02 Jan 2006"
   description = "3.val"
 
 [[experience]]
-  title = "Zaposlovanje profilov mladostnikov v družabnih omrežjih"
+  title = "Zbiranj posnetkov zaslona profilov na družbenih omrežjih"
   date_start = "2021-09-01"
 
 [[experience]]
@@ -39,7 +39,7 @@ date_format = "02 Jan 2006"
 [[experience]]
   title = "Spletna anketa (longitudinalna)"
   date_start = "2021-05-01"
-  description = "1. val in zbiranje posnetkov zaslona profilov na družbenih omrežjih"
+  description = "1. val"
 
 [[experience]]
   title = "Analiza pilotnih podatkov"
@@ -54,7 +54,7 @@ date_format = "02 Jan 2006"
   date_start = "2021-02-01"
 
 [[experience]]
-  title = "Začni spraševati soglasje staršev"
+  title = "Začetek pridobivanja soglasja staršev"
   date_start = "2021-01-01"
 
 [[experience]]

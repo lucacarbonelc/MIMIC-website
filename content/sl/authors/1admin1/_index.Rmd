@@ -4,7 +4,7 @@ authors:
 bio:
 education:
   courses:
-  - course: PhD iz komunikologije
+  - course: Doktorica znanosti iz komunikologije
     institution: Katholieke Universiteit Leuven
     year: 2013
 email: ""
@@ -39,10 +39,10 @@ user_groups:
 - Team
 ---
 
-Od leta 2017 je Laura Vandenbosch docentka na Šoli za raziskave množičnih komunikacij (dotacija za raziskovalno profesorstvo BOF-ZAP). Odnos med mediji in blaginjo je osrednja tema njenih raziskav, ki vodijo do mednarodnih publikacij na več področjih, vključno z razvojno psihologijo, seksologijo, podobo telesa, socialnimi odnosi in teorijo komunikacije.
+Laura Vandenbosch je od leta 2017 docentka na Oddelku za raziskovanje množičnih komunikacij Univerze v Leuvnu, Belgija (BOF-ZAP research professorship grant). Osrednja tema njenega raziskovanja je odnos med mediji in blaginjo, svoja dognanja pa objavlja v številnih mednarodnih revijah iz področja razvojne psihologije, seksologije, telesne podobe, socialnih odnosov in teorije komunikacije.
 
-Leta 2015 je bila izvoljena za sekretarko oddelka za otroke, mladostnike in medije Mednarodnega združenja za komuniciranje (2015-2018). Laura je trenutno tudi članica uredništva revij Human Communication Research, Journal of Children and Media in Communications: The European Journal of Communication Research, ki jih uvršča ISI.
+Leta 2015 je bila izvoljena za položaj sekretarke za otroke, mladostnike in medijsko delitev na Mednarodnem združenju za komunikacijo (Children, Adolescents and Media Division of the International Communication Association) (2015–2018). Trenutno pa je tudi članica uredniškega odbora mednarodno indeksiranih znanstvenih revij (ISI-ranked), kot so Human Communication Research, Journal of Children and Media in The European Journal of Communication Research.
 
-Trenutno sodeluje pri več (mednarodnih) raziskovalnih projektih, katerih namen je preučiti, kako lahko mediji vplivajo na dobro počutje, tako da se osredotoča na dejavnike, ki niso bili dobro razumljeni, kot so vloga družbenih odnosov, kulturno ozadje, seksualizacija, medijska pismenost in voljnost. prepričanj. Del teh projektov je vključenih v mednarodno mrežo, ki jo je gradila skozi leta, tako da je preživela obdobja v tujini, na primer v zvezni državi Michigan, univerzi Toronto in univerzi Dunaj. Njeno delo je privedlo do številnih nagrad, kot so nagrade za najboljši članek, najboljši članek in najboljšo disertacijo oddelka za otroke, mladostnike in medije (CAM) Mednarodnega združenja za komuniciranje (2013–2016) in nagrado Raziskovalnega sveta za humanistiko ( Prijs Onderzoeksraad, 2016).
+Trenutno sodeluje v številnih (mednarodnih) raziskovalnih projektih s področja preučevanja vpliva medijev na blaginjo, s poudarkom na dejavnikih, ki do sedaj še niso bili dobro raziskani, kot so vloga socialnih odnosov, kulturno ozadje, spolnost, medijska pismenost in spremenljivost prepričanj (“malleability beliefs”). Del teh projektov je vključenih v mednarodno socialno mrežo, ki jo je zgradila med preživljanjem obdobij v tujini, kot na primer na Univerzi v Michiganu, Univerzi v Torontu in Univerzi na Dunaju. Za svoje raziskovalno delo je prejela že številne nagrade, kot so Top Paper, Top Article and Top Dissertation Awards from the Children, Adolescents and Media (CAM) Division of the International Communication Association (2013-2016) in the Research Council Award in the Humanities (Prijs Onderzoeksraad, 2016).
 
-Leta 2019 je prejela začetno štipendijo ERC za projekt »Spremenljivost “pokvarljivih idealov”: paradigma za razumevanje učinkov sodobnih medijev na dobrobit otrok in mladostnikov«.
+Leta 2019 je prejela štipendijo ERC za projekt »Spremenljivost “pokvarljivih idealov”: paradigma za razumevanje učinkov sodobnih medijev na dobrobit otrok in mladostnikov«. 

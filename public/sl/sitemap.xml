@@ -552,6 +552,16 @@
     <loc>/sl/authors/1admin5/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="/authors/1admin5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/authors/1admin5/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="nl"
                 href="/nl/authors/1admin5/"
                 />

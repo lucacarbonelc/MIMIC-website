@@ -4,23 +4,23 @@ authors:
 bio:
 education:
   courses:
-  - course: PhD iz komunikologije
+  - course: Doktorska kandidatka komunikologije
     institution: Katholieke Universiteit Leuven
-    year: 2020 - prisoten
-  - course: MSc iz politični psihologiji mednarodnih odnosov
+    year: 2020 - v teku
+  - course: Magistra politične psihologije mednarodnih odnosov
     institution: University of Birmingham, UK
     year: 2018-2019
-  - course: BSc iz Psihologija
+  - course: Univerzitetna diplomirana psihologinja
     institution: University of Tours, France and University of Calgary, Canada
     year: 2015-2018
 email: ""
 interests:
 - Politična psihologija
 - Proti-znanstvene, lažne novice in teorije zarote
-- Medijska psihologija
-- zgodnja politična socializacija
+- Psihologija medijev
+- Zgodnja politična socializacija
 - Družbeni aktivizem
-- dobro počutje mladostnikov
+- Blaginja mladostnikov
 name: Anaëlle Gonzalez
 organizations:
 - name: KU Leuven

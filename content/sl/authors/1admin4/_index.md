@@ -4,27 +4,26 @@ authors:
 bio: 
 education:
   courses:
-  - course: PhD iz komunikologije
+  - course: Doktorski kandidat komunikologije
     institution: KU Leuven school for Mass Communication
-    year: 2019 - prisoten
-  - course: Raziskujte MSc iz sociologije
+    year: 2019 - v teku
+  - course: Magister sociologije
     institution: Tilburg University
     year: 2017 - 2019
-  - course: BSc iz sociologiji
+  - course: Univerzitetni diplomirani sociologije
     institution: University of Trento
     year: 2014 - 2017
 email: "lucacarbone.lc@gmail.com"
 interests:
-- Kulturna in kognitivna sociologija
-- Glasba
-- Meritokracija
-- Socialne neenakosti
+- Kulturna in kognitvna sociologija
+- Mediji
+- Družbene neenakosti
 - Metode in odprta znanost
 name: Luca Carbone
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00135858"
-role: Doktorska študentka
+role: Doktorska študent
 social:
 - icon: envelope
   icon_pack: fa
@@ -46,6 +45,4 @@ user_groups:
 - Team
 ---
 
-Sem doktorski študent na Šoli za raziskovanje množičnih komunikacij, KU Leuven (BE). Moja raziskovalna zanimanja ležijo na stičišču kulturne in kognitivne sociologije, raziskav medijskih učinkov in preučevanja neenakosti.
-S teoretičnega vidika preučujem, kako lahko socializacijski procesi med mladostniki oblikujejo oblikovanje njihovega prepričanja o neenakostih. Izhajajoč iz kulturne sociologije preučujem, kako bi lahko družbeno stratificirani dostop in sodelovanje s prestižnimi simbolnimi dobrinami (tj. Glasbenimi zvrstmi) delovali kot oblika kulturne diferenciacije. Na podlagi literature o medijskih učinkih preučujem, kako glasba prikazuje družbeni status in možne poti, po katerih ti prikazi vplivajo na prepričanja mladostnikov.
-Empirično uporabljam kvantitativne metodologije, kot so analiza socialnih omrežij, modeliranje strukturnih enačb in računska analiza besedila. Zavzemam se za odprt znanstveni okvir in miselnost.
+Sem doktorski študent na Oddelku za raziskovanje množičnih komunikacij Univerze v Leuvnu. Moji raziskovalni interesi se nahajajo na presečišču medijskih vplivov, kulturne in kognitivne sociologije. S teoretskega vidika proučujem proces oblikovanja prepričanj s perspektive poosebljanja (embodied perspective) s posebnim poudarkom na kodiranju in shranjevanju veččutnih informacij in jezikovnih dražljajev. To utemeljitev uporabljam za poseben primer družbenih neenakosti in vplivov medijev: Kako posamezniki oblikujejo prepričanja o revščini? Kakšna je odnos med svojim družbenimi razredom ter družbenim razredom drugih? Kakšno vlogo imajo mediji pri oblikovanju in ponotranjanju teh prepričanj? Empirično uporabljam kvantitativne metodologije kot na primer analizo socialnih omrežij (social network analysis), modeliranje strukturnih enačb (structural equation modelling) in računalniško podprto analizo besedil (computational text analysis). Zavzemam se za načela odprte znanosti.
