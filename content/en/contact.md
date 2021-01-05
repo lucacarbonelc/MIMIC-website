@@ -19,9 +19,10 @@ If you have questions about the organization of the research, you can always con
 • email: anaelle.gonzalez@kuleuven.be,\
 • [website](https://www.kuleuven.be/wieiswie/en/person/00136069).
 
-- Prof. **Lobe Bojana** for all *Slovenian* related research questions:\
-• email: Bojana.Lobe@fdv.uni-lj.si,\
-• [website](https://www.fdv.uni-lj.si/en/news-and-information/contacts/teachers/info/bojana-lobe/).
+- **Jasmina Rosic** for all *Slovenian* related research questions:\
+• tel: +32 16 19 47 48, \
+• email: jasmina.rosic@kuleuven.be, \
+• [website](https://www.kuleuven.be/wieiswie/en/person/00142166).
 
 - For research about the *overall framework*, you can address the principal investigator, Prof. **Laura Vandenbosch**. She is the Principal Investigator of the ERC starting grant project (code MIMIc, nr 852317):\
 • tel: +32 16 32 32 02,\

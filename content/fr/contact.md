@@ -19,9 +19,10 @@ Si vous avez des questions sur l'organisation de la recherche, vous pouvez toujo
 • email: anaelle.gonzalez@kuleuven.be, \
 • [site Web] (https://www.kuleuven.be/wieiswie/en/person/00136069).
 
-- Prof. **Lobe Bojana** pour toutes les questions de recherche liées au *slovène*: \
-• e-mail: Bojana.Lobe@fdv.uni-lj.si, \
-• [site Web] (https://www.fdv.uni-lj.si/en/news-and-information/contacts/teachers/info/bojana-lobe/).
+- **Jasmina Rosic** pour toutes les questions de recherche liées au *slovène*: \
+• tel: +32 16 19 47 48, \
+• email: jasmina.rosic@kuleuven.be, \
+• [site Web] (https://www.kuleuven.be/wieiswie/en/person/00142166).
 
 - Pour la recherche sur le *cadre général*, vous pouvez vous adresser à la chercheuse principale, le professeur **Laura Vandenbosch**. Elle est la chercheuse principale du projet de subvention de démarrage ERC (code MIMIc, nr 852317): \
 • tel: +32 16 32 32 02, \

@@ -19,9 +19,10 @@ lastmod: [":fileModTime", ":default"]
 • e-naslov: anaelle.gonzalez@kuleuven.be, \
 • [spletno mesto](https://www.kuleuven.be/wieiswie/en/person/00136069).
 
-- prof. **Lobe Bojana** za vsa *slovenska* povezana raziskovalna vprašanja: \
-• e-naslov: Bojana.Lobe@fdv.uni-lj.si, \
-• [spletno mesto](https://www.fdv.uni-lj.si/en/news-and-information/contacts/teachers/info/bojana-lobe/).
+- **Jasmina Rosic** za vsa *slovenska* povezana raziskovalna vprašanja: \
+• tel: +32 16 19 47 48, \
+• e-naslov: jasmina.rosic@kuleuven.be, \
+• [spletno mesto](https://www.kuleuven.be/wieiswie/en/person/00142166).
 
 - Za raziskave o *splošnem okviru* se lahko obrnete na glavno raziskovalko, prof. **Laura Vandenbosch**. Je glavni raziskovalec začetnega nepovratnega projekta ERC (koda MIMIc, št. 852317): \
 • tel: +32 16 32 32 02, \

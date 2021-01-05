@@ -22,7 +22,7 @@ name: Brent Swinnen
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00113344"
-role: Doktorska študent
+role: Doktorski študent
 social:
 - icon: envelope
   icon_pack: fas

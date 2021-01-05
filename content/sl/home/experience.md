@@ -28,7 +28,7 @@ date_format = "02 Jan 2006"
   description = "3.val"
 
 [[experience]]
-  title = "Zbiranj posnetkov zaslona profilov na družbenih omrežjih"
+  title = "Zbiranje posnetkov zaslona profilov na družbenih omrežjih"
   date_start = "2021-09-01"
 
 [[experience]]

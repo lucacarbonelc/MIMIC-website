@@ -19,9 +19,10 @@ Als je vragen hebt over de organisatie van het onderzoek, kun je altijd contact 
 • e-mail: anaelle.gonzalez@kuleuven.be, \
 • [website](https://www.kuleuven.be/wieiswie/en/person/00136069).
 
-- Prof. **Lobe Bojana** voor alle *Sloveens* gerelateerde onderzoeksvragen: \
-• e-mail: Bojana.Lobe@fdv.uni-lj.si, \
-• [website](https://www.fdv.uni-lj.si/en/news-and-information/contacts/teachers/info/bojana-lobe/).
+- **Jasmina Rosic** voor alle *Sloveens* gerelateerde onderzoeksvragen: \
+• tel: +32 16 19 47 48, \
+• e-mail: jasmina.rosic@kuleuven.be, \
+• [website] (https://www.kuleuven.be/wieiswie/en/person/00142166).
 
 - Voor onderzoek over het *globale kader* kan je terecht bij de hoofdonderzoeker, Prof. **Laura Vandenbosch**. Zij is de hoofdonderzoeker van het ERC-startsubsidieproject (code MIMIc, nr 852317): \
 • tel: +32 16 32 32 02, \
