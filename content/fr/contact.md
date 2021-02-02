@@ -11,17 +11,17 @@ Si vous avez des questions sur l'organisation de la recherche, vous pouvez toujo
 
 - **Brent Swinnen** pour toutes les questions de recherche *belges* liées: \
 • tel: +32 16 37 39 64, \
-• email: brent.swinnen@kuleuven.be, \
+• email: mimic.belgium@kuleuven.be,\
 • [site Web] (https://www.kuleuven.be/wieiswie/en/person/00113344).
 
 - **Anaelle Gonzalez** pour toutes les questions de recherche liées au *français*: \
 • tel: +32 16 19 37 89, \
-• email: anaelle.gonzalez@kuleuven.be, \
+• email: mimic.france@kuleuven.be,\
 • [site Web] (https://www.kuleuven.be/wieiswie/en/person/00136069).
 
 - **Jasmina Rosic** pour toutes les questions de recherche liées au *slovène*: \
 • tel: +32 16 19 47 48, \
-• email: jasmina.rosic@kuleuven.be, \
+• email: mimic.slovenia@kuleuven.be,\
 • [site Web] (https://www.kuleuven.be/wieiswie/en/person/00142166).
 
 - Pour la recherche sur le *cadre général*, vous pouvez vous adresser à la chercheuse principale, le professeur **Laura Vandenbosch**. Elle est la chercheuse principale du projet de subvention de démarrage ERC (code MIMIc, nr 852317): \

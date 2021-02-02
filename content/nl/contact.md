@@ -11,17 +11,17 @@ Als je vragen hebt over de organisatie van het onderzoek, kun je altijd contact 
 
 - **Brent Swinnen** voor alle *Belgische* gerelateerde onderzoeksvragen: \
 • tel: +32 16 37 39 64, \
-• e-mail: brent.swinnen@kuleuven.be, \
+• e-mail: mimic.belgium@kuleuven.be,\
 • [website](https://www.kuleuven.be/wieiswie/en/person/00113344).
 
 - **Anaelle Gonzalez** voor alle *Frans* gerelateerde onderzoeksvragen: \
 • tel: +32 16 19 37 89, \
-• e-mail: anaelle.gonzalez@kuleuven.be, \
+• e-mail: mimic.france@kuleuven.be,\
 • [website](https://www.kuleuven.be/wieiswie/en/person/00136069).
 
 - **Jasmina Rosic** voor alle *Sloveens* gerelateerde onderzoeksvragen: \
 • tel: +32 16 19 47 48, \
-• e-mail: jasmina.rosic@kuleuven.be, \
+• e-mail: mimic.slovenia@kuleuven.be,\
 • [website] (https://www.kuleuven.be/wieiswie/en/person/00142166).
 
 - Voor onderzoek over het *globale kader* kan je terecht bij de hoofdonderzoeker, Prof. **Laura Vandenbosch**. Zij is de hoofdonderzoeker van het ERC-startsubsidieproject (code MIMIc, nr 852317): \
