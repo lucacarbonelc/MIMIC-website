@@ -331,7 +331,7 @@
   weight = 3.2
 
 [[sl.menu.main]]
-  name = "Video posnetke"
+  name = "Videoposnetki"
   parent = "resources"
   url = "/videos"
   weight = 3.3
