@@ -85,6 +85,12 @@
   weight = 3.2
 
 [[fr.menu.main]]
+  name = "Vidéos"
+  parent = "resources"
+  url = "/videos"
+  weight = 3.3
+
+[[fr.menu.main]]
   name = "Écoles"
   identifier = "schools"
   url = "#"
@@ -202,6 +208,12 @@
   weight = 3.2
 
 [[nl.menu.main]]
+  name = "Videos"
+  parent = "resources"
+  url = "/videos"
+  weight = 3.3
+
+[[nl.menu.main]]
   name = "Scholen"
   identifier = "schools"
   url = "#"
@@ -317,6 +329,12 @@
   parent = "resources"
   url = "/open_science"
   weight = 3.2
+
+[[sl.menu.main]]
+  name = "Video posnetke"
+  parent = "resources"
+  url = "/videos"
+  weight = 3.3
 
 [[sl.menu.main]]
   name = "Šole"

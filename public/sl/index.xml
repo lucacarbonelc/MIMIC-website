@@ -5,12 +5,28 @@
     <link>/sl/</link>
       <atom:link href="/sl/index.xml" rel="self" type="application/rss+xml" />
     <description>MIMIc</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>sl</language><copyright>This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 852317)</copyright><lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>sl</language><copyright>This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 852317)</copyright><lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>MIMIc</title>
       <link>/sl/</link>
     </image>
+    
+    <item>
+      <title>Video posnetke</title>
+      <link>/sl/videos/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0100</pubDate>
+      <guid>/sl/videos/</guid>
+      <description>&lt;h2 id=&#34;slovenia-dr-bojana-lobe-university-of-ljubljana&#34;&gt;Slovenia: Dr. Bojana Lobe (University of Ljubljana)&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/6oRIBmtVwKc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;belgium-dr-laura-vandenbosch-university-of-leuven&#34;&gt;Belgium: Dr. Laura Vandenbosch (University of Leuven)&lt;/h2&gt;
+&lt;h2 id=&#34;france-dr-caroline-giraudeau-university-of-tours&#34;&gt;France: Dr. Caroline Giraudeau (University of Tours)&lt;/h2&gt;
+</description>
+    </item>
     
     <item>
       <title>Medijsko pismene šole</title>
@@ -109,52 +125,51 @@ Zadnja študija, ki jo bomo izvedli, je študija družbenih omrežij. Tako kot v
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0100</pubDate>
       <guid>/sl/contact/</guid>
       <description>&lt;h2 id=&#34;organizacija-raziskave&#34;&gt;Organizacija raziskave&lt;/h2&gt;
-&lt;p&gt;Če imate vprašanja o organizaciji raziskave, se lahko vedno obrnete na odgovornega raziskovalca v vsaki državi:&lt;/p&gt;
+&lt;p&gt;Če imate kakršna koli vprašanja glede organizacije naše raziskave, lahko vedno kontaktirate raziskovalca, odgovornega za potek raziskave v vaši državi:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Brent Swinnen&lt;/strong&gt; za vsa &lt;em&gt;belgijska&lt;/em&gt; povezana raziskovalna vprašanja:&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Brent Swinnen&lt;/strong&gt; za vsa vprašanja glede raziskave v &lt;em&gt;Belgiji&lt;/em&gt;:&lt;br&gt;
 • tel: +32 16 37 39 64,&lt;br&gt;
-• e-naslov: &lt;a href=&#34;mailto:brent.swinnen@kuleuven.be&#34;&gt;brent.swinnen@kuleuven.be&lt;/a&gt;,&lt;br&gt;
+• e-pošta: &lt;a href=&#34;mailto:mimic.belgium@kuleuven.be&#34;&gt;mimic.belgium@kuleuven.be&lt;/a&gt;,&lt;br&gt;
 • 
-&lt;a href=&#34;https://www.kuleuven.be/wieiswie/en/person/00113344&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;spletno mesto&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://www.kuleuven.be/wieiswie/en/person/00113344&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;spletna stran&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Anaelle Gonzalez&lt;/strong&gt; za vsa &lt;em&gt;francoska&lt;/em&gt; povezana raziskovalna vprašanja:&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Anaelle Gonzalez&lt;/strong&gt; za vsa vprašanja glede raziskave v &lt;em&gt;Franciji&lt;/em&gt;:&lt;br&gt;
 • tel: +32 16 19 37 89,&lt;br&gt;
-• e-naslov: &lt;a href=&#34;mailto:anaelle.gonzalez@kuleuven.be&#34;&gt;anaelle.gonzalez@kuleuven.be&lt;/a&gt;,&lt;br&gt;
+• e-pošta: &lt;a href=&#34;mailto:mimic.france@kuleuven.be&#34;&gt;mimic.france@kuleuven.be&lt;/a&gt;,&lt;br&gt;
 • 
-&lt;a href=&#34;https://www.kuleuven.be/wieiswie/en/person/00136069&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;spletno mesto&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://www.kuleuven.be/wieiswie/en/person/00136069&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;spletna stran&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Jasmina Rosic&lt;/strong&gt; za vsa &lt;em&gt;slovenska&lt;/em&gt; povezana raziskovalna vprašanja:&lt;br&gt;
+&lt;p&gt;**Jasmina Rosič ** za vsa vprašanja glede raziskave v &lt;em&gt;Sloveniji&lt;/em&gt;:&lt;br&gt;
 • tel: +32 16 19 47 48,&lt;br&gt;
-• e-naslov: &lt;a href=&#34;mailto:jasmina.rosic@kuleuven.be&#34;&gt;jasmina.rosic@kuleuven.be&lt;/a&gt;,&lt;br&gt;
-• 
-&lt;a href=&#34;https://www.kuleuven.be/wieiswie/en/person/00142166&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;spletno mesto&lt;/a&gt;.&lt;/p&gt;
+• e-pošta: &lt;a href=&#34;mailto:mimic.slovenia@kuleuven.be&#34;&gt;mimic.slovenia@kuleuven.be&lt;/a&gt;,&lt;br&gt;
+• [spletna stran](&lt;a href=&#34;https://www.kuleuven.be/wieiswie/en/person/00142166&#34;&gt;https://www.kuleuven.be/wieiswie/en/person/00142166&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Za raziskave o &lt;em&gt;splošnem okviru&lt;/em&gt; se lahko obrnete na glavno raziskovalko, prof. &lt;strong&gt;Laura Vandenbosch&lt;/strong&gt;. Je glavni raziskovalec začetnega nepovratnega projekta ERC (koda MIMIc, št. 852317):&lt;br&gt;
+&lt;p&gt;Za splošna vprašanja lahko kontaktirate tudi glavno raziskovalko Prof. &lt;strong&gt;Lauro Vandenbosch&lt;/strong&gt;. Je odgovorna oseba projekta, podprtega z ERC štipendijo (koda MIMIc, št. 852317):&lt;br&gt;
 • tel: +32 16 32 32 02,&lt;br&gt;
-• e-naslov: &lt;a href=&#34;mailto:laura.vandenbosch@kuleuven.be&#34;&gt;laura.vandenbosch@kuleuven.be&lt;/a&gt;,&lt;br&gt;
+• e-pošta: &lt;a href=&#34;mailto:mimic.belgium@kuleuven.be&#34;&gt;mimic.belgium@kuleuven.be&lt;/a&gt;,&lt;br&gt;
 • 
-&lt;a href=&#34;https://www.kuleuven.be/wieiswie/en/person/00060068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;spletno mesto&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://www.kuleuven.be/wieiswie/en/person/00060068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;spletna stran&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;etični-postopki&#34;&gt;Etični postopki&lt;/h2&gt;
-&lt;p&gt;Če imate vprašanja o etičnih postopkih raziskave, vas želimo obvestiti, da je to študijo odobrila &lt;strong&gt;Etična komisija za družbene in humanistične vede Katoliške univerze v Leuvenu&lt;/strong&gt; (SMEC), &lt;strong&gt;CER Tours -Poitiers - Courriel Univerze v Toursu&lt;/strong&gt; in &lt;strong&gt;Komisija za etiko v raziskovanju FDV Univerze v Ljubljani&lt;/strong&gt; (KERFDV).
-Vprašanja v zvezi z odobrenimi etičnimi smernicami lahko pošljete na:&lt;/p&gt;
+&lt;p&gt;Če imate vprašanje glede etičnih postopkov raziskave, vas obveščamo, da so jo odobrile &lt;strong&gt;Etična komisija za družbene in humanistične vede Univerze v Leuvnu&lt;/strong&gt; (Ethical Commission of Social and Human Sciences of the Catholic University of Leuven - SMEC), ** Etična komisija Univerze v Toursu (CER Tours-Poitiers – Courriel of the University of Tours)** in **Komisija za etiko v raziskovanju FDV Univerze v Ljubljani** (KERFDV).
+Vaša vprašanja glede odobrenih etičnih smernic lahko preko elektronske pošte pošljete na:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;mailto:SMEC@kuleuven.be&#34;&gt;SMEC@kuleuven.be&lt;/a&gt; (za Belgijo)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;mailto:presidencecertp@univ-tours.fr&#34;&gt;presidencecertp@univ-tours.fr&lt;/a&gt; (za Francijo)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:Bojana.Lobe@fdv.uni-lj.si&#34;&gt;Bojana.Lobe@fdv.uni-lj.si&lt;/a&gt; (za Slovenijo)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:fdv.idv@fdv.uni-lj.si&#34;&gt;fdv.idv@fdv.uni-lj.si&lt;/a&gt; (za Slovenjo)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Poleg tega je bil ustanovljen dodaten etični odbor za spremljanje etičnih smernic, ki se uporabljajo v tej študiji, in ga sestavljajo prof. &lt;strong&gt;Eva Lievens&lt;/strong&gt; (&lt;a href=&#34;mailto:E.Lievens@UGent.be&#34;&gt;E.Lievens@UGent.be&lt;/a&gt;), prof. &lt;strong&gt;Moniek Buijzen&lt;/strong&gt; ( &lt;a href=&#34;mailto:m.buijzen@ru.nl&#34;&gt;m.buijzen@ru.nl&lt;/a&gt;), prof. &lt;strong&gt;Drew Cingel&lt;/strong&gt; (&lt;a href=&#34;mailto:dcingel@ucdavis.edu&#34;&gt;dcingel@ucdavis.edu&lt;/a&gt;) in dr. &lt;strong&gt;Sandra Verbeken&lt;/strong&gt; (&lt;a href=&#34;mailto:Sandra.Verbeken@UGent.be&#34;&gt;Sandra.Verbeken@UGent.be&lt;/a&gt;) bodo nadalje zaupno spremljale pristop.&lt;/p&gt;
+&lt;p&gt;Poleg tega je bil ustanovljen dodaten etični odbor za spremljanje etičnih smernic, ki se uporabljajo v tej študiji in ga sestavljajo Prof. &lt;strong&gt;Eva Lievens&lt;/strong&gt; (&lt;a href=&#34;mailto:E.Lievens@UGent.be&#34;&gt;E.Lievens@UGent.be&lt;/a&gt;), Prof. &lt;strong&gt;Moniek Buijzen&lt;/strong&gt; (&lt;a href=&#34;mailto:m.buijzen@ru.nl&#34;&gt;m.buijzen@ru.nl&lt;/a&gt;), Prof. &lt;strong&gt;Drew Cingel&lt;/strong&gt; (&lt;a href=&#34;mailto:dcingel@ucdavis.edu&#34;&gt;dcingel@ucdavis.edu&lt;/a&gt;) in Dr. &lt;strong&gt;Sandra Verbeken&lt;/strong&gt; (&lt;a href=&#34;mailto:Sandra.Verbeken@UGent.be&#34;&gt;Sandra.Verbeken@UGent.be&lt;/a&gt;), ki bodo nadalje zaupno spremljali pristop.&lt;/p&gt;
 &lt;h2 id=&#34;obdelava-osebnih-podatkov&#34;&gt;Obdelava osebnih podatkov&lt;/h2&gt;
-&lt;p&gt;Če imate vprašanja o obdelavi osebnih podatkov, se obrnite na:&lt;/p&gt;
+&lt;p&gt;Če imate vprašanja glede obdelave osebnih podatkov, vas prosimo, da kontaktirate:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;pooblaščena oseba za varstvo podatkov KU Leuven&lt;/strong&gt; prek &lt;a href=&#34;mailto:dpo@kuleuven.be&#34;&gt;dpo@kuleuven.be&lt;/a&gt; (za Belgijo)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;pooblaščenec za varstvo podatkov Univerze v Toursu&lt;/strong&gt; preko &lt;a href=&#34;mailto:daj@univ-tours.fr&#34;&gt;daj@univ-tours.fr&lt;/a&gt; (za Francijo)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;pooblaščenec za varstvo podatkov Univerze v Ljubljani&lt;/strong&gt; prek &lt;a href=&#34;mailto:dpo@uni-lj.si&#34;&gt;dpo@uni-lj.si&lt;/a&gt; (za Slovenijo)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pooblaščeno osebo za varstvo podatkov Univerze v Leuvnu&lt;/strong&gt; na &lt;a href=&#34;mailto:dpo@kuleuven.be&#34;&gt;dpo@kuleuven.be&lt;/a&gt; (za Belgijo)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pooblaščeno osebo za varstvo podatkov Univerze v Toursu&lt;/strong&gt; na &lt;a href=&#34;mailto:daj@univ-tours.fr&#34;&gt;daj@univ-tours.fr&lt;/a&gt; (za Francijo)&lt;/li&gt;
+&lt;li&gt;**Pooblaščeno osebo za varstvo podatkov Univerze v Ljubljani ** na &lt;a href=&#34;mailto:dpo@uni-lj.si&#34;&gt;dpo@uni-lj.si&lt;/a&gt; (za Slovenijo)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

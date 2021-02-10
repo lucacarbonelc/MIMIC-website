@@ -69,4 +69,3 @@ lastmod = [":fileModTime", ":default"]
 +++
 
 [insert here school list]
-
