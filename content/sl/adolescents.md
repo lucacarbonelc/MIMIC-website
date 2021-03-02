@@ -84,17 +84,17 @@ Zaupnost osebnih podatkov bo vedno zagotovljena. Povedano drugače, obljubimo, d
 Naš raziskovalni projekt je sestavljen iz več študij. Več informacij o posamezni študiji lahko najdeš v spodnjih opisih.
 
 *Longitudinalne raziskave*\
-Longitudinalna študija je največja študija. V njej bo sodelovala velika skupina učencev in dijakov (5.400) po Evropi (v Belgiji, Franciji in Sloveniji). Sodelovanje v tej študiji je pogoj, če boš želel/a sodelovati tudi v drugih dveh študijah.
+Longitudinalna študija je največja študija. V njej bo sodelovala velika skupina učencev in dijakov (4500) po Evropi (v Belgiji, Franciji in Sloveniji). Sodelovanje v tej študiji je pogoj, če boš želel/a sodelovati tudi v drugih dveh študijah.
 
 Če boš sodeloval/a v longitudinalni študiji, te bomo prosili, da boš trikrat (v treh različnih časovnih točkah) izpolnil/a vprašalnik, o tem kako uporabljaš medije. Ta vprašalnik bo vedno enak, ker želimo videti, kako se tvoje mnenje o istih temah spreminja skozi čas. Vprašalnik vsebuje vprašanja o tvojem telesu, pomenu, ki ga namenjaš svojemu videzu, šolskemu uspehu, lepotnim idealom, spolnosti, uporabi medijev (na primer družbenih omrežij) in kaj si misliš o sovrstnikih ter svetu okoli tebe.
 
 *Študija z dnevnikom*\
-V študiji z dnevnikom bo sodelovalo manj mladostnikov, v vseh državah skupaj le 1.000.
+V študiji z dnevnikom bo sodelovalo manj mladostnikov, v vseh državah skupaj le 3000.
 
 Če te bomo povabili v študijo z dnevnikom, te bomo prosili, da boš doma 14 dni zaporedoma vsak večer pred spanjem izpolnil/a kratek vprašalnik o tvoji uporabi medijev. Ta vprašalnik bo vedno enak, ker želimo videti, kako tvoje dnevne izkušnje vplivajo na to, kakšno mnenje imaš o določenih temah in ali se tvoje mnenje spreminja iz dneva v dan. Izpolnjevanje vprašalnika ti bo vzelo približno 10 minut. Izpolniš ga lahko preko računalnika, telefona ali tablice z internetno povezavo. Vprašalnik vključuje vprašanja o tvojem telesu, pomenu, ki ga namenjaš svojemu videzu, šolskemu uspehu, lepotnim idealom, spolnosti, uporabi medijev (na primer družbenih omrežij) in kaj si misliš o sovrstnikih ter svetu okoli tebe.
 
 *Študija družbenih omrežij*\
-Zadnja študija, ki jo bomo izvedli, je študija družbenih omrežij. Tako kot v študiji z dnevnikom bo v njej sodelovala manjša skupina mladostnikov, v vseh državah skupaj 1.000.
+Zadnja študija, ki jo bomo izvedli, je študija družbenih omrežij. Tako kot v študiji z dnevnikom bo v njej sodelovala manjša skupina mladostnikov, v vseh državah skupaj 1800.
 
 Če te bomo povabili v študijo družbenih omrežij, te bomo prosili, da na družbenem omrežju sprejmeš prošnjo za prijateljstvo ali sledenje, ki ti jo bomo poslali iz profila, narejenega posebej za to študijo. V času zbiranja podatkov bomo raziskovalci postali del tvojih spletnih prijateljev ali sledilcev. Nato bomo z namenom analize tvojih slik, statusov in sporočil, ki jih objavljaš na svojem družbenem profilu, naredili posnetke zaslonov (»screenshots«). Do zbranih posnetkov zaslonov bomo imeli dostop samo raziskovalci. Preučili jih bomo na primer s preštevanjem števila slik na profilu. Po končani analizi bomo vse zbrane zajeme zaslonov trajno izbrisali.
 

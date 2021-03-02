@@ -85,17 +85,17 @@ De vertrouwelijkheid van identificerende gegevens is altijd gegarandeerd. Met an
 Ons project bestaat uit meerdere onderzoeken. Hieronder vind je meer informatie over elk van hen.
 
 *Longitudinaal onderzoek*\
-De longitudinale studie is de grootste studie. Hier zullen we een grote groep (6.600) studenten uit heel Europa (België, Frankrijk en Slovenië) vragen om deel te nemen. Deelname aan dit onderzoek is een vereiste om aan een van de andere onderzoeken deel te kunnen nemen.
+De longitudinale studie is de grootste studie. Hier zullen we een grote groep (4500) studenten uit heel Europa (België, Frankrijk en Slovenië) vragen om deel te nemen. Deelname aan dit onderzoek is een vereiste om aan een van de andere onderzoeken deel te kunnen nemen.
 
 Als u deelneemt aan onze longitudinale studie, word je gevraagd een vragenlijst in te vullen over jouw gebruik van media op drie verschillende tijdstippen in de loop van een jaar. Deze vragenlijsten zullen altijd hetzelfde zijn, omdat we willen zien hoe jouw mening over deze onderwerpen zich ontwikkelt. De vragenlijst bevat vragen over je lichaam, het belang van je uiterlijk, schoolresultaten, schoonheidsidealen, seksualiteit, je mediagebruik (bijvoorbeeld social media) en hoe je denkt over je leeftijdsgenoten en de wereld om je heen.
 
 *Dagboekonderzoek*\
-De dagboekstudie is kleiner van omvang dan de vorige. Hier zullen we in totaal slechts 1.000 jongeren vragen om deel te nemen.
+De dagboekstudie is kleiner van omvang dan de vorige. Hier zullen we in totaal slechts 3000 jongeren vragen om deel te nemen.
 
 Als je wordt uitgenodigd om ons te helpen met de dagboekstudie, zullen we jou vragen om thuis elke avond voor het slapengaan een korte enquête in te vullen over jouw interactie met media die dag. Deze enquête zal altijd hetzelfde zijn, omdat we willen zien hoe jouw dag jouw mening over bepaalde dingen beïnvloedt. Het invullen van deze vragenlijst duurt ongeveer 10 minuten en kan met behulp van een computer, telefoon of tablet met internetverbinding. De vragenlijst bevat vragen over je lichaam, het belang van je uiterlijk, schoolresultaten, schoonheidsidealen, je mediagebruik (bijvoorbeeld social media) en hoe je denkt over je leeftijdsgenoten en de wereld om je heen.
 
 *Onderzoek naar sociale media*\
-De laatste studie die we gaan organiseren is een sociale media studie. Net als bij de Dagboekstudie zal een kleinere groep van 1.000 jongeren gevraagd worden mee te doen.
+De laatste studie die we gaan organiseren is een sociale media studie. Net als bij de Dagboekstudie zal een kleinere groep van 1800 jongeren gevraagd worden mee te doen.
 
 Als je wordt uitgenodigd om deel te nemen aan onze Social Media Study, word je gevraagd om een vriendschaps- of volgverzoek te accepteren. Dit verzoek komt van een profiel dat specifiek is ontworpen voor het huidige onderzoek. Tijdens de dataverzameling maken de onderzoekers deel uit van jouw online netwerk, net als jouw andere vrienden/volgers op deze netwerken. Daarna maken de onderzoekers screenshots van de foto’s, statusupdates en berichten die je op je sociale media-profielen plaatst. Alleen de onderzoekers hebben toegang tot deze screenshots. We onderzoeken deze screenshots door (bijvoorbeeld) het aantal foto’s op een profiel te berekenen. Nadat we deze screenshots onderzocht hebben, worden die permanent verwijdert.
 

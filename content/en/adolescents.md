@@ -85,17 +85,17 @@ Confidentiality of identifying data will always be guaranteed. In other words, w
 Our project consists of multiple studies. Find more information about each of them below.
 
 *Longitudinal Research*\
-The Longitudinal Study is the largest study. Here, we will ask a large group (5,400) of students across Europe (Belgium, France & Slovenia) to participate. Taking part in this study is a requirement to be invited for any of the other studies.
+The Longitudinal Study is the largest study. Here, we will ask a large group (4500) of students across Europe (Belgium, France & Slovenia) to participate. Taking part in this study is a requirement to be invited for any of the other studies.
 
 If you participate in our Longitudinal Study, you will be asked to complete a survey on how you interact with the media at three different time points over the course of one year. These surveys will always be the same, because we want to see if and how your opinion on these topics evolves over time. The survey contains questions about your body, the importance of your appearance, school results, beauty ideals, sexuality, your media use (for instance social media) and how you think about your peers and the world around you.
 
 *Diary Research*\
-The Diary Study is smaller in scope than the previous one. Here we will only ask a total of 1,000 adolescents to participate.
+The Diary Study is smaller in scope than the previous one. Here we will only ask a total of 3000 adolescents to participate.
 
 If you are invited to help us with the Diary Study, we will ask you to complete a brief survey at home on how you interact with the media, every evening before bed. This survey will always be the same, because we want to see how your daily experiences affect how you feel about certain things. Completing this survey will take approximately 10 minutes, and can be completed by using a computer, a phone or a tablet with internet connection. The survey contains questions about your body, the importance of your appearance, school results, beauty ideals, your media use (for instance social media) and how you think about your peers and the world around you.
 
 *Social Media Study*\
-The final study we will organize is a social media study. Just like the Diary Study, a smaller group of 1,000 adolescents will be asked to participate. 
+The final study we will organize is a social media study. Just like the Diary Study, a smaller group of 1800 adolescents will be asked to participate. 
 
 If you are invited to participate in our Social Media Study, you will be asked to accept a friendship or follow request from a social media profile specifically designed for the current research. During the time of the data collection, the researchers will be part of your online network, similar to your other friends/followers on these networks. Next, the researchers will take screenshots to investigate the pictures, status updates and messages you post on your social media profiles. Only the researchers have access to the screenshots and will investigate them by calculating, for instance, the number of pictures on a profile before deleting these screenshots permanently.
 

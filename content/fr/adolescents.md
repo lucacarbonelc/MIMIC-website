@@ -85,17 +85,17 @@ La confidentialité des données d'identification sera toujours garantie. En d'a
 Notre projet se compose de plusieurs études. Tu trouveras plus d'informations sur chacune d'elles ci-dessous
 
 *Recherche longitudinale*\
-L'Etude longitudinale est la plus grande étude. Ici, nous demanderons à un grand groupe (4 500) d'étudiants à travers l'Europe (Belgique, France et Slovénie) de participer. Participer à cette étude est une condition pour être invité à l'une des autres études.
+L'Etude longitudinale est la plus grande étude. Ici, nous demanderons à un grand groupe (4500) d'étudiants à travers l'Europe (Belgique, France et Slovénie) de participer. Participer à cette étude est une condition pour être invité à l'une des autres études.
 
 Si tu participes à notre étude longitudinale, il te sera demandé de compléter un questionnaire sur la façon dont tu interagis avec les médias à trois moments différents au cours d'une année. Ces questionnaires seront toujours les mêmes, car nous voulons voir si et comment ton opinion sur ces sujets évolue au fil du temps. Le questionnaire contient des questions sur ton corps, l'importance de ton apparence, les résultats scolaires, les idéaux de beauté, la sexualité, ton utilisation des médias (par exemple des réseaux sociaux) et comment tu perçois tes camarades et le monde qui t’entoure.
 
 *Questionnaire Journalier*\
-L'Etude Journalière a une portée plus petite que la précédente. Ici, nous ne demanderons à 1 000 adolescents au total de participer.
+L'Etude Journalière a une portée plus petite que la précédente. Ici, nous ne demanderons à 3000 adolescents au total de participer.
 
 Si tu es invité à nous aider pour l’Etude Journalière, nous te demanderons de répondre à la maison à un court questionnaire sur la façon dont tu interagis avec les médias, chaque soir avant d’aller te coucher. Ce questionnaire sera toujours le même, car nous voulons voir comment tes expériences quotidiennes affectent ce que tu ressens à propos de certaines choses. Répondre à ce questionnaire prendra environ 10 minutes et peut être fait en utilisant un ordinateur, un téléphone ou une tablette avec connexion Internet. Le questionnaire contient des questions sur ton corps, l'importance de ton apparence, les résultats scolaires, les idéaux de beauté, ton utilisation des médias (par exemple des réseaux sociaux) et comment tu perçois tes camarades et le monde qui t’entoure.
 
 *Étude des Réseaux Sociaux*\
-L'étude finale que nous organiserons est une étude sur les réseaux sociaux. Tout comme l’Etude Journalière, un plus petit groupe de 1 000 adolescents sera invité à participer.
+L'étude finale que nous organiserons est une étude sur les réseaux sociaux. Tout comme l’Etude Journalière, un plus petit groupe de 1800 adolescents sera invité à participer.
 
 Si tu es invité à participer à notre étude sur des Réseaux Sociaux , il te sera demandé d'accepter une demande d’ami ou de follower d'un profil de réseau social spécialement conçu pour la recherche en cours. Le temps de la collecte des données, les chercheurs feront partie de ton réseau en ligne, au même titre que tes autres amis / followers sur ces réseaux. Ensuite, les chercheurs prendront des captures d'écran pour examiner les images, les mises à jour de statut et les messages que tu publies sur tes profils de réseaux sociaux. Seuls les chercheurs ont accès aux captures d'écran et les étudieront en calculant, par exemple, le nombre d'images sur un profil avant de supprimer définitivement ces captures d'écran.
 
