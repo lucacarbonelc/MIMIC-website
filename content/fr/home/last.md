@@ -64,8 +64,6 @@ subtitle = "---"
 <br/>
 <br/>
 
-![](img/partners.png)
-
 Katholieke Universiteit Leuven, Belgium
 <a href="https://soc.kuleuven.be/smc">School for Mass Communication Research (SMCR)</a>. <br />
 Université de Tours, France
