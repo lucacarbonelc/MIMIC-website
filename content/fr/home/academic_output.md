@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Production académique"
-subtitle = ""
+subtitle = "---"
 date = "2020-06-30T00:00:00+01:00"
 lastmod = [":fileModTime", ":default"]
 
@@ -38,7 +38,7 @@ lastmod = [":fileModTime", ":default"]
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.

@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Maak kennis met de groep"
-subtitle = ""
+subtitle = "---"
 
 [content]
   # Choose which groups/teams of users to display.
@@ -31,7 +31,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+   color = "#F0F2F5"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -43,6 +43,10 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["50px", "0", "0", "0"]
   
 [advanced]
  # Custom CSS. 

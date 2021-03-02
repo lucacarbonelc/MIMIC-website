@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Malleability in Mediated Ideals"
+title = ""
 subtitle = ""
 
 [design]
@@ -22,25 +22,25 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+   color = "#D6CAE6"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
   
   # Background image.
-#  image = "home.jpg"  # Name of image in `static/img/`.
-#  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is #transparent and 1 is opaque.
-#  image_size = "cover"  #  Options are `cover` (default), `contain`, #or `actual` size.
-#  image_position = "center"  # Options include `left`, `center` #(default), or `right`.
-#  image_parallax = true  # Use a fun parallax-like fixed background #effect? true/false
+  image = "banner.png"  # Name of image in `static/img/`.
+#image_darken = 0.6  # Darken the image? Range 0-1 where 0 is #transparent and 1 is opaque.
+image_size = "contain"  #  Options are `cover` (default), `contain`, #or `actual` size.
+image_position = "center"  # Options include `left`, `center` #(default), or `right`.
+image_parallax = false  # Use a fun parallax-like fixed background #effect? true/false
 
   # Text color (true=light or false=dark).
   text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["0px", "0", "600px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -49,7 +49,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-Project MIMIc: A project to understand the role of media in boys’ and girls’ lives anno 2020-2025
-
-“Do young people mimic the lifestyles they encounter on their social media feed and in entertainment fiction?” is at the core of the research conducted by the MIMIc team in Belgium, France and Slovenia across 4,500 adolescents. The project seeks to learn how young people enrich their lives with the affordances offered by the rich digital media landscape in which they grow up. Moreover, we aim to obtain a better understanding of how youth think and feel about being online all the time, constantly exposed to an unlimited stream of information on how their peers organize their lives on social media, in popular television shows and or in movies. To build this knowledge, project MIMIc takes up a multi-method design, meaning that we will: (1) look at the social media profiles of youth and the celebrities and influencers popular among youth, (2) follow a group of youngsters aged 12 to 17 over the course of 1 year to see how they grow-up in a mediated world and (3) monitor young people through daily surveys to better understand what their day-to-day interactions with social media and popular TV show entail. [READ more about the research in the parents and participants’ section](http://www.projectmimic.eu/parents/).

@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Spremenljivost »pokvarljivih idealov«"
+title = ""
 subtitle = ""
 
 [design]
@@ -22,25 +22,25 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+   color = "#D6CAE6"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
   
   # Background image.
-#  image = "home.jpg"  # Name of image in `static/img/`.
-#  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is #transparent and 1 is opaque.
-#  image_size = "cover"  #  Options are `cover` (default), `contain`, #or `actual` size.
-#  image_position = "center"  # Options include `left`, `center` #(default), or `right`.
-#  image_parallax = true  # Use a fun parallax-like fixed background #effect? true/false
+  image = "banner.png"  # Name of image in `static/img/`.
+#image_darken = 0.6  # Darken the image? Range 0-1 where 0 is #transparent and 1 is opaque.
+image_size = "contain"  #  Options are `cover` (default), `contain`, #or `actual` size.
+image_position = "center"  # Options include `left`, `center` #(default), or `right`.
+image_parallax = false  # Use a fun parallax-like fixed background #effect? true/false
 
   # Text color (true=light or false=dark).
   text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["0px", "0", "600px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -49,8 +49,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-Spremenljivost »pokvarljivih idealov«
-Projekt MIMIc: projekt za razumevanje vloge medijev v življenju dečkov in deklic v obdobju 2020–2025
-
-»Ali mladostniki posnemajo način življenja, s katerim se srečujejo na svojih profilih družbenih omrežij in v digitalnem svetu zabave?« je osrednje vprašanje raziskave, ki jo izvaja ekipa MIMIc v Belgiji, Franciji in Sloveniji med 4.500 mladostniki. S projektom želimo izvedeti, kako mladostniki bogatijo svoje življenje z ugodnostmi, ki jih ponuja bogat spekter digitalnih medijev, s katerimi odraščajo. Poleg tega želimo bolje razumeti, kako mladostniki doživljajo svojo nenehno prisotnost na spletu in vseprisotno izpostavljenost neomejenemu toku informacij. Obenem nas zanima, kako si njihovi vrstniki organizirajo dejavnosti na družbenih omrežjih, v priljubljenih televizijskih oddajah ali v filmih. Za osvojitev tega znanja bomo v projektu MIMIc uporabili več metod in bomo: (1) opazovali profile mladostnikov na družbenih omrežjih ter profile zvezdnikov in vplivnežev (»influencerjev«) priljubljenih med mladostniki, (2) v obdobju enega leta spremljali odraščanje skupine mladostnikov starih od 12 let do 17 let v svetu s posredovanimi ideali in (3) spremljali mladostnike z dnevnimi raziskavami, da bi bolje razumeli, kaj vključuje njihova vsakodnevna uporaba družbenih omrežij in priljubljenih TV oddaj. Več o raziskavi si lahko [PREBERETE v zavihku za starše in sodelujoče mladostnike.](http://www.projectmimic.eu/sl/parents/).

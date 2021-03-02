@@ -47,7 +47,7 @@ lastmod = [":fileModTime", ":default"]
   #   Any HTML color name or Hex value is valid.
     
   # Background color.
-  # color = "navy"
+  # color = "#F0F2F5"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"

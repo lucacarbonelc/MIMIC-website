@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Academische output"
-subtitle = ""
+subtitle = "---"
 date = "2020-06-30T00:00:00+01:00"
 lastmod = [":fileModTime", ":default"]
 
@@ -47,7 +47,7 @@ lastmod = [":fileModTime", ":default"]
   #   Any HTML color name or Hex value is valid.
     
   # Background color.
-  # color = "navy"
+  color = "#F0F2F5"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"

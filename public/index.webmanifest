@@ -2,8 +2,8 @@
   "name": "MIMIc Project",
   "short_name": "MIMIc Project",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#0E5997",
+  "background_color": "#0E5997",
   "icons": [{
     "src": "/images/icon_hu5de320cba4b40ee42e6fb5cdaa06685e_12453_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
