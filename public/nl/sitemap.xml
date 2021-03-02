@@ -157,6 +157,11 @@
     <lastmod>2021-02-10T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/fr/"
                 />
@@ -164,11 +169,6 @@
                 rel="alternate"
                 hreflang="sl"
                 href="/sl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
                 />
     <xhtml:link
                 rel="alternate"
