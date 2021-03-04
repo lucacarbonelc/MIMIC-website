@@ -29,7 +29,11 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
+<<<<<<< HEAD
   image = "banner_SL.png"  # Name of image in `static/img/`.
+=======
+  image = "/banner.png"  # Name of image in `static/img/`.
+>>>>>>> master
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is #transparent and 1 is opaque.
   image_size = "contain"  #  Options are `cover` (default), `contain`, #or `actual` size.
   image_position = "center"  # Options include `left`, `center` #(default), or `right`.
