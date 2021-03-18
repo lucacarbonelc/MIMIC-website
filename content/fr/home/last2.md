@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ".container img {width: 1%; height: auto;}"
 +++
 
-This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 852317)
+La présente étude fait partie d’un projet de subvention de démarrage du Conseil Européen de la Recherche (CER), sous le programme de recherche et d’innovation Horizon 2020 (code MIMIC n°852317)
 
 <p align="center">
   <img src="/img/erc_logo.png">

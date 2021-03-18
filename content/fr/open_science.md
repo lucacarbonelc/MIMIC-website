@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Open Science"
+title = "Science ouverte"
 subtitle = ""
 date = "2020-06-30T00:00:00+01:00"
 lastmod = [":fileModTime", ":default"]
@@ -68,6 +68,4 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+Les procédures, données et syntaxe de nos études sont accessibles en suivant ce [lien](https://osf.io/r8c9t/).

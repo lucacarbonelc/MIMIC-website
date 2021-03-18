@@ -54,7 +54,7 @@ lastmod = [":fileModTime", ":default"]
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image = "brochure_FR.png"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -103,3 +103,5 @@ Si tu es invité à participer à notre étude sur des Réseaux Sociaux , il te 
 Si tu participes à notre recherche, tu recevras un rapport présentant les résultats les plus importants de l'étude tous les six mois après la collecte des données. Ces rapports comprendront les résultats de la recherche, mais également des trucs et astuces pour optimiser tes interactions avec les médias.
 
 Merci d'avance pour ta coopération, ton aide est grandement appréciée. Des questions? Tu peux toujours [contacter](http://www.projectmimic.eu/fr/contact/) le chercheur responsable de ton pays.
+
+<a href="/img/brochure_FR.pdf" tabindex="-1"><strong>Téléchargez la brochure ici</strong></a>

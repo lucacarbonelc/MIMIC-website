@@ -68,6 +68,4 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
-{{% alert note %}}
-Ontdek snel relevante inhoud door [publicaties te filteren]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+De procedures, gegevens en syntaxis van onze onderzoeken zijn toegankelijk via deze [link](https://osf.io/r8c9t/).

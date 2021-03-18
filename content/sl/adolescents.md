@@ -102,3 +102,5 @@ Zadnja študija, ki jo bomo izvedli, je študija družbenih omrežij. Tako kot v
 Če se boš odločil/a za sodelovanje v naši raziskavi, boš šest mesecev po končanem zbiranju podatkov prejel/a poročilo najpomembnejših rezultatov vsake študije. Poleg rezultatov raziskave bodo v poročila vključeni tudi številni nasveti in napotki za izboljšanje tvoje uporabe medijev. 
 
 Za tvoje sodelovanje se ti že v naprej zahvaljujemo. Kakšna vprašanja? Ne oklevaj in [kontaktiraj](http://www.projectmimic.eu/sl/contact/) raziskovalko, odgovorno za potek raziskave v tvoji državi.
+
+<a href="/img/brochure_SL.pdf" tabindex="-1"><strong>Prenesite brošuro tukaj</strong></a>

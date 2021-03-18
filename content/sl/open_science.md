@@ -68,6 +68,4 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
-{{% alert note %}}
-Hitro odkrivanje ustrezne vsebine s [filtriranjem publikacij]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+Po tej [povezavi](https://osf.io/r8c9t/) lahko dostopate do postopkov, podatkov in sintakse naših študij.

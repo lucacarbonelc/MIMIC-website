@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Schools"
-subtitle = "The research project MIMIc has been made possible thanks to the efforts of the schools who participate in the research project. Below a list of the participating schools in France, Belgium and Slovenia can be found."
+subtitle = "Ecoles - Le projet de recherche MIMIc est rendu possible grâce aux efforts des écoles qui participent au projet de recherche. Vous trouverez ci-dessous une liste des écoles participantes en France, en Belgique et en Slovénie."
 date = "2020-06-30T00:00:00+01:00"
 lastmod = [":fileModTime", ":default"]
 

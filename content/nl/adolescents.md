@@ -103,3 +103,5 @@ Als je wordt uitgenodigd om deel te nemen aan onze Social Media Study, word je g
 Als je meedoet aan ons onderzoek, ontvang je ieder half jaar een rapport met de belangrijkste resultaten van het onderzoek. Deze rapporten bevatten de bevindingen van het onderzoek, maar ook tips en trucs om jouw media-interacties te verbeteren.
 
 Alvast bedankt voor jouw medewerking, je hulp wordt zeer gewaardeerd. Nog vragen? Je kan altijd [contact](http://www.projectmimic.eu/nl/contact/) de verantwoordelijke onderzoeker in jouw land.
+
+<a href="/img/brochure_NL.pdf" tabindex="-1"><strong>Download hier de brochure</strong></a>

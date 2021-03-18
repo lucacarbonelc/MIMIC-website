@@ -69,5 +69,5 @@ lastmod = [":fileModTime", ":default"]
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+Découvrez rapidement le contenu recherché en [filtrant les publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}

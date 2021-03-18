@@ -54,7 +54,7 @@ lastmod = [":fileModTime", ":default"]
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image = "bubbles.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -78,3 +78,5 @@ Nous posons cette question dans l'espoir d'aider les jeunes, comme votre enfant,
 2.	Ensuite, l’équipe de recherche MIMic suivra un groupe de jeunes âgés de 12 à 17 ans pendant une année pour voir ce que c’est de grandir dans un monde rempli de médias. Trois pays (à savoir la France, la Slovénie et la Belgique) participent à cette «étude longitudinale». Plus précisément, les adolescents sont invités à trois moments différents en 2021-2022 à répondre à un questionnaire en ligne depuis leur domicile. Les adolescents seront invités à participer au questionnaire par l'intermédiaire de leur école. Dans le questionnaire, nous posons des questions sur les habitudes médiatique des adolescents et sur l’image que les adolescents ont d’eux-mêmes, de leurs pairs, de leur corps, des résultats scolaires, de la sexualité ainsi que du monde qui les entoure. Grâce aux réponses des adolescents à nos questions, nous comprendrons davantage en quoi les interactions avec les médias jouent un rôle dans leur croissance et leur développement. 
 
 3.	Enfin, l'équipe de recherche MIMIc suivra les adolescents en les questionnant quotidiennement pendant une période de 14 jours vers la fin de 2021. Les participants à cette recherche journalière seront sélectionnés parmi les participants à la recherche longitudinale. Plus précisément, les adolescents seront invités à remplir un bref questionnaire à compléter en ligne à leur domicile. Dans cette enquête journalière, nous les interrogerons sur la façon dont les adolescents ont passé leur journée et nous concentrerons en particulier sur leurs interactions quotidiennes avec les médias. Avec cette étude, nous apprendrons à comprendre pourquoi certains jours, les jeunes tirent bénéfice du temps passé avec les médias, tandis que d'autres jours, leurs interactions avec les médias semblent plutôt néfastes.
+
+<a href="/img/brochure_FR.pdf" tabindex="-1"><strong>Téléchargez la brochure ici</strong></a>

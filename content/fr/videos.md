@@ -76,6 +76,6 @@ lastmod = [":fileModTime", ":default"]
 
 {{< youtube 6oRIBmtVwKc >}}
 
-## France: Dr. Caroline Giraudeau (University of Tours)
+## France: Dr. Caroline Giraudeau (Université de Tours)
 
 {{< youtube zkSEIChKRIU >}}
