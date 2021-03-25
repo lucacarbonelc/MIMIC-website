@@ -110,21 +110,8 @@
 
 [[fr.menu.main]]
   name = "Parents and Participants"
-  identifier = "parents_adolescents"
-  url = "#"
-  weight = 5.0
-
-[[fr.menu.main]]
-  name = "Pour les Parents"
-  parent = "parents_adolescents"
-  url = "/parents"
-  weight = 5.1
-
-[[fr.menu.main]]
-  name = "Pour les Participants"
-  parent = "parents_adolescents"
   url = "/adolescents"
-  weight = 5.2
+  weight = 5.0
 
 [[fr.menu.main]]
   name = "Contact"
@@ -233,21 +220,8 @@
 
 [[nl.menu.main]]
   name = "Ouders en deelnemers"
-  identifier = "parents_adolescents"
-  url = "#"
-  weight = 5.0
-
-[[nl.menu.main]]
-  name = "Voor ouders"
-  parent = "parents_adolescents"
-  url = "/parents"
-  weight = 5.1
-
-[[nl.menu.main]]
-  name = "Voor deelnemers"
-  parent = "parents_adolescents"
   url = "/adolescents"
-  weight = 5.2
+  weight = 5.0
 
 [[nl.menu.main]]
   name = "Contact"
@@ -356,21 +330,8 @@
 
 [[sl.menu.main]]
   name = "Starši in udeleženci"
-  identifier = "parents_adolescents"
-  url = "#"
-  weight = 5.0
-
-[[sl.menu.main]]
-  name = "Za starše"
-  parent = "parents_adolescents"
-  url = "/parents"
-  weight = 5.1
-
-[[sl.menu.main]]
-  name = "Za sodelujoče mladostnike"
-  parent = "parents_adolescents"
   url = "/adolescents"
-  weight = 5.2
+  weight = 5.0
 
 [[sl.menu.main]]
   name = "Kontakt"
