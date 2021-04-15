@@ -117,9 +117,14 @@
   weight = 5.2
 
 [[main]]
+  name = "News"
+  url = "/news"
+  weight = 6
+
+[[main]]
   name = "Contact"
   url = "/contact"
-  weight = 6
+  weight = 7
 
 # [[main_right]]
 #  name = "<img src=\"/img/logo.png\" style=\"height:50px\" alt=\"ERC\">"

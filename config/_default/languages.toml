@@ -114,9 +114,14 @@
   weight = 5.0
 
 [[fr.menu.main]]
+  name = "News"
+  url = "/news"
+  weight = 6
+
+[[fr.menu.main]]
   name = "Contact"
   url = "/contact"
-  weight = 6
+  weight = 7
 
 [nl]
   languageCode = "nl"
@@ -224,9 +229,14 @@
   weight = 5.0
 
 [[nl.menu.main]]
+  name = "News"
+  url = "/news"
+  weight = 6
+
+[[nl.menu.main]]
   name = "Contact"
   url = "/contact"
-  weight = 6
+  weight = 7
 
 [sl]
   languageCode = "sl"
@@ -334,6 +344,11 @@
   weight = 5.0
 
 [[sl.menu.main]]
+  name = "News"
+  url = "/news"
+  weight = 6
+
+[[sl.menu.main]]
   name = "Kontakt"
   url = "/contact"
-  weight = 6
+  weight = 7
