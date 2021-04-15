@@ -34,6 +34,6 @@ NOUVELLES EXIGENCES:
 ---
 3. Augmentation de la récompense pour la première administration de l'enquête.
 
-ANCIEN RÉCOMPENSE: 5 €
+ANCIEN RÉCOMPENSE: 5€
 
-NOUVELLE RÉCOMPENSE: 7 €
+NOUVELLE RÉCOMPENSE: to be decided
