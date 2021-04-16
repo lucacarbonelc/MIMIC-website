@@ -8,7 +8,7 @@ lastmod: [":fileModTime", ":default"]
 
 ### 15 April 2021
 
-1. Changes in the dates about survey administration.
+1. Changes in the dates about Time Study.
 
 OLD DATES:
 - May 2021
@@ -33,6 +33,6 @@ NEW REQUIREMENTS:
 ---
 3. Increase in the rewarding for first survey administration.
 
-OLD REWARDING: 5€
+OLD REWARDING: 5€ (1st wave), 7€ (2nd wave), 10€ (3rd wave)
 
 NEW REWARDING: to be decided

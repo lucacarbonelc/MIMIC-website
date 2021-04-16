@@ -1,30 +1,30 @@
 ---
 
-title: Najnovejše posodobitve
+title: Sveže novice
 date: "2020-08-31T00:00:00+01:00"
 lastmod: [":fileModTime", ":default"]
 
 ---
 
-### 15. aprila 2021
+### 15. april 2021
 
-1. Spremembe datumov glede upravljanja ankete.
+1. Spremenjeno obdobje izvajanja časovne študije.
 
-STARI DATUMI:
+PREDVIDENI TERMINI:
 - Maj 2021
 - September 2021
 - Januar 2022
 
-NOVI DATUMI:
+NOVI TERMINI:
 - September-oktober 2021
 - Januar-februar 2022
 - April-maj 2022
 
 ---
-2. Spremembe zahtev za privolitev staršev.
+2. Spremembe zahtev glede soglasij staršev.
 
-STARE ZAHTEVE:\
-Aktivno soglasje staršev za vse.
+PRVOTNE ZAHTEVE:\
+Aktivno soglasje staršev za vse udeležence.
 
 NOVE ZAHTEVE:
 
@@ -32,8 +32,8 @@ NOVE ZAHTEVE:
 - **Pasivno** soglasje staršev za mladostnike, rojene med letoma 2003 in 2005
 
 ---
-3. Povečanje nagrade za administracijo prve raziskave.
+3. Povečanje višine nagrad za udeležence časovne študije.
 
-STARO NAGRAJENJE: 5€
+PREDVIDENA NAGRADA: 5€ (1. val), 7€ (2. val), 10€ (3. val)
 
-NOVO NAGRAJEVANJE: to be decided
+NOVA VIŠINA NAGRADE: še ni znana

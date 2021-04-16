@@ -8,7 +8,7 @@ lastmod: [":fileModTime", ":default"]
 
 ### 15 april 2021
 
-1. Veranderingen in de data over enquêteadministratie.
+1. Veranderingen in de data over Time Study.
 
 OUDE DATA:
 - Mei 2021
@@ -33,6 +33,6 @@ NIEUWE VEREISTEN:
 ---
 3. Verhoging van de beloning voor de eerste enquête-administratie.
 
-OUDE BELONING: 5€
+OUDE BELONING: 5€ (1st wave), 7€ (2nd wave), 10€ (3rd wave)
 
 NIEUWE BELONING: to be decided

@@ -84,12 +84,12 @@ Confidentiality of identifying data will always be guaranteed. In other words, w
 **Practical information**\
 Our project consists of multiple studies. Find more information about each of them below.
 
-*Longitudinal Research*\
-The Longitudinal Study is the largest study. Here, we will ask a large group (4500) of students across Europe (Belgium, France & Slovenia) to participate. Taking part in this study is a requirement to be invited for any of the other studies.
+*Time Study*\
+The Time Study is the largest study. Here, we will ask a large group (4500) of students across Europe (Belgium, France & Slovenia) to participate. Taking part in this study is a requirement to be invited for any of the other studies.
 
-If you participate in our Longitudinal Study, you will be asked to complete a survey on how you interact with the media at three different time points over the course of one year. These surveys will always be the same, because we want to see if and how your opinion on these topics evolves over time. The survey contains questions about your body, the importance of your appearance, school results, beauty ideals, sexuality, your media use (for instance social media) and how you think about your peers and the world around you.
+If you participate in our Time Study, you will be asked to complete a survey on how you interact with the media at three different time points over the course of one year. These surveys will always be the same, because we want to see if and how your opinion on these topics evolves over time. The survey contains questions about your body, the importance of your appearance, school results, beauty ideals, sexuality, your media use (for instance social media) and how you think about your peers and the world around you.
 
-*Diary Research*\
+*Diary Study*\
 The Diary Study is smaller in scope than the previous one. Here we will only ask a total of 3000 adolescents to participate.
 
 If you are invited to help us with the Diary Study, we will ask you to complete a brief survey at home on how you interact with the media, every evening before bed. This survey will always be the same, because we want to see how your daily experiences affect how you feel about certain things. Completing this survey will take approximately 10 minutes, and can be completed by using a computer, a phone or a tablet with internet connection. The survey contains questions about your body, the importance of your appearance, school results, beauty ideals, your media use (for instance social media) and how you think about your peers and the world around you.
