@@ -27,13 +27,11 @@ ANCIENNES EXIGENCES:\
 Consentement parental actif pour tous.
 
 NOUVELLES EXIGENCES:
-
-- Accord parental **actif** pour les adolescents nés en 2006 ou après
-- Accord parental **passif** pour les adolescents nés entre 2003 et 2005
+Directives éthiques modifiées conformément aux pratiques standard de sorte que les adolescents de 16 ans ou plus se voient demander un consentement parental passif.
 
 ---
 3. Augmentation de la récompense pour la première administration de l'enquête.
 
 ANCIEN RÉCOMPENSE: 5€ (1st wave), 7€ (2nd wave), 10€ (3rd wave)
 
-NOUVELLE RÉCOMPENSE: to be decided
+NOUVELLE RÉCOMPENSE: 10€ (1st wave), 12€ (2nd wave), 15€ (3rd wave)

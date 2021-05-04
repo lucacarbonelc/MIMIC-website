@@ -27,12 +27,11 @@ OLD REQUIREMENTS:\
 Active parental consent for everyone.
 
 NEW REQUIREMENTS:
-- **Active** parental consent for adolescents born in 2006 or after
-- **Passive** parental consent for adolescents born between 2003 and 2005
+Ethical guidelines modified in accordance with standard practices such that adolescents of 16 years or older are asked passive parental consent.
 
 ---
 3. Increase in the rewarding for first survey administration.
 
 OLD REWARDING: 5€ (1st wave), 7€ (2nd wave), 10€ (3rd wave)
 
-NEW REWARDING: to be decided
+NEW REWARDING: 10€ (1st wave), 12€ (2nd wave), 15€ (3rd wave)

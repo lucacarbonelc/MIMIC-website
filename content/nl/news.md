@@ -27,12 +27,11 @@ OUDE VEREISTEN:\
 Actieve ouderlijke toestemming voor iedereen.
 
 NIEUWE VEREISTEN:
-- **Actieve** ouderlijke toestemming voor adolescenten geboren in 2006 of later
-- **Passieve** ouderlijke toestemming voor adolescenten geboren tussen 2003 en 2005
+Ethische richtlijnen aangepast in overeenstemming met standaardpraktijken, zodat adolescenten van 16 jaar of ouder passieve ouderlijke toestemming wordt gevraagd.
 
 ---
 3. Verhoging van de beloning voor de eerste enquête-administratie.
 
 OUDE BELONING: 5€ (1st wave), 7€ (2nd wave), 10€ (3rd wave)
 
-NIEUWE BELONING: to be decided
+NIEUWE BELONING: 10€ (1st wave), 12€ (2nd wave), 15€ (3rd wave)
