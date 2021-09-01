@@ -68,5 +68,25 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
-[insert here school list]
-
+**France**:
+- Collège Blois-Vienne
+- Collège les Denteliers de Calais
+- Lycée Professionnel Pierre Mendès-France
+- Collège Saint-Firmin de Firminy
+- Collège Notre-Dame de Romorantin
+- Lycée Augustin Thierry de Blois
+- Lycée Fustel de Coulanges de Strasbourg
+- Collège Louise Michel de Lussac Les Châteaux
+- Collège Vallées du Paillon – Roger Carlès de Contes
+- Collège Léonard de Vinci de Romorantin
+- Lycée la Martinière Duchère de Lyon
+- Lycée privé Saint-Joseph la Salle de Pantin
+- Lycée Saint-Joseph de Lamballe
+- Lycée privé Jean-Baptiste la Salle de Rouen
+- Collège Marie Noël de Joigny
+- Lycée Georges Leygues-Louis Couffignal de Villeneuve-sur-Lot
+- Collège Félix Landreau de Angers
+- Collège Paul Emile Victor de Corcieux
+- Collège Pierre et Marie Curie de Albert
+- Collège-Lycée Saint Joseph de Lectoure
+- Collège Maria Montessori des Aiglons
