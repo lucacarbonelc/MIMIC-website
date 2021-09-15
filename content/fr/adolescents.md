@@ -68,4 +68,4 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 <a href="/img/brochure_FR.pdf" tabindex="-1"><strong>Téléchargez la brochure ici</strong></a>
-![](/img/brochure_FR.jpg)
+![](/img/brochure_FR.pdf)
