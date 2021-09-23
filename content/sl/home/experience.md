@@ -24,26 +24,26 @@ date_format = "02 Jan 2006"
   
 [[experience]]
   title = "Spletna anketa (longitudinalna)"
-  date_start = "2022-01-01"
+  date_start = "2022-05-01"
   description = "3.val"
 
 [[experience]]
   title = "Zbiranje posnetkov zaslona profilov na družbenih omrežjih"
-  date_start = "2021-09-01"
+  date_start = "2022-01-01"
 
 [[experience]]
   title = "Spletna anketa (longitudinalna)"
-  date_start = "2021-09-01"
+  date_start = "2022-01-01"
   description = "2.val"
 
 [[experience]]
   title = "Spletna anketa (longitudinalna)"
-  date_start = "2021-05-01"
+  date_start = "2021-09-20"
   description = "1. val"
 
 [[experience]]
   title = "Analiza pilotnih podatkov"
-  date_start = "2021-04-01"
+  date_start = "2021-06-01"
 
 [[experience]]
   title = "Spletna anketa (testna)"
@@ -56,11 +56,6 @@ date_format = "02 Jan 2006"
 [[experience]]
   title = "Začetek pridobivanja soglasja staršev"
   date_start = "2021-01-01"
-
-[[experience]]
-  title = "Narejene R funkcije, ki ujemajo glasbene akorde z besedili"
-  date_start = "2020-06-18"
-  description = "[Luca Carbone](http://www.projectmimic.eu/authors/admin4/) je ustvaril dve funkciji za ujemanje besed v glasbenih besedilih z ustreznim akordom in jih nato vstavil kot del paketa R [`chorrrds`](https://github.com/r-music/chorrrds). To je del študije glasbe, ki raziskuje vpliv pesmi na prepričanja posameznikov o meritokraciji, strukturnih neenakostih in zaskrbljenosti posameznika glede revščine. Opis funkcij in majhen primer uporabe teme najdete [tukaj](https://www.lucacarbone.com/post/functions_chorrrds/functions_chorrrds/)."
 
 [[experience]]
   title = "Oblikovana spletna stran"

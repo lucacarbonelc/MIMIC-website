@@ -27,26 +27,26 @@ date_format = "02 Jan 2006"
   
 [[experience]]
   title = "Longitudinal survey"
-  date_start = "2022-01-01"
+  date_start = "2022-05-01"
   description = "Wave 3"
 
 [[experience]]
   title = "Recruiting social media profiles of adolescents"
-  date_start = "2021-09-01"
+  date_start = "2022-01-01"
 
 [[experience]]
   title = "Longitudinal survey"
-  date_start = "2021-09-01"
+  date_start = "2022-01-01"
   description = "Wave 2"
 
 [[experience]]
   title = "Longitudinal survey"
-  date_start = "2021-05-01"
+  date_start = "2021-09-20"
   description = "Wave 1"
 
 [[experience]]
   title = "Analysis pilot data"
-  date_start = "2021-04-01"
+  date_start = "2021-06-01"
 
 [[experience]]
   title = "Pilot online survey"
@@ -59,11 +59,6 @@ date_format = "02 Jan 2006"
 [[experience]]
   title = "Start asking parental consent"
   date_start = "2021-01-01"
-
-[[experience]]
-  title = "Creation R functions to match music chords with lyrics"
-  date_start = "2020-06-18"
-  description = "[Luca Carbone](http://www.projectmimic.eu/authors/admin4/) created two functions to match words in music lyrics with the corresponding chord, subsequently inserted as part of the R package [`chorrrds`](https://github.com/r-music/chorrrds). You can find a description of the functions and a small example about how to use theme [here](https://www.lucacarbone.com/post/functions_chorrrds/functions_chorrrds/)."
 
 [[experience]]
   title = "Creation website"

@@ -24,26 +24,26 @@ date_format = "02 Jan 2006"
   
 [[experience]]
   title = "Enquête longitudinale"
-  date_start = "2022-01-01"
+  date_start = "2022-05-01"
   description = "Wave 3"
 
 [[experience]]
   title = "Recrutement des profils d'adolescents sur les réseaux sociaux"
-  date_start = "2021-09-01"
+  date_start = "2022-01-01"
 
 [[experience]]
   title = "Enquête longitudinale"
-  date_start = "2021-09-01"
+  date_start = "2022-01-01"
   description = "Wave 2"
 
 [[experience]]
   title = "Enquête longitudinale"
-  date_start = "2021-04-01"
+  date_start = "2021-09-20"
   description = "Wave 1"
 
 [[experience]]
   title = "Analyse des données pilotes"
-  date_start = "2021-04-01"
+  date_start = "2021-06-01"
 
 [[experience]]
   title = "Enquête pilote en ligne"
@@ -56,11 +56,6 @@ date_format = "02 Jan 2006"
 [[experience]]
   title = "Commencer à demander le consentement parental"
   date_start = "2021-01-01"
-
-[[experience]]
-  title = "Fonctions Creation R pour faire correspondre les accords de musique avec les paroles"
-  date_start = "2020-06-18"
-  description = "[Luca Carbone](http://www.projectmimic.eu/authors/admin4/) a créé deux fonctions pour faire correspondre les mots des paroles de la musique avec l'accord correspondant, ensuite inséré dans le package R [`chorrrds`](https://github.com/r-music/chorrrds). Vous pouvez trouver une description des fonctions et un petit exemple d'utilisation du thème [ici](https://www.lucacarbone.com/post/functions_chorrrds/functions_chorrrds/). "
 
 [[experience]]
   title = "Site de création"

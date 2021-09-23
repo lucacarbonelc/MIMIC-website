@@ -24,26 +24,26 @@ date_format = "02 Jan 2006"
   
 [[experience]]
   title = "Longitudinaal onderzoek"
-  date_start = "2022-01-01"
+  date_start = "2022-05-01"
   description = "Wave 3"
 
 [[experience]]
   title = "Sociale media profielen van adolescenten rekruteren"
-  date_start = "2021-09-01"
+  date_start = "2022-01-01"
 
 [[experience]]
   title = "Longitudinaal onderzoek"
-  date_start = "2021-09-01"
+  date_start = "2022-01-01"
   description = "Wave 2"
 
 [[experience]]
   title = "Longitudinaal onderzoek"
-  date_start = "2021-05-01"
+  date_start = "2021-09-20"
   description = "Wave 1"
 
 [[experience]]
   title = "Analyse pilotgegevens"
-  date_start = "2021-04-01"
+  date_start = "2021-06-01"
 
 [[experience]]
   title = "Piloot online enquête"
@@ -56,12 +56,7 @@ date_format = "02 Jan 2006"
 [[experience]]
   title = "Begin ouderlijke toestemming te vragen"
   date_start = "2021-01-01"
-
-[[experience]]
-  title = "Creation R-functies om muziekakkoorden te matchen met songteksten"
-  date_start = "2020-06-18"
-  description = "[Luca Carbone](http://www.projectmimic.eu/authors/admin4/) creëerde twee functies om woorden in muziekteksten te matchen met het corresponderende akkoord, vervolgens ingevoegd als onderdeel van het R-pakket [`chorrrds`](https://github.com/r-music/chorrrds) Een beschrijving van de functies en een klein voorbeeld over het gebruik van het thema vind je [hier](https://www.lucacarbone.com/post/functions_chorrrds/functions_chorrrds/). "
-
+  
 [[experience]]
   title = "Creatie website"
   date_start = "2020-02-10"

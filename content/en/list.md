@@ -90,3 +90,15 @@ lastmod = [":fileModTime", ":default"]
 - Collège Pierre et Marie Curie de Albert
 - Collège-Lycée Saint Joseph de Lectoure
 - Collège Maria Montessori des Aiglons
+
+**Belgium**:
+- GO! atheneum Maerlant Blankenberge
+- Gitok Bovenbouw
+- Pedagogisch Humaniora Heilig Hartinstituut [Heverlee]
+- Instituut Heilig Hart [Kalmthout]
+- SGC Lier
+- Sint-Dimpna College
+- Sint-Aloysius Geel
+- kOsh
+
+**Slovenia**:
