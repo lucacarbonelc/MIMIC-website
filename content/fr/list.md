@@ -102,79 +102,26 @@ lastmod = [":fileModTime", ":default"]
 - kOsh
 
 **Slovénie**:
-- II. gimnazija Maribor 
-- III. gimnazija Maribor 
-- Izobraževalni center Piramida Maribor 
-- Izobraževalni center Piramida Maribor, Srednja šola za prehrano in živilstvo 
-- Konservatorij za glasbo in balet Maribor 
-- Lesarska šola Maribor 
-- Lesarska šola Maribor, Srednja šola 
-- Prometna šola Maribor 
-- Prometna šola Maribor, Srednja prometna šola in dijaški dom 
-- Prva gimnazija Maribor 
-- Srednja ekonomska šola in gimnazija Maribor 
-- Srednja elektro-računalniška šola Maribor 
-- Srednja gradbena šola in gimnazija Maribor 
-- Srednja šola Slovenska Bistrica 
-- Srednja šola za gostinstvo in turizem Maribor 
-- Srednja šola za oblikovanje Maribor 
-- Srednja trgovska šola Maribor 
-- Srednja zdravstvena in kozmetična šola Maribor 
-- Šolski center Ptuj 
-- Šolski center Ptuj, Biotehniška šola 
-- Šolski center Ptuj, Ekonomska šola 
-- Šolski center Ptuj, Elektro in računalniška šola 
-- Šolski center Ptuj, Strojna šola 
-- Tehniški šolski center Maribor 
-- Tehniški šolski center Maribor, Srednja strojna šola 
-- Zavod Antona Martina Slomška 
-- Zavod Antona Martina Slomška, Škofijska gimnazija Antona Martina Slomška
-- Biotehniška šola Rakičan 
-- Dvojezična srednja šola Lendava 
-- Ekonomska šola Murska Sobota 
-- Ekonomska šola Murska Sobota, Srednja šola in gimnazija 
-- Gimnazija Franca Miklošiča Ljutomer 
-- Gimnazija Murska Sobota 
-- Srednja poklicna in tehniška šola Murska Sobota 
-- Srednja šola za gostinstvo in turizem Radenci 
-- Srednja zdravstvena šola Murska Sobota
-- Ekonomska in trgovska šola Brežice 
-- Ekonomska in trgovska šola Brežice, Poklicna in strokovna šola 
-- Gimnazija Brežice 
-- Šolski center Krško - Sevnica 
-- Šolski center Krško - Sevnica, Gimnazija Krško 
-- Šolski center Krško - Sevnica, Srednja poklicna in strokovna šola Krško 
-- Šolski center Krško - Sevnica, Srednja šola Sevnica
-- Srednja gozdarska in lesarska šola Postojna 
-- Šolski center Postojna 
-- Šolski center Postojna, Gimnazija Ilirska Bistrica 
-- Šolski center Postojna, Srednja šola
-- Ekonomska šola Celje 
-- Ekonomska šola Celje, Gimnazija in srednja šola 
-- Gimnazija Celje - Center 
-- I. gimnazija v Celju 
-- Srednja šola za gostinstvo in turizem Celje 
-- Srednja zdravstvena šola Celje 
-- Šola za hortikulturo in vizualne umetnosti Celje 
-- Šola za hortikulturo in vizualne umetnosti Celje, Srednja poklicna in strokovna šola 
-- Šolski center Celje 
-- Šolski center Celje, Gimnazija Lava 
-- Šolski center Celje, Srednja šola za gradbeništvo in varovanje okolja 
-- Šolski center Celje, Srednja šola za kemijo, elektrotehniko in računalništvo 
-- Šolski center Celje, Srednja šola za storitvene dejavnosti in logistiko 
-- Šolski center Celje, Srednja šola za strojništvo, mehatroniko in medije 
-- Šolski center Rogaška Slatina 
-- Šolski center Slovenske Konjice - Zreče 
-- Šolski center Slovenske Konjice - Zreče, Gimnazija Slovenske Konjice 
-- Šolski center Slovenske Konjice - Zreče, Srednja poklicna in strokovna šola Zreče 
-- Šolski center Šentjur 
-- Šolski center Šentjur, Srednja poklicna in strokovna šola 
-- Šolski center Velenje 
-- Šolski center Velenje, Elektro in računalniška šola 
-- Šolski center Velenje, Gimnazija 
-- Šolski center Velenje, Šola za storitvene dejavnosti 
-- Šolski center Velenje, Šola za strojništvo, geotehniko in okolje
-- Gimnazija in ekonomska srednja šola Trbovlje 
-- Gimnazija Litija 
-- Srednja šola Zagorje 
-- Srednja tehniška in poklicna šola Trbovlje
+- II. osnovna šola Celje
+- Osnovna šola Antona Martina Slomška Vrhnika
+- Osnovna šola Kidričevo
+- Osnovna šola Brežice
+- Osnovna šola Bršljin Novo mesto
+- Osnovna šola Danile Kumar Ljubljana Bežigrad
+- Osnovna šola Dragomirja Benčiča - Brkina Hrpelje
+- Osnovna šola Milojke Štrukelj Nova Gorica
+- Osnovna šola Pohorskega odreda Slovenska Bistrica
+- Osnovna šola Puconci
+- Osnovna šola Šentjanž pri Dravogradu
+- Osnovna šola Simona Gregorčiča Kobarid
+- Osnovna šola Stopiče
+- Osnovna šola Tončke Čeč Trbovlje
+- Osnovna šola Toneta Čufarja Jesenice
+- Ekonomska gimnazija in srednja šola Radovljica
+- Ekonomska šola Ljubljana
+- Gimnazija Kranj
+- Šolski center Celje. Srednja šola za storitvene dejavnosti in logistiko
+- Šolski center Nova Gorica. Strojna, prometna in lesarska šola Nova Gorica
+- Srednja ekonomska šola in gimnazija Maribor
+- Srednja gozdarska in lesarska šola Postojna
+- Srednja tehniška šola Koper
