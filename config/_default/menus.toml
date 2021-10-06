@@ -27,7 +27,7 @@
   weight = 2.2
 
 [[main]]
-  name = "Brent Swinnen"
+  name = "Gaëlle Vanhoffelen"
   parent = "authors"
   url = "/authors/1admin3"
   weight = 2.3

@@ -37,7 +37,7 @@
   weight = 2.2
 
 [[fr.menu.main]]
-  name = "Brent Swinnen"
+  name = "Gaëlle Vanhoffelen"
   parent = "authors"
   url = "/authors/1admin3"
   weight = 2.3
@@ -152,7 +152,7 @@
   weight = 2.2
 
 [[nl.menu.main]]
-  name = "Brent Swinnen"
+  name = "Gaëlle Vanhoffelen"
   parent = "authors"
   url = "/authors/1admin3"
   weight = 2.3
@@ -267,7 +267,7 @@
   weight = 2.2
 
 [[sl.menu.main]]
-  name = "Brent Swinnen"
+  name = "Gaëlle Vanhoffelen"
   parent = "authors"
   url = "/authors/1admin3"
   weight = 2.3
