@@ -4,35 +4,35 @@ authors:
 bio:
 education:
   courses:
-  - course: PhD in communicatiewetenschap
+  - course: PhD in de Communicatiewetenschap
     institution: Katholieke Universiteit Leuven
-    year: 2020 - cadeau
-  - course: MSc in Sociologie - Cultuur en Diversiteit
-    year: 2019
-  - course: BSc in Politieke Wetenschappen en Sociologie
-    year: 2018
+    year: 2021 - heden
+  - course: Master Communicatiewetenschappen
+    year: 2020-2021
+  - course: Bachelor Communicatiewetenschappen
+    year: 2017-2020
 email: ""
 interests:
-- Prestatiedruk
-- Vervormbaarheid
-- Beschermingsmechanismen
-- Utilitair individualisme
-- Mentale gezondheid
-name: Brent Swinnen
+-	Media-effecten
+-	Mediapsychologie
+-	Prestatiedruk
+-	Mentaal welzijn
+-	Positiviteitsbias op sociale media
+name: Gaëlle Vanhoffelen
 organizations:
 - name: KU Leuven
-  url: "https://soc.kuleuven.be/smc/staff/00113344"
-role: Doctoraatsstudent
+  url: "https://www.kuleuven.be/wieiswie/nl/person/00149560"
+role: PhD student
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'brent.swinnen@kuleuven.be'
+  link: 'gaëlle.vanhoffelen@kuleuven.be'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/brent_swinnen
+  link: https://twitter.com/GVanhoffelen
 superuser: true
 user_groups:
 - Team
 ---
 
-Brent Swinnen is een doctoraatsstudent aan de Leuvense School voor Massacommunicatie. Momenteel werkt hij onder supervisie van professor Laura Vandenbosch aan het door de ERC gefinancierde project: ‘Maakbaarheid in gemedieerde idealen: een paradigma om de effecten van hedendaagse media op het welzijn van adolescenten te begrijpen’. Zijn doctoraatsproject heeft specifiek betrekking op de noties van maakbaarheid, prestatiedruk en welzijn bij adolescenten.
+Gaëlle Vanhoffelen is een doctoraatsstudente aan de Leuvense School voor Massacommunicatieonderzoek (KU Leuven) onder de supervisie van Professor Laura Vandenbosch. Haar doctoraatsproject focust op de verbanden tussen prestatiegerichte boodschappen op digitale media, zoals sociale media en televisie, en de prestatiedruk bij adolescenten, met aandacht voor de heterogene culturele achtergrond van het jongerenpubliek. Dit onderzoek maakt deel uit van het ERC-gefundeerde MIMIc project: ”Malleability in mediated ideals: A paradigm to understand effects of contemporary media in adolescents' well-being”.

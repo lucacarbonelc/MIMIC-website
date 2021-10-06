@@ -6,7 +6,7 @@ education:
   courses:
    - course: PhD in communicatiewetenschap
      institution: Katholieke Universiteit Leuven
-     year: 2020 - cadeau
+     year: 2020 - heden
    - course: MSc in sociaal werk
      institution: Universiteit van Ljubljana, SI
      year: 2016-2018

@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD in communicatiewetenschap
     institution: Katholieke Universiteit Leuven
-    year: 2020 - cadeau
+    year: 2020 - heden
   - course: MSc in politieke psychologie van internationale betrekkingen
     institution: University of Birmingham, UK
     year: 2018-2019

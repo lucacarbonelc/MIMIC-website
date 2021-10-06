@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD in communicatiewetenschap
     institution: KU Leuven school for Mass Communication
-    year: 2019 - cadeau
+    year: 2019 - heden
   - course: Onderzoek MSc in sociologie
     institution: Tilburg University
     year: 2017 - 2019
