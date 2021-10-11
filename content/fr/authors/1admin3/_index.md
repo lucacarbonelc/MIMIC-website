@@ -11,7 +11,6 @@ education:
     year: 2020-2021
   - course: BSc in Communication Science
     year: 2017-2020
-email: ""
 interests:
 - Media effects
 - Media psychology
