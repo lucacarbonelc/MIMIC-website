@@ -13,7 +13,7 @@ education:
     year: 2017-2020
 email: ""
 interests:
--	Media effects
+- Media effects
 -	Mediapsychology
 -	Performance Pressure
 -	Mental well-being
