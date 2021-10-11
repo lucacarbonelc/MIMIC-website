@@ -13,11 +13,11 @@ education:
     year: 2017-2020
 email: ""
 interests:
--	Media-effecten
--	Mediapsychologie
--	Prestatiedruk
--	Mentaal welzijn
--	Positiviteitsbias op sociale media
+- Media-effecten
+- Mediapsychologie
+- Prestatiedruk
+- Mentaal welzijn
+- Positiviteitsbias op sociale media
 name: Gaëlle Vanhoffelen
 organizations:
 - name: KU Leuven
