@@ -13,11 +13,11 @@ education:
     year: 2017-2020
 email: ""
 interests:
--	Media effects
--	Mediapsychology
--	Performance Pressure
--	Mental well-being
--	Positivity Bias on social media
+- Media effects
+- Media psychology
+- Performance Pressure
+- Mental well-being
+- Positivity Bias on social media
 name: Gaëlle Vanhoffelen
 organizations:
 - name: KU Leuven
