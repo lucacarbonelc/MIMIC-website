@@ -1,37 +1,44 @@
 ---
 authors:
-- admin3
+- admin2
 bio:
 education:
   courses:
-  - course: PhD in Communication Science
+  - course: Doktorska kandidatka komunikologije
     institution: Katholieke Universiteit Leuven
-    year: 2021 - present
-  - course: MSc in Communication Science
-    year: 2020-2021
-  - course: BSc in Communication Science
-    year: 2017-2020
+    year: 2020 - v teku
+  - course: Magistra politične psihologije mednarodnih odnosov
+    institution: University of Birmingham, UK
+    year: 2018-2019
+  - course: Univerzitetna diplomirana psihologinja
+    institution: University of Tours, France and University of Calgary, Canada
+    year: 2015-2018
+email: ""
 interests:
-- Media effects
-- Media psychology
-- Performance Pressure
-- Mental well-being
-- Positivity Bias on social media
-name: Gaëlle Vanhoffelen
+- Politična psihologija
+- Proti-znanstvene, lažne novice in teorije zarote
+- Psihologija medijev
+- Zgodnja politična socializacija
+- Družbeni aktivizem
+- Blaginja mladostnikov
+name: Anaëlle Gonzalez
 organizations:
 - name: KU Leuven
-  url: "https://www.kuleuven.be/wieiswie/nl/person/00149560"
-role: PhD student
+  url: "https://soc.kuleuven.be/smc/staff/00136069"
+role: Doktorska študentka
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'gaëlle.vanhoffelen@kuleuven.be'
+  link: 'anaelle.gonzalez@kuleuven.be'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GVanhoffelen
+  link: https://twitter.com/GonzalezAnaelle
+- icon: orcid
+  icon_pack: ai ai-orcid
+  link: https://orcid.org/0000-0002-6179-0750
 superuser: true
 user_groups:
 - Team
 ---
 
-Gaëlle Vanhoffelen is a PhD student at the Leuven School for Mass Communication (KU Leuven) under the supervision of Professor Laura Vandenbosch. Her PhD project focuses on the links between performance messages on digital media, such as social media and television, and youth's performance orientations with attention for the heterogenous cultural background of the youth audience. This project is part of the ERC-funded MIMIc project: ”Malleability in mediated ideals: A paradigm to understand effects of contemporary media in adolescents' well-being”.
+Anaëlle Gonzalez je doktorska študentka na Oddelku za raziskovanje množičnih komunikacij Univerze v Leuvnu pod mentorstvom docentke Laure Vandenbosch. V njenem doktorskem projektu se posveča tematikam uporabe medijev med mladostniki in z njo povezanimi političnimi prepričanji in participacijo (Adolescents’ Media Diets, the Individualistic Discourse et Political beliefs and Participation). Njeno delo poteka v okviru širšega z ERC štipendijo podprtega projekta z naslovom Spremenljivost “pokvarljivih idealov” in blaginja mladostnikov. Ta projekt uporablja multidisciplinaren pristop, saj združuje področja komunikologije, kulturne sociologije in psihologije.
