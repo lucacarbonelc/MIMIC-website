@@ -1,6 +1,6 @@
 ---
 authors:
-- admin11
+- admin13
 bio: 
 education:
   courses:
@@ -13,12 +13,12 @@ education:
   - course: BSc in Psychology
     institution: University of Ljubljana (Slovenia)
     year: 2015–2018
-email:
+email: ""
 interests:
--	mix methods
--	research of children and adolescents
--	research of  technology effects on the well-being of individuals
--	interdisciplinary research
+- Mix methods
+- Research of children and adolescents
+- Research of  technology effects on the well-being of individuals
+- Interdisciplinary research
 name: Kristina Rakinić 
 organizations:
 role: PhD student

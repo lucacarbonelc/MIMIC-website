@@ -1,6 +1,6 @@
 ---
 authors:
-- admin11
+- admin13
 bio: 
 education:
   courses:
@@ -15,10 +15,10 @@ education:
     year: 2015–2018
 email:
 interests:
--	mešane metode
--	raziskovanje otrok in mladostnikov
--	raziskovanje vplivov tehnologije na počutje posameznikov
--	interdisciplinarno raziskovanje 
+- Mešane metode
+- Raziskovanje otrok in mladostnikov
+- Raziskovanje vplivov tehnologije na počutje posameznikov
+- Interdisciplinarno raziskovanje 
 name: Kristina Rakinić 
 organizations:
 role: Doktorska študentka
