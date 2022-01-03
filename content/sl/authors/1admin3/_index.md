@@ -4,20 +4,20 @@ authors:
 bio:
 education:
   courses:
-  - course: PhD in Communication Science
+  - course: -	Doktorska kandidatka komunikologije
     institution: Katholieke Universiteit Leuven
-    year: 2021 - present
-  - course: MSc in Communication Science
+    year: 2021 - v teku
+  - course: -	Magistrica Komunikologije
     year: 2020-2021
-  - course: BSc in Communication Science
+  - course: -	Diplomirana komunikologinja
     year: 2017-2020
 email: ""
 interests:
-- Media effects
-- Media psychology
-- Performance Pressure
-- Mental well-being
-- Positivity Bias on social media
+-	Učinki medijev
+-	Psihologija medijev
+-	Pritisk k uspešnosti
+-	Duševno zdravje
+-	Nagnjenost k pozitivnemu predstavljanju na družbenih omrežjih
 name: Gaëlle Vanhoffelen
 organizations:
 - name: KU Leuven
@@ -35,4 +35,4 @@ user_groups:
 - Team
 ---
 
-Gaëlle Vanhoffelen is a PhD student at the Leuven School for Mass Communication (KU Leuven) under the supervision of Professor Laura Vandenbosch. Her PhD project focuses on the links between performance messages on digital media, such as social media and television, and youth's performance orientations with attention for the heterogenous cultural background of the youth audience. This project is part of the ERC-funded MIMIc project: ”Malleability in mediated ideals: A paradigm to understand effects of contemporary media in adolescents' well-being”.
+Gaëlle Vanhoffelen je doktorska študentka na Oddelku za raziskovanje množičnih komunikacij (KU Leuven) pod mentorstvom docentke Laure Vandenbosch. V svojem doktorskem projektu se osredotoča na odkrivanje povezav med sporočili o uspešnosti v digitalnih medijih, kot so družbena omrežja in televizija, in usmeritvami mladih glede uspešnosti, pri čemer je pozorna na heterogeno kulturno ozadje mladih. Ta projekt je del projekta MIMIc, ki ga financira ERC: ‘Spremenljivost “pokvarljivih idealov”: paradigma za razumevanje učinkov sodobnih medijev na dobrobit otrok in mladostnikov’.
