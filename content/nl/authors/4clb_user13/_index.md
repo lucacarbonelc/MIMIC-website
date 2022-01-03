@@ -4,28 +4,28 @@ authors:
 bio: 
 education:
   courses:
-  - course: PhD in Social Sciences Methodology
-    institution: University of Ljubljana (Slovenia)
-    year: 2021 – present
-  - course: MSc in Psychology
-    institution: University of Ljubljana (Slovenia)
+  - course: Doctoraat in Sociaal-Wetenschappelijke Methodologie
+    institution: Faculteit Sociale Wetenschappen, Universiteit van Ljubljana, Slovenië
+    year: 2021 – heden
+  - course: MSc in Psychologie
+    institution: Departement Psychologie, Faculteit der Letteren, Universiteit van Ljubljana, Slovenië
     year: 2018–2020
-  - course: BSc in Psychology
-    institution: University of Ljubljana (Slovenia)
+  - course: BSc in Psychologie
+    institution: Departement Psychologie, Faculteit der Letteren, Universiteit van Ljubljana, Slovenië
     year: 2015–2018
 email:
 interests:
-- Mix methods
-- Research of children and adolescents
-- Research of  technology effects on the well-being of individuals
-- Interdisciplinary research
+- mix methods
+- onderzoek naar kinderen en adolescenten
+- onderzoek naar de effecten van technologie op het welzijn van individuen
+- interdisciplinair onderzoek
 name: Kristina Rakinić 
 organizations:
-role: PhD student
+role: Doctoraatsstudent
 social:
 superuser: true
 user_groups:
 - Internationale medewerkers
 ---
 
-Kristina Rakinić is a PhD student at the Faculty of Social Sciences (University of Ljubljana). She is enrolled in the doctoral program Social Sciences Methodology. She is doing her doctoral dissertation under the mentorship of assoc. prof. Bojana Lobe (UL FDV) and co-mentorship of assistant professor Laura Vandenbosch (KU Leuven). In the past, she was employed at the Department of Psychology, Faculty of Arts, University of Ljubljana, where she researched the perceived safety of collaborative robots. She was also employed at the National Examination Center, where she researched the effects of distance education in the time of Covid-19. She also participates in various interdisciplinary projects.
+Kristina Rakinić is een doctoraatsstudente aan de Faculteit Sociale Wetenschappen (Universiteit van Ljubljana). Ze is ingeschreven in het doctoraatsprogramma Methodologie van de Sociale Wetenschappen. Ze schrijft haar doctoraatsthesis onder de supervisie van assistent-professor Bojana Lobe (UL FDV) en de co-supervisie van assistent-professor Laura Vandenbosch (KU Leuven). In het verleden was ze werkzaam aan het Departement Psychologie, Faculteit Letteren, Universiteit van Ljubljana, waar ze onderzoek deed naar de gevoelsmatige veiligheid van collaboratieve robots. Daarnaast was ze ook werkzaam bij het Nationaal Examencentrum, waar ze onderzoek deed naar de effecten van afstandsonderwijs gedurende Covid-19. Ze neemt ook deel aan verschillende interdisciplinaire projecten.
