@@ -4,12 +4,12 @@ authors:
 bio:
 education:
   courses:
-  - course: -	Doktorska kandidatka komunikologije
+  - course: Doktorska kandidatka komunikologije
     institution: Katholieke Universiteit Leuven
     year: 2021 - v teku
-  - course: -	Magistrica Komunikologije
+  - course: Magistrica Komunikologije
     year: 2020-2021
-  - course: -	Diplomirana komunikologinja
+  - course: Diplomirana komunikologinja
     year: 2017-2020
 email: ""
 interests:
