@@ -13,11 +13,11 @@ education:
     year: 2017-2020
 email: ""
 interests:
--	Učinki medijev
--	Psihologija medijev
--	Pritisk k uspešnosti
--	Duševno zdravje
--	Nagnjenost k pozitivnemu predstavljanju na družbenih omrežjih
+- Učinki medijev
+- Psihologija medijev
+- Pritisk k uspešnosti
+- Duševno zdravje
+- Nagnjenost k pozitivnemu predstavljanju na družbenih omrežjih
 name: Gaëlle Vanhoffelen
 organizations:
 - name: KU Leuven
