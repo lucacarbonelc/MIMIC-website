@@ -4,41 +4,40 @@ authors:
 bio:
 education:
   courses:
-  - course: Doktorska kandidatka komunikologije
-    institution: Katholieke Universiteit Leuven
-    year: 2020 - v teku
-  - course: Magistra politične psihologije mednarodnih odnosov
-    institution: University of Birmingham, UK
-    year: 2018-2019
-  - course: Univerzitetna diplomirana psihologinja
-    institution: University of Tours, France and University of Calgary, Canada
-    year: 2015-2018
+  - course: Doctorat en Sciences de la Communication
+    institution: Katholieke Universiteit Leuven, BE
+    year: 2021 - présent
+  - course: MSc en Sciences de la Communication
+    institution: Katholieke Universiteit Leuven, BE
+    year: 2020-2021
+  - course: Licence en Sciences de la Communication
+    institution: Katholieke Universiteit Leuven, BE
+    year: 2017-2020
 email: ""
 interests:
-- Politična psihologija
-- Proti-znanstvene, lažne novice in teorije zarote
-- Psihologija medijev
-- Zgodnja politična socializacija
-- Družbeni aktivizem
-- Blaginja mladostnikov
-name: Anaëlle Gonzalez
+- Effets des médias
+- Psychologie des médias
+- Pression de la performance
+- Bien-être mental
+- Biais de positivité sur les réseaux sociaux
+name: Gaëlle Vanhoffelen
 organizations:
 - name: KU Leuven
-  url: "https://soc.kuleuven.be/smc/staff/00136069"
-role: Doktorska študentka
+  url: "https://soc.kuleuven.be/smc/staff/00149560"
+role: Doctorant
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'anaelle.gonzalez@kuleuven.be'
+  link: 'gaelle.vanhoffelen@kuleuven.be'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GonzalezAnaelle
+  link: https://twitter.com/GVanhoffelen
 - icon: orcid
   icon_pack: ai ai-orcid
-  link: https://orcid.org/0000-0002-6179-0750
+  link: https://orcid.org/0000-0002-8807-8966
 superuser: true
 user_groups:
 - Team
 ---
 
-Anaëlle Gonzalez je doktorska študentka na Oddelku za raziskovanje množičnih komunikacij Univerze v Leuvnu pod mentorstvom docentke Laure Vandenbosch. V njenem doktorskem projektu se posveča tematikam uporabe medijev med mladostniki in z njo povezanimi političnimi prepričanji in participacijo (Adolescents’ Media Diets, the Individualistic Discourse et Political beliefs and Participation). Njeno delo poteka v okviru širšega z ERC štipendijo podprtega projekta z naslovom Spremenljivost “pokvarljivih idealov” in blaginja mladostnikov. Ta projekt uporablja multidisciplinaren pristop, saj združuje področja komunikologije, kulturne sociologije in psihologije.
+Gaëlle Vanhoffelen est doctorante à l'Ecole de Recherche sur la Communication de Masse à Louvain (School for Mass Communication Research; KU Leuven) sous la supervision de la Professeure Laura Vandenbosch. Son projet de doctorat se concentre sur les liens entre les messages de performance sur les médias numériques, tels que les réseaux sociaux et la télévision, et les orientations de performance des jeunes, en tenant compte du contexte culturel hétérogène du jeune public. Ce projet fait partie du projet MIMIc financé par le Conseil Européen de la Recherche (CER) : "Malléabilité dans les Idéaux Médiatisés : Un paradigme pour comprendre les effets des médias contemporains sur le bien-être des adolescents".
