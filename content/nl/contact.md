@@ -9,10 +9,10 @@ lastmod: [":fileModTime", ":default"]
 ## Organisatie van het onderzoek
 Als je vragen hebt over de organisatie van het onderzoek, kun je altijd contact opnemen met de verantwoordelijke onderzoeker in elk land:
 
-- **Brent Swinnen** voor alle *Belgische* gerelateerde onderzoeksvragen: \
-• tel: +32 16 37 39 64, \
+- **Gaëlle Vanhoffelen** voor alle *Belgische* gerelateerde onderzoeksvragen: \
+• tel: +32 16 71 04 20,\
 • e-mail: mimic.belgium@kuleuven.be,\
-• [website](https://www.kuleuven.be/wieiswie/en/person/00113344).
+• [website](https://www.kuleuven.be/wieiswie/en/person/00149560).
 
 - **Anaelle Gonzalez** voor alle *Frans* gerelateerde onderzoeksvragen: \
 • tel: +32 16 19 37 89, \

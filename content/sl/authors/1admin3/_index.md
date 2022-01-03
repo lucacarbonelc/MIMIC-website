@@ -22,7 +22,7 @@ name: Gaëlle Vanhoffelen
 organizations:
 - name: KU Leuven
   url: "https://www.kuleuven.be/wieiswie/nl/person/00149560"
-role: PhD student
+role: Doktorska študentka
 social:
 - icon: envelope
   icon_pack: fas

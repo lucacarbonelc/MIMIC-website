@@ -9,10 +9,10 @@ lastmod: [":fileModTime", ":default"]
 ## Organisation de la recherche
 Si vous avez des questions sur l'organisation de la recherche, vous pouvez toujours contacter le chercheur responsable de chaque pays:
 
-- **Brent Swinnen** pour toutes les questions de recherche *belges* liées: \
-• tel: +32 16 37 39 64, \
+- **Gaëlle Vanhoffelen** pour toutes les questions de recherche *belges* liées: \
+• tel: +32 16 71 04 20,\
 • email: mimic.belgium@kuleuven.be,\
-• [site Web] (https://www.kuleuven.be/wieiswie/en/person/00113344).
+• [site Web] (https://www.kuleuven.be/wieiswie/en/person/00149560).
 
 - **Anaelle Gonzalez** pour toutes les questions de recherche liées au *français*: \
 • tel: +32 16 19 37 89, \

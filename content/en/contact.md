@@ -9,10 +9,10 @@ lastmod: [":fileModTime", ":default"]
 ## Organization of the research
 If you have questions about the organization of the research, you can always contact the responsible researcher in each country:
 
-- **Brent Swinnen** for all *Belgian* related research questions:\
-• tel: +32 16 37 39 64,\
+- **Gaëlle Vanhoffelen** for all *Belgian* related research questions:\
+• tel: +32 16 71 04 20,\
 • email: mimic.belgium@kuleuven.be,\
-• [website](https://www.kuleuven.be/wieiswie/en/person/00113344).
+• [website](https://www.kuleuven.be/wieiswie/en/person/00149560).
 
 - **Anaelle Gonzalez** for all *French* related research questions:\
 • tel: +32 16 19 37 89,\

@@ -68,7 +68,7 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
-**Francijia**:
+**Francija**:
 - Collège Blois-Vienne
 - Collège les Denteliers de Calais
 - Lycée Professionnel Pierre Mendès-France
@@ -91,7 +91,7 @@ lastmod = [":fileModTime", ":default"]
 - Collège-Lycée Saint Joseph de Lectoure
 - Collège Maria Montessori des Aiglons
 
-**Belgijia**:
+**Belgija**:
 - GO! atheneum Maerlant Blankenberge
 - Gitok Bovenbouw
 - Pedagogisch Humaniora Heilig Hartinstituut [Heverlee]
@@ -101,27 +101,31 @@ lastmod = [":fileModTime", ":default"]
 - Sint-Aloysius Geel
 - kOsh
 
-**Slovenijia**:
-- II. osnovna šola Celje
+**Slovenija**:
+- II. osnovna šola Celje 
 - Osnovna šola Antona Martina Slomška Vrhnika
-- Osnovna šola Kidričevo
 - Osnovna šola Brežice
 - Osnovna šola Bršljin Novo mesto
 - Osnovna šola Danile Kumar Ljubljana Bežigrad
 - Osnovna šola Dragomirja Benčiča - Brkina Hrpelje
+- Osnovna šola Ivana Cankarja Vrhnika
+- Osnovna šola Kidričevo
 - Osnovna šola Milojke Štrukelj Nova Gorica
+- Osnovna šola Ob Rinži Kočevje
 - Osnovna šola Pohorskega odreda Slovenska Bistrica
 - Osnovna šola Puconci
 - Osnovna šola Šentjanž pri Dravogradu
-- Osnovna šola Simona Gregorčiča Kobarid
-- Osnovna šola Stopiče
+- Osnovna šola Simona Gregorčiča Kobarid  
+- Osnovna šola Stopiče 
 - Osnovna šola Tončke Čeč Trbovlje
 - Osnovna šola Toneta Čufarja Jesenice
 - Ekonomska gimnazija in srednja šola Radovljica
-- Ekonomska šola Ljubljana
-- Gimnazija Kranj
-- Šolski center Celje. Srednja šola za storitvene dejavnosti in logistiko
-- Šolski center Nova Gorica. Strojna, prometna in lesarska šola Nova Gorica
-- Srednja ekonomska šola in gimnazija Maribor
+- Ekonomska šola Ljubljana 
+- Gimnazija Jožeta Plečnika Ljubljana 
+- Gimnazija Kranj 
+- Šolski center Celje. Srednja šola za storitvene dejavnosti in logistiko 
+- Šolski center Nova Gorica. Strojna, prometna in lesarska šola Nova Gorica 
+- Srednja ekonomska šola in gimnazija Maribor 
 - Srednja gozdarska in lesarska šola Postojna
-- Srednja tehniška šola Koper
+- Srednja šola za oblikovanje in fotografijo Ljubljana
+- Srednja tehniška šola Koper 

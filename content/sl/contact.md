@@ -9,10 +9,10 @@ lastmod: [":fileModTime", ":default"]
 ## Organizacija raziskave
 Če imate kakršna koli vprašanja glede organizacije naše raziskave, lahko kontaktirate raziskovalca ali raziskovalko, ki organizira raziskavo v vaši državi:
 
-- **Brent Swinnen** za vsa vprašanja glede raziskave v *Belgiji*:\
-• tel: +32 16 37 39 64,\
+- **Gaëlle Vanhoffelen** za vsa vprašanja glede raziskave v *Belgiji*:\
+• tel: +32 16 71 04 20,\
 • e-pošta: mimic.belgium@kuleuven.be,\
-• [spletna stran](https://www.kuleuven.be/wieiswie/en/person/00113344).
+• [spletna stran](https://www.kuleuven.be/wieiswie/en/person/00149560).
 
 - **Anaelle Gonzalez** za vsa vprašanja glede raziskave v *Franciji*:\
 • tel: +32 16 19 37 89,\
@@ -24,7 +24,7 @@ lastmod: [":fileModTime", ":default"]
 • e-pošta: mimic.slovenia@kuleuven.be,\
 • [spletna stran](https://www.kuleuven.be/wieiswie/en/person/00142166).
 
-- Za splošna vprašanja lahko kontaktirate tudi glavno raziskovalko Prof. **Lauro Vandenbosch**. Je odgovorna oseba projekta, podprtega z ERC štipendijo (koda MIMIc, št. 852317):\
+- Za splošna vprašanja lahko kontaktirate tudi glavno raziskovalko Prof. **Laura Vandenbosch**. Je odgovorna oseba projekta, podprtega z ERC štipendijo (koda MIMIc, št. 852317):\
 • tel: +32 16 32 32 02,\
 • e-pošta: mimic.belgium@kuleuven.be,\
 • [spletna stran](https://www.kuleuven.be/wieiswie/en/person/00060068).
