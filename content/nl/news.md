@@ -6,6 +6,10 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 04 January 2022
+
+The first wave data collection of the time study was completed in September-November 2021. XX youth aged between 12 and 18 fully completed the questionnaire in the three countries. XX youth participated in Belgium, XX in France and 1082 in Slovenia. The survey was about the social media, smartphone, tv series and music with some questions about youth themselves and the society. Some preliminary results can be found in this brief report.
+
 ### 15 april 2021
 
 1. Veranderingen in de data over Time Study.
