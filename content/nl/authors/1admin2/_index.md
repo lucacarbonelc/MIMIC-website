@@ -16,11 +16,10 @@ education:
 email: ""
 interests:
 - Politieke psychologie
-- Anti-wetenschap, nepnieuws en complottheorieën
+- Welzijn van adolescenten
 - Mediapsychologie
-- Vroege politieke socialisatie
-- Sociaal activisme
-- Het welzijn van adolescenten
+- Ontwikkelingspsychologie
+- Politieke Communicatie
 name: Anaëlle Gonzalez
 organizations:
 - name: KU Leuven
@@ -41,4 +40,4 @@ user_groups:
 - Team
 ---
 
-Anaëlle Gonzalez is een doctoraatsstudente aan de Leuvense School voor Massacommunicatieonderzoek (KU Leuven) onder supervisie van professor Laura Vandenbosch. Haar PhD-project richt zich op de mediadiëten van adolescenten, het individualistische discours en politieke overtuigingen en participatie. Het maakt deel uit van het grotere ERC-project over Malleable Mediated Ideals en het welzijn van adolescenten. Dit project gebruikt een multidisciplinaire aanpak die communicatiewetenschap, culturele sociologie en psychologie combineert.
+Anaëlle Gonzalez is doctoraatsstudente aan de Leuvense School voor Massacommunicatie Onderzoek (KU Leuven) onder begeleiding van professor Laura Vandenbosch. Haar doctoraatsproject richt zich op de rol die sociale media en entertainment fictie spelen in de politieke socialisatie van adolescenten. Het maakt deel uit van de grotere ERC-startsubsidie over 'Malleable Mediated Ideals and Adolescents' Wellbeing'. Dit project maakt gebruik van een multidisciplinaire aanpak omdat het communicatie en politieke wetenschappen combineert, evenals psychologie.

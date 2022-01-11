@@ -24,7 +24,7 @@ name: Jasmina Rosič
 organizations:
 - name: KU Leuven
   url: "https://www.kuleuven.be/wieiswie/en/person/00142166"
-role: Doctorant
+role: Doctorante
 social:
 - icon: envelope
   icon_pack: fa

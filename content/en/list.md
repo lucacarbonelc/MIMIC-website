@@ -69,27 +69,25 @@ lastmod = [":fileModTime", ":default"]
 +++
 
 **France**:
-- Collège Blois-Vienne
-- Collège les Denteliers de Calais
-- Lycée Professionnel Pierre Mendès-France
-- Collège Saint-Firmin de Firminy
-- Collège Notre-Dame de Romorantin
-- Lycée Augustin Thierry de Blois
-- Lycée Fustel de Coulanges de Strasbourg
-- Collège Louise Michel de Lussac Les Châteaux
-- Collège Vallées du Paillon – Roger Carlès de Contes
-- Collège Léonard de Vinci de Romorantin
-- Lycée la Martinière Duchère de Lyon
-- Lycée privé Saint-Joseph la Salle de Pantin
-- Lycée Saint-Joseph de Lamballe
-- Lycée privé Jean-Baptiste la Salle de Rouen
-- Collège Marie Noël de Joigny
-- Lycée Georges Leygues-Louis Couffignal de Villeneuve-sur-Lot
-- Collège Félix Landreau de Angers
-- Collège Paul Emile Victor de Corcieux
-- Collège Pierre et Marie Curie de Albert
-- Collège-Lycée Saint Joseph de Lectoure
-- Collège Maria Montessori des Aiglons
+-	Collège Blois – Vienne
+-	Collège des Vallées du Paillon – Roger Carles – Contes
+-	Collège Léonard de Vinci – Romorantin
+-	Collège Marie Noël REP – Joigny
+-	Collège Paul Emile Victor – Corcieux
+-	Collège Pierre et Marie Curie – Albert
+-	Collège Endarra – Anglet
+-	Collège Jeanne d'Arc – Saint Géraud
+-	Collège Maria Montessori des Aiglons
+-	Collège Henri Vincenot – Chalindrey
+-	Collège Saint Antoine La Salle – Lannilis
+-	Collège André Duchesne – L'Ile Bouchard
+-	Lycée Blaise Pascal – Segre
+-	Lycée professionnel Henri Sainte Claire Deville – Issoire
+-	Lycée Saint Jean (Saint Joseph) – Lectoure
+-	Lycée Edouard Herriot – Lyon
+-	Lycée Georges Leygues/Louis Couffignal – Villeneuve-sur-Lot
+-	Lycée Jacques Cœur – Bourges
+-	Lycée Fustel de Coulanges – Strasbourg
 
 **Belgium**:
 - GO! atheneum Maerlant Blankenberge
@@ -102,26 +100,30 @@ lastmod = [":fileModTime", ":default"]
 - kOsh
 
 **Slovenia**:
-- II. osnovna šola Celje
+- II. osnovna šola Celje 
 - Osnovna šola Antona Martina Slomška Vrhnika
-- Osnovna šola Kidričevo
 - Osnovna šola Brežice
 - Osnovna šola Bršljin Novo mesto
 - Osnovna šola Danile Kumar Ljubljana Bežigrad
 - Osnovna šola Dragomirja Benčiča - Brkina Hrpelje
+- Osnovna šola Ivana Cankarja Vrhnika
+- Osnovna šola Kidričevo
 - Osnovna šola Milojke Štrukelj Nova Gorica
+- Osnovna šola Ob Rinži Kočevje
 - Osnovna šola Pohorskega odreda Slovenska Bistrica
 - Osnovna šola Puconci
 - Osnovna šola Šentjanž pri Dravogradu
-- Osnovna šola Simona Gregorčiča Kobarid
-- Osnovna šola Stopiče
+- Osnovna šola Simona Gregorčiča Kobarid  
+- Osnovna šola Stopiče 
 - Osnovna šola Tončke Čeč Trbovlje
 - Osnovna šola Toneta Čufarja Jesenice
 - Ekonomska gimnazija in srednja šola Radovljica
-- Ekonomska šola Ljubljana
-- Gimnazija Kranj
-- Šolski center Celje. Srednja šola za storitvene dejavnosti in logistiko
-- Šolski center Nova Gorica. Strojna, prometna in lesarska šola Nova Gorica
-- Srednja ekonomska šola in gimnazija Maribor
+- Ekonomska šola Ljubljana 
+- Gimnazija Jožeta Plečnika Ljubljana 
+- Gimnazija Kranj 
+- Šolski center Celje. Srednja šola za storitvene dejavnosti in - logistiko 
+- Šolski center Nova Gorica. Strojna, prometna in lesarska šola - Nova Gorica 
+- Srednja ekonomska šola in gimnazija Maribor 
 - Srednja gozdarska in lesarska šola Postojna
-- Srednja tehniška šola Koper
+- Srednja šola za oblikovanje in fotografijo Ljubljana
+- Srednja tehniška šola Koper 

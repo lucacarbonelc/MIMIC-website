@@ -21,7 +21,7 @@ interests:
 -  recherche interdisciplinaire
 name: Kristina Rakinić 
 organizations:
-role: Doctorant
+role: Doctorante
 social:
 superuser: true
 user_groups:

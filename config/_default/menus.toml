@@ -57,6 +57,12 @@
   weight = 2.7
 
 [[main]]
+  name = "Kristina Rakinić"
+  parent = "authors"
+  url = "/authors/4clb_user13"
+  weight = 2.8
+
+[[main]]
   name = "Resources"
   identifier = "resources"
   url = "#"

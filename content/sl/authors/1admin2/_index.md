@@ -16,11 +16,10 @@ education:
 email: ""
 interests:
 - Politična psihologija
-- Proti-znanstvene, lažne novice in teorije zarote
-- Psihologija medijev
-- Zgodnja politična socializacija
-- Družbeni aktivizem
 - Blaginja mladostnikov
+- Psihologija medijev
+- Razvojna psihologija
+- Politično komuniciranje
 name: Anaëlle Gonzalez
 organizations:
 - name: KU Leuven
@@ -41,4 +40,4 @@ user_groups:
 - Team
 ---
 
-Anaëlle Gonzalez je doktorska študentka na Oddelku za raziskovanje množičnih komunikacij Univerze v Leuvnu pod mentorstvom docentke Laure Vandenbosch. V njenem doktorskem projektu se posveča tematikam uporabe medijev med mladostniki in z njo povezanimi političnimi prepričanji in participacijo (Adolescents’ Media Diets, the Individualistic Discourse et Political beliefs and Participation). Njeno delo poteka v okviru širšega z ERC štipendijo podprtega projekta z naslovom Spremenljivost “pokvarljivih idealov” in blaginja mladostnikov. Ta projekt uporablja multidisciplinaren pristop, saj združuje področja komunikologije, kulturne sociologije in psihologije.
+Anaëlle Gonzalez je doktorska študentka na Oddelku za raziskovanje množičnih komunikacij Univerze v Leuvnu pod mentorstvom profesorice Laure Vandenbosch. V njenem doktorskem projektu se osredotoča na vlogo, ki jo imajo družbena omrežja in zabavna fikcija (tv serije) pri politični socializaciji mladostnikov. Njeno delo poteka v okviru širšega z ERC štipendijo podprtega projekta z naslovom Spremenljivost “pokvarljivih idealov” in blaginja mladostnikov. Ta projekt uporablja multidisciplinaren pristop, saj združuje področja komunikologije, političnih ved in psihologije.

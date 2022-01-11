@@ -24,7 +24,7 @@ name: Gaëlle Vanhoffelen
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00149560"
-role: Doctorant
+role: Doctorante
 social:
 - icon: envelope
   icon_pack: fas

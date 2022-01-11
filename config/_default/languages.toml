@@ -67,6 +67,12 @@
   weight = 2.7
 
 [[fr.menu.main]]
+  name = "Kristina Rakinić"
+  parent = "authors"
+  url = "/authors/4clb_user13"
+  weight = 2.8
+
+[[fr.menu.main]]
   name = "Ressources"
   identifier = "resources"
   url = "#"
@@ -109,7 +115,7 @@
   weight = 4.2
 
 [[fr.menu.main]]
-  name = "Parents and Participants"
+  name = "Parents et Participants"
   url = "/adolescents"
   weight = 5.0
 
@@ -180,6 +186,12 @@
   parent = "authors"
   url = "/authors/4clb_user11"
   weight = 2.7
+
+[[nl.menu.main]]
+  name = "Kristina Rakinić"
+  parent = "authors"
+  url = "/authors/4clb_user13"
+  weight = 2.8
 
 [[nl.menu.main]]
   name = "Middelen"
@@ -295,6 +307,12 @@
   parent = "authors"
   url = "/authors/4clb_user11"
   weight = 2.7
+
+[[sl.menu.main]]
+  name = "Kristina Rakinić"
+  parent = "authors"
+  url = "/authors/4clb_user13"
+  weight = 2.8
 
 [[sl.menu.main]]
   name = "Viri"

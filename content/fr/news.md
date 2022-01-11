@@ -6,9 +6,9 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
-### 04 January 2022
+### 04 janvier 2022
 
-The first wave data collection of the time study was completed in September-November 2021. XX youth aged between 12 and 18 fully completed the questionnaire in the three countries. XX youth participated in Belgium, XX in France and 1082 in Slovenia. The survey was about the social media, smartphone, tv series and music with some questions about youth themselves and the society. Some preliminary results can be found in this brief report.
+La première vague de collecte de données de l'étude du temps s'est achevée en septembre-novembre 2021. 2412 jeunes âgés de 12 à 18 ans ont rempli entièrement le questionnaire dans les trois pays. 590 jeunes ont participé en Belgique, 740 en France et 1082 en Slovénie. L'enquête portait sur les réseaux sociaux, les smartphones, les séries télévisées et la musique, avec quelques questions sur les jeunes et la société qui les entoure. Quelques résultats préliminaires peuvent être trouvés dans ce bref rapport.
 
 ### 15 avril 2021
 
@@ -36,6 +36,6 @@ Directives éthiques modifiées conformément aux pratiques standard de sorte qu
 ---
 3. Augmentation de la récompense pour la première administration de l'enquête.
 
-ANCIEN RÉCOMPENSE: 5€ (1st wave), 7€ (2nd wave), 10€ (3rd wave)
+ANCIEN RÉCOMPENSE: 5€ (1ère vague), 7€ (2ème vague), 10€ (3ème vague)
 
-NOUVELLE RÉCOMPENSE: 10€ (1st wave), 12€ (2nd wave), 15€ (3rd wave)
+NOUVELLE RÉCOMPENSE: 10€ (1ère vague), 12€ (2ème vague), 15€ (3ème vague)

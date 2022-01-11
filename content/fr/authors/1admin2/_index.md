@@ -16,16 +16,15 @@ education:
 email: ""
 interests:
 - Psychologie politique
-- Théories anti-science, fake-news et conspiration
-- Psychologie des médias
-- Socialisation politique précoce
-- Activisme social
 - Bien-être des adolescents
+- Psychologie des médias
+- Psychologie du développement
+- Communication politique
 name: Anaëlle Gonzalez
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00136069"
-role: Doctorant
+role: Doctorante
 social:
 - icon: envelope
   icon_pack: fas
@@ -41,4 +40,4 @@ user_groups:
 - Team
 ---
 
-Anaëlle Gonzalez est doctorante à la Leuven School for Mass Communication Research (KU Leuven) sous la direction du professeur Laura Vandenbosch. Son projet de doctorat porte sur les régimes médiatiques des adolescents, le discours individualiste et les croyances politiques et la participation. Il fait partie de la plus grande subvention de démarrage du CER sur les idéaux médiatisés malléables et le bien-être des adolescents. Ce projet utilise une approche multidisciplinaire car il combine science de la communication, sociologie culturelle et psychologie.
+Anaëlle Gonzalez est doctorante à la Leuven School for Mass Communication Research (KU Leuven) sous la direction de la professeure Laura Vandenbosch. Son projet de doctorat porte sur le rôle que les réseaux sociaux et la fiction de divertissement (séries) jouent dans la socialisation politique des adolescents. Il fait partie de la plus grande subvention de démarrage du CER sur les idéaux médiatisés malléables et le bien-être des adolescents. Ce projet utilise une approche multidisciplinaire car il combine science de la communication, science politique et psychologie.
