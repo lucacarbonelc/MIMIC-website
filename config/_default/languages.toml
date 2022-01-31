@@ -73,7 +73,7 @@
   weight = 2.8
 
 [[fr.menu.main]]
-  name = "Ressources"
+  name = "Resources"
   identifier = "resources"
   url = "#"
   weight = 3.0
@@ -83,18 +83,24 @@
   parent = "resources"
   url = "#academic_output"
   weight = 3.1
+  
+[[fr.menu.main]]
+  name = "Debriefings"
+  parent = "resources"
+  url = "#debriefings"
+  weight = 3.2
 
 [[fr.menu.main]]
   name = "Science ouverte"
   parent = "resources"
   url = "/open_science"
-  weight = 3.2
+  weight = 3.3
 
 [[fr.menu.main]]
   name = "Vidéos"
   parent = "resources"
   url = "/videos"
-  weight = 3.3
+  weight = 3.4
 
 [[fr.menu.main]]
   name = "Écoles"
@@ -206,16 +212,22 @@
   weight = 3.1
 
 [[nl.menu.main]]
+  name = "Debriefings"
+  parent = "resources"
+  url = "#debriefings"
+  weight = 3.2
+
+[[nl.menu.main]]
   name = "Open wetenschap"
   parent = "resources"
   url = "/open_science"
-  weight = 3.2
+  weight = 3.3
 
 [[nl.menu.main]]
   name = "Videos"
   parent = "resources"
   url = "/videos"
-  weight = 3.3
+  weight = 3.4
 
 [[nl.menu.main]]
   name = "Scholen"
@@ -327,16 +339,22 @@
   weight = 3.1
 
 [[sl.menu.main]]
+  name = "Debriefings"
+  parent = "resources"
+  url = "#debriefings"
+  weight = 3.2
+
+[[sl.menu.main]]
   name = "Odprta znanost"
   parent = "resources"
   url = "/open_science"
-  weight = 3.2
+  weight = 3.3
 
 [[sl.menu.main]]
   name = "Videoposnetki"
   parent = "resources"
   url = "/videos"
-  weight = 3.3
+  weight = 3.4
 
 [[sl.menu.main]]
   name = "Šole"
