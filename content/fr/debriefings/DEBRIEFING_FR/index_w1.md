@@ -10,7 +10,7 @@ publication_types:
 publishDate: "2022-01-31T00:00:00Z"
 tags:
 - debriefing
-title: Debriefing France - Wave 1
+title: Debriefing - 1ère vague
 url_code: ""
 url_dataset: ""
 url_pdf: ""
@@ -21,5 +21,5 @@ url_source: ""
 url_video: ""
 ---
 
-<a href="/img/brochure_FR.pdf" tabindex="-1"><strong>Téléchargez le debriefing ici</strong></a>
-![](/img/merged_FR.jpg)
+<a href="/img/debriefing_fr_w1.pdf" tabindex="-1"><strong>Téléchargez le debriefing ici</strong></a>
+![](/img/merged_debriefing_fr_w1.jpg)

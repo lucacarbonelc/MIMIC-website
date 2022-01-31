@@ -10,7 +10,7 @@ publication_types:
 publishDate: "2020-04-06T00:00:00Z"
 tags:
 - debriefing
-title: Debriefing Belgium - Wave 1
+title: Debriefing - Wave 1
 url_code: ""
 url_dataset: ""
 url_pdf: ""

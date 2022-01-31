@@ -7,10 +7,10 @@ projects: []
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2020-04-06T00:00:00Z"
+publishDate: "2022-01-31T00:00:00Z"
 tags:
 - debriefing
-title: Debriefing Slovenia - Wave 1
+title: Debriefing - 1. val
 url_code: ""
 url_dataset: ""
 url_pdf: ""
