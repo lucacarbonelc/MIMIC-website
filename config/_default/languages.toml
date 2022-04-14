@@ -55,7 +55,7 @@
   weight = 2.5
 
 [[fr.menu.main]]
-  name = "Katitlin Fitzgerald"
+  name = "Kaitlin Fitzgerald"
   parent = "authors"
   url = "/authors/1admin6"
   weight = 2.6
@@ -188,7 +188,7 @@
   weight = 2.5
 
 [[nl.menu.main]]
-  name = "Katitlin Fitzgerald"
+  name = "Kaitlin Fitzgerald"
   parent = "authors"
   url = "/authors/1admin6"
   weight = 2.6
@@ -321,7 +321,7 @@
   weight = 2.5
 
 [[sl.menu.main]]
-  name = "Katitlin Fitzgerald"
+  name = "Kaitlin Fitzgerald"
   parent = "authors"
   url = "/authors/1admin6"
   weight = 2.6

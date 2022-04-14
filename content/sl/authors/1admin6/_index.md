@@ -4,27 +4,27 @@ authors:
 bio: 
 education:
   courses:
-  - course: PhD in Communication Science
-    institution: University at Buffalo, The State University of New York
+  - course: Doktorica znanosti iz komunikologije
+    institution: Univerza v Buffalu, Državna univerza v New Yorku
     year: 2021
-  - course: MA in Communication
-    institution: University at Buffalo, The State University of New York
+  - course: Magistrica komunikologije
+    institution: Univerza v Buffalu, Državna univerza v New Yorku
     year: 2017
-  - course: BS in Psychology
-    institution: James Madison University
+  - course: Univerzitetna diplomirana psihologinja
+    institution: Univerza James Madison
     year: 2015
 email: "ksfitzge@buffalo.edu"
 interests:
-- Narrative processing and persuasion
-- Entertainment media effects
-- Media psychology
-- Prosocial effects
-- Well-being 
+- Obdelava pripovedi in prepričevanje
+- Učinki medijev za zabavo
+- Psihologija medijev
+- Prosocialni učinki
+- Blaginja
 name: Kaitlin Fitzgerald
 organizations:
 - name: KU Leuven
   url: "https://www.kuleuven.be/wieiswie/en/person/00151356"
-role: Post-doctoral researcher
+role: Podoktorandka
 social:
 - icon: envelope
   icon_pack: fa
@@ -43,4 +43,4 @@ user_groups:
 - Team
 ---
 
-Kaitlin Fitzgerald is a postdoctoral researcher at the Leuven School for Mass Communication Research (KU Leuven). Her research focuses on how narratives and media messages can be leveraged for prosocial outcomes such as empathy and helping, moral sensitivity, and well-being. Her research on restorative narratives examines a unique approach to sharing stories about tragic events or social issues through emphasizing character strengths and meaningful progression. Her studies in this area have found that restorative narratives are an especially effective way to induce positive emotions and moral elevation, which in turn increase the desire to help affected individuals and communities. Currently, her work investigates the cognitive and emotional experiences that foster prosocial message effects, including emotional flow (the evolution of emotions during exposure to a media message), narrative transportation, and narrative enjoyment and appreciation.
+Kaitlin Fitzgerald je podoktorandka na Oddelku za raziskovanje množičnih komunikacij (KU Leuven). Njeno raziskovalno delo se osredotoča na to, kako lahko medijske pripovedi in medijska sporočila izkoristimo za prosocialne izide, kot so empatija in pomoč, moralna občutljivost in dobro počutje. Njeno raziskovanje t. i. krepčilnih pripovedi preučuje edinstven pristop k deljenju pripovedi o tragičnih dogodkih ali družbenih vprašanjih v medijih s poudarjanjem prednosti značaja in smiselnega napredka. Njene študije na tem področju so pokazale, da so krepčilne pripovedi še posebej učinkovit način za vzbujanje pozitivnih čustev in moralnega napredovanja, kar posledično poveča željo po pomoči posameznikom in skupnostim v stiski. Trenutno pri svojem delu raziskuje spoznavne in čustvene izkušnje, ki spodbujajo učinke prosocialnih sporočil, vključno s čustvenim tokom (razvojem čustev med izpostavljenostjo medijskemu sporočilu), prenosom pripovedi ter uživanjem in vrednotenjem pripovedi.
