@@ -68,6 +68,8 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
+### Pregledne študije
+
 ## Belgium: Dr. Laura Vandenbosch (University of Leuven)
 
 {{< youtube p4ZA5jjQJ3Q >}}
@@ -79,3 +81,9 @@ lastmod = [":fileModTime", ":default"]
 ## France: Dr. Caroline Giraudeau (University of Tours)
 
 {{< youtube 47qMXhXmL5U >}}
+
+### študija profilov na družbenih omrežjih
+
+## Slovenia: Jasmina Rosič
+
+{{< youtube gCiiu5bufck >}}
