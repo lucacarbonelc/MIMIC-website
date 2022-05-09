@@ -72,6 +72,10 @@ lastmod = [":fileModTime", ":default"]
 
 {{< youtube uGBCm4mLdko >}}
 
+### Panopto
+
+[Link](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=c11380bc-a1c5-4539-bff9-ae9000ae83c6&start=0)
+
 ### Instructions de l'étude des réseaux sociaux
 
 Merci de participer à cette étude !

@@ -72,6 +72,10 @@ lastmod = [":fileModTime", ":default"]
 
 {{< youtube G3k4Egz45Bs >}}
 
+### Panopto
+
+[Link](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=3f4d78b3-1c04-44c5-ad5a-ae900087adc8&start=0)
+
 ### Navodila za študijo družbenih omrežij
 
 Najlepša hvala za sodelovanje v tej študiji!

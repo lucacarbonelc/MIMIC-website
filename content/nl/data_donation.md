@@ -72,6 +72,10 @@ lastmod = [":fileModTime", ":default"]
 
 {{< youtube FVEL7gYtolY >}}
 
+### Panopto
+
+[Link](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=376d3cf5-f489-4b5d-961c-ae9000d6b397&start=0)
+
 ### Studie-instructies voor gegevensdonatie
 
 Dankjewel om deel te nemen aan deze studie!
