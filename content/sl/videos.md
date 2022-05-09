@@ -81,9 +81,3 @@ lastmod = [":fileModTime", ":default"]
 ## France: Dr. Caroline Giraudeau (University of Tours)
 
 {{< youtube 47qMXhXmL5U >}}
-
-### študija profilov na družbenih omrežjih
-
-## Slovenia: Jasmina Rosič
-
-{{< youtube gCiiu5bufck >}}

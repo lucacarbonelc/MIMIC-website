@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Videos"
+title = "Data Donation documentation"
 subtitle = ""
 date = "2021-02-10T00:00:00+01:00"
 lastmod = [":fileModTime", ":default"]
@@ -68,16 +68,6 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
-### Overview studies
+## Slovenia: Jasmina Rosič
 
-## Belgium: Dr. Laura Vandenbosch (University of Leuven)
-
-{{< youtube p4ZA5jjQJ3Q >}}
-
-## Slovenia: Dr. Bojana Lobe (University of Ljubljana)
-
-{{< youtube aGJ0T3xQSFk >}}
-
-## France: Dr. Caroline Giraudeau (University of Tours)
-
-{{< youtube 47qMXhXmL5U >}}
+{{< youtube gCiiu5bufck >}}

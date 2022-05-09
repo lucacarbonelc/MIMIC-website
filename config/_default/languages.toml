@@ -109,6 +109,12 @@
   weight = 3.4
 
 [[fr.menu.main]]
+  name = "Étude des Réseaux Sociaux"
+  parent = "resources"
+  url = "/data_donation"
+  weight = 3.5
+
+[[fr.menu.main]]
   name = "Écoles"
   identifier = "schools"
   url = "#"
@@ -242,6 +248,12 @@
   weight = 3.4
 
 [[nl.menu.main]]
+  name = "Gegevensdonatie Studie"
+  parent = "resources"
+  url = "/data_donation"
+  weight = 3.5
+
+[[nl.menu.main]]
   name = "Scholen"
   identifier = "schools"
   url = "#"
@@ -373,6 +385,12 @@
   parent = "resources"
   url = "/videos"
   weight = 3.4
+
+[[sl.menu.main]]
+  name = "Študijo Družbenih Omrežij"
+  parent = "resources"
+  url = "/data_donation"
+  weight = 3.5
 
 [[sl.menu.main]]
   name = "Šole"
