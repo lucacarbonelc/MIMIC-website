@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Debriefings"
+title = "Poročila"
 subtitle = "---"
 date = "2020-06-30T00:00:00+01:00"
 lastmod = [":fileModTime", ":default"]

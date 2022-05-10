@@ -369,7 +369,7 @@
   weight = 3.1
 
 [[sl.menu.main]]
-  name = "Debriefings"
+  name = "Poročila"
   parent = "resources"
   url = "#debriefings"
   weight = 3.2
@@ -387,7 +387,7 @@
   weight = 3.4
 
 [[sl.menu.main]]
-  name = "Študijo Družbenih Omrežij"
+  name = "Študija družbenih omrežij"
   parent = "resources"
   url = "/data_donation"
   weight = 3.5

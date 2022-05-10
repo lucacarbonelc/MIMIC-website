@@ -70,11 +70,9 @@ lastmod = [":fileModTime", ":default"]
 
 ### Video
 
-{{< youtube uGBCm4mLdko >}}
+<iframe src="https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=c11380bc-a1c5-4539-bff9-ae9000ae83c6&start=0" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
-### Panopto
-
-[Link](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=c11380bc-a1c5-4539-bff9-ae9000ae83c6&start=0)
+[Link to the video with timestamps](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=c11380bc-a1c5-4539-bff9-ae9000ae83c6&start=0)
 
 ### Instructions de l'étude des réseaux sociaux
 

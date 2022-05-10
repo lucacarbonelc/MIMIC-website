@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = ""
-subtitle = "Študijo Družbenih Omrežij"
+subtitle = "Študija družbenih omrežij"
 date = "2021-02-10T00:00:00+01:00"
 lastmod = [":fileModTime", ":default"]
 
@@ -70,11 +70,9 @@ lastmod = [":fileModTime", ":default"]
 
 ### Video
 
-{{< youtube G3k4Egz45Bs >}}
+<iframe src="https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=3f4d78b3-1c04-44c5-ad5a-ae900087adc8&start=0 " height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
-### Panopto
-
-[Link](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=3f4d78b3-1c04-44c5-ad5a-ae900087adc8&start=0)
+[Link to the video with timestamps](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=3f4d78b3-1c04-44c5-ad5a-ae900087adc8&start=0)
 
 ### Navodila za študijo družbenih omrežij
 

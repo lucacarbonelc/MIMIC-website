@@ -70,11 +70,9 @@ lastmod = [":fileModTime", ":default"]
 
 ### Video
 
-{{< youtube FVEL7gYtolY >}}
+<iframe src="https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=376d3cf5-f489-4b5d-961c-ae9000d6b397&start=0" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
-### Panopto
-
-[Link](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=376d3cf5-f489-4b5d-961c-ae9000d6b397&start=0)
+[Link to the video with timestamps](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=376d3cf5-f489-4b5d-961c-ae9000d6b397&start=0)
 
 ### Studie-instructies voor gegevensdonatie
 
