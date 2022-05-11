@@ -2,7 +2,7 @@
 # A Recent Publications section created with the Pages widget.
 # This section displays recent blog posts from `content/publication/`.
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
@@ -11,40 +11,15 @@ title = ""
 subtitle = "Étude des Réseaux Sociaux"
 date = "2021-02-10T00:00:00+01:00"
 lastmod = [":fileModTime", ":default"]
-
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 5
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
-
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
-
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    exclude_featured = false
   
 [design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 2
+  columns = "1"
   
 [design.background]
   # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
+  # Uncomment (by removing `#`) an option to apply it.
+  # Choose a light or dark text color by setting `text_color_light`.
+  # Any HTML color name or Hex value is valid.
     
   # Background color.
   # color = "navy"
@@ -54,8 +29,9 @@ lastmod = [":fileModTime", ":default"]
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image = "print.png"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image_size = "contain" #  Options are `cover` (default), `contain`, #or `actual` size.
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
@@ -68,11 +44,17 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
+### Printscreens
+
+Dans le questionnaire, il vous sera demandé de télécharger les captures d'écran ci-dessous:
+
+![](/img/print_FR.png)
+
 ### Video
 
-<iframe src="https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=c11380bc-a1c5-4539-bff9-ae9000ae83c6&start=0" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+{{< youtube uGBCm4mLdko >}}
 
-[Link to the video with timestamps](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=c11380bc-a1c5-4539-bff9-ae9000ae83c6&start=0)
+[Lien vers la vidéo avec horodatage](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=c11380bc-a1c5-4539-bff9-ae9000ae83c6&start=0): if you want to see only parts of the video (for instance, you use only Instagram and not TikTok) you can access here the content of the video that allows you to skip to specific parts of the video.
 
 ### Instructions de l'étude des réseaux sociaux
 
@@ -93,6 +75,8 @@ Si tes posts (publications)/snaps/stories comprennent plusieurs photos ou vidéo
 Par exemple, si tu n'as pas publié d'histoires (ou de posts ou de snaps), passe à la partie suivante des instructions. 
 
 ![](/img/insta.svg)
+
+![](/img/print_IG_FR.png)
 
 <p>
   1.  Fais une capture d'écran de ton
@@ -144,6 +128,8 @@ Tu peux trouver tes anciennes stories en te rendant dans les archives d'Instagra
 
 ![](/img/tiktok.svg)
 
+![](/img/print_TT_FR.png)
+
 <p>
 1. Prends une capture d'écran de ton
   <span style="color: #4472C4">Profil TikTok</span>.
@@ -173,6 +159,8 @@ Si la légende de ton post fait plus de 2 lignes, appuie sur
 </p>
 
 ![](/img/snap.svg)
+
+![](/img/print_SN_FR.png)
 
 <p>
 1.	Fais une capture d'écran de ton

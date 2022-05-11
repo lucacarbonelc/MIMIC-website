@@ -68,11 +68,17 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
+### Printscreens
+
+In de vragenlijst zal je gevraagd worden om onderstaande screenshots te uploaden:
+
+![](/img/print_NL.png)
+
 ### Video
 
-<iframe src="https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=376d3cf5-f489-4b5d-961c-ae9000d6b397&start=0" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+{{< youtube FVEL7gYtolY >}}
 
-[Link to the video with timestamps](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=376d3cf5-f489-4b5d-961c-ae9000d6b397&start=0)
+[Link naar de video met tijdstempels](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=376d3cf5-f489-4b5d-961c-ae9000d6b397&start=0): Als je slechts enkele delen van de video wilt zien (bijvoorbeeld als je alleen Instagram en niet TikTok gebruikt), kan je via deze link de verschillende onderdelen van de video zien en naar het specifieke deel van de video te gaan dat je zoekt.
 
 ### Studie-instructies voor gegevensdonatie
 
@@ -93,6 +99,8 @@ Indien je posts/snaps/verhalen uit meerdere foto’s of video’s bestaan, neem 
 Bijvoorbeeld, als je geen verhalen (of posts of snaps) gepost hebt, ga dan naar het volgende deel van de instructies.
 
 ![](/img/insta.svg)
+
+![](/img/print_IG_NL.png)
 
 <p>
 1.	Neem een screenshot van je
@@ -140,6 +148,8 @@ Je kan je oudere stories terugvinden in je Instagram-archief. Tik op de drie hor
 
 ![](/img/tiktok.svg)
 
+![](/img/print_TT_NL.png)
+
 <p>
 1.	Neem een screenshot van je
   <span style="color: #4472C4">TikTok Bio Pagina</span>.
@@ -166,6 +176,8 @@ Als het bijschrift bij je video langer dan 2 lijnen is, tik dan op “zie meer�
 </p>
 
 ![](/img/snap.svg)
+
+![](/img/print_SN_NL.png)
 
 <p>
 1.	Neem een screenshot van je

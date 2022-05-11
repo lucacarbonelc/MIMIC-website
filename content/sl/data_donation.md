@@ -68,11 +68,16 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
+### Printscreens
+
+V študiji te bomo prosili, da naložiš te posnetke zaslona:
+![](/img/print_SL.png)
+
 ### Video
 
-<iframe src="https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=3f4d78b3-1c04-44c5-ad5a-ae900087adc8&start=0 " height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+{{< youtube G3k4Egz45Bs >}}
 
-[Link to the video with timestamps](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=3f4d78b3-1c04-44c5-ad5a-ae900087adc8&start=0)
+[Povezava do videoposnetka s časovnimi žigi](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=3f4d78b3-1c04-44c5-ad5a-ae900087adc8&start=0): Če si želiš pogledati samo del videoposnetka (na primer ker uporabljaš samo Instagram in ne TikTok-a), klikni tukaj za način ogleda videoposnetka, ki omogoča možnost preskoka na določene dele videoposnetka.
 
 ### Navodila za študijo družbenih omrežij
 
@@ -94,6 +99,8 @@ Narediš lahko le posnetke zaslona iz računov tistih družbenih omrežij, ki ji
 V primeru da nimaš objavljenih zgodb (ali objav ali snapov), lahko nadaljuješ z naslednjim delom navodil.
 
 ![](/img/insta.svg)
+
+![](/img/print_IG_SL.png)
 
 <p>
   1.  Naredi posnetek zaslona svoje
@@ -146,6 +153,8 @@ Naredi posnetek zaslona tvoje najnovejše zgodbe, ki si jo objavil oziroma objav
 
 ![](/img/tiktok.svg)
 
+![](/img/print_TT_SL.png)
+
 <p>
 1. Naredi posnetek zaslona svoje
   <span style="color: #4472C4">biografije na TikTok-u</span>.
@@ -175,6 +184,8 @@ V TikTok-ovi mreži videoposnetkov izberi svojo zadnjo objavo, ki si jo objavil/
 </p>
 
 ![](/img/snap.svg)
+
+![](/img/print_SN_SL.png)
 
 <p>
 1.	Naredi posnetek zaslona svoje
@@ -254,7 +265,7 @@ Ko izbereš ustrezen posnetek zaslona, izberi
 
 <p>
 Prosili te bomo za vnos tvojega imena in priimka. Potem ko ju vneseš, izberi
-  <span style="color: #ED7D32">".
+  <span style="color: #ED7D32">"Upload"</span>.
 </p>
 
 <center>   <p>…</p> </center>
