@@ -54,7 +54,7 @@ Dans le questionnaire, il vous sera demandé de télécharger les captures d'éc
 
 {{< youtube uGBCm4mLdko >}}
 
-[Lien vers la vidéo avec horodatage](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=c11380bc-a1c5-4539-bff9-ae9000ae83c6&start=0): if you want to see only parts of the video (for instance, you use only Instagram and not TikTok) you can access here the content of the video that allows you to skip to specific parts of the video.
+[Lien vers la vidéo avec horodatage](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=c11380bc-a1c5-4539-bff9-ae9000ae83c6&start=0): Si tu veux voir seulement certaines parties de la vidéo (par exemple, tu n’as qu’Instagram et pas TikTok), tu peux voir ici le contenu de la vidéo qui te permet de sauter certaines parties de la vidéo.
 
 ### Instructions de l'étude des réseaux sociaux
 

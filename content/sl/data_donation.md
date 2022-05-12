@@ -68,7 +68,7 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
-### Printscreens
+### Posnetki zaslona
 
 V študiji te bomo prosili, da naložiš te posnetke zaslona:
 ![](/img/print_SL.png)
