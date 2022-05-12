@@ -44,7 +44,7 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
-### Printscreens
+### Captures d'écran
 
 Dans le questionnaire, il vous sera demandé de télécharger les captures d'écran ci-dessous:
 
