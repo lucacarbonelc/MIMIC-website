@@ -68,7 +68,7 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
-### Printscreens
+### Screenshots
 
 In de vragenlijst zal je gevraagd worden om onderstaande screenshots te uploaden:
 
