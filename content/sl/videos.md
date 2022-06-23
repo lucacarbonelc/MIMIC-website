@@ -68,7 +68,7 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
-### Pregledne študije
+### Pregled študij
 
 ## Belgium: Dr. Laura Vandenbosch (University of Leuven)
 
