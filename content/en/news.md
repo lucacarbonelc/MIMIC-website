@@ -6,6 +6,22 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 19 September 2022
+
+The third and final wave data collection of the time study was completed in September 2022. xxx youth aged between 12 and 18 fully completed the questionnaire in the three countries. xxx youth participated in Belgium, xxx in France and xxx in Slovenia. The survey was about the social media, smartphone, tv series and music with some questions about youth themselves and the society. A summary of the findings can be accessed in this debriefing.
+
+### 01 September 2022
+
+MIMIc members Jasmina Rosič, Luca Carbone, and Laura Vandenbosch publish the first article of the MIMIc project, titled "Positive digital communication among youth: The development and validation of the digital flourishing scale for adolescents". The article is available at the following [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9474732/).
+
+### 20 June 2022
+
+Closing of the data donation study.
+
+### 01 June 2022
+
+The second wave data collection of the time study was completed in May-June 2022. xxx youth aged between 12 and 18 fully completed the questionnaire in the three countries. xxx youth participated in Belgium, xxx in France and xxx in Slovenia. The survey was about the social media, smartphone, tv series and music with some questions about youth themselves and the society. A summary of the findings can be accessed in this debriefing.
+
 ### 13 January 2022
 
 MIMIc members, Anaëlle Gonzalez, Jasmina Rosič, and Luca Carbone, will soon present the first studies of their PhDs at two conferences, the Etmaal van de Communicatiewetenschap (February 2022) and the 72nd International Communication Association (ICA) (May 2022). Below, you can read the titles and abstracts of the works they will present.
@@ -30,7 +46,7 @@ The introduced instrument is promising to help further disentangling the effects
 
 ### 04 January 2022
 
-The first wave data collection of the time study was completed in September-November 2021. 2412 youth aged between 12 and 18 fully completed the questionnaire in the three countries. 590 youth participated in Belgium, 740 in France and 1082 in Slovenia. The survey was about the social media, smartphone, tv series and music with some questions about youth themselves and the society. Some preliminary results can be found in this brief report.
+The first wave data collection of the time study was completed in September-November 2021. 2412 youth aged between 12 and 18 fully completed the questionnaire in the three countries. 590 youth participated in Belgium, 740 in France and 1082 in Slovenia. The survey was about the social media, smartphone, tv series and music with some questions about youth themselves and the society. A summary of the findings can be accessed in this debriefing.
 
 ### 15 April 2021
 
