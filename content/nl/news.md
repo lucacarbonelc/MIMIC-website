@@ -6,45 +6,41 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
-### 19 September 2022
+### 19 september 2022
 
-The third and final wave data collection of the time study was completed in September 2022. xxx youth aged between 12 and 18 fully completed the questionnaire in the three countries. xxx youth participated in Belgium, xxx in France and xxx in Slovenia. The survey was about the social media, smartphone, tv series and music with some questions about youth themselves and the society. A summary of the findings can be accessed in this debriefing.
+De derde en laatste gegevensverzameling van de tijdstudie werd afgerond in september 2022. 1 242 jongeren tussen 12 en 18 jaar uit de drie landen vulden de vragenlijst volledig in. 335 jongeren namen deel in België, 386 in Frankrijk en 521 in Slovenië. De vragenlijst ging over sociale media, smartphones, tv-series en muziek, alsook enkele vragen over de jongeren zelf en hun visie op de samenleving. Een samenvatting van de bevindingen vindt u in [deze debriefing](https://www.projectmimic.eu/nl/debriefings/debriefing_be/index_w2/).
 
-### 01 September 2022
+### 01 september 2022
+MIMIc-leden Jasmina Rosič, Luca Carbone en Laura Vandenbosch publiceren het eerste artikel van het MIMIc-project, getiteld "Positieve digitale communicatie onder jongeren: De ontwikkeling en validatie van de ‘digital flourishing scale’ voor adolescenten". Het artikel is beschikbaar via de [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9474732/).
 
-MIMIc members Jasmina Rosič, Luca Carbone, and Laura Vandenbosch publish the first article of the MIMIc project, titled "Positive digital communication among youth: The development and validation of the digital flourishing scale for adolescents". The article is available at the following [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9474732/).
+### 20 juni 2022
 
-### 20 June 2022
+Afronding van de socialemediastudie.
 
-Closing of the data donation study.
+### 01 juni 2022
 
-### 01 June 2022
+De tweede gegevensverzameling van de tijdstudie werd voltooid in mei-juni 2022. 1 791 jongeren tussen 12 en 18 jaar uit de drie landen vulden de vragenlijst volledig in. 415 jongeren namen deel in België, 580 in Frankrijk en 796 in Slovenië. De vragenlijst ging over sociale media, smartphones, tv-series en muziek, alsook enkele vragen over de jongeren zelf en hun visie op de samenleving. Enkele voorlopige resultaten vindt u in dit [beknopte verslag](https://www.projectmimic.eu/nl/debriefings/debriefing_be/index_w2/).
 
-The second wave data collection of the time study was completed in May-June 2022. xxx youth aged between 12 and 18 fully completed the questionnaire in the three countries. xxx youth participated in Belgium, xxx in France and xxx in Slovenia. The survey was about the social media, smartphone, tv series and music with some questions about youth themselves and the society. Enkele voorlopige resultaten vindt u in dit [beknopte verslag](https://www.projectmimic.eu/nl/debriefings/debriefing_be/index_w2/).
+### 13 january 2022
 
-### 13 January 2022
-
-MIMIc members, Anaëlle Gonzalez, Jasmina Rosič, and Luca Carbone, will soon present the first studies of their PhDs at two conferences, the Etmaal van de Communicatiewetenschap (February 2022) and the 72nd International Communication Association (ICA) (May 2022). Below, you can read the titles and abstracts of the works they will present.
+MIMIc-leden, Anaëlle Gonzalez, Jasmina Rosič, en Luca Carbone, presenteren binnenkort de eerste studies van hun doctoraten op twee conferenties, Etmaal van de Communicatiewetenschap (februari 2022) en de 72e International Communication Association (ICA) (mei 2022). Hieronder kunt u de titels en abstracts lezen van de studies die zij zullen presenteren.
 
 # Anaëlle Gonzalez
-- **Title**:  A Content Analytical Study on Celebrities, Influencers and Athletes’ Political Content on Instagram.
-- **Authors**: Anaëlle Gonzalez, Laura Vandenbosch
-- **Abstract**: 
+-	**Titel**: Een analyse van de politieke inhoud van beroemdheden, influencers en atleten op Instagram.
+-	**Auteurs**: Anaëlle Gonzalez, Desirée Schmuck, Laura Vandenbosch
+-	**Abstract**: Instagram en de vele aanwezige bekende personen op dit platform zijn nu de belangrijkste nieuwsbronnen voor een meerderheid van de gebruikers (Newman et al., 2021). Tot nu toe heeft geen enkele studie systematisch onderzocht welke politieke inhoud influencers en beroemdheden op hun Instagram-accounts delen en hoe deze opinieleiders deze politieke kwesties in beeld brengen of framen. Deze inhoudsanalytische studie onderzocht de 1.256 Instagram posts en 2.936 tijdelijke verhalen van 59 opinieleiders (20 sportberoemdheden, 20 artistieke beroemdheden en 19 influencers) die in Westerse landen als het meest populair werden geïdentificeerd, en documenteerde voor het eerst de prevalentie van verschillende politieke onderwerpen en hun frames. Multilevel analyses wezen uit dat het type beroemdheid en de kenmerken van het platform de verspreiding van politieke onderwerpen en het gebruik van bepaalde generieke frames significant voorspelden. Beroemdheidstype en geslacht voorspelden gedeeltelijk welke politieke onderwerpen werden gedeeld.
 
 # Jasmina Rosič
-- **Title**: The Development and Validation of the Perceived Digital Balance in Adolescence Scale
-- **Authors**: Jasmina Rosič, Luca Carbone, Mariek Vanden Abeele, Bojana Lobe and Laura Vandenbosch
-- **Abstract**: Many adolescents are permanently online, permanently connected with their smartphones (Vorderer et al., 2017). These adolescents are challenged to find an adequate balance between the advantages and disadvantages of their ubiquitous connectivity (Vanden Abeele, 2020). Existing smartphone scales typically measure directly observable practices like screen time. As such, measurements that address subjective, lived experiences of being constantly connected (e.g., perceived smartphone effects on wellbeing) are lacking. This gap is addressed by developing the Adolescents’ Perceived Digital Balance Scale.
-A semantic-differential measurement was developed with 19-items on a) social interaction and relationships, b) productivity tasks, c) entertainment, and d) emotions. Answer options ranged from “1=very true of me(A)” to “5=very true of me(B)”. The measure was revised by two independent smartphone research experts and five adolescents. A first online survey was organized in summer 2021 to perform an exploratory factor analysis (n=161, Mage=17.87, SD=1.23, 57% girls). A second online survey (n=1.107, Mage=15.27, SD=1.78; 51% boys) was organized in fall 2021 to conduct a confirmatory factor analysis. 
-The EFA resulted in a three-factor solution. The first factor consisted of items on hedonic feelings and other emotions (e.g., anxiety) related to smartphone use. The second factor captured how smartphone use could facilitate/discourage social interactions and relationships. The third factor captured smartphone use in relation to productivity (school) tasks. Two items were removed due to low factor loadings or loading on the theoretically incorrect factor. The construct validity of the new subscales was confirmed as they correlated with the Scale of Smartphone Leisure Uses, the Self Esteem Scale, the Social Media Self Control Failure Measure, and Technoference Scale. The CFA indicated a good model fit and configural invariance across gender. 
-The introduced instrument is promising to help further disentangling the effects of ubiquitous connectivity on adolescents’ lives.
+-	**Titel**: De ontwikkeling en validatie van de ‘gepercipieerde digitale balans gedurende de adolescentie’ schaal 
+-	**Auteurs**: Jasmina Rosič, Luca Carbone, Mariek Vanden Abeele, Bojana Lobe and Laura Vandenbosch
+-	**Abstract**: Veel adolescenten zijn permanent online en permanent verbonden met hun smartphones (Vorderer et al., 2017). Deze adolescenten staan voor de uitdaging om een juiste balans te vinden tussen de voor- en nadelen van hun alomtegenwoordige online verbondenheid (Vanden Abeele, 2020). Bestaande smartphoneschalen meten typisch direct observeerbare gebruiken zoals schermtijd. Zodoende ontbreken metingen zich richten op de subjectieve, geleefde ervaringen van het voortdurend verbonden zijn (bv. waargenomen smartphone-effecten op het welzijn). Deze leemte wordt verholpen door het ontwikkelen van de ‘gepercipieerde digitale balans gedurende de adolescentie’ schaal. Er werd een semantisch gedifferentieerde meting ontwikkeld met 19 items over a) sociale interactie en relaties, b) productiviteitstaken, c) entertainment, en d) emoties. Antwoordopties varieerden van "1= zeer waar voor mij (A)" tot "5 = zeer waar voor mij (B)". De meting werd herzien door twee onafhankelijke experts op het gebied van smartphone-onderzoek en door vijf adolescenten. De eerste online vragenlijst vond plaats in de zomer van 2021 om een verkennende factoranalyse (EFA) uit te voeren (n=161, Mleeftijd=17,87, SD=1,23, 57% meisjes). De tweede online vragenlijst (n=1.107, Mleeftijd=15,27, SD=1,78; 51% jongens) werd georganiseerd in het najaar van 2021 om een confirmatieve factoranalyse (CFA) uit te voeren. De EFA resulteerde in een drie-factor oplossing. De eerste factor bestond uit items over hedonische gevoelens en andere emoties (bv. angst) gerelateerd aan smartphonegebruik. De tweede factor gaf aan hoe smartphonegebruik sociale interacties en relaties zou kunnen vergemakkelijken/ontmoedigen. De derde factor had betrekking op smartphonegebruik in relatie tot productiviteit (school). Twee items werden verwijderd omdat ze een lage factorlading hadden of op een theoretisch onjuiste factor laadden. De constructvaliditeit van de nieuwe subschalen werd bevestigd aangezien zij correleerden met de schaal van ‘vrijetijdsgebruik van de smartphone’, van eigenwaarde, van ‘sociale media zelfcontrole mislukkingsmaat’ en van ‘technoference’. De CFA wees op een goede model fit en configurele invariantie over het geslacht. Deze ontwikkelde schaal is veelbelovend om de effecten van de alomtegenwoordige connectiviteit op het leven van adolescenten verder te helpen ontrafelen.
 
 # Luca Carbone
-- **Title**: The Sound of Meritocracy: A Content Analysis of Meritocracy in Popular Music Lyrics Using a Semantic and Syntactic Framing Approach
-- **Authors**: Luca Carbone, Laura Vandenbosch, Hyunjin Song
-- **Abstract**: Meritocracy is a pervasive narrative in popular culture (Mijs & Savage, 2020). Yet, its presence in music has received scarce attention. This study analyzes the presence and prevalence of meritocratic frames in popular lyrics combining manual and network content analyses. We analyzed the 200 most popular songs on Spotify in six individualistic countries from 2016–2019 (N = 4117). Our analyses found a strong (24% of songs with at least one reference), variegated (five frames) presence of meritocracy. These representations were common in rap (81.7%) but also in pop and rock. Network analysis confirmed these results by analyzing patterns of word co-occurrences. By combining manual and network analyses, we provide suggestions for future research on media and its audience effects.
+-	**Titel**: Het geluid van meritocratie: Een inhoudsanalyse van meritocratische boodschappen in populaire muziekteksten met behulp van een semantische en syntactische framing-benadering.
+-	**Auteurs**: Luca Carbone, Laura Vandenbosch, Hyunjin Song
+-	**Abstract**: Meritocratie is een dominant thema in de populaire cultuur (Mijs & Savage, 2020). Toch heeft de aanwezigheid ervan in muziek nauwelijks aandacht gekregen. Deze studie analyseert de aanwezigheid en prevalentie van meritocratische frames in populaire songteksten door handmatige en netwerk inhoudsanalyses te combineren. We analyseerden de 200 populairste liedjes op Spotify in zes individualistische landen van 2016-2019 (N = 4117). Onze analyses vonden een sterke (24% van de liedjes met minstens één referentie), gevarieerde (vijf frames) aanwezigheid van meritocratie. Deze representaties kwamen veel voor in rap (81,7%) maar ook in pop en rock. Netwerkanalyses bevestigde deze resultaten door patronen in het gelijktijdig voorkomen van woorden te analyseren. Door handmatige en netwerkanalyses te combineren, geven wij suggesties voor toekomstig onderzoek naar media en de effecten daarvan op het publiek.
 
-### 04 January 2022
+### 04 januari 2022
 
 De eerste gegevensverzameling voor de tijdstudie werd voltooid in september-november 2021. 2412 jongeren tussen 12 en 18 jaar uit de drie deelnemende landen vulden de vragenlijst volledig in. 590 jongeren uit België, 740 jongeren uit Frankrijk en 1082 jongeren uit Slovenië namen deel. De survey ging over sociale media, smartphonegebruik, tv-series en muziek en bevatte ook enkele vragen over de jongeren zelf en de maatschappij. Enkele voorlopige resultaten vindt u in dit [beknopte verslag](https://www.projectmimic.eu/nl/debriefings/debriefing_be/index_w1/).
 

@@ -1,50 +1,47 @@
 ---
 
-title: Sveže novice
+title: Novice
 date: "2020-08-31T00:00:00+01:00"
 lastmod: [":fileModTime", ":default"]
 
 ---
 
-### 19 September 2022
+### 19 september 2022
 
-The third and final wave data collection of the time study was completed in September 2022. xxx youth aged between 12 and 18 fully completed the questionnaire in the three countries. xxx youth participated in Belgium, xxx in France and xxx in Slovenia. The survey was about the social media, smartphone, tv series and music with some questions about youth themselves and the society. A summary of the findings can be accessed in this debriefing.
+Septembra 2022 smo zaključili s tretjim in obenem zadnjim valom zbiranja podatkov v okviru časovne študije. Vprašalnik je v celoti izpolnilo 1242 mladostnikov, starih med 12 in 18 let iz treh držav, ki so sodelovale v raziskavi. V Belgiji je sodelovalo 335 mladostnikov, v Franciji 386 in v Sloveniji 521. Vprašalnik je zajemal vprašanja o družbenih omrežjih, pametnih telefonih, televizijskih serijah in glasbi, ter vprašanja, ki so zadevala poglede mladih nase in na družbo. Povzetek rezultatov raziskave je na voljo v.
 
-### 01 September 2022
+### 01 september 2022
 
-MIMIc members Jasmina Rosič, Luca Carbone, and Laura Vandenbosch publish the first article of the MIMIc project, titled "Positive digital communication among youth: The development and validation of the digital flourishing scale for adolescents". The article is available at the following [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9474732/).
+Raziskovalci projekta MIMIc Jasmina Rosič, Luca Carbone in Laura Vandenbosch so objavili prvi članek projekta MIMIc z naslovom “Pozitivna digitalna komunikacija med mladimi: Razvoj in validacija lestvice digitalnega blagostanja za mladostnike”. Članek je na voljo na naslednji [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9474732/).
 
-### 20 June 2022
+### 20 junij 2022
 
-Closing of the data donation study.
+Zaključek zbiranja podatkov v okviru študije profilov na družbenih omrežjih.
 
-### 01 June 2022
+### 01 junij 2022
 
-The second wave data collection of the time study was completed in May-June 2022. xxx youth aged between 12 and 18 fully completed the questionnaire in the three countries. xxx youth participated in Belgium, xxx in France and xxx in Slovenia. The survey was about the social media, smartphone, tv series and music with some questions about youth themselves and the society. V [kratkem poročilu](https://www.projectmimic.eu/sl/debriefings/debriefing_sl/index_w2/) predstavljamo nekaj vmesnih rezultatov študije.
+Junija 2022 smo zaključili z drugim zbiranjem podatkov v okviru časovne študije. Vprašalnik je v treh državah v celoti izpolnilo 1791 mladostnikov, starih med 12 in 18 let. V Belgiji je sodelovalo 415 mladostnikov, v Franciji 580 in v Sloveniji 796. Raziskava se je nanašala na družbena omrežja, pametne telefone, televizijske serije in glasbo, ter razmišljanje mladih o sebi in širši družbi. V [kratkem poročilu](https://www.projectmimic.eu/sl/debriefings/debriefing_sl/index_w2/) predstavljamo nekaj vmesnih rezultatov študije.
 
-### 13 January 2022
+### 13 januar  2022
 
-MIMIc members, Anaëlle Gonzalez, Jasmina Rosič, and Luca Carbone, will soon present the first studies of their PhDs at two conferences, the Etmaal van de Communicatiewetenschap (February 2022) and the 72nd International Communication Association (ICA) (May 2022). Below, you can read the titles and abstracts of the works they will present.
+Predstavniki projekta MIMIc Anaëlle Gonzalez, Jasmina Rosič in Luca Carbone bodo kmalu predstavili prve rezultate svojih doktoratov na dveh konferencah: Dan komunikologije (Etmaal van de Communicatiewetenschap) (februar 2022) in 72. konferenci Mednarodnega združenja za komunikologijo (International Communication Association, ICA) (maj 2022). Spodaj si lahko preberete povzetke del, ki jih bodo predstavili.
 
 # Anaëlle Gonzalez
-- **Title**:  A Content Analytical Study on Celebrities, Influencers and Athletes’ Political Content on Instagram.
-- **Authors**: Anaëlle Gonzalez, Laura Vandenbosch
-- **Abstract**: 
+-	**Naslov**: Študija vsebine analize političnih vsebin zvezdnikov, influencerjev in športnikov na Instagramu
+-	**Avtorice**: Anaëlle Gonzalez, Desiree Schmuck, Laura Vandenbosch
+-	**Povzetek**: Instagram in njegove slavne osebnosti so danes pomemben vir novic za številne uporabnike, kar je lahko posledica tega, da se zvezdniki in vplivneži na svojih računih, ki so sicer usmerjeni v zabavo ali življenjski slog, vedno znova ukvarjajo s političnimi temami. Vendar do zdaj še nobena študija ni sistematično preučevala vrste in uokvirjanja teh političnih vsebin. V tej analizi vsebine smo preučili 1256 objav na Instagramu in 2936 zgodb 59 najbolj priljubljenih oblikovalcev mnenj (20 športnih zvezdnikov, 20 umetniških zvezdnikov in 19 vplivnežev) v zahodnih državah ter prvič dokumentirali razširjenost vrst političnih tem in njihovo uokvirjanje. Rezultati večnivojske analize kažejo, da vplivneži in športni zvezdniki pogosteje objavljajo politične teme, usmerjene v življenjski slog, medtem ko se umetniški zvezdniki bolj ukvarjajo s konvencionalnimi temami. Poleg tega se politične teme pogosteje pojavljajo v kratkotrajnih kot stalnih vsebinah. Splošni okvirji so bili na splošno redki, najbolj prevladujoč okvir političnih vsebin pa je bil okvir vpliva na človeka.
 
 # Jasmina Rosič
-- **Title**: The Development and Validation of the Perceived Digital Balance in Adolescence Scale
-- **Authors**: Jasmina Rosič, Luca Carbone, Mariek Vanden Abeele, Bojana Lobe and Laura Vandenbosch
-- **Abstract**: Many adolescents are permanently online, permanently connected with their smartphones (Vorderer et al., 2017). These adolescents are challenged to find an adequate balance between the advantages and disadvantages of their ubiquitous connectivity (Vanden Abeele, 2020). Existing smartphone scales typically measure directly observable practices like screen time. As such, measurements that address subjective, lived experiences of being constantly connected (e.g., perceived smartphone effects on wellbeing) are lacking. This gap is addressed by developing the Adolescents’ Perceived Digital Balance Scale.
-A semantic-differential measurement was developed with 19-items on a) social interaction and relationships, b) productivity tasks, c) entertainment, and d) emotions. Answer options ranged from “1=very true of me(A)” to “5=very true of me(B)”. The measure was revised by two independent smartphone research experts and five adolescents. A first online survey was organized in summer 2021 to perform an exploratory factor analysis (n=161, Mage=17.87, SD=1.23, 57% girls). A second online survey (n=1.107, Mage=15.27, SD=1.78; 51% boys) was organized in fall 2021 to conduct a confirmatory factor analysis. 
-The EFA resulted in a three-factor solution. The first factor consisted of items on hedonic feelings and other emotions (e.g., anxiety) related to smartphone use. The second factor captured how smartphone use could facilitate/discourage social interactions and relationships. The third factor captured smartphone use in relation to productivity (school) tasks. Two items were removed due to low factor loadings or loading on the theoretically incorrect factor. The construct validity of the new subscales was confirmed as they correlated with the Scale of Smartphone Leisure Uses, the Self Esteem Scale, the Social Media Self Control Failure Measure, and Technoference Scale. The CFA indicated a good model fit and configural invariance across gender. 
-The introduced instrument is promising to help further disentangling the effects of ubiquitous connectivity on adolescents’ lives.
+-	**Naslov**: Razvoj in validacija Lestvice doživljanja digitalnega ravnovesja v mladostništvu
+-	**Avtorji**: Jasmina Rosič, Luca Carbone, Mariek Vanden Abeele, Bojana Lobe, Laura Vandenbosch
+-	**Povzetek**: Številni mladostniki so nenehno na spletu in nenehno povezani s svojimi pametnimi telefoni (Vorderer et al., 2017). Ti mladostniki se soočajo z izzivom, kako najti ustrezno ravnovesje med prednostmi in slabostmi svoje vseprisotne povezanosti (Vanden Abeele, 2020). Obstoječe lestvice, ki proučujejo uporabo pametnih telefonov, običajno merijo neposredno merljive prakse, kot je čas pred zaslonom. Umanjkajo pa lestvice, ki bi obravnavale subjektivne, življenjske izkušnje nenehne povezanosti (npr. doživljanje učinkov pametnega telefona na počutje). To vrzel odpravljamo z razvojem Lestvice doživljanja digitalnega ravnovesja v mladostništvu. Kot ocenjevalno lestvico smo uporabili semantični diferencial in z 19 trditvami merili doživljanje učinkov uporabe pametnega telefona na a) socialno, b) kognitivno-informacijsko, c) hedonično in d) psiho-čustveno področje. Možni odgovori so se gibali od “1 = popolnoma drži (A)” do “5 = popolnoma drži (B)”. Vprašalnik so pregledali dva neodvisna raziskovalca uporabe pametnih telefonov in pet mladostnikov. Prva spletna študija je bila organizirana poleti 2021 za izvedbo eksplorativne faktorske analize (n = 161; M starost = 17,87; SD = 1,23; 57 % deklet). Druga spletna študija (n = 1.107; M starost = 15,27; SD = 1,78; 51 % fantov) je bila organizirana jeseni 2021 za izvedbo konfirmativne faktorske analize. EFA je pokazala tri-faktorsko strukturo. Prvi faktor so sestavljale trditve o hedoničnih občutkih in drugih čustvih (npr. tesnobi), povezanih z uporabo pametnega telefona. Drugi faktor je zajemal trditve o tem, kako lahko uporaba pametnega telefona olajša/prepreči socialne interakcije in odnose. Tretji faktor je zajemal trditve o uporabi pametnega telefona v povezavi s kognitivnimi (šolskimi) nalogami. Dve trditvi smo odstranili zaradi nizkih faktorskih uteži ali uteževanja na teoretično neustrezen faktor. Potrjena je bila konstruktna veljavnost novih podlestvic, saj so bile povezane z Lestvico uporabe pametnega telefona v prostem času, Lestvico samopodobe, Lestvico vmešavanja tehnologij v socialne interakcije (tehnoference) in Vprašalnik neuspešne samokontrole uporabe družbenih omrežij. KFA je pokazala dobro prileganje modela in delno strogo mersko invariantnost po spolu. Uvedeni instrument je dobra popotnica za nadaljnje raziskovanje učinkov vseprisotne povezanosti na življenje mladostnikov.
 
 # Luca Carbone
-- **Title**: The Sound of Meritocracy: A Content Analysis of Meritocracy in Popular Music Lyrics Using a Semantic and Syntactic Framing Approach
-- **Authors**: Luca Carbone, Laura Vandenbosch, Hyunjin Song
-- **Abstract**: Meritocracy is a pervasive narrative in popular culture (Mijs & Savage, 2020). Yet, its presence in music has received scarce attention. This study analyzes the presence and prevalence of meritocratic frames in popular lyrics combining manual and network content analyses. We analyzed the 200 most popular songs on Spotify in six individualistic countries from 2016–2019 (N = 4117). Our analyses found a strong (24% of songs with at least one reference), variegated (five frames) presence of meritocracy. These representations were common in rap (81.7%) but also in pop and rock. Network analysis confirmed these results by analyzing patterns of word co-occurrences. By combining manual and network analyses, we provide suggestions for future research on media and its audience effects.
+-	**Naslov**: Zvok meritokracije: Analiza vsebine meritokracije v besedilih popularne glasbe z uporabo pristopa semantičnega in sintaktičnega uokvirjanja 
+-	**Avtorji**: Luca Carbone, Laura Vandenbosch, Hyunjin Song
+-	**Povzetek**: Meritokracija je razširjena naracija v popularni kulturi (Mijs in Savage, 2020), vendar je njena prisotnost v glasbi bila deležna le malo pozornosti. Ta študija analizira prisotnost in razširjenost meritokratskih okvirov v popularnih besedilih, pri čemer združuje ročne analize vsebine in analize omrežij. Analizirali smo 200 najbolj priljubljenih pesmi na Spotifyju v šestih individualističnih državah v obdobju 2016–2019 (N = 4117). Naše analize so pokazale močno (24 % pesmi z vsaj eno referenco) in raznoliko (pet okvirjev) prisotnost meritokracije. Prisotnost meritokracije je bila najbolj pogosta v rapu (81,7 %), pa tudi v popu in rocku. Analiza omrežij je te rezultate potrdila z analizo vzorcev sočasnega pojavljanja besed. Z združevanjem ročne analize vsebine in analize omrežij podajamo predloge za prihodnje raziskave o medijih in njihovih učinkih na občinstvo.
 
-### 04 January 2022
+### 04 januar 2022
 
 Od septembra do novembra 2021 smo izvedli prvo zbiranje podatkov v časovni študiji. V treh sodelujočih državah je vprašalnik v celoti izpolnilo 2412 mladostnikov, starih med 12 in 18 let. V Belgiji je sodelovalo 590 mladostnikov, v Franciji 740 in v Sloveniji 1082. Vprašalnik je zajemal vprašanja o družbenih omrežjih, pametnem telefonu, tv serijah in glasbi ter vprašanja o pogledih mladih na njih same in na družbo. V [kratkem poročilu](https://www.projectmimic.eu/sl/debriefings/debriefing_sl/index_w1/) predstavljamo nekaj vmesnih rezultatov študije.
 
