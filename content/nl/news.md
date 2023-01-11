@@ -8,7 +8,7 @@ lastmod: [":fileModTime", ":default"]
 
 ### 19 september 2022
 
-De derde en laatste gegevensverzameling van de tijdstudie werd afgerond in september 2022. 1242 jongeren tussen 12 en 18 jaar uit de drie landen vulden de vragenlijst volledig in. 335 jongeren namen deel in België, 386 in Frankrijk en 521 in Slovenië. De vragenlijst ging over sociale media, smartphones, tv-series en muziek, alsook enkele vragen over de jongeren zelf en hun visie op de samenleving. Een samenvatting van de bevindingen vindt u in [deze debriefing](https://www.projectmimic.eu/nl/debriefings/debriefing_be/index_w3/).
+De derde en laatste gegevensverzameling van de tijdstudie werd afgerond in september 2022. 1242 jongeren tussen 12 en 18 jaar uit de drie landen vulden de vragenlijst volledig in. 335 jongeren namen deel in België, 386 in Frankrijk en 521 in Slovenië. De vragenlijst ging over sociale media, smartphones, tv-series en muziek, alsook enkele vragen over de jongeren zelf en hun visie op de samenleving. Een samenvatting van de bevindingen vindt u in dit [beknopte verslag](https://www.projectmimic.eu/nl/debriefings/debriefing_be/index_w3/).
 
 ### 01 september 2022
 MIMIc-leden Jasmina Rosič, Luca Carbone en Laura Vandenbosch publiceren het eerste artikel van het MIMIc-project, getiteld "Positieve digitale communicatie onder jongeren: De ontwikkeling en validatie van de ‘digital flourishing scale’ voor adolescenten". Het artikel is beschikbaar via de [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9474732/).

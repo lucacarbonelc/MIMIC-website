@@ -8,7 +8,7 @@ lastmod: [":fileModTime", ":default"]
 
 ### 19. september 2022
 
-Septembra 2022 smo zaključili s tretjim in obenem zadnjim valom zbiranja podatkov v okviru časovne študije. Vprašalnik je v celoti izpolnilo 1242 mladostnikov, starih med 12 in 18 let iz treh držav, ki so sodelovale v raziskavi. V Belgiji je sodelovalo 335 mladostnikov, v Franciji 386 in v Sloveniji 521. Vprašalnik je zajemal vprašanja o družbenih omrežjih, pametnih telefonih, televizijskih serijah in glasbi, ter vprašanja, ki so zadevala poglede mladih nase in na družbo. Povzetek rezultatov raziskave je na voljo v. poročilu
+Septembra 2022 smo zaključili s tretjim in obenem zadnjim valom zbiranja podatkov v okviru časovne študije. Vprašalnik je v celoti izpolnilo 1242 mladostnikov, starih med 12 in 18 let iz treh držav, ki so sodelovale v raziskavi. V Belgiji je sodelovalo 335 mladostnikov, v Franciji 386 in v Sloveniji 521. Vprašalnik je zajemal vprašanja o družbenih omrežjih, pametnih telefonih, televizijskih serijah in glasbi, ter vprašanja, ki so zadevala poglede mladih nase in na družbo. Povzetek rezultatov raziskave je na voljo v. [poročilu](https://www.projectmimic.eu/sl/debriefings/debriefing_sl/index_w3/).
 
 ### 01. september 2022
 

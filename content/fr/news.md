@@ -8,7 +8,7 @@ lastmod: [":fileModTime", ":default"]
 
 ### 19 septembre 2022
 
-La troisième et dernière vague de collecte de données de l'étude temporelle s'est achevée en septembre 2022. 1 242 jeunes âgés de 12 à 18 ans ont entièrement rempli le questionnaire dans les trois pays. 335 jeunes ont participé en Belgique, 386 en France et 521 en Slovénie. L'enquête portait sur les médias sociaux, les smartphones, les séries télévisées et la musique avec quelques questions sur les jeunes eux-mêmes et la société. Un résumé des résultats peut être consulté dans ce débriefing.
+La troisième et dernière vague de collecte de données de l'étude temporelle s'est achevée en septembre 2022. 1 242 jeunes âgés de 12 à 18 ans ont entièrement rempli le questionnaire dans les trois pays. 335 jeunes ont participé en Belgique, 386 en France et 521 en Slovénie. L'enquête portait sur les médias sociaux, les smartphones, les séries télévisées et la musique avec quelques questions sur les jeunes eux-mêmes et la société. Un résumé des résultats peut être consulté dans ce [bref rapport](https://www.projectmimic.eu/fr/debriefings/debriefing_fr/index_w3/).
 
 ### 1er septembre 2022
 
