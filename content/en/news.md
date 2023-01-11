@@ -8,7 +8,7 @@ lastmod: [":fileModTime", ":default"]
 
 ### 19 September 2022
 
-The third and final wave data collection of the time study was completed in September 2022. xxx youth aged between 12 and 18 fully completed the questionnaire in the three countries. xxx youth participated in Belgium, xxx in France and xxx in Slovenia. The survey was about the social media, smartphone, tv series and music with some questions about youth themselves and the society. A summary of the findings can be accessed in this debriefing.
+The third and final wave data collection of the time study was completed in September 2022. 1242 youth aged between 12 and 18 fully completed the questionnaire in the three countries. 335 youth participated in Belgium, 386 in France and 521 in Slovenia. The survey was about the social media, smartphone, tv series and music with some questions about youth themselves and the society.
 
 ### 01 September 2022
 
@@ -20,7 +20,7 @@ Closing of the data donation study.
 
 ### 01 June 2022
 
-The second wave data collection of the time study was completed in May-June 2022. xxx youth aged between 12 and 18 fully completed the questionnaire in the three countries. xxx youth participated in Belgium, xxx in France and xxx in Slovenia. The survey was about the social media, smartphone, tv series and music with some questions about youth themselves and the society. A summary of the findings can be accessed in this debriefing.
+The second wave data collection of the time study was completed in May-June 2022. 1791 youth aged between 12 and 18 fully completed the questionnaire in the three countries. 415 youth participated in Belgium, 580 in France and 796 in Slovenia. The survey was about the social media, smartphone, tv series and music with some questions about youth themselves and the society.
 
 ### 13 January 2022
 
@@ -28,8 +28,8 @@ MIMIc members, Anaëlle Gonzalez, Jasmina Rosič, and Luca Carbone, will soon pr
 
 # Anaëlle Gonzalez
 - **Title**:  A Content Analytical Study on Celebrities, Influencers and Athletes’ Political Content on Instagram.
-- **Authors**: Anaëlle Gonzalez, Laura Vandenbosch
-- **Abstract**: 
+- **Authors**: Anaëlle Gonzalez, Desirée Schmuck, Laura Vandenbosch
+- **Abstract**: Instagram and its many famous personae are now the main news providers for a majority of users (Newman et al., 2021). To date, no study has systematically investigated the political content that influencers and celebrities may share on their Instagram accounts and the way these opinion leaders frame these issues. This content analytical study examined the 1,256 Instagram permanent posts and 2,936 ephemeral stories of 59 opinion leaders (20 sports celebrities, 20 artistic celebrities and 19 influencers) identified as the most popular in Western countries, and documented, for the first time, the prevalence of different news stories and their frames. The multilevel analyses suggested that celebrity type and platform feature significantly predicted political posting and the use of the attribution of responsibility frame. Celebrity type and sex also partly predicted which political topics were shared.
 
 # Jasmina Rosič
 - **Title**: The Development and Validation of the Perceived Digital Balance in Adolescence Scale
@@ -46,7 +46,7 @@ The introduced instrument is promising to help further disentangling the effects
 
 ### 04 January 2022
 
-The first wave data collection of the time study was completed in September-November 2021. 2412 youth aged between 12 and 18 fully completed the questionnaire in the three countries. 590 youth participated in Belgium, 740 in France and 1082 in Slovenia. The survey was about the social media, smartphone, tv series and music with some questions about youth themselves and the society. A summary of the findings can be accessed in this debriefing.
+The first wave data collection of the time study was completed in September-November 2021. 2412 youth aged between 12 and 18 fully completed the questionnaire in the three countries. 590 youth participated in Belgium, 740 in France and 1082 in Slovenia. The survey was about the social media, smartphone, tv series and music with some questions about youth themselves and the society.
 
 ### 15 April 2021
 

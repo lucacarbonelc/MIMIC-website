@@ -138,7 +138,7 @@
   weight = 5.0
 
 [[fr.menu.main]]
-  name = "News"
+  name = "Actualités"
   url = "/news"
   weight = 6
 
@@ -277,7 +277,7 @@
   weight = 5.0
 
 [[nl.menu.main]]
-  name = "News"
+  name = "Nieuws"
   url = "/news"
   weight = 6
 

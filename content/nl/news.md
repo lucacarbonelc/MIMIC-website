@@ -8,7 +8,7 @@ lastmod: [":fileModTime", ":default"]
 
 ### 19 september 2022
 
-De derde en laatste gegevensverzameling van de tijdstudie werd afgerond in september 2022. 1 242 jongeren tussen 12 en 18 jaar uit de drie landen vulden de vragenlijst volledig in. 335 jongeren namen deel in België, 386 in Frankrijk en 521 in Slovenië. De vragenlijst ging over sociale media, smartphones, tv-series en muziek, alsook enkele vragen over de jongeren zelf en hun visie op de samenleving. Een samenvatting van de bevindingen vindt u in [deze debriefing](https://www.projectmimic.eu/nl/debriefings/debriefing_be/index_w2/).
+De derde en laatste gegevensverzameling van de tijdstudie werd afgerond in september 2022. 1242 jongeren tussen 12 en 18 jaar uit de drie landen vulden de vragenlijst volledig in. 335 jongeren namen deel in België, 386 in Frankrijk en 521 in Slovenië. De vragenlijst ging over sociale media, smartphones, tv-series en muziek, alsook enkele vragen over de jongeren zelf en hun visie op de samenleving. Een samenvatting van de bevindingen vindt u in [deze debriefing](https://www.projectmimic.eu/nl/debriefings/debriefing_be/index_w3/).
 
 ### 01 september 2022
 MIMIc-leden Jasmina Rosič, Luca Carbone en Laura Vandenbosch publiceren het eerste artikel van het MIMIc-project, getiteld "Positieve digitale communicatie onder jongeren: De ontwikkeling en validatie van de ‘digital flourishing scale’ voor adolescenten". Het artikel is beschikbaar via de [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9474732/).
@@ -19,9 +19,9 @@ Afronding van de socialemediastudie.
 
 ### 01 juni 2022
 
-De tweede gegevensverzameling van de tijdstudie werd voltooid in mei-juni 2022. 1 791 jongeren tussen 12 en 18 jaar uit de drie landen vulden de vragenlijst volledig in. 415 jongeren namen deel in België, 580 in Frankrijk en 796 in Slovenië. De vragenlijst ging over sociale media, smartphones, tv-series en muziek, alsook enkele vragen over de jongeren zelf en hun visie op de samenleving. Enkele voorlopige resultaten vindt u in dit [beknopte verslag](https://www.projectmimic.eu/nl/debriefings/debriefing_be/index_w2/).
+De tweede gegevensverzameling van de tijdstudie werd voltooid in mei-juni 2022. 1791 jongeren tussen 12 en 18 jaar uit de drie landen vulden de vragenlijst volledig in. 415 jongeren namen deel in België, 580 in Frankrijk en 796 in Slovenië. De vragenlijst ging over sociale media, smartphones, tv-series en muziek, alsook enkele vragen over de jongeren zelf en hun visie op de samenleving. Enkele voorlopige resultaten vindt u in dit [beknopte verslag](https://www.projectmimic.eu/nl/debriefings/debriefing_be/index_w2/).
 
-### 13 january 2022
+### 13 januari 2022
 
 MIMIc-leden, Anaëlle Gonzalez, Jasmina Rosič, en Luca Carbone, presenteren binnenkort de eerste studies van hun doctoraten op twee conferenties, Etmaal van de Communicatiewetenschap (februari 2022) en de 72e International Communication Association (ICA) (mei 2022). Hieronder kunt u de titels en abstracts lezen van de studies die zij zullen presenteren.
 
@@ -46,7 +46,7 @@ De eerste gegevensverzameling voor de tijdstudie werd voltooid in september-nove
 
 ### 15 april 2021
 
-1. Veranderingen in de data over Time Study.
+1. Veranderingen in de data over tijdsstudie.
 
 OUDE DATA:
 - Mei 2021
@@ -70,6 +70,6 @@ Ethische richtlijnen aangepast in overeenstemming met standaardpraktijken, zodat
 ---
 3. Verhoging van de beloning voor de eerste enquête-administratie.
 
-OUDE BELONING: 5€ (1st wave), 7€ (2nd wave), 10€ (3rd wave)
+OUDE BELONING: 5€ (1ste vragenlijst), 7€ (2e vragenlijst), 10€ (3e vragenlijst)
 
-NIEUWE BELONING: 10€ (1st wave), 12€ (2nd wave), 15€ (3rd wave)
+NIEUWE BELONING: 10€ (1ste vragenlijst), 12€ (2e vragenlijst), 15€ (3e vragenlijst)

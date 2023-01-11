@@ -6,29 +6,29 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
-### 19 september 2022
+### 19. september 2022
 
-Septembra 2022 smo zaključili s tretjim in obenem zadnjim valom zbiranja podatkov v okviru časovne študije. Vprašalnik je v celoti izpolnilo 1242 mladostnikov, starih med 12 in 18 let iz treh držav, ki so sodelovale v raziskavi. V Belgiji je sodelovalo 335 mladostnikov, v Franciji 386 in v Sloveniji 521. Vprašalnik je zajemal vprašanja o družbenih omrežjih, pametnih telefonih, televizijskih serijah in glasbi, ter vprašanja, ki so zadevala poglede mladih nase in na družbo. Povzetek rezultatov raziskave je na voljo v.
+Septembra 2022 smo zaključili s tretjim in obenem zadnjim valom zbiranja podatkov v okviru časovne študije. Vprašalnik je v celoti izpolnilo 1242 mladostnikov, starih med 12 in 18 let iz treh držav, ki so sodelovale v raziskavi. V Belgiji je sodelovalo 335 mladostnikov, v Franciji 386 in v Sloveniji 521. Vprašalnik je zajemal vprašanja o družbenih omrežjih, pametnih telefonih, televizijskih serijah in glasbi, ter vprašanja, ki so zadevala poglede mladih nase in na družbo. Povzetek rezultatov raziskave je na voljo v. poročilu
 
-### 01 september 2022
+### 01. september 2022
 
-Raziskovalci projekta MIMIc Jasmina Rosič, Luca Carbone in Laura Vandenbosch so objavili prvi članek projekta MIMIc z naslovom “Pozitivna digitalna komunikacija med mladimi: Razvoj in validacija lestvice digitalnega blagostanja za mladostnike”. Članek je na voljo na naslednji [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9474732/).
+Raziskovalci projekta MIMIc Jasmina Rosič, Luca Carbone in Laura Vandenbosch so objavili prvi članek projekta MIMIc z naslovom “Pozitivna digitalna komunikacija med mladimi: Razvoj in validacija lestvice digitalnega blagostanja za mladostnike”. Članek je na voljo na naslednji [povezavi](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9474732/).
 
-### 20 junij 2022
+### 20. junij 2022
 
 Zaključek zbiranja podatkov v okviru študije profilov na družbenih omrežjih.
 
-### 01 junij 2022
+### 01. junij 2022
 
 Junija 2022 smo zaključili z drugim zbiranjem podatkov v okviru časovne študije. Vprašalnik je v treh državah v celoti izpolnilo 1791 mladostnikov, starih med 12 in 18 let. V Belgiji je sodelovalo 415 mladostnikov, v Franciji 580 in v Sloveniji 796. Raziskava se je nanašala na družbena omrežja, pametne telefone, televizijske serije in glasbo, ter razmišljanje mladih o sebi in širši družbi. V [kratkem poročilu](https://www.projectmimic.eu/sl/debriefings/debriefing_sl/index_w2/) predstavljamo nekaj vmesnih rezultatov študije.
 
-### 13 januar  2022
+### 13. januar 2022
 
 Predstavniki projekta MIMIc Anaëlle Gonzalez, Jasmina Rosič in Luca Carbone bodo kmalu predstavili prve rezultate svojih doktoratov na dveh konferencah: Dan komunikologije (Etmaal van de Communicatiewetenschap) (februar 2022) in 72. konferenci Mednarodnega združenja za komunikologijo (International Communication Association, ICA) (maj 2022). Spodaj si lahko preberete povzetke del, ki jih bodo predstavili.
 
 # Anaëlle Gonzalez
 -	**Naslov**: Študija vsebine analize političnih vsebin zvezdnikov, influencerjev in športnikov na Instagramu
--	**Avtorice**: Anaëlle Gonzalez, Desiree Schmuck, Laura Vandenbosch
+-	**Avtorice**: Anaëlle Gonzalez, Desirée Schmuck, Laura Vandenbosch
 -	**Povzetek**: Instagram in njegove slavne osebnosti so danes pomemben vir novic za številne uporabnike, kar je lahko posledica tega, da se zvezdniki in vplivneži na svojih računih, ki so sicer usmerjeni v zabavo ali življenjski slog, vedno znova ukvarjajo s političnimi temami. Vendar do zdaj še nobena študija ni sistematično preučevala vrste in uokvirjanja teh političnih vsebin. V tej analizi vsebine smo preučili 1256 objav na Instagramu in 2936 zgodb 59 najbolj priljubljenih oblikovalcev mnenj (20 športnih zvezdnikov, 20 umetniških zvezdnikov in 19 vplivnežev) v zahodnih državah ter prvič dokumentirali razširjenost vrst političnih tem in njihovo uokvirjanje. Rezultati večnivojske analize kažejo, da vplivneži in športni zvezdniki pogosteje objavljajo politične teme, usmerjene v življenjski slog, medtem ko se umetniški zvezdniki bolj ukvarjajo s konvencionalnimi temami. Poleg tega se politične teme pogosteje pojavljajo v kratkotrajnih kot stalnih vsebinah. Splošni okvirji so bili na splošno redki, najbolj prevladujoč okvir političnih vsebin pa je bil okvir vpliva na človeka.
 
 # Jasmina Rosič
@@ -41,7 +41,7 @@ Predstavniki projekta MIMIc Anaëlle Gonzalez, Jasmina Rosič in Luca Carbone bo
 -	**Avtorji**: Luca Carbone, Laura Vandenbosch, Hyunjin Song
 -	**Povzetek**: Meritokracija je razširjena naracija v popularni kulturi (Mijs in Savage, 2020), vendar je njena prisotnost v glasbi bila deležna le malo pozornosti. Ta študija analizira prisotnost in razširjenost meritokratskih okvirov v popularnih besedilih, pri čemer združuje ročne analize vsebine in analize omrežij. Analizirali smo 200 najbolj priljubljenih pesmi na Spotifyju v šestih individualističnih državah v obdobju 2016–2019 (N = 4117). Naše analize so pokazale močno (24 % pesmi z vsaj eno referenco) in raznoliko (pet okvirjev) prisotnost meritokracije. Prisotnost meritokracije je bila najbolj pogosta v rapu (81,7 %), pa tudi v popu in rocku. Analiza omrežij je te rezultate potrdila z analizo vzorcev sočasnega pojavljanja besed. Z združevanjem ročne analize vsebine in analize omrežij podajamo predloge za prihodnje raziskave o medijih in njihovih učinkih na občinstvo.
 
-### 04 januar 2022
+### 04. januar 2022
 
 Od septembra do novembra 2021 smo izvedli prvo zbiranje podatkov v časovni študiji. V treh sodelujočih državah je vprašalnik v celoti izpolnilo 2412 mladostnikov, starih med 12 in 18 let. V Belgiji je sodelovalo 590 mladostnikov, v Franciji 740 in v Sloveniji 1082. Vprašalnik je zajemal vprašanja o družbenih omrežjih, pametnem telefonu, tv serijah in glasbi ter vprašanja o pogledih mladih na njih same in na družbo. V [kratkem poročilu](https://www.projectmimic.eu/sl/debriefings/debriefing_sl/index_w1/) predstavljamo nekaj vmesnih rezultatov študije.
 
