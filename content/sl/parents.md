@@ -80,4 +80,4 @@ To vprašanje si zastavljamo z namenom, da bi mladostnikom, kot je vaš otrok, p
 
 3. Nenazadnje bomo predvidoma ob koncu leta 2021 del mladostnikov, ki bodo sodelovali v longitudinalni študiji, povabili tudi k sodelovanju v dnevniški študiji. Prosili jih bomo, naj 14 dni vsak dan doma izpolnijo dnevnik v obliki kratkega spletnega vprašalnika. V njem bomo mladostnike spraševali o tem, kako so preživeli svoj dan in se osredotočili na njihovo dnevno uporabo medijev. S to študijo želimo bolje razumeti, zakaj včasih mladostnikom preživljanje časa z mediji koristi in zakaj jih uporaba medijev nekatere druge dni utrudi.
 
-<a href="/img/brochure_SL.pdf" tabindex="-1"><strong>Prenesite brošuro tukaj</strong></a>
+<a href="/img/brochure_SI_updated.pdf" tabindex="-1"><strong>Prenesite brošuro tukaj</strong></a>
