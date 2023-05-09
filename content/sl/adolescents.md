@@ -67,5 +67,5 @@ lastmod = [":fileModTime", ":default"]
  # CSS class.
  css_class = ""
 +++
-<a href="/img/brochure_SI_adapted.pdf" tabindex="-1"><strong>Prenesite brošuro tukaj</strong></a>
-![](/img/merged_SL.jpg)
+<a href="/img/brochure_SI.pdf" tabindex="-1"><strong>Prenesite brošuro tukaj</strong></a>
+![](/img/merged_SI.jpg)
