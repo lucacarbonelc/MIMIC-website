@@ -10,7 +10,7 @@ publication_types:
 publishDate: "2022-01-31T00:00:00Z"
 tags:
 - debriefing
-title: Debriefing - 1. val
+title: Poročilo – 1. zbiranje podatkov
 url_code: ""
 url_dataset: ""
 url_pdf: ""
