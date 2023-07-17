@@ -35,6 +35,9 @@ social:
 - icon: orcid
   icon_pack: ai ai-orcid
   link: https://orcid.org/0000-0002-8807-8966
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=s_ADE94AAAAJ
 superuser: true
 user_groups:
 - Team

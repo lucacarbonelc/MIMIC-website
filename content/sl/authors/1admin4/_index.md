@@ -34,6 +34,9 @@ social:
 - icon: orcid
   icon_pack: ai ai-orcid
   link: https://orcid.org/0000-0003-1688-9468
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=0kvrqDUAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/lucacarbonelc
@@ -45,4 +48,4 @@ user_groups:
 - Team
 ---
 
-Sem doktorski študent na Oddelku za raziskovanje množičnih komunikacij Univerze v Leuvnu. Moji raziskovalni interesi se nahajajo na presečišču medijskih vplivov, kulturne in kognitivne sociologije. S teoretskega vidika proučujem proces oblikovanja prepričanj s perspektive poosebljanja (embodied perspective) s posebnim poudarkom na kodiranju in shranjevanju veččutnih informacij in jezikovnih dražljajev. To utemeljitev uporabljam za poseben primer družbenih neenakosti in vplivov medijev: Kako posamezniki oblikujejo prepričanja o revščini? Kakšna je odnos med svojim družbenimi razredom ter družbenim razredom drugih? Kakšno vlogo imajo mediji pri oblikovanju in ponotranjanju teh prepričanj? Empirično uporabljam kvantitativne metodologije kot na primer analizo socialnih omrežij (social network analysis), modeliranje strukturnih enačb (structural equation modelling) in računalniško podprto analizo besedil (computational text analysis). Zavzemam se za načela odprte znanosti.
+Sem doktorski študent na Oddelku za raziskovanje množičnega komuniciranja Univerze v Leuvnu. Moji raziskovalni interesi se nahajajo na presečišču medijskih vplivov, kulturne in kognitivne sociologije. S teoretskega vidika proučujem proces oblikovanja prepričanj s perspektive poosebljanja (embodied perspective) s posebnim poudarkom na kodiranju in shranjevanju veččutnih informacij in jezikovnih dražljajev. To utemeljitev uporabljam za poseben primer družbenih neenakosti in vplivov medijev: Kako posamezniki oblikujejo prepričanja o revščini? Kakšen je odnos med svojim družbenim razredom ter družbenim razredom drugih? Kakšno vlogo imajo mediji pri oblikovanju in ponotranjanju teh prepričanj? Empirično uporabljam kvantitativno metodologijo kot na primer analizo družbenih omrežij (social network analysis), modeliranje strukturnih enačb (structural equation modelling) in računalniško podprto analizo besedil (computational text analysis). Zavzemam se za načela odprte znanosti.

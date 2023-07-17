@@ -6,9 +6,44 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 21 April 2023
+
+The MIMIc Team has presented the project and its components to the KU Leuven Faculty of Social Sciences at the Research Day. We present below the poster that was used for this day, as well as a happy picture of the team!
+
+![](/img/rd1.png)
+![](/img/rd2.png)
+
+### 19 April 2023
+
+MIMIc members Luca Carbone and Laura Vandenbosch published an article titled "A Meta-Analysis of Studies Examining the Effect of Music on Beliefs". The article is available at the following [link](https://doi.org/10.1177/00936502231163633).
+
+### 25 January 2023
+
+MIMIc members, Anaëlle Gonzalez, Gaëlle Vanhoffelen, Jasmina Rosič, and Luca Carbone, will soon present new works from their PhDs at two conferences, the Etmaal van de Communicatiewetenschap (February 2023) and the 73nd International Communication Association (ICA). Below, you can read the titles and abstracts of the works they will present.
+
+# Anaëlle Gonzalez
+- **Title**:
+- **Authors**:
+- **Abstract**:
+
+# Gaëlle Vanhoffelen
+- **Title**:
+- **Authors**:
+- **Abstract**:
+
+# Jasmina Rosič
+- **Title**:
+- **Authors**:
+- **Abstract**:
+
+# Luca Carbone
+- **Title**: “I know I'm a queen, but I don't need no crown”: Intersectional Representations of Social Status in Popular Music Lyrics
+- **Authors**: Luca Carbone, Priscila Alvarez-Cueva, Laura Vandenbosch
+- **Abstract**: Music artists are crucial sources of inspiration about what it means to be successful and to have a high status. Previous literature has mostly focused on economic factors, such as luxurious jewels, but has ignored other fundamental dynamics in the definition of status, namely social relationships and power dynamics, especially sexual ob(sub)jectification. Adopting an intersectional Bourdieusian perspective, this article analyzed a unique dataset of 4117 lyrics popular on Spotify between 2016 and 2019 in six countries (US, UK, Netherlands, Australia, New Zealand, Canada). A manual analysis of these lyrics showed that almost half (46%) of the songs depicted status in terms of economic capital, 26% through social capital, 16% through cultural capital, and 6% through sexual ob(sub)jectification. Most of these representations were present in Rap music and among Black and Brown men artists. We concluded by discussing these results in relation to an increasingly globalized music industry and artists’ well-being.
+
 ### 19 September 2022
 
-The third and final wave data collection of the time study was completed in September 2022. 1242 youth aged between 12 and 18 fully completed the questionnaire in the three countries. 335 youth participated in Belgium, 386 in France and 521 in Slovenia. The survey was about the social media, smartphone, tv series and music with some questions about youth themselves and the society.
+The third and final wave data collection of the time study was completed in September 2022. 1242 youth aged between 12 and 18 fully completed the questionnaire in the three countries. 335 youth participated in Belgium, 386 in France and 521 in Slovenia. The survey was about the social media, smartphone, tv series and music with some questions about youth themselves and the society. Participants were informed about some key results emerging from this wave with a debriefing in their respective country language.
 
 ### 01 September 2022
 
@@ -20,7 +55,7 @@ Closing of the data donation study.
 
 ### 01 June 2022
 
-The second wave data collection of the time study was completed in May-June 2022. 1791 youth aged between 12 and 18 fully completed the questionnaire in the three countries. 415 youth participated in Belgium, 580 in France and 796 in Slovenia. The survey was about the social media, smartphone, tv series and music with some questions about youth themselves and the society.
+The second wave data collection of the time study was completed in May-June 2022. 1791 youth aged between 12 and 18 fully completed the questionnaire in the three countries. 415 youth participated in Belgium, 580 in France and 796 in Slovenia. The survey was about the social media, smartphone, tv series and music with some questions about youth themselves and the society. Participants were informed about some key results emerging from this wave with a debriefing in their respective country language.
 
 ### 13 January 2022
 
@@ -46,7 +81,7 @@ The introduced instrument is promising to help further disentangling the effects
 
 ### 04 January 2022
 
-The first wave data collection of the time study was completed in September-November 2021. 2412 youth aged between 12 and 18 fully completed the questionnaire in the three countries. 590 youth participated in Belgium, 740 in France and 1082 in Slovenia. The survey was about the social media, smartphone, tv series and music with some questions about youth themselves and the society.
+The first wave data collection of the time study was completed in September-November 2021. 2412 youth aged between 12 and 18 fully completed the questionnaire in the three countries. 590 youth participated in Belgium, 740 in France and 1082 in Slovenia. The survey was about the social media, smartphone, tv series and music with some questions about youth themselves and the society. Participants were informed about some key results emerging from this wave with a debriefing in their respective country language.
 
 ### 15 April 2021
 

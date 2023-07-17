@@ -143,9 +143,14 @@
   weight = 6
 
 [[fr.menu.main]]
+  name = "Social Media & Press"
+  url = "/social"
+  weight = 7
+
+[[fr.menu.main]]
   name = "Contact"
   url = "/contact"
-  weight = 7
+  weight = 8
 
 [nl]
   languageCode = "nl"
@@ -282,9 +287,14 @@
   weight = 6
 
 [[nl.menu.main]]
+  name = "Social Media & Press"
+  url = "/social"
+  weight = 7
+
+[[nl.menu.main]]
   name = "Contact"
   url = "/contact"
-  weight = 7
+  weight = 8
 
 [sl]
   languageCode = "sl"
@@ -419,8 +429,13 @@
   name = "Novice"
   url = "/news"
   weight = 6
+  
+[[sl.menu.main]]
+  name = "Social Media & Press"
+  url = "/social"
+  weight = 7
 
 [[sl.menu.main]]
   name = "Kontakt"
   url = "/contact"
-  weight = 7
+  weight = 8

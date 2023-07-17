@@ -38,9 +38,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jasmina-rosic/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=gxatJzcAAAAJ&hl=sl
 superuser: true
 user_groups:
 - Team
 ---
 
-Jasmina Rosič is a PhD student at Leuven School for Mass Communication Research. Under the supervision of Professor Laura Vandenbosch (KU Leuven) and Associate Professor Lobe Bojana (U of Ljubljana) she is working on the ERC-funded project: 'Malleability in mediated ideals: A paradigm to understand effects of contemporary media in adolescents' well-being' (2020-2024). Her research aims to understand adolescents' abilities to maintain digital well-being in everyday tasks. More precisely, the PhD project aims to (first) disentangle how differential socialization actors (e.g., parents) play a role in maintaining digital well-being and to (second) explore how resilience and risk variables that are not-well understood interact with maintaining digital well-being in adolescence. Before her work as a PhD researcher, Jasmina Rosič was a researcher at the Social Protection Institute of the Republic of Slovenia and a part-time assistant at the Faculty of Social Work at the University of Ljubljana.
+Jasmina Rosič is a PhD student at Leuven School for Mass Communication Research. Under the supervision of Associate Professors Laura Vandenbosch (KU Leuven) and Bojana Lobe (U of Ljubljana) she is working on the ERC-funded project: ‘Malleability in mediated ideals: A paradigm to understand effects of contemporary media in adolescents’ well-being’ (2020-2024). Her research aims to understand adolescents’ abilities to maintain digital well-being in everyday tasks. More precisely, the PhD project aims to (first) disentangle how differential socialization actors (e.g., parents) play a role in maintaining digital well-being and to (second) explore how disadvantaged adolescents maintain digital well-being in adolescence. Before her work as a PhD researcher, Jasmina Rosič was a researcher at the Social Protection Institute of the Republic of Slovenia and a part-time assistant at the Faculty of Social Work at the University of Ljubljana.

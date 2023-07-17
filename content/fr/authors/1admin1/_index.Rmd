@@ -20,7 +20,7 @@ name: Laura Vandenbosch
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00060068"
-role: Professeure assistante à l'École de recherche en communication de masse
+role: Professeure associate à l'École de recherche en communication de masse
 social:
 - icon: envelope
   icon_pack: fas

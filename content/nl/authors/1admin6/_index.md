@@ -40,7 +40,7 @@ social:
   link: https://www.linkedin.com/in/kaitlin-fitzgerald-341ab6a7/
 superuser: true
 user_groups:
-- Team
+- Internationale medewerkers
 ---
 
 Kaitlin Fitzgerald is een postdoctoraal onderzoeker aan de Leuven School voor Massacommunicatie Onderzoek (KU Leuven). Haar onderzoek richt zich op hoe verhalen en mediaboodschappen kunnen worden ingezet voor prosociale uitkomsten zoals empathie en hulpvaardigheid, morele gevoeligheid en welzijn. Haar onderzoek naar herstelgerichte verhalen bestudeert een unieke benadering van het delen van verhalen over tragische gebeurtenissen of sociale kwesties door de nadruk te leggen op karaktersterkten en betekenisvolle vooruitgang. Haar studies op dit gebied hebben aangetoond dat herstelgerichte verhalen een bijzonder effectieve manier zijn om positieve emoties en morele verheffing teweeg te brengen, die op hun beurt het verlangen vergroten om getroffen individuen en gemeenschappen te helpen. Momenteel onderzoekt ze de cognitieve en emotionele ervaringen die prosociale boodschapseffecten bevorderen, waaronder emotionele flow (de evolutie van emoties tijdens blootstelling aan een mediaboodschap), narratief transport, en narratief plezier en waardering.

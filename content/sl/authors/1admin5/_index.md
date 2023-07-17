@@ -38,9 +38,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jasmina-rosic/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=gxatJzcAAAAJ&hl=sl
 superuser: true
 user_groups:
 - Team
 ---
 
-Jasmina Rosič je doktorska študentka na Oddelku za raziskovanje množičnih komunikacij Katoliške Univerze v Leuvnu. Pod mentorstvom docentke Laure Vandenbosch (KU Leuven) in izredne profesorice Bojane Lobe (U v Ljubljani) dela na projektu, ki ga financira ERC: ‘Spremenljivost “pokvarljivih idealov”: paradigma za razumevanje učinkov sodobnih medijev na dobrobit otrok in mladostnikov’ (2020–2024). Njeno raziskovanje se osredotoča na razumevanje zmožnosti mladostnikov, da ohranjajo digitalno blaginjo pri vsakodnevnih nalogah. Natančneje, cilj doktorskega projekta je (najprej) razvozlati, kakšno vlogo imajo različni socializacijski akterji (npr. starši) pri vzdrževanju digitalne blaginje, in (drugič) raziskati, kako odpornost in dejavniki tveganja, ki niso dobro raziskani, delujejo na vzdrževanje digitalne blaginje v najstništvu. Pred delom kot doktorska raziskovalka je bila Jasmina Rosič tudi raziskovalka na Inštitutu Republike Slovenije za socialno varstvo in je občasno sodelovala pri izvedbi študijskega programa na Fakulteti za socialno delo Univerze v Ljubljani.
+Jasmina Rosič je doktorska študentka na Oddelku za raziskovanje množičnega komuniciranja Katoliške Univerze v Leuvnu. Pod mentorstvom izrednih profesoric Laure Vandenbosch (KU Leuven) in Bojane Lobe (U v Ljubljani) dela na projektu, ki ga financira ERC: ‘Spremenljivost “pokvarljivih idealov”: paradigma za razumevanje učinkov sodobnih medijev na dobrobit otrok in mladostnikov’ (2020–2024). Njeno raziskovanje se osredotoča na razumevanje zmožnosti mladostnikov, da ohranjajo digitalno blaginjo pri vsakodnevnih nalogah. Natančneje, cilj doktorskega projekta je (najprej) razvozlati, kakšno vlogo imajo različni socializacijski akterji (npr. starši) pri vzdrževanju digitalne blaginje, in (drugič) raziskati, kako ranljivi mladostniki vzdržujejo digitalno blaginjo. Pred delom kot doktorska raziskovalka je bila Jasmina Rosič tudi raziskovalka na Inštitutu Republike Slovenije za socialno varstvo in je občasno sodelovala pri izvedbi študijskega programa na Fakulteti za socialno delo Univerze v Ljubljani.

@@ -6,6 +6,41 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 21 April 2023
+
+The MIMIc Team has presented the project and its components to the KU Leuven Faculty of Social Sciences at the Research Day. We present below the poster that was used for this day, as well as a happy picture of the team!
+
+![](/img/rd1.png)
+![](/img/rd2.png)
+
+### 19 April 2023
+
+MIMIc members Luca Carbone and Laura Vandenbosch published an article titled "A Meta-Analysis of Studies Examining the Effect of Music on Beliefs". The article is available at the following [link](https://doi.org/10.1177/00936502231163633).
+
+### 25 January 2023
+
+MIMIc members, Anaëlle Gonzalez, Gaëlle Vanhoffelen, Jasmina Rosič, and Luca Carbone, will soon present new works from their PhDs at two conferences, the Etmaal van de Communicatiewetenschap (February 2023) and the 73nd International Communication Association (ICA). Below, you can read the titles and abstracts of the works they will present.
+
+# Anaëlle Gonzalez
+- **Title**:
+- **Authors**:
+- **Abstract**:
+
+# Gaëlle Vanhoffelen
+- **Title**:
+- **Authors**:
+- **Abstract**:
+
+# Jasmina Rosič
+- **Title**:
+- **Authors**:
+- **Abstract**:
+
+# Luca Carbone
+- **Title**: “I know I'm a queen, but I don't need no crown”: Intersectional Representations of Social Status in Popular Music Lyrics
+- **Authors**: Luca Carbone, Priscila Alvarez-Cueva, Laura Vandenbosch
+- **Abstract**: Music artists are crucial sources of inspiration about what it means to be successful and to have a high status. Previous literature has mostly focused on economic factors, such as luxurious jewels, but has ignored other fundamental dynamics in the definition of status, namely social relationships and power dynamics, especially sexual ob(sub)jectification. Adopting an intersectional Bourdieusian perspective, this article analyzed a unique dataset of 4117 lyrics popular on Spotify between 2016 and 2019 in six countries (US, UK, Netherlands, Australia, New Zealand, Canada). A manual analysis of these lyrics showed that almost half (46%) of the songs depicted status in terms of economic capital, 26% through social capital, 16% through cultural capital, and 6% through sexual ob(sub)jectification. Most of these representations were present in Rap music and among Black and Brown men artists. We concluded by discussing these results in relation to an increasingly globalized music industry and artists’ well-being.
+
 ### 19. september 2022
 
 Septembra 2022 smo zaključili s tretjim in obenem zadnjim valom zbiranja podatkov v okviru časovne študije. Vprašalnik je v celoti izpolnilo 1242 mladostnikov, starih med 12 in 18 let iz treh držav, ki so sodelovale v raziskavi. V Belgiji je sodelovalo 335 mladostnikov, v Franciji 386 in v Sloveniji 521. Vprašalnik je zajemal vprašanja o družbenih omrežjih, pametnih telefonih, televizijskih serijah in glasbi, ter vprašanja, ki so zadevala poglede mladih nase in na družbo. Povzetek rezultatov raziskave je na voljo v. [poročilu](https://www.projectmimic.eu/sl/debriefings/debriefing_sl/index_w3/).

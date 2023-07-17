@@ -40,7 +40,7 @@ social:
   link: https://www.linkedin.com/in/kaitlin-fitzgerald-341ab6a7/
 superuser: true
 user_groups:
-- Team
+- International collaborators
 ---
 
 Kaitlin Fitzgerald is a postdoctoral researcher at the Leuven School for Mass Communication Research (KU Leuven). Her research focuses on how narratives and media messages can be leveraged for prosocial outcomes such as empathy and helping, moral sensitivity, and well-being. Her research on restorative narratives examines a unique approach to sharing stories about tragic events or social issues through emphasizing character strengths and meaningful progression. Her studies in this area have found that restorative narratives are an especially effective way to induce positive emotions and moral elevation, which in turn increase the desire to help affected individuals and communities. Currently, her work investigates the cognitive and emotional experiences that foster prosocial message effects, including emotional flow (the evolution of emotions during exposure to a media message), narrative transportation, and narrative enjoyment and appreciation.

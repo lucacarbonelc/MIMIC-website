@@ -33,6 +33,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jasmina-rosic/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=gxatJzcAAAAJ&hl=sl
 superuser: true
 user_groups:
 - Team

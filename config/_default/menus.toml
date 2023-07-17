@@ -140,9 +140,14 @@
   weight = 6
 
 [[main]]
+  name = "Social Media & Press"
+  url = "/social"
+  weight = 7
+
+[[main]]
   name = "Contact"
   url = "/contact"
-  weight = 7
+  weight = 8
 
 # [[main_right]]
 #  name = "<img src=\"/img/logo.png\" style=\"height:50px\" alt=\"ERC\">"
