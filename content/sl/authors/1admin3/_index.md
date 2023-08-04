@@ -30,6 +30,9 @@ social:
 - icon: orcid
   icon_pack: ai ai-orcid
   link: https://orcid.org/0000-0002-8807-8966
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/gaëlle-vanhoffelen-1b64a51a0/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GVanhoffelen
