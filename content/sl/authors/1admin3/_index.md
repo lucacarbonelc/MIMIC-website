@@ -27,6 +27,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'gaëlle.vanhoffelen@kuleuven.be'
+- icon: orcid
+  icon_pack: ai ai-orcid
+  link: https://orcid.org/0000-0002-8807-8966
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GVanhoffelen

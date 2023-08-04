@@ -30,4 +30,5 @@ Assoc. Prof. Bojana Lobe was a guest on the Slovenian radio show Podobe znanja (
 
 ### 6 September 2021
 
+#### Jasmina Rosič presented the aims of the MIMIc project newspaper Delo
 Jasmina Rosič was interviewed by one of the most-read Slovenian newspapers Delo. She talked about her experience of living in Belgium and presented the aims of the MIMIc project and her own research within the project. [Link](https://www.delo.si/novice/znanoteh/mladostniki-so-slabo-raziskana-druzbena-skupina/)

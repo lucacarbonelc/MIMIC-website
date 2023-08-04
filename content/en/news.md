@@ -19,26 +19,40 @@ MIMIc members Luca Carbone and Laura Vandenbosch published an article titled "A 
 
 ### 25 January 2023
 
-MIMIc members, Anaëlle Gonzalez, Gaëlle Vanhoffelen, Jasmina Rosič, and Luca Carbone, will soon present new works from their PhDs at two conferences, the Etmaal van de Communicatiewetenschap (February 2023) and the 73nd International Communication Association (ICA). Below, you can read the titles and abstracts of the works they will present.
+MIMIc members, Anaëlle Gonzalez, Gaëlle Vanhoffelen, Jasmina Rosič, and Luca Carbone, will soon present new works from their PhDs at two conferences, the Etmaal van de Communicatiewetenschap (February 2023) and the 73nd International Communication Association (ICA) (May 2023). Below, you can read the titles and abstracts of the works they will present.
 
-# Anaëlle Gonzalez
-- **Title**:
-- **Authors**:
-- **Abstract**:
+**Anaëlle Gonzalez**<br><br>
+**ICA 2023 presentation**
+- **Authors**: Anaëlle Gonzalez, Desiree Schmuck, and Laura Vandenbosch
+- **Title**: Posting and Framing Politics: A Content Analysis of Celebrities’, Athletes’, and Influencers’ Instagram Political Content
+- **Abstract**: Instagram and its famous personae are nowadays an important news source for many users, which may stem from celebrities’ and social media influencers’ (SMIs) repeated engagement with political topics on their otherwise entertainment- or lifestyle-oriented accounts. Yet, to date, no study has systematically investigated the type and framing of this political content. This content analysis examined 1,256 Instagram posts and 2,936 stories of the 59 most popular opinion leaders (19 athletes, 20 celebrities and 20 SMIs) in Western countries, and documented, for the first time, the prevalence of types of political topics and their framing. Results from multilevel analyses suggest that SMIs and athletes are more likely to post lifestyle-oriented political topics, while celebrities engage more with conventional topics. Moreover, political topics appear more often in ephemeral than permanent content. Generic frames were overall rare, but the most dominant frame of political content was the human impact frame.<br>
 
-# Gaëlle Vanhoffelen
-- **Title**:
-- **Authors**:
-- **Abstract**:
+**Etmaal 2023 presentation**
+- **Authors**: Anaëlle Gonzalez, Drew Cingel, and Laura Vandenbosch
+- **Title**: A Systematic Content Analysis of the Moral Foundations Featured in Celebrities’, Influencers’, and Athletes’ Instagram Content
+- **Abstract**: Despite the attention that moral media content has received for many years, thus far, no research has systematically investigated the moral foundations featured in (visual) user-generated content. This is important, as exposure to moral content may influence the relative salience of different moral foundations among consumers, with implications for their moral reasoning. This manual content analysis investigated the prevalence and consistency of the moral foundations represented in the Instagram profiles of the 59 most followed Western celebrities, athletes and influencers. The study coded 1,256 posts and 2,936 stories, documenting the exemplification of moral foundations and their links with sex, endorser type, platform feature (i.e., stories vs posts), and presence of emojis. Results from multilevel analyses showed that famous individuals posted more content that upheld than violated moral foundations, with care and loyalty having the highest prevalence. On average, morally-laden content represented one-fifth of the posted content, with most personalities sharing moral content at least once. No difference was observed between posts and stories. Loyalty was featured by men more than women, and by athletes more than celebrities and influencers. The representation of moral content, and especially care, predicted the use of (positive) emojis.
 
-# Jasmina Rosič
-- **Title**:
-- **Authors**:
-- **Abstract**:
+**Gaëlle Vanhoffelen**<br><br>
+ICA 2023:
+- **Authors**: Gaëlle Vanhoffelen, Lara Schreurs, and Laura Vandenbosch
+- **Title**: Me, My Self-Presentations and I: Within-Person Associations between Narcissism, Social Media Use and Peer Attachment
+- **Abstract**: Although the relationship between social media and narcissism in adolescents has been widely studied, the direction of this link remains unclear to date. This is striking given the potential deconstructive consequences of narcissism for adolescents’ peer relationships. Therefore, this three-wave panel study (NW1=1032) examined at both the between- and within-person level how narcissism is related to adolescents’ positive self-presentations on the one hand, and to adolescents’ peer attachment on the other hand. At the between-person level, there were significant positive correlations between positive self-presentations on social media and narcissism, and between narcissism and peer relationships. At the within-person level, only the cross-lagged relation of narcissism predicting an adolescent’s tendency to post appearance-related self-presentations on social media was significant. Multiple group tests for gender and receiving positive feedback on one’s self-presentations showed no differences in these within-person associations.<br>
 
-# Luca Carbone
+**Etmaal 2023 presentation**
+- **Authors**: Gaëlle Vanhoffelen, Lara Schreurs, Anneleen Meeus, Nele Janssens, Kathleen Buellens, and Laura Vandenbosch
+- **Title**: BeReal, Be Happy? Examining the Relationships Between Authentic Self-Presentations on BeReal and Adolescents’ Self-Esteem
+- **Abstract**: Unlike most social media, the new platform BeReal encourages its users to present themselves as authentically as possible. Since authentic online self-presentations are assumed to positively affect users’ well-being, the current study examined if (and how) such self-presentations on BeReal are positively related to adolescents’ self-esteem. Of the 367 adolescents who participated in our cross-sectional survey, a total of 148 (40.33%, Mage= 16.23, SDage= 1.46) had an account on BeReal and were included in the analytical sample. Using Structural Equation Modeling, we found that adolescents’ authentic self-presentations were not significantly related to their self-concept clarity nor indirectly to their self-esteem. Self-esteem and self-concept clarity were, however, positively correlated. Exposure to perceived authentic self-presentations of others was not significantly associated with social comparison (i.e., either upward, downward or lateral) nor with self-esteem. Yet, upward and lateral social comparisons on BeReal were significantly related to a lower and higher self-esteem, respectively.
+
+**Jasmina Rosič**<br><br>
+**ICA 2023 presentation**
+- **Authors**: Jasmina Rosič, Luca Carbone, Mariek Vanden Abeele, Bojana Lobe, and Laura Vandenbosch
+- **Title**: Measuring Adolescents’ Digital Well-Being in Everyday Life: The Perceived Digital Well-Being in Adolescence Scale
+- **Abstract**: Previous research has mostly correlated screen time with adolescents’ social, cognitive, and emotional well-being outcomes, while overlooking adolescents’ subjective experiences of smartphone use. The present research filled this gap by developing and validating the Perceived Digital Well-Being in Adolescence Scale (PDWBA). This semantic differential scale was developed by conducting a literature review and five cognitive interviews with Slovenian adolescents and then tested in two cross-sectional studies. A total of 161 Slovenian adolescents participated in Study 1 (Mage = 17.87, SDage = 1.23), and 1,040 Slovenian adolescents (Mage = 15.28, SDage = 1.79) participated in Study 2. Exploratory and confirmatory factor analyses demonstrated a stable three-factor model consisting of perceived digital well-being subscales in the social, cognitive, and emotional domains. Construct validity tests were performed and metric invariance across sex was established. The descriptive results showed that adolescents’ perceived digital well-being differed according to sex, age, and educational track. We discuss the scale’s theoretical and practical relevance and formulate suggestions for future research.
+
+**Luca Carbone**
+**ICA and Etmaal 2023 presentation**
+- **Authors**: Luca Carbone, Priscila Alvarez-Cueva, and Laura Vandenbosch
 - **Title**: “I know I'm a queen, but I don't need no crown”: Intersectional Representations of Social Status in Popular Music Lyrics
-- **Authors**: Luca Carbone, Priscila Alvarez-Cueva, Laura Vandenbosch
 - **Abstract**: Music artists are crucial sources of inspiration about what it means to be successful and to have a high status. Previous literature has mostly focused on economic factors, such as luxurious jewels, but has ignored other fundamental dynamics in the definition of status, namely social relationships and power dynamics, especially sexual ob(sub)jectification. Adopting an intersectional Bourdieusian perspective, this article analyzed a unique dataset of 4117 lyrics popular on Spotify between 2016 and 2019 in six countries (US, UK, Netherlands, Australia, New Zealand, Canada). A manual analysis of these lyrics showed that almost half (46%) of the songs depicted status in terms of economic capital, 26% through social capital, 16% through cultural capital, and 6% through sexual ob(sub)jectification. Most of these representations were present in Rap music and among Black and Brown men artists. We concluded by discussing these results in relation to an increasingly globalized music industry and artists’ well-being.
 
 ### 19 September 2022

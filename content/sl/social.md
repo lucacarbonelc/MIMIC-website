@@ -30,4 +30,5 @@ Izr. prof. Bojana Lobe je bila 8. 4. 2022 gostja v radijski oddaji Podobe znanja
 
 ### 6 September 2021
 
-Jasmina Rosič je bila intervjuvana za enega najbolj branih slovenskih časopisov Delo. Spregovorila je o svoji izkušnji bivanja v Belgiji ter predstavila cilje projekta MIMIc in svoje raziskave v okviru projekta. [Link](https://www.delo.si/novice/znanoteh/mladostniki-so-slabo-raziskana-druzbena-skupina/)
+#### Jasmina Rosič je v časopisu Delo predstavila cilje projekta MIMIc
+Jasmina Rosič je bila intervjuvana za enega najbolj branih slovenskih časopisov Delo. Spregovorila je o svoji izkušnji bivanja v Belgiji ter predstavila cilje projekta MIMIc in svoje raziskave v okviru projekta. Link

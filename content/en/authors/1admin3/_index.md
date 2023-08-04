@@ -27,6 +27,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'gaëlle.vanhoffelen@kuleuven.be'
+- icon: orcid
+  icon_pack: ai ai-orcid
+  link: https://orcid.org/0000-0002-8807-8966
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GVanhoffelen
@@ -39,3 +42,4 @@ user_groups:
 ---
 
 Gaëlle Vanhoffelen is a PhD student at the Leuven School for Mass Communication (KU Leuven) under the supervision of Professor Laura Vandenbosch. Her PhD project focuses on the links between performance messages on digital media, such as social media and television, and youth's performance orientations with attention for the heterogenous cultural background of the youth audience. This project is part of the ERC-funded MIMIc project: ”Malleability in mediated ideals: A paradigm to understand effects of contemporary media in adolescents' well-being”.
+

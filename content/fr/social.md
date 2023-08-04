@@ -6,6 +6,21 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 5 July 2023
+
+#### Anaëlle Gonzalez invitée par le Collectif AVI pour une conversation en direct sur Twitter afin de discuter des dernières recherches sur les influenceurs.
+Anaëlle Gonzalez a été invitée en juillet 2023 par le Collectif AVI (association d’aide aux victimes des influenceurs) à participer à une conservation en direct sur Twitter Spaces. Avec les animateurs, elle a discuté de l'état actuel de la recherche sur les influenceurs et de leur impact potentiel sur leur public, ainsi que des dernières conclusions des analyses de contenu MIMIc sur les influenceurs. La discussion s'adressait au grand public et le public pouvait participer et poser des questions. L'enregistrement est désormais accessible [https://twitter.com/collectifAvi/status/1676674762641231878?s=20 ; en français].
+
+### 1 June 2023
+
+#### Anaëlle Gonzalez a parlé du bien-être des jeunes chercheurs dans une série de podcasts
+Anaëlle Gonzalez a participé à des échanges sur le bien-être et la santé mentale des jeunes chercheurs dans deux podcasts destinés aux étudiants et jeunes chercheurs. Dans le premier épisode, dans le cadre de la série de podcasts Mental Health Matters de KU Leuven, elle a partagé son expérience sur la façon de faire face au perfectionnisme et à la peur de l'échec (https://open.spotify.com/episode/4tHTgZXCxGqY4rGqky9tMJ?si=AhQdXNWkRn6LGtJ-FZnhnA; en anglais). Anaëlle a également figuré dans un épisode de la série de podcasts de l'ICA  (Association Internationale de Communication) « GrowingUpCom » pour explorer davantage les expériences d'insécurité et de rejet des jeunes chercheurs (https://open.spotify.com/episode/1xSyTAKBoDGjWBbfP6ivo6?si=fee54b78db1d49a0; en anglais).
+
+### 1 May 2023
+
+#### Anaëlle Gonzalez a présenté quelques résultats du projet MIMIc dans le podcast DIGISOC.
+En 2023, Anaëlle Gonzalez a participé au podcast du KU Leuven Digital Society Institute (DIGISOC). Le podcast traite de la manière dont la recherche peut contribuer à une société numérique positive. Dans son épisode, Anaëlle a présenté quelques résultats du projet MIMIc et a expliqué l'importance d'étudier le rôle des médias de divertissement dans le développement politique des adolescents. Le lien vers l'épisode sera publié une fois l'épisode sorti plus tard cette année.
+
 ### 3 April 2023
 
 #### Assoc. Prof. Laura Vandenbosch - Interview ERC
@@ -27,6 +42,11 @@ Assoc. Prof. Bojana Lobe was a guest on the Slovenian radio show Podobe znanja (
       </iframe>
    </body>
 </html>
+
+### 2 February 2022
+
+#### Anaëlle Gonzalez invitée par l’Institut National Supérieur du Professorat et de l’Éducation de Lille (INSPé) pour une conférence sur la jeunesse et les médias.
+Anaëlle Gonzalez a été invitée en 2022 par l’Institut National Supérieur du Professorat et de l’Éducation de Lille (INSPé) à donner une conférence sur le rôle des médias dans la vie des jeunes d'aujourd'hui. La conférence s'adressait au personnel de l'Éducation nationale française et aux étudiants se destinant à travailler dans le domaine de l'éducation. Intitulée « Grandir dans un monde digitalisé: Un projet pour comprendre le rôle des médias et réseaux sociaux dans la vie des adolescents », la conférence a donné un aperçu des premiers résultats du projet MIMIc. L'intégralité de la conférence, qui a été enregistrée, est désormais accessible [https://www.youtube.com/watch?v=rlanYB9ggec ; en français].
 
 ### 6 September 2021
 

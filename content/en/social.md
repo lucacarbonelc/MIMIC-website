@@ -6,6 +6,21 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 5 July 2023
+
+#### Anaëlle Gonzalez invited by the Collective AVI for a live conversation on Twitter to discuss the latest research on influencers.
+Anaëlle Gonzalez was invited in July 2023 by the Collective AVI (an association for the victims of influencers’ malpractices) to participate in a live conservation on Twitter Spaces. With the hosts, she discussed the current state of research on influencers and their potential impact on their audience, and the latest findings from the MIMIc content analyses on influencers. The discussion was targeted at the general public and the audience could participate and ask questions. The recording of the conversations can now be accessed [https://twitter.com/collectifAvi/status/1676674762641231878?s=20; in French].
+
+### 1 June 2023
+
+#### Anaëlle Gonzalez talked about young researchers’ well-being in a series of podcast
+Anaëlle Gonzalez participated in discussions on the well-being of young researchers in two podcasts targeted at students and young scholars. In the first episode, as part of the KU Leuven mental health matters podcast series, she shared her experience on how to cope with perfectionism and the fear of failure (https://open.spotify.com/episode/4tHTgZXCxGqY4rGqky9tMJ?si=AhQdXNWkRn6LGtJ-FZnhnA; in English). Anaëlle also featured in an episode of the ICA (International Communication Association) podcast series ‘GrowingUpCom’ to further explore young scholars’ experiences of insecurities and rejection (https://open.spotify.com/episode/1xSyTAKBoDGjWBbfP6ivo6?si=fee54b78db1d49a0; in English).
+
+### 1 May 2023
+
+#### Anaëlle Gonzalez presented some results of the MIMIc project in the DIGISOC podcast.
+In 2023, Anaëlle Gonzalez participated in the podcast of the KU Leuven Digital Society Institute (DIGISOC).The podcast deals with how research can contribute to a positive digital society. In her episode, Anaëlle presented some findings from the MIMIc project, and explained the importance of studying the role of entertainment media in adolescents’ political development. The link to the episode will be posted once the episode is out later this year.
+
 ### 3 April 2023
 
 #### Assoc. Prof. Laura Vandenbosch - Interview ERC
@@ -28,6 +43,12 @@ Assoc. Prof. Bojana Lobe was a guest on the Slovenian radio show Podobe znanja (
    </body>
 </html>
 
+### 2 February 2022
+
+#### Anaëlle Gonzalez invited by Institute of Teaching and Education of Lille, France (INSPé) for a guest Lecture on youth and media.
+Anaëlle Gonzalez was invited in 2022 by the Institute of Teaching and Education of Lille, France (INSPé) to deliver a guest lecture on the role of the media in the lives of today’s youth. The lecture was targeted at the staff of the French National Education and students intending to work in the field of education. Titled “Growing up in a digital world: A project to understand the role of (social) media in the lives of adolescents”, the lecture gave some insights on the first results of the MIMIc project. The entire lecture, which was recorded, can now be accessed [https://www.youtube.com/watch?v=rlanYB9ggec ; in French].
+
 ### 6 September 2021
 
+#### Jasmina Rosič presented the aims of the MIMIc project newspaper Delo
 Jasmina Rosič was interviewed by one of the most-read Slovenian newspapers Delo. She talked about her experience of living in Belgium and presented the aims of the MIMIc project and her own research within the project. [Link](https://www.delo.si/novice/znanoteh/mladostniki-so-slabo-raziskana-druzbena-skupina/)

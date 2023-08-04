@@ -2,7 +2,7 @@
 abstract: 'Research has extensively studied the negative effects of digital communication on adolescents’ well-being. However, positive digital experiences and behavior in adolescence are still poorly understood. The recently developed Digital Flourishing Scale addresses this gap and focuses on the positive perceptions of a user’s experiences and behaviors in digital communication among adults. In this paper, we developed an adolescent version of this scale. Study 1 demonstrated the internal consistency of the scale and the same factor structure for adolescence as for adulthood: connectedness, civil participation, positive social comparison, authentic self-presentation, and self-control. Study 2 confirmed the identified factor structure with a second sample of adolescents and established measurement invariance across genders. The construct validity of the scale was confirmed by investigating associations with related constructs, including the basic psychological needs from self-determination theory (competence, autonomy, and relatedness), secure attachment to a close friend, Internet aggression, social media-induced inspiration, authenticity of posted positive content, and social media self-control failure. The results indicated that not all adolescents flourish equally online. Differences occurred depending on the adolescents’ gender and socioeconomic status. The paper concludes that the newly developed scale is a valid and reliable measure for assessing adolescents’ perceptions of digital thriving and digital empowerment.'
 authors:
 - Jasmina Rosič
-- Sophie H. Janicke-Bowes
+- Sophie H. Janicke-Bowles
 - Luca Carbone
 - Bojana Lobe
 - Laura Vandenbosch
