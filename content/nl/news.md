@@ -21,6 +21,8 @@ MIMIc members Luca Carbone and Laura Vandenbosch published an article titled "A 
 
 MIMIc members, Anaëlle Gonzalez, Gaëlle Vanhoffelen, Jasmina Rosič, and Luca Carbone, will soon present new works from their PhDs at two conferences, the Etmaal van de Communicatiewetenschap (February 2023) and the 73nd International Communication Association (ICA). Below, you can read the titles and abstracts of the works they will present.
 
+![The MIMIc team representing at one of the many ICA23 reception parties](/img/ica23.jpg)
+
 # Anaëlle Gonzalez
 - **Title**:
 - **Authors**:
