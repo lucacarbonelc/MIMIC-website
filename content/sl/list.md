@@ -69,25 +69,46 @@ lastmod = [":fileModTime", ":default"]
 +++
 
 **Francija**:
--	Collège Blois – Vienne
--	Collège des Vallées du Paillon – Roger Carles – Contes
--	Collège Léonard de Vinci – Romorantin
--	Collège Marie Noël REP – Joigny
--	Collège Paul Emile Victor – Corcieux
--	Collège Pierre et Marie Curie – Albert
--	Collège Endarra – Anglet
--	Collège Jeanne d'Arc – Saint Géraud
--	Collège Maria Montessori des Aiglons
--	Collège Henri Vincenot – Chalindrey
--	Collège Saint Antoine La Salle – Lannilis
--	Collège André Duchesne – L'Ile Bouchard
--	Lycée Blaise Pascal – Segre
--	Lycée professionnel Henri Sainte Claire Deville – Issoire
--	Lycée Saint Jean (Saint Joseph) – Lectoure
--	Lycée Edouard Herriot – Lyon
--	Lycée Georges Leygues/Louis Couffignal – Villeneuve-sur-Lot
--	Lycée Jacques Cœur – Bourges
--	Lycée Fustel de Coulanges – Strasbourg
+-	Collège les Denteliers de Calais 
+- Collège Saint-Firmin de Firminy
+- Collège Louise Michel de Lussac Les Châteaux
+- Collège Vallées du Paillon – Roger Carlès de Contes
+- Collège Léonard de Vinci de Romorantin 
+- Collège Marie Noël de Joigny
+- Collège Félix Landreau de Angers
+- Collège Paul Emile Victor de Corcieux 
+- Collège Pierre et Marie Curie de Albert
+- Collège Maria Montessori des Aiglons 
+- Collège Adèle de Trenquelléon  
+- Collège Travail-Langevin 
+- Collège Iles de Loire  
+- Collège Jeanne d'Arc - Saint Géraud  
+- Collège Endarra - Anglet 
+- Collège Jules Ferry - Neuves-Maisons 
+- Collège Henri Vincenot 
+- Collège Jean Cocteau 
+- Collège Saint-Antoine La Salle
+- Collège André Duchesne - L'Ile Bouchard
+- Lycée Professionnel Pierre Mendès-France
+- Lycée Augustin Thierry de Blois
+- Lycée Fustel de Coulanges de Strasbourg
+- Lycée la Martinière Duchère de Lyon
+- Lycée privé Saint-Joseph la Salle de Pantin 
+- Lycée Saint-Joseph de Lamballe 
+- Lycée privé Jean-Baptiste la Salle de Rouen
+- Lycée Georges Leygues-Louis Couffignal de Villeneuve-sur-Lot
+- Lycée Saint Joseph de Lectoure
+- Lycée Saint Exupéry de Terrasson 
+- Lycée professionnel H.S.C. Deville 
+- Lycée du Vexin - Chars 
+- Lycée Edouard Herriot - Lyon 
+- Lycée Mirail, Rive Gauche - Toulouse 
+- Lycée de Bougainville - Nantes
+- Lycée Napoléon - L'Aigle
+- Lycée Julien Gracq
+- Lycée Blaise Pascal - Segre
+- Lycée professionnel Ernest Ferroul
+- Lycée Jacques Coeur – Bourges
 
 **Belgija**:
 - GO! atheneum Maerlant Blankenberge
@@ -98,6 +119,9 @@ lastmod = [":fileModTime", ":default"]
 - Sint-Dimpna College
 - Sint-Aloysius Geel
 - kOsh
+- Sint-Gabriëlcollege Boechout
+- SJC Aarschot
+- COLOMAplus
 
 **Slovenija**:
 - II. osnovna šola Celje 

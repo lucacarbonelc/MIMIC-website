@@ -81,22 +81,16 @@
   weight = 3.1
 
 [[main]]
-  name = "Debriefings"
-  parent = "resources"
-  url = "#debriefings"
-  weight = 3.2
-
-[[main]]
   name = "Open science"
   parent = "resources"
   url = "/open_science"
-  weight = 3.3
+  weight = 3.2
 
 [[main]]
   name = "Videos"
   parent = "resources"
   url = "/videos"
-  weight = 3.4
+  weight = 3.3
 
 [[main]]
   name = "Schools"

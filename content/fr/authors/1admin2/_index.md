@@ -29,6 +29,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'anaelle.gonzalez@kuleuven.be'
+- icon: globe
+  icon_pack: fas
+  link: https://www.anaellegonzalez.com/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/anaellegonzalez/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GonzalezAnaelle

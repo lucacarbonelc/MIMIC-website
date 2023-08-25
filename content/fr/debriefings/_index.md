@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Debriefings
+title: Débriefings
 view: 4
 ---

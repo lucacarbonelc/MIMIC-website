@@ -11,7 +11,7 @@ email: ""
 interests:
 - Psychologie des médias
 - Adolescents
-- Vie d'adulte émergente
+- Vie des jeunes adultes émergents
 - Bien-être
 - Maturation sexuelle
 - Éducation aux médias
@@ -20,7 +20,7 @@ name: Laura Vandenbosch
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00060068"
-role: Professeure associate à l'École de recherche en communication de masse
+role: Maître de Conférence à l'École de recherche en communication de masse
 social:
 - icon: envelope
   icon_pack: fas

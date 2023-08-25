@@ -6,6 +6,22 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 7 October 2023
+
+Assoc. Prof. Laura Vandenbosch presented results from the research conducted within the MIMIc project as part of her invited lecture "". This event was part of the yearly "Child University Day at KU Leuven". More information about the event can be found at this [link](https://www.kuleuven.be/kinderuniversiteit/praktisch).
+
+### 6 October 2023
+
+MIMIc team member Luca Carbone presented results from the research conducted within the MIMIc project as part of the invited lecture "Spotify killed the video stars? Individualization processes in contemporary mainstream music.". This event was part of the event "Pop Talks" organized by the International Association for the Study of Popular Music (IASPM).
+
+### 24 September 2023
+
+Assoc. Prof. Laura Vandenbosch presented results from the research conducted within the MIMIc project at the NEFCA Media Psychology event "".
+
+### 24 August 2023
+
+Assoc. Prof. Laura Vandenbosch presented results from the research conducted within the MIMIc project as part of her invited lecture "Digital Media Uses and Adolescents’ Development". This event was part of the event "ENIGMA" organized with school teachers by KU Leuven.
+
 ### 21 April 2023
 
 The MIMIc Team has presented the project and its components to the KU Leuven Faculty of Social Sciences at the Research Day. We present below the poster that was used for this day, as well as a happy picture of the team!
@@ -35,7 +51,7 @@ MIMIc members, Anaëlle Gonzalez, Gaëlle Vanhoffelen, Jasmina Rosič, and Luca 
 - **Abstract**: Despite the attention that moral media content has received for many years, thus far, no research has systematically investigated the moral foundations featured in (visual) user-generated content. This is important, as exposure to moral content may influence the relative salience of different moral foundations among consumers, with implications for their moral reasoning. This manual content analysis investigated the prevalence and consistency of the moral foundations represented in the Instagram profiles of the 59 most followed Western celebrities, athletes and influencers. The study coded 1,256 posts and 2,936 stories, documenting the exemplification of moral foundations and their links with sex, endorser type, platform feature (i.e., stories vs posts), and presence of emojis. Results from multilevel analyses showed that famous individuals posted more content that upheld than violated moral foundations, with care and loyalty having the highest prevalence. On average, morally-laden content represented one-fifth of the posted content, with most personalities sharing moral content at least once. No difference was observed between posts and stories. Loyalty was featured by men more than women, and by athletes more than celebrities and influencers. The representation of moral content, and especially care, predicted the use of (positive) emojis.
 
 **Gaëlle Vanhoffelen**<br><br>
-ICA 2023:
+**ICA 2023 presentation**
 - **Authors**: Gaëlle Vanhoffelen, Lara Schreurs, and Laura Vandenbosch
 - **Title**: Me, My Self-Presentations and I: Within-Person Associations between Narcissism, Social Media Use and Peer Attachment
 - **Abstract**: Although the relationship between social media and narcissism in adolescents has been widely studied, the direction of this link remains unclear to date. This is striking given the potential deconstructive consequences of narcissism for adolescents’ peer relationships. Therefore, this three-wave panel study (NW1=1032) examined at both the between- and within-person level how narcissism is related to adolescents’ positive self-presentations on the one hand, and to adolescents’ peer attachment on the other hand. At the between-person level, there were significant positive correlations between positive self-presentations on social media and narcissism, and between narcissism and peer relationships. At the within-person level, only the cross-lagged relation of narcissism predicting an adolescent’s tendency to post appearance-related self-presentations on social media was significant. Multiple group tests for gender and receiving positive feedback on one’s self-presentations showed no differences in these within-person associations.<br>
@@ -77,12 +93,12 @@ The second wave data collection of the time study was completed in May-June 2022
 
 MIMIc members, Anaëlle Gonzalez, Jasmina Rosič, and Luca Carbone, will soon present the first studies of their PhDs at two conferences, the Etmaal van de Communicatiewetenschap (February 2022) and the 72nd International Communication Association (ICA) (May 2022). Below, you can read the titles and abstracts of the works they will present.
 
-# Anaëlle Gonzalez
+**Anaëlle Gonzalez**
 - **Title**:  A Content Analytical Study on Celebrities, Influencers and Athletes’ Political Content on Instagram.
 - **Authors**: Anaëlle Gonzalez, Desirée Schmuck, Laura Vandenbosch
 - **Abstract**: Instagram and its many famous personae are now the main news providers for a majority of users (Newman et al., 2021). To date, no study has systematically investigated the political content that influencers and celebrities may share on their Instagram accounts and the way these opinion leaders frame these issues. This content analytical study examined the 1,256 Instagram permanent posts and 2,936 ephemeral stories of 59 opinion leaders (20 sports celebrities, 20 artistic celebrities and 19 influencers) identified as the most popular in Western countries, and documented, for the first time, the prevalence of different news stories and their frames. The multilevel analyses suggested that celebrity type and platform feature significantly predicted political posting and the use of the attribution of responsibility frame. Celebrity type and sex also partly predicted which political topics were shared.
 
-# Jasmina Rosič
+**Jasmina Rosič**
 - **Title**: The Development and Validation of the Perceived Digital Balance in Adolescence Scale
 - **Authors**: Jasmina Rosič, Luca Carbone, Mariek Vanden Abeele, Bojana Lobe and Laura Vandenbosch
 - **Abstract**: Many adolescents are permanently online, permanently connected with their smartphones (Vorderer et al., 2017). These adolescents are challenged to find an adequate balance between the advantages and disadvantages of their ubiquitous connectivity (Vanden Abeele, 2020). Existing smartphone scales typically measure directly observable practices like screen time. As such, measurements that address subjective, lived experiences of being constantly connected (e.g., perceived smartphone effects on wellbeing) are lacking. This gap is addressed by developing the Adolescents’ Perceived Digital Balance Scale.
@@ -90,7 +106,7 @@ A semantic-differential measurement was developed with 19-items on a) social int
 The EFA resulted in a three-factor solution. The first factor consisted of items on hedonic feelings and other emotions (e.g., anxiety) related to smartphone use. The second factor captured how smartphone use could facilitate/discourage social interactions and relationships. The third factor captured smartphone use in relation to productivity (school) tasks. Two items were removed due to low factor loadings or loading on the theoretically incorrect factor. The construct validity of the new subscales was confirmed as they correlated with the Scale of Smartphone Leisure Uses, the Self Esteem Scale, the Social Media Self Control Failure Measure, and Technoference Scale. The CFA indicated a good model fit and configural invariance across gender. 
 The introduced instrument is promising to help further disentangling the effects of ubiquitous connectivity on adolescents’ lives.
 
-# Luca Carbone
+**Luca Carbone**
 - **Title**: The Sound of Meritocracy: A Content Analysis of Meritocracy in Popular Music Lyrics Using a Semantic and Syntactic Framing Approach
 - **Authors**: Luca Carbone, Laura Vandenbosch, Hyunjin Song
 - **Abstract**: Meritocracy is a pervasive narrative in popular culture (Mijs & Savage, 2020). Yet, its presence in music has received scarce attention. This study analyzes the presence and prevalence of meritocratic frames in popular lyrics combining manual and network content analyses. We analyzed the 200 most popular songs on Spotify in six individualistic countries from 2016–2019 (N = 4117). Our analyses found a strong (24% of songs with at least one reference), variegated (five frames) presence of meritocracy. These representations were common in rap (81.7%) but also in pop and rock. Network analysis confirmed these results by analyzing patterns of word co-occurrences. By combining manual and network analyses, we provide suggestions for future research on media and its audience effects.

@@ -79,7 +79,7 @@
   weight = 2.9
 
 [[fr.menu.main]]
-  name = "Resources"
+  name = "Ressources"
   identifier = "resources"
   url = "#"
   weight = 3.0
@@ -91,7 +91,7 @@
   weight = 3.1
   
 [[fr.menu.main]]
-  name = "Debriefings"
+  name = "Débriefings"
   parent = "resources"
   url = "#debriefings"
   weight = 3.2
@@ -287,7 +287,7 @@
   weight = 6
 
 [[nl.menu.main]]
-  name = "Social Media & Press"
+  name = "Medijsko središče"
   url = "/social"
   weight = 7
 

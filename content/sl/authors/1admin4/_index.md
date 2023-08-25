@@ -28,6 +28,9 @@ social:
 - icon: envelope
   icon_pack: fa
   link: "mailto:lucacarbone.lc@gmail.com"
+- icon: globe
+  icon_pack: fas
+  link: https://www.lucacarbone.com
 - icon: osf
   icon_pack: ai ai-osf
   link: https://osf.io/r2s8q/

@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Brochure"
+title = "Brošura projekta MIMIc"
 subtitle = ""
 date = "2020-12-07T00:00:00+01:00"
 lastmod = [":fileModTime", ":default"]
