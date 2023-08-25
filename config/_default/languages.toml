@@ -431,7 +431,7 @@
   weight = 6
   
 [[sl.menu.main]]
-  name = "Social Media & Press"
+  name = "Medijsko središče"
   url = "/social"
   weight = 7
 
