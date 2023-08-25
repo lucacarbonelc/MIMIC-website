@@ -8,11 +8,11 @@ lastmod: [":fileModTime", ":default"]
 
 ### 7. oktobra 2023
 
-Assoc. Prof. Laura Vandenbosch presented results from the research conducted within the MIMIc project as part of her invited lecture "". This event was part of the yearly "Child University Day at KU Leuven". More information about the event can be found at this [link](https://www.kuleuven.be/kinderuniversiteit/praktisch).
+Assoc. Prof. Laura Vandenbosch presented results from the research conducted within the MIMIc project as part of the invited lecture titled "Day of the Media Psychology: Discussing challenges and opportunities in an evolving media landscape". This event was part of the yearly "Child University Day at KU Leuven". More information about the event can be found at this [link](https://www.kuleuven.be/kinderuniversiteit/praktisch).
 
 ### 6. oktobra 2023
 
-MIMIc team member Luca Carbone presented results from the research conducted within the MIMIc project as part of the invited lecture "Spotify killed the video stars? Individualization processes in contemporary mainstream music.". This event was part of the event "Pop Talks" organized by the International Association for the Study of Popular Music (IASPM).
+MIMIc team member Luca Carbone presented results from the research conducted within the MIMIc project as part of the invited lecture titled "Spotify killed the video stars? Individualization processes in contemporary mainstream music". This event was part of the event "Pop Talks" organized by the International Association for the Study of Popular Music (IASPM).
 
 ### 24. september 2023
 
