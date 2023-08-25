@@ -8,7 +8,7 @@ lastmod: [":fileModTime", ":default"]
 
 ### 7 October 2023
 
-Assoc. Prof. Laura Vandenbosch presented results from the research conducted within the MIMIc project as part of the invited lecture titled "Day of the Media Psychology: Discussing challenges and opportunities in an evolving media landscape". This event was part of the yearly "Child University Day at KU Leuven". More information about the event can be found at this [link](https://www.kuleuven.be/kinderuniversiteit/praktisch).
+Assoc. Prof. Laura Vandenbosch presented results from the research conducted within the MIMIc project as part of the invited lecture titled "Picture Perfect: Hoe Instagram, Netflix en muziek de identiteit van tieners vormen". This event was part of the yearly "Child University Day at KU Leuven". More information about the event can be found at this [link](https://www.kuleuven.be/kinderuniversiteit/praktisch).
 
 ### 6 October 2023
 
@@ -16,7 +16,7 @@ MIMIc team member Luca Carbone presented results from the research conducted wit
 
 ### 24 September 2023
 
-Assoc. Prof. Laura Vandenbosch presented results from the research conducted within the MIMIc project at the NEFCA Media Psychology event "".
+Assoc. Prof. Laura Vandenbosch presented results from the research conducted within the MIMIc project at the NEFCA Media Psychology event "Day of the Media Psychology: Discussing challenges and opportunities in an evolving media landscape".
 
 ### 24 August 2023
 
