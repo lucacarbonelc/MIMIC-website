@@ -16,7 +16,7 @@ interests:
 - Proximité émotionnelle
 name: Caroline Giraudeau
 organizations:
-role: Psychologie du développement et du vieillissement (U de Tours, FR)
+role: Maître de conférences au Département de psychologie (U de Tours)
 social:
 superuser: true
 user_groups:

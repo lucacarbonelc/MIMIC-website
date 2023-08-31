@@ -6,12 +6,13 @@
 [en]
   languageCode = "en-us"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  title = "Project MIMIc"
 
 ## Uncomment the lines below to configure your website in a second language.
 [fr]
   languageCode = "fr"
   contentDir = "content/fr"
-  title = "MIMIc Project"
+  title = "Project MIMIc"
   
 [[fr.menu.main]]
   name = "Home"
@@ -155,7 +156,7 @@
 [nl]
   languageCode = "nl"
   contentDir = "content/nl"
-  title = "MIMIc Project"
+  title = "Project MIMIc"
   
 [[nl.menu.main]]
   name = "Home"
@@ -299,7 +300,7 @@
 [sl]
   languageCode = "sl"
   contentDir = "content/sl"
-  title = "MIMIc Projekt"
+  title = "Projekt MIMIc"
   
 [[sl.menu.main]]
   name = "Domov"

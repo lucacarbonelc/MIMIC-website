@@ -64,4 +64,4 @@ Finally, we will soon conduct a new study in October 2023 where we will be monit
 
 To find out more about the research, [READ more details in the parents and participants’ section](http://www.projectmimic.eu/parents/).
 
-<a href="/img/poster_SL.pdf" tabindex="-1"><strong>Prenesite plakat tukaj</strong></a>
+<a href="/img/poster_SL.pdf" tabindex="-1"><strong>Prenesite poster tukaj</strong></a>

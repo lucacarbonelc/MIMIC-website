@@ -6,21 +6,21 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
-### 7 October 2023
+### 7. oktober 2023
 
-Assoc. Prof. Laura Vandenbosch presented results from the research conducted within the MIMIc project as part of the invited lecture titled "Picture Perfect: Hoe Instagram, Netflix en muziek de identiteit van tieners vormen". This event was part of the yearly "Child University Day at KU Leuven". More information about the event can be found at this [link](https://www.kuleuven.be/kinderuniversiteit/praktisch).
+Izr. prof. Laura Vandenbosch je v okviru vabljenega predavanja z naslovom "Picture Perfect: Kako Instagram, Netflix in glasba oblikujejo identiteto najstnikov" predstavila rezultate raziskav, opravljenih v okviru projekta MIMIc. Ta dogodek je bil del vsakoletnega "Dneva univerze za otroke na KU Leuven". Več informacij o dogodku je na voljo na tej povezavi. [povezava](https://www.kuleuven.be/kinderuniversiteit/praktisch).
 
-### 6 October 2023
+### 6. oktober 2023
 
-MIMIc team member Luca Carbone presented results from the research conducted within the MIMIc project as part of the invited lecture titled "Spotify killed the video stars? Individualization processes in contemporary mainstream music". This event was part of the event "Pop Talks" organized by the International Association for the Study of Popular Music (IASPM).
+Član ekipe MIMIc Luca Carbone je v okviru vabljenega predavanja z naslovom "Spotify killed the video stars? Procesi individualizacije v sodobni popularni glasbi" predstavil rezultate raziskav, opravljenih v okviru projekta MIMIc. Ta dogodek je bil del dogodka "Pop Talks", ki ga je organiziralo Mednarodno združenje za preučevanje popularne glasbe (IASPM).
 
-### 24 September 2023
+### 24. september 2023
 
-Assoc. Prof. Laura Vandenbosch presented results from the research conducted within the MIMIc project at the NEFCA Media Psychology event "Day of the Media Psychology: Discussing challenges and opportunities in an evolving media landscape".
+Izr. prof. Laura Vandenbosch je predstavila rezultate raziskav, opravljenih v okviru projekta MIMIc, na dogodku Psihologija medijev organizacije NEFCA z naslovom "Dan psihologije medijev: razprava o izzivih in priložnostih v spreminjajoči se medijski raznovrstnosti".
 
-### 24. avgusta 2023
+### 24. avgust 2023
 
-Assoc. Prof. Laura Vandenbosch presented results from the research conducted within the MIMIc project as part of her invited lecture "Digital Media Uses and Adolescents’ Development". This event was part of the event "ENIGMA" organized with school teachers by KU Leuven.
+Izr. prof. Laura Vandenbosch je v okviru vabljenega predavanja "Uporaba digitalnih medijev in razvoj mladostnikov" predstavila rezultate raziskav, ki so bile izvedene v okviru projekta MIMIc. Ta dogodek je bil del dogodka "ENIGMA", ki ga je skupaj s šolskimi učitelji organizirala KU Leuven.
 
 ### 21. april 2023
 
@@ -31,7 +31,7 @@ Ekipa MIMIc je predstavila projekt MIMIc in nekaj prvih rezultatov projekta na r
 
 ### 19. april 2023
 
-Raziskovalca projekta MIMIc Luca Carbone in Laura Vandenbosch sta objavila članek z naslovom “Metaanaliza študij, ki so preučevale vpliv glasbe na prepričanja”. Članek je na voljo na naslednji [povezavi](https://doi.org/10.1177/00936502231163633).
+Raziskovalca projekta MIMIc Luca Carbone in Laura Vandenbosch sta objavila članek z naslovom “Metaanaliza študij, ki so preučevale vpliv glasbe na prepričanja”. Članek je na voljo na naslednji [povezava](https://doi.org/10.1177/00936502231163633).
 
 ### 25. januar 2023
 
@@ -79,7 +79,7 @@ Septembra 2022 smo zaključili s tretjim in obenem zadnjim valom zbiranja podatk
 
 ### 01. september 2022
 
-Raziskovalci projekta MIMIc Jasmina Rosič, Luca Carbone in Laura Vandenbosch so objavili prvi članek projekta MIMIc z naslovom “Pozitivna digitalna komunikacija med mladimi: Razvoj in validacija lestvice digitalnega blagostanja za mladostnike”. Članek je na voljo na naslednji [povezavi](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9474732/).
+Raziskovalci projekta MIMIc Jasmina Rosič, Luca Carbone in Laura Vandenbosch so objavili prvi članek projekta MIMIc z naslovom “Pozitivna digitalna komunikacija med mladimi: Razvoj in validacija lestvice digitalnega blagostanja za mladostnike”. Članek je na voljo na naslednji [povezava](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9474732/).
 
 ### 20. junij 2022
 

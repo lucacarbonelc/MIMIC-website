@@ -16,7 +16,7 @@ interests:
 - Čustvena navezanost
 name: Caroline Giraudeau
 organizations:
-role: Razvojna psihologija in psihologija staranja (U v Toursu, FR)
+role: Predavateljica na Oddelku za psihologijo (U v Toursu)
 social:
 superuser: true
 user_groups:

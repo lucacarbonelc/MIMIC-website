@@ -14,12 +14,12 @@ If you have questions about the organization of the research, you can always con
 • email: mimic.belgium@kuleuven.be,\
 • [website](https://www.kuleuven.be/wieiswie/en/person/00149560).
 
-- **Anaelle Gonzalez** for all *French* related research questions:\
+- **Anaëlle Gonzalez** for all *French* related research questions:\
 • tel: +32 16 19 37 89,\
 • email: mimic.france@kuleuven.be,\
 • [website](https://www.kuleuven.be/wieiswie/en/person/00136069).
 
-- **Jasmina Rosic** for all *Slovenian* related research questions:\
+- **Jasmina Rosič** for all *Slovenian* related research questions:\
 • tel: +32 16 19 47 48, \
 • email: mimic.slovenia@kuleuven.be,\
 • [website](https://www.kuleuven.be/wieiswie/en/person/00142166).

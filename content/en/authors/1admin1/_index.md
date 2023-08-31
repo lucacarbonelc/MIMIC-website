@@ -39,7 +39,7 @@ user_groups:
 - Team
 ---
 
-Starting from 2017, Laura Vandenbosch is an assistant professor at the School for Mass Communication Research (BOF-ZAP research professorship grant). The relationship between media and well-being is the core subject of her research, leading to international publications in several fields including developmental psychology, sexology, body image, social relationships and communication theory.
+Starting from 2023, Laura Vandenbosch is an associate professor at the School for Mass Communication Research (BOF-ZAP research professorship grant). The relationship between media and well-being is the core subject of her research, leading to international publications in several fields including developmental psychology, sexology, body image, social relationships and communication theory.
 
 In 2015 she was elected as the secretary of the Children, Adolescents and Media Division of the International Communication Association (2015-2018). Laura is currently also an editorial board member of ISI-ranked journals Human Communication Research, Journal of Children and Media, and Communications: The European Journal of Communication Research.
 

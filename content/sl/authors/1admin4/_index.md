@@ -10,7 +10,7 @@ education:
   - course: Magister sociologije
     institution: Tilburg University
     year: 2017 - 2019
-  - course: Univerzitetni diplomirani sociologije
+  - course: Univerzitetni diplomirani sociology
     institution: University of Trento
     year: 2014 - 2017
 email: "lucacarbone.lc@gmail.com"
@@ -48,7 +48,7 @@ social:
   link: https://twitter.com/lucacarbone__lc
 superuser: true
 user_groups:
-- Team
+- Ekipa
 ---
 
 Sem doktorski študent na Oddelku za raziskovanje množičnega komuniciranja Univerze v Leuvnu. Moji raziskovalni interesi se nahajajo na presečišču medijskih vplivov, kulturne in kognitivne sociologije. S teoretskega vidika proučujem proces oblikovanja prepričanj s perspektive poosebljanja (embodied perspective) s posebnim poudarkom na kodiranju in shranjevanju veččutnih informacij in jezikovnih dražljajev. To utemeljitev uporabljam za poseben primer družbenih neenakosti in vplivov medijev: Kako posamezniki oblikujejo prepričanja o revščini? Kakšen je odnos med svojim družbenim razredom ter družbenim razredom drugih? Kakšno vlogo imajo mediji pri oblikovanju in ponotranjanju teh prepričanj? Empirično uporabljam kvantitativno metodologijo kot na primer analizo družbenih omrežij (social network analysis), modeliranje strukturnih enačb (structural equation modelling) in računalniško podprto analizo besedil (computational text analysis). Zavzemam se za načela odprte znanosti.

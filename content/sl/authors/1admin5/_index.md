@@ -43,7 +43,7 @@ social:
   link: https://scholar.google.com/citations?user=gxatJzcAAAAJ&hl=sl
 superuser: true
 user_groups:
-- Team
+- Ekipa
 ---
 
 Jasmina Rosič je doktorska študentka na Oddelku za raziskovanje množičnega komuniciranja Katoliške Univerze v Leuvnu. Pod mentorstvom izrednih profesoric Laure Vandenbosch (KU Leuven) in Bojane Lobe (U v Ljubljani) dela na projektu, ki ga financira ERC: ‘Spremenljivost “pokvarljivih idealov”: paradigma za razumevanje učinkov sodobnih medijev na dobrobit otrok in mladostnikov’ (2020–2024). Njeno raziskovanje se osredotoča na razumevanje zmožnosti mladostnikov, da ohranjajo digitalno blaginjo pri vsakodnevnih nalogah. Natančneje, cilj doktorskega projekta je (najprej) razvozlati, kakšno vlogo imajo različni socializacijski akterji (npr. starši) pri vzdrževanju digitalne blaginje, in (drugič) raziskati, kako ranljivi mladostniki vzdržujejo digitalno blaginjo. Pred delom kot doktorska raziskovalka je bila Jasmina Rosič tudi raziskovalka na Inštitutu Republike Slovenije za socialno varstvo in je občasno sodelovala pri izvedbi študijskega programa na Fakulteti za socialno delo Univerze v Ljubljani.

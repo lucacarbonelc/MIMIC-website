@@ -14,7 +14,7 @@ interests:
 - Éthique dans la recherche en ligne
 name: Bojana Lobe
 organizations:
-role: Médias numériques et enfants (U de Ljubljana, SI)
+role: Maître de conférences au Département de Sciences Sociales (U de Ljubljana)
 social:
 superuser: true
 user_groups:

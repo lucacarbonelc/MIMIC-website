@@ -14,7 +14,7 @@ interests:
 - Ethics in online research
 name: Bojana Lobe
 organizations:
-role: Digital media and children (U of Ljubljana, SI)
+role: Assistant professor at the Faculty of Social Sciences (U of Ljubljana)
 social:
 superuser: true
 user_groups:

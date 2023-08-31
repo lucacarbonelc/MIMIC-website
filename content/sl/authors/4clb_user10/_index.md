@@ -13,7 +13,7 @@ interests:
 - Etika v spletnih raziskavah
 name: Bojana Lobe
 organizations:
-role: Digitalni mediji in otroci (U v Ljubljana, SI)
+role: Izredna profesorica na Fakulteti za družbene vede (U v Ljubljani)
 social:
 superuser: true
 user_groups:

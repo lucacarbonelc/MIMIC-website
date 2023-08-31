@@ -41,7 +41,7 @@ social:
   link: https://scholar.google.com/citations?hl=en&user=s_ADE94AAAAJ
 superuser: true
 user_groups:
-- Team
+- Ekipa
 ---
 
 Gaëlle Vanhoffelen je doktorska študentka na Oddelku za raziskovanje množičnega komuniciranja (KU Leuven) pod mentorstvom izredne profesorice Laure Vandenbosch. V svojem doktorskem projektu se osredotoča na odkrivanje povezav med sporočili o uspešnosti v digitalnih medijih, kot so družbena omrežja in televizija, in usmeritvami mladih glede uspešnosti, pri čemer je pozorna na heterogeno kulturno ozadje mladih. Ta projekt je del projekta MIMIc, ki ga financira ERC: ‘Spremenljivost “pokvarljivih idealov”: paradigma za razumevanje učinkov sodobnih medijev na dobrobit otrok in mladostnikov’.

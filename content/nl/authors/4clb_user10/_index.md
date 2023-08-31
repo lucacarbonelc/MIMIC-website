@@ -14,7 +14,7 @@ interests:
 - Ethiek bij online onderzoek
 name: Bojana Lobe
 organizations:
-role: Digitale media en kinderen (U van Ljubljana, SI)
+role: Hoofddocent aan de Faculteit Sociale Wetenschappen (U van Ljubljana)
 social:
 superuser: true
 user_groups:

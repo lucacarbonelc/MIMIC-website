@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ".container img {width: 1%; height: auto;}"
 +++
 
-This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 852317)
+Ta projekt financira Evropski raziskovalni svet (ERC) v okviru programa Evropske unije za raziskave in inovacije Obzorje 2020 (sporazum o dodelitvi sredstev št. 852317).
 
 <p align="center">
   <img src="/img/erc_logo.png">

@@ -16,7 +16,7 @@ interests:
 - Emotionele nabijheid
 name: Caroline Giraudeau
 organizations:
-role: Ontwikkelings- en verouderingspsychologie (U of Tours, FR)
+role: Docent aan de afdeling Psychologie (U van Tours)
 social:
 superuser: true
 user_groups:

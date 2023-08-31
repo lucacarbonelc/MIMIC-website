@@ -70,14 +70,14 @@ lastmod = [":fileModTime", ":default"]
 
 ### Pregled študij
 
-## Belgium: Dr. Laura Vandenbosch (University of Leuven)
+## Belgija: Dr. Laura Vandenbosch (University of Leuven)
 
 {{< youtube p4ZA5jjQJ3Q >}}
 
-## Slovenia: Dr. Bojana Lobe (University of Ljubljana)
+## Slovenija: Dr. Bojana Lobe (University of Ljubljana)
 
 {{< youtube aGJ0T3xQSFk >}}
 
-## France: Dr. Caroline Giraudeau (University of Tours)
+## Francija: Dr. Caroline Giraudeau (University of Tours)
 
 {{< youtube 47qMXhXmL5U >}}

@@ -16,7 +16,7 @@ interests:
 - Emotional Closeness
 name: Caroline Giraudeau
 organizations:
-role: Developmental and aging psychology (U of Tours, FR)
+role: Lecturer at the Department of Psychology (U of Tours)
 social:
 superuser: true
 user_groups:

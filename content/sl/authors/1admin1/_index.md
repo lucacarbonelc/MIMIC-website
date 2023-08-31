@@ -36,7 +36,7 @@ social:
   link: https://orcid.org/0000-0001-6834-8386
 superuser: true
 user_groups:
-- Team
+- Ekipa
 ---
 
 Laura Vandenbosch je od leta 2017 izredna profesorica na Oddelku za raziskovanje množičnega komuniciranja Univerze v Leuvnu, Belgija (BOF-ZAP sredstva za raziskovalno profesuro). Osrednja tema njenega raziskovanja je odnos med mediji in blaginjo, svoja dognanja pa objavlja v številnih mednarodnih revijah iz področja razvojne psihologije, seksologije, telesne podobe, socialnih odnosov in teorije komunikacije.
