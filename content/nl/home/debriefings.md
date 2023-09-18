@@ -69,5 +69,5 @@ lastmod = [":fileModTime", ":default"]
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering debriefings]({{< ref "/debriefings/_index.md" >}}).
+Ontdek snel relevante inhoud door [de debriefings te filteren]({{< ref "/debriefings/_index.md" >}}).
 {{% /alert %}}

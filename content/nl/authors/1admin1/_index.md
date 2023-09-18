@@ -20,7 +20,7 @@ name: Laura Vandenbosch
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00060068"
-role: Professor aan de School for Mass Communication Research
+role: Professor aan de School voor Massacommunicatie Onderzoek
 social:
 - icon: envelope
   icon_pack: fas

@@ -14,7 +14,7 @@ interests:
 - Ethiek bij online onderzoek
 name: Bojana Lobe
 organizations:
-role: Hoofddocent aan de Faculteit Sociale Wetenschappen (U van Ljubljana)
+role: Professor aan de Faculteit Sociale Wetenschappen (U van Ljubljana)
 social:
 superuser: true
 user_groups:

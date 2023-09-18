@@ -68,14 +68,14 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
-## Belgium: Dr. Laura Vandenbosch (University of Leuven)
+## België: Dr. Laura Vandenbosch (KU Leuven)
 
 {{< youtube p4ZA5jjQJ3Q >}}
 
-## Slovenia: Dr. Bojana Lobe (University of Ljubljana)
+## Slovenië: Dr. Bojana Lobe (Universiteit van Ljubljana)
 
 {{< youtube aGJ0T3xQSFk >}}
 
-## France: Dr. Caroline Giraudeau (University of Tours)
+## Frankrijk: Dr. Caroline Giraudeau (Universiteit van Tours)
 
 {{< youtube 47qMXhXmL5U >}}

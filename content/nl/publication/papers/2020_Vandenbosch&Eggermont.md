@@ -7,7 +7,7 @@ date: "2020-06-29T00:00:00Z"
 doi: "10.1093/ct/qtz041"
 featured: false
 projects: []
-publication: 'Communication Theory, qtz041'
+publication: 'Communication Theory'
 publication_short: ""
 publication_types:
 - "2"

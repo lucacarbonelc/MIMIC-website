@@ -6,34 +6,34 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
-### 7 October 2023
+### 7 octobre 2023
 
-Assoc. Prof. Laura Vandenbosch presented results from the research conducted within the MIMIc project as part of the invited lecture titled "Picture Perfect: Hoe Instagram, Netflix en muziek de identiteit van tieners vormen". This event was part of the yearly "Child University Day at KU Leuven". More information about the event can be found at this [link](https://www.kuleuven.be/kinderuniversiteit/praktisch).
+La Maître de Conférence Laura Vandenbosch a été invitée à présenter les résultats des études menées dans le cadre du projet MIMIc lors de la conférence intitulée « Image parfaite : Comment Instagram, Netflix et la musique façonnent l’identité des adolescents ». Cet événement faisait partie de la « Journée de l’Université pour les Enfants à KU Leuven ». Vous pouvez trouver plus d’informations sur l’événement à ce lien.
 
-### 6 October 2023
+### 6 octobre 2023
 
-MIMIc team member Luca Carbone presented results from the research conducted within the MIMIc project as part of the invited lecture titled "Spotify killed the video stars? Individualization processes in contemporary mainstream music". This event was part of the event "Pop Talks" organized by the International Association for the Study of Popular Music (IASPM).
+Luca Carbone, membre de l’équipe MIMIc, a été invité à présenter les résultats d’une étude du projet MIMIc lors de la conférence intitulée « Spotify a-t-il tué les stars de la vidéo ? Processus d’individualisation dans la musique populaire contemporaine ». Cette session faisait partie de l’événement « Pop Talks » organisé par l’Association Internationale pour l’Étude de la Musique Populaire (IASPM).
 
-### 24 September 2023
+### 24 septembre 2023
 
-Assoc. Prof. Laura Vandenbosch presented results from the research conducted within the MIMIc project at the NEFCA Media Psychology event "Day of the Media Psychology: Discussing challenges and opportunities in an evolving media landscape".
+La Maître de Conférence Laura Vandenbosch a présenté les résultats du projet MIMIc lors de l’événement de psychologie des médias NEFCA intitulé « Journée de la Psychologie des Médias : Discussion des défis et des opportunités dans un paysage médiatique en évolution ».
 
-### 24 August 2023
+### 24 août 2023
 
-Assoc. Prof. Laura Vandenbosch presented results from the research conducted within the MIMIc project as part of her invited lecture "Digital Media Uses and Adolescents’ Development". This event was part of the event "ENIGMA" organized with school teachers by KU Leuven.
+La Maître de Conférence Laura Vandenbosch a été invitée à présenter les résultats du projet MIMIc lors de sa conférence invitée intitulée « Usages des médias numériques et développement des adolescents ». Cette session faisait partie de l’événement « ENIGMA » organisé par KU Leuven pour des enseignants.
 
-### 21 April 2023
+### 21 avril 2023
 
 L'équipe MIMIc a présenté le projet et ses diverses études à la Faculté des sciences sociales de l’Université de Leuven lors de la Journée de la Recherche. Nous présentons ci-dessous l'affiche qui a été utilisée pour cette journée, ainsi qu'une photo joyeuse de l'équipe !
 
 ![](/img/rd1.png)
 ![](/img/rd2.png)
 
-### 19 April 2023
+### 19 avril 2023
 
 Les membres de MIMIc Luca Carbone et Laura Vandenbosch ont publié un article intitulé "Une méta-analyse des études examinant l'effet de la musique sur les croyances". L'article est disponible via ce [lien](https://doi.org/10.1177/00936502231163633).
 
-### 25 January 2023
+### 25 janvier 2023
 
 Les membres de MIMIc Anaëlle Gonzalez, Gaëlle Vanhoffelen, Jasmina Rosič et Luca Carbone présenteront bientôt de nouvelles recherches issues de leurs thèses lors de deux conférences, le "Etmaal van de Communicatiewetenschap" (février 2023) et le "73e congrès annuel de l'Association internationale de communication (ICA)". Ci-dessous, vous pouvez lire les titres et les résumés des travaux qu'ils présenteront.
 
