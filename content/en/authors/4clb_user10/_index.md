@@ -14,7 +14,7 @@ interests:
 - Ethics in online research
 name: Bojana Lobe
 organizations:
-role: Assistant professor at the Faculty of Social Sciences (U of Ljubljana)
+role: Associate professor at the Faculty of Social Sciences (U of Ljubljana)
 social:
 superuser: true
 user_groups:

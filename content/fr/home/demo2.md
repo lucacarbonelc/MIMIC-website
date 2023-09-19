@@ -52,6 +52,10 @@ subtitle = "---"
 
 **Projet MIMIc : Un projet pour comprendre le rôle des médias dans la vie des adolescent(e)s en 2020-2025**
 
+{{< video library = "1" src = "ERC.mp4" controls = "yes" >}}
+
+<br>
+
 “Do young people mimic the lifestyles they encounter on their social media feed and in entertainment fiction?” is at the core of the research conducted by the MIMIc team in Belgium, France and Slovenia across more than 2500 adolescents. The project studies so-called "malleable ideals", namely ideals presented in the content of adolescents' social media feed and entertainment products such as music lyrics and TV-series. This content is defined as "malleable" because presented as within reach to anyone committed enough in their pursuit. This refers for example to appearance ideals, to school and professional aspirations, to popularity with peers, and to success in love. To build this knowledge, we are conducting various types of studies.
 
 In a first set of studies, we analysed the content of entertainment media, present in popular music, in the social media posts of celebrities and influencers. In this research, we analysed the content of 4117 popular music lyrics and found that artists tend to showcase their luxurious lifestyles, such as showing their expensive cars, and to depict how hard they work to obtain such expensive goods. Moreover, we found that celebrities, influencers and athletes share the political content they care about, and portray the (moral) values they find important in life. These values often revolve around caring for and being loyal to their loved ones, achieving many successes and engaging in fun activities.
