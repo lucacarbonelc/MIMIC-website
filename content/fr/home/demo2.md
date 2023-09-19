@@ -52,7 +52,8 @@ subtitle = "---"
 
 **Projet MIMIc : Un projet pour comprendre le rôle des médias dans la vie des adolescent(e)s en 2020-2025**
 
-{{< video library = "1" src = "ERC.mp4" controls = "yes" >}}
+{{< video library = "1" src = "ERC.mp4" controls = "yes" autoplay = "true" >}}
+ERC interview by Prof. Laura Vandenbosch
 
 <br>
 

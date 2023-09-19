@@ -52,7 +52,8 @@ subtitle = "---"
 
 **Project MIMIc: A project to understand the role of media in boys’ and girls’ lives, 2020-2025**
 
-{{< video library = "1" src = "ERC.mp4" controls = "yes" >}}
+{{< video library = "1" src = "ERC.mp4" controls = "yes" autoplay = "true" >}}
+ERC interview by Prof. Laura Vandenbosch
 
 <br>
 
