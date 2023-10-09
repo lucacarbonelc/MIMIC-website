@@ -75,6 +75,7 @@ lastmod = [":fileModTime", ":default"]
 1.	<b>KAKO AKTIVIRATI APLIKACIJO SCREEN TIME?</b> (aktiviraj jo pred sodelovanjem v študiji)
 
 Odpri nastavitve (“<b>Settings</b>”) ![](/img/diary/sl/diarygear.png) > izberi “<b>Screen Time</b>”
+
 Izberi “<b>App & Website Activity</b>”, nato izberi “<b>Turn On App & Website Activity</b>”.
 
 ![](/img/diary/sl/diary17.png)

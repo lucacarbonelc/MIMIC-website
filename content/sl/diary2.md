@@ -99,6 +99,7 @@ Naloži aplikacijo “Digitalno dobro počutje” (ali “Digitalna dobrobit”)
 Z aplikacijo Digitalno dobro počutje ugotoviš, koliko časa uporabljaš telefon. V vprašalniku zapiši čas, ki si ga v zadnjih 7 dneh preživel/-a na pametnem telefonu.
 
 To storiš tako, da odpreš “<b>Nastavitve</b>”
+
 Izberi “<b>Digitalno dobro počutje in starševski nadzor</b>”. Odpre se prikaz uporabe telefona v današnjem dnevu.
 
 ![](/img/diary/sl/diary11.jpg)
