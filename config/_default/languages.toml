@@ -398,10 +398,28 @@
   weight = 3.4
 
 [[sl.menu.main]]
-  name = "Študija družbenih omrežij"
+  name = "Diary - Ethica"
   parent = "resources"
-  url = "/data_donation"
+  url = "/diary1"
   weight = 3.5
+
+[[sl.menu.main]]
+  name = "Diary - Iphone"
+  parent = "resources"
+  url = "/diary1"
+  weight = 3.6
+
+[[sl.menu.main]]
+  name = "Diary - Android"
+  parent = "resources"
+  url = "/diary1"
+  weight = 3.7
+
+[[sl.menu.main]]
+  name = "Diary - Screenshots Social Media"
+  parent = "resources"
+  url = "/diary1"
+  weight = 3.8
 
 [[sl.menu.main]]
   name = "Šole"
