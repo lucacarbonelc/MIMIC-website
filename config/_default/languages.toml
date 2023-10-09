@@ -398,25 +398,25 @@
   weight = 3.4
 
 [[sl.menu.main]]
-  name = "Diary - Ethica"
+  name = "Dnevnik - Ethica"
   parent = "resources"
   url = "/diary1"
   weight = 3.5
 
 [[sl.menu.main]]
-  name = "Diary - Iphone"
+  name = "Dnevnik - Iphone"
   parent = "resources"
   url = "/diary1"
   weight = 3.6
 
 [[sl.menu.main]]
-  name = "Diary - Android"
+  name = "Dnevnik - Android"
   parent = "resources"
   url = "/diary1"
   weight = 3.7
 
 [[sl.menu.main]]
-  name = "Diary - Screenshots Social Media"
+  name = "Dnevnik - Posnetek zaslona"
   parent = "resources"
   url = "/diary1"
   weight = 3.8
