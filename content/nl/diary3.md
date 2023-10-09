@@ -84,7 +84,7 @@ Indien je de app ‘Digitaal welzijn’ nog niet geïnstalleerd hebt, gelieve de
 
 ![](/img/diary/nl/diary17.png)
 
-3.	Druk op de drie puntjes ![](/img/diary/nl/diarydots.png) in de rechterbovenhoek.
+3.	Druk op de drie puntjes ![](/img/diary/nl/diarydots.jpg) in de rechterbovenhoek.
 
 4.	Druk op <b>Instellingen</b>.
 

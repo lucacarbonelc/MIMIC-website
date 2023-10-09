@@ -87,11 +87,11 @@ Ga naar de Google Play Store (Android) of de App Store (iPhone) en installeer/do
 
 Open de app en druk op ‘<b>Inschrijven</b>’ om een account aan te maken.
 
-![](/img/diary/nl/diary3.png)
+![](/img/diary/nl/diary3.jpg)
 
 Maak een account aan door je naam, je emailadres en een wachtwoord in te vullen.
 
-![](/img/diary/nl/diary4.png)
+![](/img/diary/nl/diary4.jpg)
 
 Ga door de introductiepagina’s door telkens (drie keer) op ‘<b>volgende</b>’ te drukken. Druk op ‘<b>Start</b>’ om je deelname aan de studie te beginnen.
 
