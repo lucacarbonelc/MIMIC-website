@@ -254,10 +254,28 @@
   weight = 3.4
 
 [[nl.menu.main]]
-  name = "Gegevensdonatie Studie"
+  name = "Dagboekstudie 1 – Ethica"
   parent = "resources"
-  url = "/data_donation"
+  url = "/diary1"
   weight = 3.5
+
+[[nl.menu.main]]
+  name = "Dagboekstudie 2 – schermtijd iPhone"
+  parent = "resources"
+  url = "/diary3"
+  weight = 3.6
+
+[[nl.menu.main]]
+  name = "Dagboekstudie 3 – schermtijd Android"
+  parent = "resources"
+  url = "/diary2"
+  weight = 3.7
+
+[[nl.menu.main]]
+  name = "Dagboekstudie 4 – screenshots"
+  parent = "resources"
+  url = "/diary4"
+  weight = 3.8
 
 [[nl.menu.main]]
   name = "Scholen"
