@@ -262,13 +262,13 @@
 [[nl.menu.main]]
   name = "Dagboekstudie 2 – schermtijd iPhone"
   parent = "resources"
-  url = "/diary3"
+  url = "/diary2"
   weight = 3.6
 
 [[nl.menu.main]]
   name = "Dagboekstudie 3 – schermtijd Android"
   parent = "resources"
-  url = "/diary2"
+  url = "/diary3"
   weight = 3.7
 
 [[nl.menu.main]]

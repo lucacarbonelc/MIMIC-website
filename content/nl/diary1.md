@@ -75,15 +75,7 @@ lastmod = [":fileModTime", ":default"]
 Via deze app zal je de dagelijkse korte vragenlijsten ontvangen.
 Ga naar de Google Play Store (Android) of de App Store (iPhone) en installeer/download de Ethica applicatie:
 
-<figure>
-   <img src="/img/diary/nl/diary1.png">
-   <figcaption>Iphone</figcaption>
-</figure>
-
-<figure>
-   <img src="/img/diary/nl/diary2.png">
-   <figcaption>Android</figcaption>
-</figure>
+![](/img/diary/nl/diary1.png)
 
 Open de app en druk op ‘<b>Inschrijven</b>’ om een account aan te maken.
 

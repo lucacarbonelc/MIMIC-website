@@ -74,7 +74,7 @@ lastmod = [":fileModTime", ":default"]
 
 <u>1.	Activatie van de Digitale Welzijns-toepassing* (gelieve dit voor de start van de studie te doen)</u>
 
-Indien je de app ‘Digitaal welzijn’ nog niet geïnstalleerd hebt, gelieve deze dan via de <u>Play Store van Google</u> te downloaden.
+Indien je de app ‘Digitaal welzijn’ nog niet geïnstalleerd hebt, gelieve deze dan via de [Play Store van Google](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&pcampaignid=web_share) te downloaden.
 
 *De verschillende stappen om deze te activeren, kunnen mogelijks lichtelijk verschillen bij elke smartphone.
 
