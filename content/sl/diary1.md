@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Dnevnik - Navodila"
+title = "Študija s kratkimi dnevnimi vprašalniki"
 subtitle = ""
 date = "2021-02-10T00:00:00+01:00"
 lastmod = [":fileModTime", ":default"]
@@ -68,11 +68,15 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
-### Navodila za uporabo aplikacije Ethica
+<font size="6">
+<b><center>Navodila za uporabo aplikacije Ethica</center></b>
+</font>
 
 Prek te aplikacije boš vsak dan prejel/-a vprašalnik.
 
-Prenesi aplikacijo in ustvari račun.
+<font size="5">
+<u><b><center>Prenesi aplikacijo in ustvari račun</center></b></u>
+</font>
 
 Obišči aplkacijo Google Play Store (Android) ali App Store (iPhone) in namesti aplikacijo Ethica.
 

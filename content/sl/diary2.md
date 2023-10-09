@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Dnevnik - Navodila"
+title = "Študija s kratkimi dnevnimi vprašalniki"
 subtitle = ""
 date = "2021-02-10T00:00:00+01:00"
 lastmod = [":fileModTime", ":default"]
@@ -68,39 +68,42 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
-### Uporabniki/-ce telefonov z operacijskim sistemom Android
+<font size="6">
+<b><center>Uporabniki/-ce telefonov z operacijskim sistemom Android</center></b>
+</font>
 
-1.	KAKO AKTIVIRATI APLIKACIJO DIGITALNO DOBRO POČUTJE (DIGITALNA DOBROBIT)? (aktiviraj jo pred sodelovanjem v študiji)
+<center><u><b>1.	KAKO AKTIVIRATI APLIKACIJO DIGITALNO DOBRO POČUTJE (DIGITALNA DOBROBIT)?</b>(aktiviraj jo pred sodelovanjem v študiji)</u></center>
 
 Naloži aplikacijo “Digitalno dobro počutje” (ali “Digitalna dobrobit”), če ta še ni naložena na tvojem telefonu:
 
-https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&pcampaignid=web_share
+[https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&pcampaignid=web_share](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&pcampaignid=web_share)
 
 *Koraki aktivacije se lahko nekoliko razlikujejo od telefona do telefona.
-1.	Odpri “Nastavitve”.
-2.	Podrsaj navzdol in izberi “Digitalno dobro počutje in starševski nadzor”. 
+1.	Odpri “<b>Nastavitve</b>”.
+2.	Podrsaj navzdol in izberi “<b>Digitalno dobro počutje in starševski nadzor</b>”. 
 
 ![](/img/diary/sl/diary7.jpg)
 
 3.	Dotakni se ikone za več možnosti desno zgoraj. ![](/img/diary/sl/diary8.jpg)
-4.	Izberi “Nastavitve”.
-5.	Izberi “Omogočanje dostopa do podatkov o uporabi”.
+4.	Izberi “<b>Nastavitve</b>”.
+5.	Izberi “<b>Omogočanje dostopa do podatkov o uporabi</b>”.
 
 ![](/img/diary/sl/diary9.png)
 
-6.	Izberi “Digitalno dobro počutje” in aktiviraj dostop do podatkov o uporabi za to aplikacijo.
+6.	Izberi “<b>Digitalno dobro počutje</b>” in aktiviraj dostop do podatkov o uporabi za to aplikacijo.
 
 ![](/img/diary/sl/diary10.png)
 
-2.	KAKO NAJTI ČAS UPORABE PAMETNEGA TELEFONA?
+<center><u><b>2.	KAKO NAJTI ČAS UPORABE PAMETNEGA TELEFONA?</b></u></center>
 
 Z aplikacijo Digitalno dobro počutje ugotoviš, koliko časa uporabljaš telefon. V vprašalniku zapiši čas, ki si ga v zadnjih 7 dneh preživel/-a na pametnem telefonu.
-To storiš tako, da odpreš “Nastavitve”
-Izberi “Digitalno dobro počutje in starševski nadzor”. Odpre se prikaz uporabe telefona v današnjem dnevu.
+
+To storiš tako, da odpreš “<b>Nastavitve</b>”
+Izberi “<b>Digitalno dobro počutje in starševski nadzor</b>”. Odpre se prikaz uporabe telefona v današnjem dnevu.
 
 ![](/img/diary/sl/diary11.jpg)
 
-Nato tapni na “grafikon” s podatki o uporabi telefona. Prikažejo se tedenski podatki.
+Nato tapni na “<b>grafikon</b>” s podatki o uporabi telefona. Prikažejo se tedenski podatki.
 
 ![](/img/diary/sl/diary12.jpg)
 
@@ -108,19 +111,19 @@ V polja spodaj vpiši število ur in minut uporabe od ponedeljka do nedelje tega
 
 ![](/img/diary/sl/diary13.jpg)
 
-3.	KAKO NALOŽITI POSNETEK ZASLONA V ANKETO?
+<center><u><b>3.	KAKO NALOŽITI POSNETEK ZASLONA V ANKETO?</b></u></center>
 
-Da naložiš posnetek zaslona, v vprašalniku najprej izberi povezavo z naslovom Klikni tukaj, da naložiš Instagramovo biografijo. Ta povezava bo odprla nov zavihek na telefonu.
+Da naložiš posnetek zaslona, v vprašalniku najprej izberi povezavo z naslovom <b>Klikni tukaj, da naložiš Instagramovo biografijo</b>. Ta povezava bo odprla nov zavihek na telefonu.
 
 ![](/img/diary/sl/diary14.png)
 
 Na tem zaslonu se moraš pomakniti nekoliko v desno stran zaslona.
 
-Ko veš, kateri posnetek zaslona naložiti, izberi "Select files" in nato izberi "Photo Library". To te bo pripeljalo do mape s fotografijami v telefonu. Tu poišči in izberi ustrezen posnetek zaslona.
+Ko veš, kateri posnetek zaslona naložiti, izberi "<b>Select files</b>" in nato izberi "<b>Photo Library</b>". To te bo pripeljalo do mape s fotografijami v telefonu. Tu poišči in izberi ustrezen posnetek zaslona.
 
-Če se zmotiš in izbereš napačen posnetek zaslona, to lahko prekličeš. Ko izbereš posnetek zaslona, lahko še enkrat preveriš, ali je ustrezen, tako da izbereš "Show Selected (1)" , in če je pravilen, izberi "Done".
+Če se zmotiš in izbereš napačen posnetek zaslona, to lahko prekličeš. Ko izbereš posnetek zaslona, lahko še enkrat preveriš, ali je ustrezen, tako da izbereš "<b>Show Selected (1)</b>" , in če je pravilen, izberi "<b>Done</b>".
 
-Ko izbereš ustrezen posnetek zaslona, izberi "Add" v zgornjem desnem kotu.
+Ko izbereš ustrezen posnetek zaslona, izberi "<b>Add</b>" v zgornjem desnem kotu.
 
 ![](/img/diary/sl/diary15.png)
 

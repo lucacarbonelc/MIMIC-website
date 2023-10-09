@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Dnevnik - Navodila"
+title = "Študija s kratkimi dnevnimi vprašalniki"
 subtitle = ""
 date = "2021-02-10T00:00:00+01:00"
 lastmod = [":fileModTime", ":default"]
@@ -68,11 +68,13 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
-### Kako narediti posnetek zaslona za študijo z dnevnimi vprašalniki?
+<font size="6">
+<b><center>Kako narediti posnetek zaslona za študijo z dnevnimi vprašalniki?</center></b>
+</font>
 
 Najlepša hvala za sodelovanje v tej študiji!
 
-Če si danes nekaj objavil/-a na družbenih omrežjih, prosimo, naredi posnetek zaslona te objave in ga naloži v vprašalnik.
+Če si danes nekaj objavil/-a na družbenih omrežjih, prosimo, <b>naredi posnetek zaslona te objave</b> in <b>ga naloži v vprašalnik</b>.
 
 Če si objavil/-a več kot eno objavo, naloži najbolj javno objavo. To je objava, ki jo je videlo največ prijateljev/sledilcev. Izbereš lahko objavo iz enega od svojih profilov v družbenih omrežij (npr. Instagram, TikTok, Snapchat, BeReal ...).
 
@@ -80,10 +82,10 @@ Najlepša hvala za sodelovanje v tej študiji!
 
 Ta posnetek zaslona bomo videli samo sodelujoči raziskovalci in ga ne bo videl nihče drug (npr. tvoji učitelji ali starši). 
 
-Kako narediti posnetek zaslona na iPhonu?
+Kako narediti posnetek zaslona na <b>iPhonu</b>?
 
 ![](/img/diary/sl/diary25.png)
 
-Kako narediti posnetek zaslona na Androidu?
+Kako narediti posnetek zaslona na <b>Androidu</b>?
 
 ![](/img/diary/sl/diary26.png)

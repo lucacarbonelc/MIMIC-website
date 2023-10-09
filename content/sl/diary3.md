@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Dnevnik - Navodila"
+title = "Študija s kratkimi dnevnimi vprašalniki"
 subtitle = ""
 date = "2021-02-10T00:00:00+01:00"
 lastmod = [":fileModTime", ":default"]
@@ -68,47 +68,49 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
-### Uporabniki/-ce iPhone telefonov
+<font size="6">
+<b><center>Uporabniki/-ce iPhone telefonov</center></b>
+</font>
 
-1.	KAKO AKTIVIRATI APLIKACIJO SCREEN TIME? (aktiviraj jo pred sodelovanjem v študiji)
+1.	<b>KAKO AKTIVIRATI APLIKACIJO SCREEN TIME?</b> (aktiviraj jo pred sodelovanjem v študiji)
 
-Odpri nastavitve (“Settings”) > izberi “Screen Time”
-Izberi “App & Website Activity”, nato izberi “Turn On App & Website Activity”.
+Odpri nastavitve (“<b>Settings</b>”) ![](/img/diary/sl/diarygear.png) > izberi “<b>Screen Time</b>”
+Izberi “<b>App & Website Activity</b>”, nato izberi “<b>Turn On App & Website Activity</b>”.
 
 ![](/img/diary/sl/diary17.png)
 
-Izberi “Turn On Screen Time”. Preberi informacije in izberi nadaljuj (“Continue”). Nato se pojavi vprašanje, ali je ta naprava namenjena tebi ali tvojemu otroku. Izberi “This is My iPhone.”
+Izberi “<b>Turn On Screen Time</b>”. Preberi informacije in izberi nadaljuj (“<b>Continue</b>”). Nato se pojavi vprašanje, ali je ta naprava namenjena tebi ali tvojemu otroku. Izberi “<b>This is My iPhone.</b>”
 
 ![](/img/diary/sl/diary18.png)
 
-2.	KAKO NAJTI ČAS UPORABE PAMETNEGA TELEFONA?
+2.	<b>KAKO NAJTI ČAS UPORABE PAMETNEGA TELEFONA?</b>
 
 Z iPhonom lahko preko aplikacije Screen Time ugotoviš, koliko časa uporabljaš telefon. V vprašalniku zapiši čas, ki si ga v zadnjem tednu preživel/-a na pametnem telefonu.
 
-To storiš tako, da odpreš nastavitve “Settings”   > in izbereš Screen Time 
+To storiš tako, da odpreš nastavitve “<b>Settings</b>” ![](/img/diary/sl/diarygear.png) > in izbereš <b>Screen Time</b>
 Če je aplikacija Screen time aktivirana, se prikaže dnevno povprečje časa na zaslonu. 
 
 ![](/img/diary/sl/diary19.png)
 
-Zdaj izberi “See All Activity”
+Zdaj izberi “<b>See All Activity</b>”
 
 ![](/img/diary/sl/diary20.png)
 
-Izberi “Week” in v polji spodaj vpiši število ur in minut, ki so prikazane v aplikaciji pod “Total Screen Time.”
+Izberi “<b>Week</b>” in v polji spodaj vpiši število ur in minut, ki so prikazane v aplikaciji pod “<b>Total Screen Time.</b>”
 
 ![](/img/diary/sl/diary21.png)
 
-3.	KAKO NALOŽITI POSNETEK ZASLONA V ANKETO?
+3.	<b>KAKO NALOŽITI POSNETEK ZASLONA V ANKETO?</b>
 
-Da naložiš posnetek zaslona, v vprašalniku najprej izberi povezavo z naslovom “Klikni tukaj, da naložiš Instagramovo biografijo”. Ta povezava bo odprla nov zavihek na telefonu.
+Da naložiš posnetek zaslona, v vprašalniku najprej izberi povezavo z naslovom “<b>Klikni tukaj, da naložiš Instagramovo biografijo</b>”. Ta povezava bo odprla nov zavihek na telefonu.
 
 ![](/img/diary/sl/diary22.png)
 
 Na tem zaslonu se moraš pomakniti nekoliko v desno stran zaslona.
 
-Ko veš, kateri posnetek zaslona naložiti, izberi "Select files" in nato izberi "Photo Library". To te bo pripeljalo do mape s fotografijami v telefonu. Tu poišči in izberi ustrezen posnetek zaslona.
+Ko veš, kateri posnetek zaslona naložiti, izberi "<b>Select files</b>" in nato izberi "<b>Photo Library</b>". To te bo pripeljalo do mape s fotografijami v telefonu. Tu poišči in izberi ustrezen posnetek zaslona.
 
-Ko izbereš ustrezen posnetek zaslona, izberi "Add" v zgornjem desnem kotu.
+Ko izbereš ustrezen posnetek zaslona, izberi "<b>Add</b>" v zgornjem desnem kotu.
 
 ![](/img/diary/sl/diary23.png)
 
