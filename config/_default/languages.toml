@@ -404,13 +404,13 @@
   weight = 3.5
 
 [[sl.menu.main]]
-  name = "Dnevni vprašalniki 3 - Iphone"
+  name = "Dnevni vprašalniki 2 - Iphone"
   parent = "resources"
   url = "/diary3"
   weight = 3.6
 
 [[sl.menu.main]]
-  name = "Dnevni vprašalniki 2 - Android"
+  name = "Dnevni vprašalniki 3 - Android"
   parent = "resources"
   url = "/diary2"
   weight = 3.7
