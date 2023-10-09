@@ -406,19 +406,19 @@
 [[sl.menu.main]]
   name = "Dnevnik - Iphone"
   parent = "resources"
-  url = "/diary1"
+  url = "/diary2"
   weight = 3.6
 
 [[sl.menu.main]]
   name = "Dnevnik - Android"
   parent = "resources"
-  url = "/diary1"
+  url = "/diary3"
   weight = 3.7
 
 [[sl.menu.main]]
   name = "Dnevnik - Posnetek zaslona"
   parent = "resources"
-  url = "/diary1"
+  url = "/diary4"
   weight = 3.8
 
 [[sl.menu.main]]
