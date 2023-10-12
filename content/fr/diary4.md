@@ -84,8 +84,8 @@ Pour information, cette capture d'écran ne sera visible que pour les chercheurs
 
 <center>Comment prendre une capture d’écran sur <b>iPhone</b> ?</center>
 
-![](/img/diary/nl/diary23.png)
+![](/img/diary/fr/diary23.png)
 
 <center>Comment prendre une capture d’écran sur <b>Android?</b></center>
 
-![](/img/diary/nl/diary24.png)
+![](/img/diary/fr/diary24.png)
