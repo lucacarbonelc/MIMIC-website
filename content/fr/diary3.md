@@ -114,7 +114,7 @@ Chaque petit graphique représente le temps d’écran d’un jour de la semaine
 
 Merci de faire une <b>capture d’écran de ton temps d’écran du dernier jour</b> et de télécharger cette capture d’écran à l’endroit indiqué sur le questionnaire.
 
-<b><u><center>3. COMMENT TÉLÉCHARGER TES CAPTURES D’ÉCRAN ?<u><center></b>
+<b><u><center>3. COMMENT TÉLÉCHARGER TES CAPTURES D’ÉCRAN ?</u></center></b>
 
 Pour télécharger une capture d'écran, appuie d’abord sur le lien intitulé [<b>Clique ici pour télécharger</b>] dans le questionnaire. Ce lien ouvrira un nouvel onglet sur ton téléphone.
 
