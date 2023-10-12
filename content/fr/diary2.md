@@ -84,7 +84,7 @@ Lis les informations sur l’écran. Il te sera demandé si cet iPhone est le ti
 
 ![](/img/diary/fr/diary8.png)
 
-<u><b><center>2.	OÙ TROUVER LE RÉSUMÉ DE MON TEMPS D’ÉCRAN DE LA SEMAINE ?<b><center></u>
+<u><b><center>2.	OÙ TROUVER LE RÉSUMÉ DE MON TEMPS D’ÉCRAN DE LA SEMAINE ?</b><center></u>
 Les iPhones te permettent de consulter combien de temps tu as passé sur ton téléphone via la fonction Temps d’écran. Lors du questionnaire, indique combien de temps tu as passé sur ton téléphone la semaine dernière. 
 
 Accède à Réglages ![](/img/diary/fr/diarygear.png) > <b>Temps d’écran</b>.
