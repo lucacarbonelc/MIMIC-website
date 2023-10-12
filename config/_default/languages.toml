@@ -110,25 +110,25 @@
   weight = 3.4
 
 [[fr.menu.main]]
-  name = "Étude de journal 1 – Ethica"
+  name = "Questionnaire journalier 1 – Ethica"
   parent = "resources"
   url = "/diary1"
   weight = 3.5
 
 [[fr.menu.main]]
-  name = "Étude de journal 2 – instructions iPhone"
+  name = "Questionnaire journalier 2 – instructions iPhone"
   parent = "resources"
   url = "/diary2"
   weight = 3.6
 
 [[fr.menu.main]]
-  name = "Étude de journal 3 – instructions Android"
+  name = "Questionnaire journalier 3 – instructions Android"
   parent = "resources"
   url = "/diary3"
   weight = 3.7
 
 [[fr.menu.main]]
-  name = "Étude de journal 4 – screenshots"
+  name = "Questionnaire journalier 4 – captures d’écran"
   parent = "resources"
   url = "/diary4"
   weight = 3.8

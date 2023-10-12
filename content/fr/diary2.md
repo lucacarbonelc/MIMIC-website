@@ -74,7 +74,7 @@ lastmod = [":fileModTime", ":default"]
 
 <u>1.	<b>ACTIVATION DE LA FONCTION ‘TEMPS D’ÉCRAN’</b> (merci d’activer la fonction avant le début de l’étude)</u>
 
-Accède à <b>Réglages</b> ![](/img/diary/fr/diarygear.png) > <b>Temps d’écran</b>
+Accède à <b>Réglages/Paramètres</b> > <b>Temps d’écran</b>
 
 Clique sur « <b>Activité dans les apps et sur les sites web</b> », puis sur « <b>Activer Activité dans les apps et sur les sites web</b> » (IOS 17). Il est possible que tu n’aies pas la fonction « Activité dans les apps et sur les sites web », dans ce cas, appuie sur « <b>Activer temps d’écran</b> » directement (IOS 16).
 
@@ -87,7 +87,7 @@ Lis les informations sur l’écran. Il te sera demandé si cet iPhone est le ti
 <u><b><center>2.	OÙ TROUVER LE RÉSUMÉ DE MON TEMPS D’ÉCRAN DE LA SEMAINE ?</b></center></u>
 Les iPhones te permettent de consulter combien de temps tu as passé sur ton téléphone via la fonction Temps d’écran. Lors du questionnaire, indique combien de temps tu as passé sur ton téléphone la semaine dernière. 
 
-Accède à Réglages ![](/img/diary/fr/diarygear.png) > <b>Temps d’écran</b>.
+Accède à <b>Réglages/Paramètres</b> > <b>Temps d’écran</b>.
 
 Un résumé du temps d’écran d’aujourd’hui s’affiche si la fonction est activée.
 

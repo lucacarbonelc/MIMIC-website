@@ -80,11 +80,11 @@ Installe l’application <b>Bien-Être Numérique</b> si tu ne l’as pas déjà
 
 1.	Ouvre l’application <b>Paramètres</b>.
 
-2.	Fais défiler vers le bas et app uie sur <b>Bien-être numérique et contrôles parentaux</b>. 
+2.	Fais défiler vers le bas et appuie sur <b>Bien-être numérique et contrôles parentaux</b>. 
 
 ![](/img/diary/fr/diary15.png)
 
-3.	Appuie sur le <b>menu à trois points</b> ![](/img/diary/fr/diarydots.jpg) dans le coin en haut à droite.
+3.	Appuie sur le <b>menu à trois points</b> dans le coin en haut à droite. ![](/img/diary/fr/diarydots.jpg)
 
 4.	Appuie sur <b>Paramètres</b>.
 
