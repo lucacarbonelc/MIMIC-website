@@ -84,7 +84,7 @@ Installe l’application <b>Bien-Être Numérique</b> si tu ne l’as pas déjà
 
 ![](/img/diary/fr/diary15.png)
 
-3.	Appuie sur le <b>menu à trois points</b> ![](/img/diary/fr/diarydots.png) dans le coin en haut à droite.
+3.	Appuie sur le <b>menu à trois points</b> ![](/img/diary/fr/diarydots.jpg) dans le coin en haut à droite.
 
 4.	Appuie sur <b>Paramètres</b>.
 
@@ -96,7 +96,7 @@ Installe l’application <b>Bien-Être Numérique</b> si tu ne l’as pas déjà
 
 ![](/img/diary/fr/diary17.png)
 
-<b><u><center>2.	OÙ TROUVER LE RÉSUMÉ DE MON TEMPS D’ÉCRAN DE LA SEMAINE ?<u><center></b>
+<b><u><center>2.	OÙ TROUVER LE RÉSUMÉ DE MON TEMPS D’ÉCRAN DE LA SEMAINE ?</u></center></b>
 
 Les téléphones peuvent te permettre de savoir combien de temps tu utilises ton téléphone via l’application <b>Bien-être numérique</b>. Dans le questionnaire, indique combien de temps tu as passé sur ton smartphone au cours des 7 derniers jours.
 
