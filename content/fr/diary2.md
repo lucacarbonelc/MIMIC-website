@@ -84,7 +84,7 @@ Lis les informations sur l’écran. Il te sera demandé si cet iPhone est le ti
 
 ![](/img/diary/fr/diary8.png)
 
-<u><b><center>2.	OÙ TROUVER LE RÉSUMÉ DE MON TEMPS D’ÉCRAN DE LA SEMAINE ?</b><center></u>
+<u><b><center>2.	OÙ TROUVER LE RÉSUMÉ DE MON TEMPS D’ÉCRAN DE LA SEMAINE ?</b></center></u>
 Les iPhones te permettent de consulter combien de temps tu as passé sur ton téléphone via la fonction Temps d’écran. Lors du questionnaire, indique combien de temps tu as passé sur ton téléphone la semaine dernière. 
 
 Accède à Réglages ![](/img/diary/fr/diarygear.png) > <b>Temps d’écran</b>.
@@ -103,7 +103,7 @@ Clique sur l’onglet « Semaine ». Trouve le nombre d’heures et de minutes q
 
 Merci de faire une capture d’écran de ton temps d’écran total et de télécharger cette capture d’écran à l’endroit indiqué sur le questionnaire.
 
-<u><b><center>3. COMMENT TÉLÉCHARGER TES CAPTURES D’ÉCRAN ?<b><center></u>
+<u><b><center>3. COMMENT TÉLÉCHARGER TES CAPTURES D’ÉCRAN ?</b></center></u>
 
 Pour télécharger une capture d'écran, appuie d’abord sur le lien intitulé [<b>Clique ici pour télécharger</b>] dans le questionnaire. Ce lien ouvrira un nouvel onglet sur ton téléphone.
 
