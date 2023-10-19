@@ -100,21 +100,3 @@ Zdaj izberi “<b>See All Activity</b>”
 Izberi “<b>Week</b>” in v polji spodaj vpiši število ur in minut, ki so prikazane v aplikaciji pod “<b>Total Screen Time.</b>”
 
 ![](/img/diary/sl/diary21.png)
-
-3.	<b>KAKO NALOŽITI POSNETEK ZASLONA V ANKETO?</b>
-
-Da naložiš posnetek zaslona, v vprašalniku najprej izberi povezavo z naslovom “<b>Klikni tukaj, da naložiš Instagramovo biografijo</b>”. Ta povezava bo odprla nov zavihek na telefonu.
-
-![](/img/diary/sl/diary22.png)
-
-Na tem zaslonu se moraš pomakniti nekoliko v desno stran zaslona.
-
-Ko veš, kateri posnetek zaslona naložiti, izberi "<b>Select files</b>" in nato izberi "<b>Photo Library</b>". To te bo pripeljalo do mape s fotografijami v telefonu. Tu poišči in izberi ustrezen posnetek zaslona.
-
-Ko izbereš ustrezen posnetek zaslona, izberi "<b>Add</b>" v zgornjem desnem kotu.
-
-![](/img/diary/sl/diary23.png)
-
-Ko posnetek zaslona uspešno naložiš, se vrni v vprašalnik. Izberi ikono zavihka na dnu zaslona. Zapri zavihek za nalaganje in se vrni v vprašalnik.
-
-![](/img/diary/sl/diary24.png)

@@ -111,21 +111,3 @@ Druk nu op het balkje om je smartphonegebruik per week te kunnen zien.
 Vul het aantal uren en minuten in de vragenlijst voor alle dagen van maandag tot zondag. Deze gegevens worden getoond wanneer je op de verticale balkjes drukt.
 
 ![](/img/diary/nl/diary21.png)
-
-<u>3. Het uploaden van je screenshots in de vragenlijst</u>
-
-Om een screenshot te uploaden, druk eerst op de link [<b>Klik hier om te uploaden</b>] in de vragenlijst. Deze link zal je naar een nieuw tabblad op je smartphone leiden. 
-
-![](/img/diary/nl/diary22.png)
-
-Druk op “<b>Bestanden selecteren</b>” en selecteer dan “<b>Fotobibliotheek</b>”. 
-
-Dit zal je naar de fotogalerij van je smartphone leiden. Scrol dan door je foto’s totdat je de juiste screenshot hebt gevonden. Wanneer je de screenshot hebt gevonden, druk er dan op om het te selecteren.
-
-Eenmaal je de juiste screenshot geselecteerd hebt, druk op “<b>Toevoegen</b>” in de rechterbovenhoek.
-
-![](/img/diary/nl/diary23.png)
-
-Ga terug naar de vragenlijst van zodra je de screenshot hebt geüpload. Selecteer het tabblad onderaan het scherm. Sluit je uploadtabblad en ga terug naar de vragenlijst.
-
-![](/img/diary/nl/diary24.png)

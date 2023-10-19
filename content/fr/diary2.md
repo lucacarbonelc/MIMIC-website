@@ -102,25 +102,3 @@ Clique sur l’onglet « Semaine ». Trouve le nombre d’heures et de minutes q
 ![](/img/diary/fr/diary11.png)
 
 Merci de faire une capture d’écran de ton temps d’écran total et de télécharger cette capture d’écran à l’endroit indiqué sur le questionnaire.
-
-<u><b><center>3. COMMENT TÉLÉCHARGER TES CAPTURES D’ÉCRAN ?</b></center></u>
-
-Pour télécharger une capture d'écran, appuie d’abord sur le lien intitulé [<b>Clique ici pour télécharger</b>] dans le questionnaire. Ce lien ouvrira un nouvel onglet sur ton téléphone.
-
-![](/img/diary/fr/diary12.png)
-
-Sur cet écran, fais défiler légèrement sur la droite jusqu’à ce que tu puisses voir quelle capture d’écran est demandée. 
-
-Appuie sur “<b>Choisir les fichiers</b>” puis sélectionne “<b>Photothèque</b>.”
-
-Cela t’emmène sur ta bibliothèque de photos sur ton portable. À partir de là, fais défiler l'écran jusqu'à ce que tu trouves la bonne capture d'écran. Lorsque tu l’as trouvée, appuie sur cette image.
-
-Tu peux désélectionner l'image si tu n’as pas choisi la bonne. Une fois que tu as sélectionné la bonne image, tu peux vérifier qu'il s'agit bien de la bonne en appuyant sur “<b>Afficher la sélection (1)</b> “ et si c'est le cas, appuie sur “<b>Terminé</b>“.
-
-Une fois la bonne capture d'écran sélectionnée, appuie sur “<b>Ajouter</b>” dans le coin en haut à droite.
-
-![](/img/diary/fr/diary13.png)
-
-Une fois que la capture d'écran a été téléchargée avec succès, tu dois retourner au questionnaire. Sélectionne l’icône de l'onglet en bas de l'écran. Ferme l’onglet de téléchargement et reviens au questionnaire.
-
-![](/img/diary/fr/diary14.png)

@@ -102,21 +102,3 @@ Druk nu op “<b>Bekijk alle activiteit</b>”.
 Druk linksboven op “<b>Week</b>” en vul in de vragenlijst het aantal uren en minuten die bij “<b>Totale schermtijd</b>” getoond worden in de applicatie.
 
 ![](/img/diary/nl/diary13.png)
-
-<u>3. Het uploaden van je screenshots in de vragenlijst</u>
-
-Om een screenshot te uploaden, druk eerst op de link met de titel [<b>Klik hier om te uploaden</b>] in de vragenlijst. Deze link zal je naar een nieuw tabblad op je smartphone leiden.
-
-![](/img/diary/nl/diary14.png)
-
-Druk op “<b>Bestanden selecteren</b>” en selecteer dan “<b>Fotobibliotheek</b>”.
-
-Dit zal je naar de fotogalerij van je smartphone leiden. Scrol dan door je foto’s totdat je de juiste screenshot hebt gevonden. Wanneer je de screenshot hebt gevonden, druk er dan op om het te selecteren.
-
-Eenmaal je de juiste screenshot geselecteerd hebt, druk op “<b>Toevoegen</b>” in de rechterbovenhoek.
-
-![](/img/diary/nl/diary15.png)
-
-Ga terug naar de vragenlijst van zodra je de screenshot hebt geüpload. Selecteer het tabblad onderaan het scherm. Sluit je uploadtabblad en ga terug naar de vragenlijst.
-
-![](/img/diary/nl/diary16.png)

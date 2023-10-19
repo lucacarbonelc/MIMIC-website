@@ -100,34 +100,14 @@ Z aplikacijo Digitalno dobro počutje ugotoviš, koliko časa uporabljaš telefo
 
 To storiš tako, da odpreš “<b>Nastavitve</b>”
 
-Izberi “<b>Digitalno dobro počutje in starševski nadzor</b>”. Odpre se prikaz uporabe telefona v današnjem dnevu.
+Izberi “<b>Digitalno dobro počutje in starševski nadzor</b>”.
 
 ![](/img/diary/sl/diary11.jpg)
 
-Nato tapni na “<b>grafikon</b>” s podatki o uporabi telefona. Prikažejo se tedenski podatki.
+Odpre se prikaz uporabe telefona v današnjem dnevu. Nato tapni na “<b>grafikon</b>” s podatki o uporabi telefona.
 
 ![](/img/diary/sl/diary12.jpg)
 
-V polja spodaj vpiši število ur in minut uporabe od ponedeljka do nedelje tega tedna. Ti podatki se pokažejo z dotikom na stolpec.
+Prikažejo se podatki uporabe telefona v zadnjem tednu. V polja spodaj vpiši število ur in minut uporabe od ponedeljka do nedelje tega tedna. Ti podatki se pokažejo z dotikom na stolpec.
 
 ![](/img/diary/sl/diary13.jpg)
-
-<center><u><b>3.	KAKO NALOŽITI POSNETEK ZASLONA V ANKETO?</b></u></center>
-
-Da naložiš posnetek zaslona, v vprašalniku najprej izberi povezavo z naslovom <b>Klikni tukaj, da naložiš Instagramovo biografijo</b>. Ta povezava bo odprla nov zavihek na telefonu.
-
-![](/img/diary/sl/diary14.png)
-
-Na tem zaslonu se moraš pomakniti nekoliko v desno stran zaslona.
-
-Ko veš, kateri posnetek zaslona naložiti, izberi "<b>Select files</b>" in nato izberi "<b>Photo Library</b>". To te bo pripeljalo do mape s fotografijami v telefonu. Tu poišči in izberi ustrezen posnetek zaslona.
-
-Če se zmotiš in izbereš napačen posnetek zaslona, to lahko prekličeš. Ko izbereš posnetek zaslona, lahko še enkrat preveriš, ali je ustrezen, tako da izbereš "<b>Show Selected (1)</b>" , in če je pravilen, izberi "<b>Done</b>".
-
-Ko izbereš ustrezen posnetek zaslona, izberi "<b>Add</b>" v zgornjem desnem kotu.
-
-![](/img/diary/sl/diary15.png)
-
-Ko posnetek zaslona uspešno naložiš, se vrni v vprašalnik. Izberi ikono zavihka na dnu zaslona. Zapri zavihek za nalaganje in se vrni v vprašalnik.
-
-![](/img/diary/sl/diary16.png)
