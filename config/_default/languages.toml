@@ -110,10 +110,28 @@
   weight = 3.4
 
 [[fr.menu.main]]
-  name = "Étude des Réseaux Sociaux"
+  name = "Questionnaire journalier 1 – Ethica"
   parent = "resources"
-  url = "/data_donation"
+  url = "/diary1"
   weight = 3.5
+
+[[fr.menu.main]]
+  name = "Questionnaire journalier 2 – instructions iPhone"
+  parent = "resources"
+  url = "/diary2"
+  weight = 3.6
+
+[[fr.menu.main]]
+  name = "Questionnaire journalier 3 – instructions Android"
+  parent = "resources"
+  url = "/diary3"
+  weight = 3.7
+
+[[fr.menu.main]]
+  name = "Questionnaire journalier 4 – captures d’écran"
+  parent = "resources"
+  url = "/diary4"
+  weight = 3.8
 
 [[fr.menu.main]]
   name = "Écoles"
@@ -254,10 +272,28 @@
   weight = 3.4
 
 [[nl.menu.main]]
-  name = "Gegevensdonatie Studie"
+  name = "Dagboekstudie 1 – Ethica"
   parent = "resources"
-  url = "/data_donation"
+  url = "/diary1"
   weight = 3.5
+
+[[nl.menu.main]]
+  name = "Dagboekstudie 2 – schermtijd iPhone"
+  parent = "resources"
+  url = "/diary2"
+  weight = 3.6
+
+[[nl.menu.main]]
+  name = "Dagboekstudie 3 – schermtijd Android"
+  parent = "resources"
+  url = "/diary3"
+  weight = 3.7
+
+[[nl.menu.main]]
+  name = "Dagboekstudie 4 – screenshots"
+  parent = "resources"
+  url = "/diary4"
+  weight = 3.8
 
 [[nl.menu.main]]
   name = "Scholen"
@@ -398,10 +434,28 @@
   weight = 3.4
 
 [[sl.menu.main]]
-  name = "Študija družbenih omrežij"
+  name = "Dnevni vprašalniki 1 - Ethica"
   parent = "resources"
-  url = "/data_donation"
+  url = "/diary1"
   weight = 3.5
+
+[[sl.menu.main]]
+  name = "Dnevni vprašalniki 2 - Iphone"
+  parent = "resources"
+  url = "/diary3"
+  weight = 3.6
+
+[[sl.menu.main]]
+  name = "Dnevni vprašalniki 3 - Android"
+  parent = "resources"
+  url = "/diary2"
+  weight = 3.7
+
+[[sl.menu.main]]
+  name = "Dnevni vprašalniki 4 - Posnetek zaslona"
+  parent = "resources"
+  url = "/diary4"
+  weight = 3.8
 
 [[sl.menu.main]]
   name = "Šole"
