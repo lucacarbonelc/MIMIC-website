@@ -6,6 +6,34 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 7 december 2023
+
+*Informatie over het einde van de dagboekstudie en de cadeaubonnen voor de deelnemers*
+
+We zijn met het MIMIc-team blij om te kunnen aankondigen dat de dagboekstudie (de derde en dus laatste studie van het MIMIc project) succesvol is afgerond. Elke avond van 6 november tot 21 november beantwoordden de deelnemende jongeren uit Frankrijk, Slovenië en België vragen over hun dagelijkse mediagewoonten en welzijn. De gemiddelde dagelijkse deelnamepercentages zijn als volgt: 110 deelnemers per dag in Frankrijk, 260 in Slovenië en 230 in België.
+
+De deelnemers werden beloond met een cadeaubon van Bol.com. Meer specifieke informatie over de berekening en de verdeling van de cadeaubonnen vind je hieronder:
+
+1.	De waarde van de bon hangt af van het aantal dagen dat de deelnemers aan het onderzoek hebben deelgenomen:
+
+![](/img/tabddBE.png)
+
+2.	Zoals meegedeeld aan de deelnemers, telden hun dagelijkse ingevulde vragenlijsten enkel als geldige deelname mee als ze deze ’s avonds vlak voor het slapengaan hadden ingevuld en ze gedaan hadden met het gebruiken van sociale media, het bekijken series/films of het beluisteren muziek. Als de deelnemers de vragenlijsten voor 19.00 uur of na 3.00 uur invulden, werd de vragenlijst als ongeldig beschouwd.
+
+3.	Omdat er zich op de tweede en derde dag meerdere technische problemen hebben voorgedaan in België, kregen alle deelnemers automatisch deze twee dagen toegewezen als geldige deelnames. De vragenlijsten van 7 en 8 november werden dus voor iedereen als geldig geteld, ook voor degenen die de vragenlijst niet invulden of degenen die de vragenlijst op het verkeerde tijdstip invulden.
+
+4.	Daarnaast duurde het onderzoek vanwege de problemen 16 dagen in plaats van 14 dagen. Dit betekent dat de deelnemers twee extra kansen hadden om 14 dagen te kunnen deelnemen en de hoogste waardebon te krijgen.
+
+5.	Als de deelnemers ons onmiddellijk een e-mail stuurden om ons te informeren dat ze op een dag een specifiek technisch probleem hadden (d.w.z. de app bevriest of laadt niet, de vragenlijst was niet aanwezig op de app, zelfs nadat hun bedtijd was verstreken), en afhankelijk van het gemelde probleem, werd de dag van de deelnemers als geldig geteld.
+
+6.	Houd er rekening mee dat het niet ontvangen van een melding op de smartphone geen geldige kwestie was om automatisch de waardebon/dag toe te kennen. De deelnemers werden geïnformeerd dat ze 's avonds op hun telefoon moesten kijken en eventueel zelf een alarm moesten instellen. Er werden geen meldingen beloofd aangezien de afwezigheid ervan ook te kan wijten zijn aan de specifieke instellingen van de deelnemers.
+
+7.	Nadat we met al deze factoren hebben rekening gehouden, telden we voor elke deelnemer het aantal dagen dat ze de vragenlijst correct hadden ingevuld en het bijhorende bedrag van hun waardebon. Ze werden vervolgens via e-mail geïnformeerd over dit bedrag.
+
+Tot slot zijn we met het hele MIMIc-team erg dankbaar voor de toewijding en het enthousiasme van de deelnemers aan ons onderzoek en willen we hen nogmaals bedanken. We kijken ernaar uit om de verzamelde gegevens te analyseren en de deelnemers te informeren over de resultaten.
+
+We wensen iedereen alvast een fijne wintervakantie!
+
 ### 7 oktober 2023
 
 Professor Laura Vandenbosch presenteerde de resultaten van het onderzoek dat werd uitgevoerd binnen het MIMIc project in het kader van de lezing "Picture Perfect: Hoe Instagram, Netflix en muziek de identiteit van tieners vormen". Dit evenement maakte deel uit van de jaarlijkse "Kinderuniversiteitsdag aan de KU Leuven". Meer informatie over het evenement vind je op deze [link](https://www.kuleuven.be/kinderuniversiteit/praktisch).

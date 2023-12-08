@@ -6,6 +6,35 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 7 décembre 2023
+
+*Fin de l’étude des questionnaires journaliers et informations sur les chèques-cadeaux pour les participants*
+
+L’équipe MIMIc est ravie d’annoncer la fin de l’étude des questionnaires journaliers, marquant la fin de la collecte de données pour le projet MIMIc. Chaque soir du 6 novembre au 21 novembre, les adolescents participant au projet en France, en Slovénie et en Belgique ont complété un petit questionnaire sur leurs habitudes médiatiques quotidiennes et leur bien-être. Les taux de participation quotidiens moyens sont de 110 participants par jour en France, 260 en Slovénie et 230 en Belgique.
+
+Les participants ont été récompensés par des chèques-cadeaux. **Des informations détaillées sur la distribution des chèques-cadeaux**, telles que le calcul des jours de participation et des récompenses correspondantes, se trouvent ci-dessous:
+
+1.	La valeur du chèque-cadeau dépend du nombre de jours de participation à l’étude pour chaque participant:
+
+![](/img/tabddFR.png)
+
+2.	Comme indiqué dans nos communications aux participants, pour que la participation quotidienne soit considérée comme valide, les questionnaires **devaient être complétés le soir avant le coucher** et après avoir fini d’utiliser les réseaux sociaux, les séries/films ou la musique. Par conséquent, un questionnaire rempli avant 19h ou après 3h du matin est considéré comme invalide. 
+
+3.	En raison de problèmes techniques rencontrés au cours des deux premiers jours, tous les participants **se sont vu attribuer automatiquement ces deux jours** (les questionnaires du 6 et 7 novembre ont été comptés comme valides pour tous, y compris ceux qui ne l’ont pas rempli ou ceux qui l’ont rempli au mauvais moment). 
+
+4.	De plus, en raison des problèmes rencontrés, l’étude s’est déroulée sur 16 jours au lieu de 14. Cela signifie que les participants avaient **deux chances supplémentaires pour atteindre 14 jours** et ainsi obtenir le chèque-cadeau le plus 
+élevé. 
+
+5.	Si les participants **nous ont informés immédiatement qu’ils ont rencontré un problème technique spécifique un jour** (par exemple, blocage de l’application ou non-chargement, questionnaire non présent sur l’application même après l’heure du coucher), et en fonction du problème signalé, alors ce jour a été considéré comme valide pour ces participants. 
+
+6.	Ne pas recevoir de notification sur le smartphone n’était pas un problème valide pour attribuer automatiquement le chèque-cadeau/jour. Les participants étaient informés de vérifier leurs téléphones le soir, éventuellement en réglant une alarme. Aucune notification n’était promise, et leur absence pouvait également être due aux paramètres spécifiques des participants (mode silencieux du téléphone ou éteint, etc.).
+
+7.	Après prise en compte de tous ces facteurs, nous avons compté combien de jours chaque participant avait correctement rempli le questionnaire et la valeur correspondante de leur chèque-cadeau. Ils ont ensuite été informés par e-mail de ce résultat.
+
+Enfin, l’équipe MIMIc est reconnaissante pour la motivation et l’enthousiasme des participants à notre étude et tient à les remercier à nouveau. Nous sommes impatients d’analyser les données collectées et d’informer les participants des résultats.
+
+Nous souhaitons d’ores et déjà à toutes et à tous de joyeuses vacances d’hiver et fêtes de fin d’année !
+
 ### 7 octobre 2023
 
 La Maître de Conférence Laura Vandenbosch a été invitée à présenter les résultats des études menées dans le cadre du projet MIMIc lors de la conférence intitulée « Image parfaite : Comment Instagram, Netflix et la musique façonnent l’identité des adolescents ». Cet événement faisait partie de la « Journée de l’Université pour les Enfants à KU Leuven ». Vous pouvez trouver plus d’informations sur l’événement à ce lien.
