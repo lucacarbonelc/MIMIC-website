@@ -6,6 +6,33 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 7 December 2023
+
+*End of the diary study and information regarding the vouchers for the participants*
+
+The MIMIc team is excited to announce the successful completion of the **Daily Diary Study** (study 3), marking the conclusion of data collection for the MIMIc project. Every evening from November 6th to November 21st, the adolescents participating in the project across France, Slovenia, and Belgium shared insights into their daily media habits and well-being. The average daily participation rates are 110 participants per day in France, 260 in Slovenia, and 230 in Belgium.
+
+Participants were rewarded with gift vouchers. **Detailed information about the voucher distribution**, such as how we calculated the days and corresponding rewards, can be found below:
+
+1.	The value of the voucher depends on the number of days the participants participated in the study:
+
+![](/img/tabdd.png)
+
+2.	As stated in our communication to the participants, for daily participation to count as valid, the surveys **had to be completed in the evening before they went to bed** and after they finished using social media, series/movies, or music. If participants completed the survey before 7 pm or after 3 am, the questionnaire was counted as invalid.
+
+3.	Because we encountered multiple technical issues during the first two or three days, all participants were **automatically assigned these two days** (the questionnaires of November 6th and 7th for France and Slovenia / the questionnaires of November 7th and 8th for Belgium were counted as valid for everyone, including those who did not fill it, or those who filled it at the wrong time).
+
+4.	In addition, because of the encountered issues, the study ran over 16 days instead of 14 days. This means the participants had **two additional chances to reach 14 days** to obtain the highest voucher.
+
+5.	If the participants immediately **emailed us to inform us that they had a specific technical issue one day** (i.e., app freezing or not loading, questionnaire not present on the app even after past their bed time), and depending on the issue reported, the participants’ day was counted as valid.
+
+6.	Please note that not receiving a notification on the smartphone was not a valid issue to be automatically attributed to the voucher/day. The participants were informed to check their phones in the evening, potentially setting an alarm. No notifications were promised, and their absence can also be due to participants’ specific settings (i.e., phone in silence mode or turned off, etc.).
+
+7.	After all these factors were accounted for, we counted how many days each participant had completed the questionnaire correctly and the corresponding value of their voucher. They were then informed by email about this score.
+Finally, the MIMIc team is grateful for the dedication and enthusiasm of the participants in participating in our study and would like to thank them again. We look forward to analyzing the collected data and informing the participants of the results.
+
+We already wish everyone happy winter holidays!
+
 ### 7 October 2023
 
 Assoc. Prof. Laura Vandenbosch presented results from the research conducted within the MIMIc project as part of the invited lecture titled "Picture Perfect: Hoe Instagram, Netflix en muziek de identiteit van tieners vormen". This event was part of the yearly "Child University Day at KU Leuven". More information about the event can be found at this [link](https://www.kuleuven.be/kinderuniversiteit/praktisch).

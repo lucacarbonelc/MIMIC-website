@@ -6,6 +6,34 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 7. december 2023
+
+*Zaključek dnevniške študije in informacije o darilnih bonih za udeležence/-ke*
+
+Ekipa projekta MIMIc z veseljem naznanja uspešen zaključek dnevniške študije, ki pomeni zaključek zbiranja podatkov v projektu MIMIc. Mladostnice in mladostniki, ki so sodelovali v projektu v Sloveniji, Franciji in Belgiji, so vsak večer od 6. do 21. novembra delili svoje vsakodnevne medijske navade in počutje. V povprečju je na dan sodelovalo 260 mladostnikov in mladostnic v Sloveniji, 110 v Franciji in 230 v Belgiji.
+
+Udeleženci/-ke iz Slovenije bodo za sodelovanje prejeli/-e darilni bon spletne trgovine Mimovrste. 
+
+**Vrednost darilnih bonov smo določili na podlagi naslednjih kriterijev:**
+
+1.	Vrednost darilnega bona je odvisna od števila dni, ko so udeleženci/-ke sodelovali/-e v študiji:
+
+![](/img/tabddSL.png)
+
+2.	Kot smo navedli v sporočilu udeležencem/-kam, je bilo za veljavno udeležbo **vprašalnike izpolniti zvečer pred spanjem** po koncu uporabe družbenih omrežij, serij/filmov ali glasbe. Če so udeleženci/-ke vprašalnik izpolnili pred 19. uro ali po 3. uri zjutraj, se je vprašalnik štel za neveljavnega.
+
+3.	Ker smo v prvih dveh dneh naleteli na številne tehnične težave, **smo vsem udeležencem/-kam samodejno dodelili prva dva dneva** (vprašalnika z dne 6. in 7. novembra sta štela kot veljavna za vse, tudi za tiste, ki ga niso izpolnili, ali tiste, ki so ga izpolnili ob nepravem času).
+
+4.	Poleg tega je študija zaradi tehničnih težav potekala 16 namesto 14 dni. To pomeni, da so imeli udeleženci/-ke **dve dodatni možnosti, da sodelujejo 14 dni** in dosežejo bon najvišje vrednosti.
+
+5.	Če so nas udeleženci/-ke prek e-pošte **obvestili/-e o določeni tehnični težavi** (npr. aplikacija je zamrznila ali se ni naložila, vprašalnik ni bil prisoten v aplikaciji tudi po tem, ko je minila ura pred predvidnim časom za spanje), se je vprašalnik štel kot veljaven, če je bil vzrok tehnična težava.
+
+6.	Če udeleženci/-ke niso prejeli/-e obvestila na telefonu o razpoložljivem vprašalniku, tega nismo upoštevali kot tehnično težavo oz. veljaven vprašalnik. Udeležence/-ke smo obvestili, naj zvečer preverijo svoje telefone in si po možnosti nastavijo alarm. Obvestil nismo obljubili, njihova odsotnost pa je lahko tudi posledica posebnih nastavitev na telefonu (tj. telefon v načinu tišine ali izklopljen itd.).
+
+7.	Ko smo upoštevali vse te dejavnike, smo prešteli, koliko dni je vsak udeleženec/-ka pravilno izpolnil/-a vprašalnik, in dodelili ustrezno vrednost bona. O teh vrednostih so bili udeleženci/-ke nato obveščeni/-e po elektronski pošti.
+
+Raziskovalci/-ke ekipe MIMIc se zahvaljujemo za predanost udeležencev/-k pri sodelovanju v naši študiji. Veselimo se analize zbranih podatkov in obveščanja udeležencev/-k o rezultatih. Vsem že vnaprej želimo vesele praznike!
+
 ### 7. oktober 2023
 
 Izr. prof. Laura Vandenbosch je v okviru vabljenega predavanja z naslovom "Picture Perfect: Kako Instagram, Netflix in glasba oblikujejo identiteto najstnikov" predstavila rezultate raziskav, opravljenih v okviru projekta MIMIc. Ta dogodek je bil del vsakoletnega "Dneva univerze za otroke na KU Leuven". Več informacij o dogodku je na voljo na tej povezavi. [povezava](https://www.kuleuven.be/kinderuniversiteit/praktisch).
