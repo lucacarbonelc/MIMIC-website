@@ -6,6 +6,18 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 03 April 2024
+
+MIMIc team member Luca Carbone presented results from the research conducted within the MIMIc project as part of the invited lecture titled “Long-term music effects among adolescents”. This event was part of the event “CII Spotlight” organized by the Cluster on Inequalities and Inclusion at the Weatherhead Center (Harvard University).
+
+### 26 May 2024
+
+MIMIc team member Luca Carbone presented results from the research conducted within the MIMIc project as part of the invited lecture titled “Meritocracy and Inequality”. This event was part of the event “Harvard Culture and Social Analysis Workshop” organized by the Sociology Department at Harvard University.
+
+### 20 February 2024
+
+MIMIc team member Luca Carbone presented results from the research conducted within the MIMIc project as part of the invited lecture titled “Measurement strategies across media objects and individuals' cognitions”. This event was part of the "Graduate Seminar on Quantitative Methods in Sociology" organized by the Sociology Department at Boston University.
+
 ### 7 décembre 2023
 
 *Fin de l’étude des questionnaires journaliers et informations sur les chèques-cadeaux pour les participants*
@@ -34,6 +46,10 @@ Les participants ont été récompensés par des chèques-cadeaux. **Des informa
 Enfin, l’équipe MIMIc est reconnaissante pour la motivation et l’enthousiasme des participants à notre étude et tient à les remercier à nouveau. Nous sommes impatients d’analyser les données collectées et d’informer les participants des résultats.
 
 Nous souhaitons d’ores et déjà à toutes et à tous de joyeuses vacances d’hiver et fêtes de fin d’année !
+
+### 1 décembre 2023
+
+MIMIc members Jasmina Rosič and Laura Vandenbosch published an article titled “Measuring digital well-being in everyday life among Slovenian adolescents: The Perceived Digital Well-Being in Adolescence Scale”. The article is available at the following [link](https://www.tandfonline.com/doi/abs/10.1080/17482798.2023.2272651).
 
 ### 7 octobre 2023
 

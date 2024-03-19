@@ -6,6 +6,18 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 03 April 2024
+
+MIMIc team member Luca Carbone presented results from the research conducted within the MIMIc project as part of the invited lecture titled “Long-term music effects among adolescents”. This event was part of the event “CII Spotlight” organized by the Cluster on Inequalities and Inclusion at the Weatherhead Center (Harvard University).
+
+### 26 May 2024
+
+MIMIc team member Luca Carbone presented results from the research conducted within the MIMIc project as part of the invited lecture titled “Meritocracy and Inequality”. This event was part of the event “Harvard Culture and Social Analysis Workshop” organized by the Sociology Department at Harvard University.
+
+### 20 February 2024
+
+MIMIc team member Luca Carbone presented results from the research conducted within the MIMIc project as part of the invited lecture titled “Measurement strategies across media objects and individuals' cognitions”. This event was part of the "Graduate Seminar on Quantitative Methods in Sociology" organized by the Sociology Department at Boston University.
+
 ### 7 December 2023
 
 *End of the diary study and information regarding the vouchers for the participants*
@@ -32,6 +44,10 @@ Participants were rewarded with gift vouchers. **Detailed information about the 
 Finally, the MIMIc team is grateful for the dedication and enthusiasm of the participants in participating in our study and would like to thank them again. We look forward to analyzing the collected data and informing the participants of the results.
 
 We already wish everyone happy winter holidays!
+
+### 1 December 2023
+
+MIMIc members Jasmina Rosič and Laura Vandenbosch published an article titled “Measuring digital well-being in everyday life among Slovenian adolescents: The Perceived Digital Well-Being in Adolescence Scale”. The article is available at the following [link](https://www.tandfonline.com/doi/abs/10.1080/17482798.2023.2272651).
 
 ### 7 October 2023
 
@@ -62,7 +78,7 @@ MIMIc members Luca Carbone and Laura Vandenbosch published an article titled "A 
 
 ### 25 January 2023
 
-MIMIc members, Anaëlle Gonzalez, Gaëlle Vanhoffelen, Jasmina Rosič, and Luca Carbone, will soon present new works from their PhDs at two conferences, the Etmaal van de Communicatiewetenschap (February 2023) and the 73nd International Communication Association (ICA) (May 2023). Below, you can read the titles and abstracts of the works they will present.
+MIMIc members, Anaëlle Gonzalez, Gaëlle Vanhoffelen, Jasmina Rosič, and Luca Carbone, will soon present new results from the MIMIc project at two conferences, the Etmaal van de Communicatiewetenschap (February 2023) and the 73nd International Communication Association (ICA) (May 2023). Below, you can read the titles and abstracts of the works they will present.
 
 ![The MIMIc team representing at one of the many ICA23 reception parties](/img/ica23.jpg)
 
@@ -118,7 +134,7 @@ The second wave data collection of the time study was completed in May-June 2022
 
 ### 13 January 2022
 
-MIMIc members, Anaëlle Gonzalez, Jasmina Rosič, and Luca Carbone, will soon present the first studies of their PhDs at two conferences, the Etmaal van de Communicatiewetenschap (February 2022) and the 72nd International Communication Association (ICA) (May 2022). Below, you can read the titles and abstracts of the works they will present.
+MIMIc members, Anaëlle Gonzalez, Jasmina Rosič, and Luca Carbone, will soon present the first studies of the MIMIc project at two conferences, the Etmaal van de Communicatiewetenschap (February 2022) and the 72nd International Communication Association (ICA) (May 2022). Below, you can read the titles and abstracts of the works they will present.
 
 **Anaëlle Gonzalez**
 - **Title**:  A Content Analytical Study on Celebrities, Influencers and Athletes’ Political Content on Instagram.

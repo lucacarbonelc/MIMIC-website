@@ -50,10 +50,10 @@ subtitle = "---"
  css_class = ""
 +++
 
-**Projekt MIMIc: projekt za razumevanje vloge medijev v življenju fantov in deklet v obdobju 2020–2025**
+**Projekt MIMIc: projekt, ki raziskuje, kakšno vlogo imajo mediji v življenju fantov in deklet, 2020–2025**
 
 {{< video library = "1" src = "ERC.mp4" controls = "yes" autoplay = "true" >}}
-ERC interview by Prof. Laura Vandenbosch
+Intervju ERC s profesorico Lauro Vandenbosch
 
 <br>
 
