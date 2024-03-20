@@ -6,6 +6,14 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 1 March 2024
+
+Anaëlle Gonzalez was interviewed for an online newspaper article to talk about the phenomenon of “Sephora Kids”, and the broader topic of children influencers. The article can be read here (link; in French).
+
+### 6 December 2023
+
+Gaëlle Vanhoffelen was interviewed by Veto, the student journal of KU Leuven, about the results of the paper “BeReal, Be Happy? Examining the relationships between authentic self-presentations on BeReal and adolescents’ self-esteem” which was conducted within the MIMIc project. The article can be read via this link.
+
 ### 5 juillet 2023
 
 #### Anaëlle Gonzalez invitée par le Collectif AVI pour une conversation en direct sur Twitter afin de discuter des dernières recherches sur les influenceurs.
