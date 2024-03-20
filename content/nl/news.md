@@ -6,17 +6,60 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
-### 03 April 2024
+### [Upcoming] 24 – 27 September 2024
+
+Jasmina Rosič, Anaëlle Gonzalez, and Gaëlle Vanhoffelen will present their most recent work within the MIMIc project at the 10th European Communication Research and Education Association (ECREA) conference in Ljubljana (Slovenia) on 24 – 27th of September 2024.
+
+### [Upcoming] 24 September 2024
+
+The Project MIMIc closing event for schools and various relevant stakeholders will take place on 24 September 2024 in Ljubljana (Slovenia). Jasmina Rosič and Laura Vandenbosch, together with Bojana Lobe and Kristina Rakinić, will share some insights from the MIMIc project and discuss the results with some of the project's youth participants and representatives of the digital media literacy organizations in Slovenia. A tool to promote media literacy among youth will be offered.
+
+### [Upcoming] 20-21 June 2024
+
+For the European Communication Science Event (ECSE) that will take place in Nijmegen (Netherlands) on 20-21st of June 2024, Anaëlle Gonzalez will coordinate a panel session on influencer research across communication sub-disciplines. During this panel, she will present some follow-up findings on the political content of influencers (co-authored with Phoebe Kwan and Laura Vandenbosch) and the frames that they use when talking about politics on social media.
+
+### [Upcoming] 03 April 2024
 
 MIMIc team member Luca Carbone presented results from the research conducted within the MIMIc project as part of the invited lecture titled “Long-term music effects among adolescents”. This event was part of the event “CII Spotlight” organized by the Cluster on Inequalities and Inclusion at the Weatherhead Center (Harvard University).
 
-### 26 May 2024
+### 26 March 2024
 
 MIMIc team member Luca Carbone presented results from the research conducted within the MIMIc project as part of the invited lecture titled “Meritocracy and Inequality”. This event was part of the event “Harvard Culture and Social Analysis Workshop” organized by the Sociology Department at Harvard University.
+
+### 19 March 2024
+
+MIMIc team member Gaëlle Vanhoffelen presented results regarding adolescents’ social media use from the research conducted within the MIMIc project as part of the invited lecture titled “Sociale media: een vloek of een zegen?”. This event was part of the “A1000” project organized by Het Paleis with the aim of informing Antwerp youth (16 to 18 years old) about today’s societal challenges to prepare them for the upcoming elections.
+
+### 14 March 2024
+
+Anaëlle Gonzalez and Laura Vandenbosch published an article titled “A Systematic Content Analysis of the Moral Foundations Featured in Celebrities’, Influencers’, and Athletes’ Instagram Content”. The article is available at the following link: https://doi.org/10.1080/15205436.2024.2317764 
+
+### 07 March 2024
+
+Mimic members Laura Vandenbosch, Jasmina Rosič and Anaëlle Gonzalez met with the current ERCEA Scientific officer for Social Sciences and Humanities. During the meeting, they presented the progress of the MIMIc project and its societal relevance, and discussed some challenges inherent to big ERC projects.
 
 ### 20 February 2024
 
 MIMIc team member Luca Carbone presented results from the research conducted within the MIMIc project as part of the invited lecture titled “Measurement strategies across media objects and individuals' cognitions”. This event was part of the "Graduate Seminar on Quantitative Methods in Sociology" organized by the Sociology Department at Boston University.
+
+### 08-09 February 2024
+
+MIMIc members Jasmina Rosič, Gaëlle Vanhoffelen and Anaëlle Gonzalez presented new results from the MIMIc project at the Etmaal van de Communicatiewetenschap conference in Rotterdam (Netherlands) in February 2024. Those same papers will be presented in September 2024 at the European Communication Research and Education Association (ECREA) conference in Ljubljana (Slovenia). Below you can read the titles and abstracts of the works they presented/will present: 
+
+**Jasmina Rosič**<br><br>
+- **Authors**: Jasmina Rosič, Lara Schreurs, Sophie H. Janicke-Bowles, and Laura Vandenbosch
+- **Title**: Digital flourishing in adolescence: A one-year trajectory study
+- **Abstract**: Digital flourishing refers to the positive perceptions of digital communication use in five dimensions: connectedness, positive social comparison, authentic self-presentation, civil participation, and self-control. This three-wave panel study among 1,081 Slovenian adolescents (Mage = 15.34 years, 53.8% boys, 80.7% ethnic majority) explored the trajectories of their digital flourishing dimensions over one year (2021–2022). Latent class growth analysis identified two classes. Adolescents in the first class reported high levels of digital flourishing, which remained stable over time, whereas those in the second class reported low levels of digital flourishing with decreased self-control over time. Autonomy-supportive restrictive, autonomy-supportive active, and controlling active parental mediation styles, together with high parental digital skills, predicted adolescents’ belongingness to the (more digitally flourishing) first class.
+
+**Gaëlle Vanhoffelen**<br><br>
+- **Authors**: Gaëlle Vanhoffelen, Anaëlle Gonzalez, Lara Schreurs, Caroline Giraudeau, and Laura Vandenbosch
+- **Title**: The Perfect Li(f)e: a Longitudinal Study on Positive Social Media Content and European Adolescents’ Perfectionism
+- **Abstract**: Youth perfectionism levels have increased significantly over the last decades. Given the dominance of picture-perfect content online, social media are often pointed out as contributors of this rise. Accordingly, the current study examined how exposure to positive social media content might increase adolescents’ perfectionistic traits and vice versa. Moreover, it was explored whether upward social comparison and adolescents’ sociocultural context (on a micro and macro level) play, respectively, a mediating and moderating role in this model. A three-wave panel study was conducted among an analytical sample of 1697 Belgian, French, and Slovenian adolescents (Mage=15.14, SDage=1.78, 53.6% girls). The between-person results showed that higher trait-like levels of exposure to positive social media content (appearance- and life-related) is significantly related to higher trait-like levels of perfectionism (self-oriented and socially prescribed). Moreover, adolescents’ trait-level of upward social comparison was found to act as an explaining mechanism in the link with socially prescribed perfectionism. However, a more complex pattern emerged at the within-person level with different results across waves, countries, and adolescents’ individualistic values. 
+
+**Anaëlle Gonzalez**<br><br>
+- **Authors**: Anaëlle Gonzalez and Laura Vandenbosch
+- **Title**: Adolescents’ Political Empowerment on Social Media: Exploring the Relationships between Role Models’ Political Content and Political Self-Efficacy
+- **Abstract**: Adolescents’ favorite role models (i.e., influencers, celebrities and sports stars) have been documented to share political opinions on their social media accounts amid their entertainment and lifestyle content. Through engaging political posts, these actors have the potential to empower the political self-efficacy skills of their (young) audiences. The link between the promotion of political content by social media role models and adolescents’ political self-efficacy may further depend on the type of role model (comparing influencers, celebrities, and sports stars), parasocial interactions between the role model and the user, the level of political interest of the user, and the level of elaborate and selective processing of political information on social media of the user. Yet knowledge is lacking on these potential boundary conditions. We used (cross-sectional) data collected among 415 French adolescents aged 11-19 in 2022. The findings showed that a higher prevalence of political content in role models’ social media was associated with higher levels of political self-efficacy among adolescents. None of the explored conditions moderated the relationship of interest. Theoretical and practical implications are discussed.
 
 ### 7 december 2023
 
@@ -76,6 +119,14 @@ Het MIMIc-team heeft het project en de verschillende onderdelen ervan voorgestel
 ### 19 april 2023
 
 MIMIc-leden Luca Carbone en Laura Vandenbosch publiceerden een artikel met de titel "A Meta-Analysis of Studies Examining the Effect of Music on Beliefs". Het artikel is beschikbaar via de volgende [link](https://doi.org/10.1177/00936502231163633).
+
+### 27 February  2023
+
+MIMIc team member Jasmina Rosič presented some results of the MIMIc project in the invited lecture at the Chapman University (USA) titled “Digital flourishing in adolescence.”
+
+### 13 February 2023
+
+MIMIc team member Jasmina Rosič presented some results of the MIMIc project in the invited lecture at the Chapman University (USA) titled “The perceived digital balance in adolescence.”
 
 ### 25 januari 2023
 
