@@ -6,28 +6,28 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
-### 1 March 2024
+### 1. marec 2024
 
-Anaëlle Gonzalez was interviewed for an online newspaper article to talk about the phenomenon of “Sephora Kids”, and the broader topic of children influencers. The article can be read here (link; in French).
+Anaëlle Gonzalez je v intervjuju za spletni časopis spregovorila o pojavu »Sephora Kids« in širši temi otroških vplivnežev/-ic. Članek si lahko preberete tukaj (povezava; v francoščini).
 
-### 6 December 2023
+### 6. december 2023
 
-Gaëlle Vanhoffelen was interviewed by Veto, the student journal of KU Leuven, about the results of the paper “BeReal, Be Happy? Examining the relationships between authentic self-presentations on BeReal and adolescents’ self-esteem” which was conducted within the MIMIc project. The article can be read via this link.
+Gaëlle Vanhoffelen je v intervjuju za Veto, študentsko revijo KU Leuven, spregovorila o rezultatih študije »BeReal, Be Happy? Preučevanje odnosov med avtentičnimi samopredstavitvami na BeReal-u in samopodobo mladostnikov/-ic«, ki je bila izvedena v okviru projekta MIMIc. Članek si lahko preberete na tej povezavi.
 
 ### 5. julij 2023
 
 #### Anaëlle Gonzalez se je odzvala povabilu Collective AVI in se na Twitterju udeležila pogovora na o najnovejših raziskavah o vplivnežih.
-Anaëlle Gonzalez je julija 2023 združenje Collective AVI (združenje za žrtve zlorab vplivnežev) povabilo k sodelovanju v pogovoru preko platforme Twitter Spaces. Z gostitelji je razpravljala o trenutnem stanju raziskav o vplivnežih in njihovem morebitnem vplivu na občinstvo ter predstavila najnovejše ugotovitve analiz vsebin o vplivnežih, opravljene v okviru projekta MIMIc. Razprava je bila namenjena širši javnosti, občinstvo pa je lahko sodelovalo in postavljalo vprašanja. Posnetek pogovorov je zdaj na  voljo ([povezavi](https://twitter.com/collectifAvi/status/1676674762641231878?s=20); v francoščini).
+Anaëlle Gonzalez je julija 2023 združenje Collective AVI (združenje za žrtve zlorab vplivnežev) povabilo k sodelovanju v pogovoru preko platforme Twitter Spaces. Z gostitelji je razpravljala o trenutnem stanju raziskav o vplivnežih in njihovem morebitnem vplivu na občinstvo ter predstavila najnovejše ugotovitve analiz vsebin o vplivnežih, opravljene v okviru projekta MIMIc. Razprava je bila namenjena širši javnosti, občinstvo pa je lahko sodelovalo in postavljalo vprašanja. Posnetek pogovora je na voljo na naslednji [povezavi](https://twitter.com/collectifAvi/status/1676674762641231878?s=20) (v francoščini).
 
 ### 1. junij 2023
 
 #### Anaëlle Gonzalez je v seriji podkastov govorila o blaginji mladih raziskovalcev
-Anaëlle Gonzalez je sodelovala v razpravah o blaginji mladih raziskovalcev v dveh podkastih, namenjenih študentom in mladim raziskovalcem. V prvi epizodi je v okviru serije podkastov KU Leuven "duševno zdravje šteje" delila svoje izkušnje o tem, kako se spopasti s perfekcionizmom in strahom pred neuspehom ([povezavi](https://open.spotify.com/episode/4tHTgZXCxGqY4rGqky9tMJ?si=AhQdXNWkRn6LGtJ-FZnhnA); v angleščini). Anaëlle je sodelovala tudi v epizodi serije podkastov ICA (mednarodne komunikološke organizacije; International Communication Association) "GrowingUpCom", v kateri je nadalje razpravljala o izkušnjah mladih raziskovalcev z negotovostjo in zavrnitvijo ([povezavi](https://open.spotify.com/episode/1xSyTAKBoDGjWBbfP6ivo6?si=fee54b78db1d49a0); v angleščini).
+Anaëlle Gonzalez je sodelovala v razpravah o blaginji mladih raziskovalcev v dveh podkastih, namenjenih študentom in mladim raziskovalcem. V prvi epizodi je v okviru serije podkastov KU Leuven »duševno zdravje šteje« delila svoje izkušnje o tem, kako se spopasti s perfekcionizmom in strahom pred neuspehom ([povezava](https://open.spotify.com/episode/4tHTgZXCxGqY4rGqky9tMJ?si=AhQdXNWkRn6LGtJ-FZnhnA); v angleščini). Anaëlle je sodelovala tudi v epizodi serije podkastov ICA (mednarodne komunikološke organizacije; International Communication Association) »GrowingUpCom«, v kateri je nadalje razpravljala o izkušnjah mladih raziskovalcev/-k z negotovostjo in zavrnitvijo ([povezava](https://open.spotify.com/episode/1xSyTAKBoDGjWBbfP6ivo6?si=fee54b78db1d49a0); v angleščini).
 
 ### 1. maj 2023
 
 #### Anaëlle Gonzalez je v podkastu DIGISOC predstavila nekaj rezultatov projekta MIMIc.
-Anaëlle Gonzalez je leta 2023 sodelovala v podkastu Inštituta za digitalno družbo KU Leuven (DIGISOC). Podkast obravnava, kako lahko raziskovanje prispeva k pozitivni digitalni družbi. Anaëlle je v svoji epizodi predstavila nekatere ugotovitve projekta MIMIc in pojasnila pomen preučevanja vloge zabavnih medijev v političnem razvoju mladostnikov. Povezava do epizode bo objavljena ob izidu epizode kasneje v tem letu.
+Anaëlle Gonzalez je leta 2023 sodelovala v podkastu Inštituta za digitalno družbo KU Leuven (DIGISOC). Podkast obravnava, kako lahko raziskovanje prispeva k pozitivni digitalni družbi. Anaëlle je v svoji epizodi predstavila nekatere ugotovitve projekta MIMIc in pojasnila pomen preučevanja vloge medijev, ki jih uporabljamo za zabavo, na politični razvoj mladostnikov. Epizoda je na voljo na tej [povezavi](https://podcasters.spotify.com/pod/show/digisoc/episodes/Social-Media-and-the-Political-Self---Analle-Gonzalez-e27ek6m).
 
 ### 3. april 2023
 
@@ -54,10 +54,10 @@ Izr. prof. Bojana Lobe je bila 8. 4. 2022 gostja v radijski oddaji Podobe znanja
 ### 2. februar 2022
 
 #### Anaëlle Gonzalez je na povabilo Inštituta za poučevanje in izobraževanje v Lillu v Franciji (INSPé) gostovala na predavanju o mladih in medijih.
-Anaëlle Gonzalez je leta 2022 Inštitut za poučevanje in izobraževanje v Lillu v Franciji (INSPé) povabil k izvedbi gostujočega predavanja o vlogi medijev v življenju današnje mladine. Predavanje je bilo namenjeno osebju, zaposlenemu v francoskem izobraževalnem sistemu, in študentom, ki nameravajo delati na področju izobraževanja. Predavanje z naslovom "Odraščanje v digitalnem svetu: projekt za razumevanje vloge družbenih omrežij in drugih medijev v življenju mladostnikov", je podalo nekaj rezultatov projekta MIMIc. Predavanje je bilo posneto in je zdaj na voljo ([povezavi](https://www.youtube.com/watch?v=rlanYB9ggec); v francoščini).
+Anaëlle Gonzalez je leta 2022 Inštitut za poučevanje in izobraževanje v Lillu v Franciji (INSPé) povabil k izvedbi gostujočega predavanja o vlogi medijev v življenju današnje mladine. Predavanje je bilo namenjeno osebju, zaposlenemu v francoskem izobraževalnem sistemu, in študentom, ki nameravajo delati na področju izobraževanja. Predavanje z naslovom »Odraščanje v digitalnem svetu: projekt za razumevanje vloge družbenih omrežij in drugih medijev v življenju mladostnikov«, je podalo nekaj rezultatov projekta MIMIc. Predavanje je bilo posneto in je zdaj na voljo ([povezava](https://www.youtube.com/watch?v=rlanYB9ggec); v francoščini).
 
 
 ### 6 September 2021
 
 #### Jasmina Rosič je v časopisu Delo predstavila cilje projekta MIMIc
-Jasmina Rosič je bila intervjuvana za enega najbolj branih slovenskih časopisov Delo. Spregovorila je o svoji izkušnji bivanja v Belgiji ter predstavila cilje projekta MIMIc in svoje raziskave v okviru projekta. [Povezavi](https://www.delo.si/novice/znanoteh/mladostniki-so-slabo-raziskana-druzbena-skupina/).
+Jasmina Rosič je bila intervjuvana za enega najbolj branih slovenskih časopisov Delo. Spregovorila je o svoji izkušnji bivanja v Belgiji ter predstavila cilje projekta MIMIc in svoje raziskave v okviru projekta [povezava](https://www.delo.si/novice/znanoteh/mladostniki-so-slabo-raziskana-druzbena-skupina/).
