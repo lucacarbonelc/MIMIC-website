@@ -8,11 +8,11 @@ lastmod: [":fileModTime", ":default"]
 
 ### 1 March 2024
 
-Anaëlle Gonzalez was interviewed for an online newspaper article to talk about the phenomenon of “Sephora Kids”, and the broader topic of children influencers. The article can be read here (link; in French).
+Anaëlle Gonzalez was interviewed for an online newspaper article to talk about the phenomenon of “Sephora Kids”, and the broader topic of children influencers. The article can be read [here](https://www.dna.fr/magazine-lifestyle/2024/03/01/elles-ont-10-ans-et-veulent-du-retinol-les-sephora-kids-envahissent-tiktok; in French).
 
 ### 6 December 2023
 
-Gaëlle Vanhoffelen was interviewed by Veto, the student journal of KU Leuven, about the results of the paper “BeReal, Be Happy? Examining the relationships between authentic self-presentations on BeReal and adolescents’ self-esteem” which was conducted within the MIMIc project. The article can be read via this link.
+Gaëlle Vanhoffelen was interviewed by Veto, the student journal of KU Leuven, about the results of the paper “BeReal, Be Happy? Examining the relationships between authentic self-presentations on BeReal and adolescents’ self-esteem” which was conducted within the MIMIc project. The article can be read via this [link](https://www.veto.be/onderzoek/onderzoeker-ku-leuven-vindt-verband-tussen-bereal-en-je-zelfbeeld-het-kan-jezelf-versterken-als-je-zoekende-bent/337266?fbclid=IwAR1w98Fvyj91bwks_LAZkd71GGishIwvm4o3oear-tOvT8tlOs8iKIgnBDY; in Dutch).
 
 ### 5 July 2023
 
@@ -27,7 +27,7 @@ Anaëlle Gonzalez participated in discussions on the well-being of young researc
 ### 1 May 2023
 
 #### Anaëlle Gonzalez presented some results of the MIMIc project in the DIGISOC podcast.
-In 2023, Anaëlle Gonzalez participated in the podcast of the KU Leuven Digital Society Institute (DIGISOC).The podcast deals with how research can contribute to a positive digital society. In her episode, Anaëlle presented some findings from the MIMIc project, and explained the importance of studying the role of entertainment media in adolescents’ political development. The link to the episode will be posted once the episode is out later this year.
+In 2023, Anaëlle Gonzalez participated in the podcast of the KU Leuven Digital Society Institute (DIGISOC).The podcast deals with how research can contribute to a positive digital society. In her episode, Anaëlle presented some findings from the MIMIc project, and explained the importance of studying the role of entertainment media in adolescents’ political development. The podcast can be found [here](https://podcasters.spotify.com/pod/show/digisoc/episodes/Social-Media-and-the-Political-Self---Analle-Gonzalez-e27ek6m; in English).
 
 ### 3 April 2023
 

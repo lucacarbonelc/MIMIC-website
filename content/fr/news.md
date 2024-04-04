@@ -6,60 +6,50 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
-### [Upcoming] 24 – 27 September 2024
+### [À venir] 24 – 27 septembre 2024 
+Jasmina Rosič, Anaëlle Gonzalez et Gaëlle Vanhoffelen présenteront leurs travaux les plus récents dans le cadre du projet MIMIc lors de la 10ème conférence de l’Association européenne de recherche et d’éducation en communication (ECREA) à Ljubljana (Slovénie) du 24 au 27 septembre 2024.
 
-Jasmina Rosič, Anaëlle Gonzalez, and Gaëlle Vanhoffelen will present their most recent work within the MIMIc project at the 10th European Communication Research and Education Association (ECREA) conference in Ljubljana (Slovenia) on 24 – 27th of September 2024.
+### [À venir] 24 septembre 2024 
+L’événement de clôture du projet MIMIc pour les établissements scolaires et autres intervenants impliqués en Slovénie aura lieu le 24 septembre 2024 à Ljubljana (Slovénie). Jasmina Rosič et Laura Vandenbosch, accompagnées de Bojana Lobe et Kristina Rakinić, partageront quelques enseignements tirés du projet MIMIc et discuteront des résultats avec certains jeunes participants du projet et avec des représentants des organisations de littératie médiatique numérique en Slovénie. Un outil de promotion de la littératie médiatique chez les jeunes sera présenté.
 
-### [Upcoming] 24 September 2024
+### [À venir] 20-21 juin 2024 
+Pour l’événement européen de science de la communication (ECSE) qui aura lieu à Nijmegen (Pays-Bas) les 20 et 21 juin 2024, Anaëlle Gonzalez coordonnera une session de panel sur la recherche sur les influenceurs dans les sous-disciplines de la science de la communication. Au cours de ce panel, elle présentera certaines conclusions complémentaires sur le contenu politique des influenceurs (en collaboration avec Phoebe Kwan et Laura Vandenbosch) et les cadres de référence qu’ils utilisent lorsqu’ils parlent de politique sur les réseaux sociaux.
 
-The Project MIMIc closing event for schools and various relevant stakeholders will take place on 24 September 2024 in Ljubljana (Slovenia). Jasmina Rosič and Laura Vandenbosch, together with Bojana Lobe and Kristina Rakinić, will share some insights from the MIMIc project and discuss the results with some of the project's youth participants and representatives of the digital media literacy organizations in Slovenia. A tool to promote media literacy among youth will be offered.
+### [À venir] 03 avril 2024 
+Le membre de l’équipe MIMIc Luca Carbone a été invité à présenter des résultats du projet MIMIc dans un séminaire intitulé « Effets musicaux à long terme chez les adolescents ». Ce séminaire faisait partie de l’événement CII Spotlight organisé par le Cluster sur les inégalités et l’inclusion au Weatherhead Center (Université Harvard).
 
-### [Upcoming] 20-21 June 2024
+### 26 mars 2024 
+Le membre de l’équipe MIMIc Luca Carbone a été invité à présenter des résultats du projet MIMIc dans un séminaire intitulé « Méritocratie et inégalité ». Cet événement faisait partie de l’événement Harvard Culture and Social Analysis Workshop organisé par le département de sociologie de l’Université Harvard.
 
-For the European Communication Science Event (ECSE) that will take place in Nijmegen (Netherlands) on 20-21st of June 2024, Anaëlle Gonzalez will coordinate a panel session on influencer research across communication sub-disciplines. During this panel, she will present some follow-up findings on the political content of influencers (co-authored with Phoebe Kwan and Laura Vandenbosch) and the frames that they use when talking about politics on social media.
+### 19 mars 2024 
+Le membre de l’équipe MIMIc Gaëlle Vanhoffelen a été invitée à présenter des résultats du projet MIMIc sur l’utilisation des réseaux sociaux par les adolescents dans un séminaire intitulé « Réseaux sociaux : une malédiction ou une bénédiction ? ». Ce séminaire faisait partie du projet « A1000 » organisé par Het Paleis dans le but d’informer les jeunes d’Anvers (16 à 18 ans) sur les défis sociétaux actuels pour les préparer aux prochaines élections.
 
-### [Upcoming] 03 April 2024
+### 14 mars 2024 
+Anaëlle Gonzalez et Laura Vandenbosch ont publié un article intitulé « Analyse systématique du contenu des fondements moraux présentés dans le contenu Instagram des célébrités, influenceurs et athlètes ». L’article est disponible au lien suivant : https://doi.org/10.1080/15205436.2024.2317764
 
-MIMIc team member Luca Carbone presented results from the research conducted within the MIMIc project as part of the invited lecture titled “Long-term music effects among adolescents”. This event was part of the event “CII Spotlight” organized by the Cluster on Inequalities and Inclusion at the Weatherhead Center (Harvard University).
+### 07 mars 2024 
+Les membres de MIMIc Laura Vandenbosch, Jasmina Rosič et Anaëlle Gonzalez ont rencontré l’officier scientifique actuel ERCEA pour les sciences sociales et humaines. Lors de la réunion, elles ont présenté les progrès du projet MIMIc et son importance pour la société, et ont discuté de certains défis inhérents aux grands projets CER (Conseil Européen de la Recherche).
 
-### 26 March 2024
+### 20 février 2024 
+Le membre de l’équipe MIMIc Luca Carbone a été invité à présenter des résultats du projet MIMIc dans une présentation intitulée « Stratégies de mesure à travers les objets médiatiques et les cognitions des individus ». Cet événement faisait partie du Séminaire de troisième cycle sur les méthodes quantitatives en sociologie, organisé par le département de sociologie de l’Université de Boston.
 
-MIMIc team member Luca Carbone presented results from the research conducted within the MIMIc project as part of the invited lecture titled “Meritocracy and Inequality”. This event was part of the event “Harvard Culture and Social Analysis Workshop” organized by the Sociology Department at Harvard University.
-
-### 19 March 2024
-
-MIMIc team member Gaëlle Vanhoffelen presented results regarding adolescents’ social media use from the research conducted within the MIMIc project as part of the invited lecture titled “Sociale media: een vloek of een zegen?”. This event was part of the “A1000” project organized by Het Paleis with the aim of informing Antwerp youth (16 to 18 years old) about today’s societal challenges to prepare them for the upcoming elections.
-
-### 14 March 2024
-
-Anaëlle Gonzalez and Laura Vandenbosch published an article titled “A Systematic Content Analysis of the Moral Foundations Featured in Celebrities’, Influencers’, and Athletes’ Instagram Content”. The article is available at the following link: https://doi.org/10.1080/15205436.2024.2317764 
-
-### 07 March 2024
-
-Mimic members Laura Vandenbosch, Jasmina Rosič and Anaëlle Gonzalez met with the current ERCEA Scientific officer for Social Sciences and Humanities. During the meeting, they presented the progress of the MIMIc project and its societal relevance, and discussed some challenges inherent to big ERC projects.
-
-### 20 February 2024
-
-MIMIc team member Luca Carbone presented results from the research conducted within the MIMIc project as part of the invited lecture titled “Measurement strategies across media objects and individuals' cognitions”. This event was part of the "Graduate Seminar on Quantitative Methods in Sociology" organized by the Sociology Department at Boston University.
-
-### 08-09 February 2024
-
-MIMIc members Jasmina Rosič, Gaëlle Vanhoffelen and Anaëlle Gonzalez presented new results from the MIMIc project at the Etmaal van de Communicatiewetenschap conference in Rotterdam (Netherlands) in February 2024. Those same papers will be presented in September 2024 at the European Communication Research and Education Association (ECREA) conference in Ljubljana (Slovenia). Below you can read the titles and abstracts of the works they presented/will present: 
+### 08-09 février 2024
+Les membres de MIMIc Jasmina Rosič, Gaëlle Vanhoffelen et Anaëlle Gonzalez, ont présenté de nouveaux résultats du projet MIMIc lors de la conférence Etmaal van de Communicatiewetenschap à Rotterdam (Pays-Bas) en février 2024. Ces mêmes travaux seront présentés en septembre 2024 lors de la conférence de l'Association européenne de recherche et d'éducation en communication (ECREA) à Ljubljana (Slovénie). Ci-dessous, vous pouvez lire les titres et résumés des travaux qu'elles ont présentés/vont présenter:
 
 **Jasmina Rosič**<br><br>
-- **Authors**: Jasmina Rosič, Lara Schreurs, Sophie H. Janicke-Bowles, and Laura Vandenbosch
-- **Title**: Digital flourishing in adolescence: A one-year trajectory study
-- **Abstract**: Digital flourishing refers to the positive perceptions of digital communication use in five dimensions: connectedness, positive social comparison, authentic self-presentation, civil participation, and self-control. This three-wave panel study among 1,081 Slovenian adolescents (Mage = 15.34 years, 53.8% boys, 80.7% ethnic majority) explored the trajectories of their digital flourishing dimensions over one year (2021–2022). Latent class growth analysis identified two classes. Adolescents in the first class reported high levels of digital flourishing, which remained stable over time, whereas those in the second class reported low levels of digital flourishing with decreased self-control over time. Autonomy-supportive restrictive, autonomy-supportive active, and controlling active parental mediation styles, together with high parental digital skills, predicted adolescents’ belongingness to the (more digitally flourishing) first class.
+- **Auteures**: Jasmina Rosič, Lara Schreurs, Sophie H. Janicke-Bowles, and Laura Vandenbosch
+- **Titre**: Épanouissement numérique à l'adolescence : Une étude de trajectoire d'un an
+- **Résumé**: L'épanouissement numérique désigne les perceptions positives de l'utilisation de la communication numérique selon cinq dimensions : la connectivité, la comparaison sociale positive, la présentation de soi authentique, la participation civile et l'autodiscipline. Cette étude longitudinale à trois vagues menée auprès de 1 081 adolescents slovènes (âge moyen = 15,34 ans, 53,8 % de garçons, 80,7 % d'appartenance à la majorité ethnique) a exploré les trajectoires de leurs dimensions d'épanouissement numérique sur une année (2021-2022). L'analyse de croissance de classes latentes a identifié deux classes. Les adolescents de la première classe ont rapporté des niveaux élevés d'épanouissement numérique, qui sont restés stables dans le temps, tandis que ceux de la deuxième classe ont rapporté des niveaux faibles d'épanouissement numérique avec une autodiscipline diminuée au fil du temps. Les styles de médiation parentale restrictifs favorisant l'autonomie, actifs favorisant l'autonomie et actifs contrôlants, ainsi que les compétences numériques élevées des parents, ont prédit l'appartenance des adolescents à la première classe (plus d'épanouissement numérique).
 
 **Gaëlle Vanhoffelen**<br><br>
-- **Authors**: Gaëlle Vanhoffelen, Anaëlle Gonzalez, Lara Schreurs, Caroline Giraudeau, and Laura Vandenbosch
-- **Title**: The Perfect Li(f)e: a Longitudinal Study on Positive Social Media Content and European Adolescents’ Perfectionism
-- **Abstract**: Youth perfectionism levels have increased significantly over the last decades. Given the dominance of picture-perfect content online, social media are often pointed out as contributors of this rise. Accordingly, the current study examined how exposure to positive social media content might increase adolescents’ perfectionistic traits and vice versa. Moreover, it was explored whether upward social comparison and adolescents’ sociocultural context (on a micro and macro level) play, respectively, a mediating and moderating role in this model. A three-wave panel study was conducted among an analytical sample of 1697 Belgian, French, and Slovenian adolescents (Mage=15.14, SDage=1.78, 53.6% girls). The between-person results showed that higher trait-like levels of exposure to positive social media content (appearance- and life-related) is significantly related to higher trait-like levels of perfectionism (self-oriented and socially prescribed). Moreover, adolescents’ trait-level of upward social comparison was found to act as an explaining mechanism in the link with socially prescribed perfectionism. However, a more complex pattern emerged at the within-person level with different results across waves, countries, and adolescents’ individualistic values. 
+- **Auteures**: Gaëlle Vanhoffelen, Anaëlle Gonzalez, Lara Schreurs, Caroline Giraudeau, and Laura Vandenbosch
+- **Titre**: La Vie Parfaite : une étude longitudinale sur le contenu positif des réseaux sociaux et le perfectionnisme d’adolescents européens
+- **Résumé**: Les niveaux de perfectionnisme chez les jeunes ont augmenté de manière significative au cours des dernières décennies. Étant donné la prédominance de contenus positifs et ‘parfaits’ mis en scène en ligne, les réseaux sociaux sont souvent désignés comme des contributeurs à cette augmentation. Par conséquent, cette étude examine comment l'exposition au contenu positif des réseaux sociaux pourrait augmenter les traits de perfectionnisme des adolescents et vice versa. De plus, les rôles de la comparaison sociale ascendante comme médiateur et du contexte socioculturel des adolescents (au niveau micro et macro) comme modérateur de ce modèle ont été explorés. Une étude longitudinale à trois vagues a été menée auprès d'un échantillon analytique de 1697 adolescents belges, français et slovènes (âge moyen = 15,14, DSâge = 1,78, 53,6 % de filles). Les résultats entre les personnes ont montré que des niveaux de traits plus élevés d'exposition au contenu positif des réseaux sociaux (liés à l'apparence et au style de vie) sont significativement associés à des niveaux de traits plus élevés de perfectionnisme (orienté vers soi et prescrit socialement). De plus, le niveau de comparaison sociale ascendante des adolescents s'est révélé agir comme un mécanisme explicatif dans le lien avec le perfectionnisme socialement prescrit. Cependant, un schéma plus complexe est apparu au niveau intrapersonnel avec des résultats différents d'une vague à l'autre, d'un pays à l'autre et en fonction des valeurs individualistes des adolescents.
 
 **Anaëlle Gonzalez**<br><br>
-- **Authors**: Anaëlle Gonzalez and Laura Vandenbosch
-- **Title**: Adolescents’ Political Empowerment on Social Media: Exploring the Relationships between Role Models’ Political Content and Political Self-Efficacy
-- **Abstract**: Adolescents’ favorite role models (i.e., influencers, celebrities and sports stars) have been documented to share political opinions on their social media accounts amid their entertainment and lifestyle content. Through engaging political posts, these actors have the potential to empower the political self-efficacy skills of their (young) audiences. The link between the promotion of political content by social media role models and adolescents’ political self-efficacy may further depend on the type of role model (comparing influencers, celebrities, and sports stars), parasocial interactions between the role model and the user, the level of political interest of the user, and the level of elaborate and selective processing of political information on social media of the user. Yet knowledge is lacking on these potential boundary conditions. We used (cross-sectional) data collected among 415 French adolescents aged 11-19 in 2022. The findings showed that a higher prevalence of political content in role models’ social media was associated with higher levels of political self-efficacy among adolescents. None of the explored conditions moderated the relationship of interest. Theoretical and practical implications are discussed.
+- **Auteures**: Anaëlle Gonzalez and Laura Vandenbosch
+- **Titre**: L'Empouvoirement politique des adolescents sur les réseaux sociaux : Exploration des relations entre le contenu politique des personnalités préférées des adolescents et l'auto-efficacité politique
+- **Résumé**: Les personnalités préférées des adolescents (c'est-à-dire les influenceurs, les célébrités et les stars du sport) partagent leurs opinions politiques sur leurs comptes de réseaux sociaux au milieu de leur contenu de divertissement et de style de vie. À travers leurs publications politiques engageantes, ces acteurs ont le potentiel de renforcer les compétences en auto-efficacité politique de leur jeune public. Il est possible que ce lien entre la promotion de contenu politique par ces personnalités et l'auto-efficacité politique des adolescents puisse aussi dépendre du type de personnalité (en comparant les influenceurs, les célébrités et les stars du sport), des interactions parasociales entre la personnalité et l'adolescent, du niveau d'intérêt politique de l’ado et du niveau de traitement élaboré et sélectif de l'information politique sur les réseaux sociaux de l'ado. Cependant, les connaissances font défaut sur ces conditions potentielles. Nous avons utilisé des données (transversales) collectées auprès de 415 adolescents français âgés de 11 à 19 ans en 2022. Les résultats ont montré qu'une plus grande prévalence de contenu politique dans les réseaux sociaux des personnalités favorites était associée à des niveaux plus élevés d'auto-efficacité politique chez les adolescents. Aucune des conditions explorées n'a modéré la relation d'intérêt. Les implications théoriques et pratiques sont discutées.
 
 ### 7 décembre 2023
 
@@ -90,9 +80,8 @@ Enfin, l’équipe MIMIc est reconnaissante pour la motivation et l’enthousias
 
 Nous souhaitons d’ores et déjà à toutes et à tous de joyeuses vacances d’hiver et fêtes de fin d’année !
 
-### 1 décembre 2023
-
-MIMIc members Jasmina Rosič and Laura Vandenbosch published an article titled “Measuring digital well-being in everyday life among Slovenian adolescents: The Perceived Digital Well-Being in Adolescence Scale”. The article is available at the following [link](https://www.tandfonline.com/doi/abs/10.1080/17482798.2023.2272651).
+### 1er décembre 2023 
+Les membres de MIMIc Jasmina Rosič et Laura Vandenbosch ont publié un article intitulé « Mesurer le bien-être numérique dans la vie quotidienne des adolescents slovènes : l'échelle de bien-être numérique perçu à l'adolescence ». L'article est disponible à ce lien.
 
 ### 7 octobre 2023
 
@@ -121,13 +110,11 @@ L'équipe MIMIc a présenté le projet et ses diverses études à la Faculté de
 
 Les membres de MIMIc Luca Carbone et Laura Vandenbosch ont publié un article intitulé "Une méta-analyse des études examinant l'effet de la musique sur les croyances". L'article est disponible via ce [lien](https://doi.org/10.1177/00936502231163633).
 
-### 27 February  2023
+### 27 février 2023 
+Le membre de l'équipe MIMIc Jasmina Rosič a été invitée à présenter certains résultats du projet MIMIc lors d’un premier séminaire intitulé « Épanouissement numérique à l'adolescence » à l'Université Chapman (USA).
 
-MIMIc team member Jasmina Rosič presented some results of the MIMIc project in the invited lecture at the Chapman University (USA) titled “Digital flourishing in adolescence.”
-
-### 13 February 2023
-
-MIMIc team member Jasmina Rosič presented some results of the MIMIc project in the invited lecture at the Chapman University (USA) titled “The perceived digital balance in adolescence.”
+### 13 février 2023 
+Le membre de l'équipe MIMIc Jasmina Rosič a été invitée à présenter certains résultats du projet MIMIc lors d’un second séminaire intitulé « L'équilibre numérique perçu à l'adolescence » à l'Université Chapman (USA).
 
 ### 25 janvier 2023
 
