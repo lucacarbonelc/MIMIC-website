@@ -18,6 +18,10 @@ Ob zaključku projekta MIMIc bo 24. septembra 2024 bo v Ljubljani (Slovenija) po
 
 Anaëlle Gonzalez bo na Evropskem dogodku komunikološke znanosti (ECSE), ki bo potekal 20. in 21. junija 2024 v Nijmegenu (Nizozemska), koordinirala panelno razpravo o raziskavah vplivnežev/-ic med različnimi komunikološkimi disciplinami. Na panelu bo predstavila nekaj ugotovitev o političnih vsebinah in okvirjih, ki jih uporabljajo vplivneži/-ice, ko govorijo o politiki na družbenih omrežjih (študija v soavtorstvu s Phoebe Kwan in Lauro Vandenbosch).
 
+### 13. april 2024
+
+Jasmina Rosič in Laura Vandenbosch sta objavili članek z naslovom »Krivulje rasti digitalnega blestenja v mladostništvu: napovedna vloga razvojnih sprememb in dejavnikov digitalnega razkoraka«. Članek je na voljo na naslednji [povezavi](http://doi.org/10.1111/cdev.14101).
+
 ### 03. april 2024
 
 Luca Carbone je na vabljenem predavanju z naslovom »Dolgoročni učinki glasbe na mladostnike/-ce« predstavil rezultate nekaterih študij projekta MIMIc. Predavanje je bilo del dogodka »CII Spotlight«, ki ga je organiziral Center za neenakosti in vključevanje Weatherhead (Univerza Harvard).

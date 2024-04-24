@@ -15,7 +15,11 @@ L’événement de clôture du projet MIMIc pour les établissements scolaires e
 ### [À venir] 20-21 juin 2024 
 Pour l’événement européen de science de la communication (ECSE) qui aura lieu à Nijmegen (Pays-Bas) les 20 et 21 juin 2024, Anaëlle Gonzalez coordonnera une session de panel sur la recherche sur les influenceurs dans les sous-disciplines de la science de la communication. Au cours de ce panel, elle présentera certaines conclusions complémentaires sur le contenu politique des influenceurs (en collaboration avec Phoebe Kwan et Laura Vandenbosch) et les cadres de référence qu’ils utilisent lorsqu’ils parlent de politique sur les réseaux sociaux.
 
-### [À venir] 03 avril 2024 
+### 13 avril 2024
+
+Jasmina Rosič et Laura Vandenbosch ont publié un article intitulé “Trajectoires d’épanouissement numérique à l’adolescence : Les rôles prédictifs des changements développementaux et des facteurs de fracture numérique”. L’article est disponible sur ce [lien](http://doi.org/10.1111/cdev.14101).
+
+### 03 avril 2024 
 Le membre de l’équipe MIMIc Luca Carbone a été invité à présenter des résultats du projet MIMIc dans un séminaire intitulé « Effets musicaux à long terme chez les adolescents ». Ce séminaire faisait partie de l’événement CII Spotlight organisé par le Cluster sur les inégalités et l’inclusion au Weatherhead Center (Université Harvard).
 
 ### 26 mars 2024 

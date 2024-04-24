@@ -15,6 +15,10 @@ Het Sloveense slotevenement van het MIMIc Project voor de scholen en verschillen
 ### [Binnenkort] 20-21 juni 2024
 Voor het ‘European Communication Science Event’ (ECSE) dat plaatsvindt in Nijmegen (Nederland) op 20-21 juni 2024, zal Anaëlle Gonzalez een panelsessie coördineren over onderzoek naar influencers in verschillende communicatiedisciplines. Tijdens dit panel zal ze een aantal aanvullende bevindingen presenteren over de politieke inhoud van influencers (co-auteurs Phoebe Kwan en Laura Vandenbosch) en de frames die ze gebruiken wanneer ze over politiek praten op sociale media.
 
+### 13 april 2024
+
+Jasmina Rosič en Laura Vandenbosch hebben een artikel gepubliceerd met als titel "Trajectories of digital flourishing in adolescence: The predictive roles of developmental changes and digital divide factors". Het artikel is beschikbaar via de volgende [link](http://doi.org/10.1111/cdev.14101).
+
 ### 03 april 2024
 MIMIc teamlid Luca Carbone presenteerde de resultaten van het onderzoek binnen het MIMIc project als onderdeel van de lezing "Long-term music effects among adolescents". Dit evenement maakte deel uit van het evenement "CII Spotlight" georganiseerd door het Cluster on Inequalities and Inclusion in het Weatherhead Center (Harvard University).
 
