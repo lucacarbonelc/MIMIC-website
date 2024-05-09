@@ -14,7 +14,6 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2024-04-13T00:00:00Z"
-tags:
 title: 'Trajectories of digital flourishing in adolescence: The predictive roles of developmental changes and digital divide factors'
 url_code: ""
 url_dataset: ""
