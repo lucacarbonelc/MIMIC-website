@@ -3,7 +3,7 @@ abstract: 'Digital flourishing refers to the positive perceptions of digital com
 authors:
 - Jasmina Rosič
 - Lara Schreurs
-_ Sophie Janicke-Bowles
+- Sophie Janicke-Bowles
 - Laura Vandenbosch
 date: "2024-04-13T00:00:00Z"
 doi: "10.1111/cdev.14101"
