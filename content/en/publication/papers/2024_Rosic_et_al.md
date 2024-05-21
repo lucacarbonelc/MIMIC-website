@@ -1,5 +1,5 @@
 ---
-abstract: 'Digital flourishing refers to the positive perceptions of digital communication use in five dimensions: connectedness, positive social comparison, authentic self- presentation, civil participation, and self-control. This three-wave panel study among 1081 Slovenian adolescents (Mage = 15.34years, 53.8% boys, 80.7% ethnic majority) explored the trajectories of their digital flourishing dimensions over 1 year (2021–2022). Latent class growth analysis identified two classes. Adolescents in the first class reported high levels of digital flourishing, which remained stable over time, whereas those in the second class reported low levels of digital flourishing with decreased self-control over time. Autonomy-supportive restrictive, autonomy-supportive active, and controlling active parental mediation styles, together with high parental digital skills, predicted adolescents' belongingness to the (more digitally flourishing) first class.'
+abstract: 'Digital'
 authors:
 - Jasmina Rosič
 - Lara Schreurs
