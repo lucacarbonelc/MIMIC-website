@@ -49,4 +49,4 @@ user_groups:
 - Team
 ---
 
-Anaëlle Gonzalez est doctorante à la Leuven School for Mass Communication Research (KU Leuven) sous la direction de la professeure Laura Vandenbosch. Son projet de doctorat porte sur le rôle que les réseaux sociaux et la fiction de divertissement (séries) jouent dans la socialisation politique des adolescents. Il fait partie de la plus grande subvention de démarrage du CER sur les idéaux médiatisés malléables et le bien-être des adolescents. Ce projet utilise une approche multidisciplinaire car il combine science de la communication, science politique et psychologie.
+Anaëlle Gonzalez est doctorante à la Media Psychology Lab (KU Leuven) sous la direction de la professeure Laura Vandenbosch. Son projet de doctorat porte sur le rôle que les réseaux sociaux et la fiction de divertissement (séries) jouent dans la socialisation politique des adolescents. Il fait partie de la plus grande subvention de démarrage du CER sur les idéaux médiatisés malléables et le bien-être des adolescents. Ce projet utilise une approche multidisciplinaire car il combine science de la communication, science politique et psychologie.

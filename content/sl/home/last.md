@@ -52,7 +52,7 @@ subtitle = "---"
 ![](/img/partners.png)
 
 Katholieke Universiteit Leuven, Belgium
-<a href="https://soc.kuleuven.be/smc">School for Mass Communication Research (SMCR)</a>. <br />
+<a href="https://soc.kuleuven.be/smc">Media Psychology Lab</a>. <br />
 Université de Tours, France
 <a href="https://ash.univ-tours.fr/presentation/departement-de-psychologie-196052.kjsp?RH=1179214243747?RH=1179214243747">Department of Psychology</a>. <br />
 Univerza v Ljubljani, Slovenia

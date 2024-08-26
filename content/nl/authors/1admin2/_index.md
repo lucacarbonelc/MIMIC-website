@@ -49,4 +49,4 @@ user_groups:
 - Team
 ---
 
-Anaëlle Gonzalez is doctoraatsstudente aan de Leuvense School voor Massacommunicatie Onderzoek (KU Leuven) onder begeleiding van professor Laura Vandenbosch. Haar doctoraatsproject richt zich op de rol die sociale media en entertainment fictie spelen in de politieke socialisatie van adolescenten. Het maakt deel uit van de grotere ERC-startsubsidie over 'Malleable Mediated Ideals and Adolescents' Wellbeing'. Dit project maakt gebruik van een multidisciplinaire aanpak omdat het communicatie en politieke wetenschappen combineert, evenals psychologie.
+Anaëlle Gonzalez is doctoraatsstudente aan de Media Psychology Lab (KU Leuven) onder begeleiding van professor Laura Vandenbosch. Haar doctoraatsproject richt zich op de rol die sociale media en entertainment fictie spelen in de politieke socialisatie van adolescenten. Het maakt deel uit van de grotere ERC-startsubsidie over 'Malleable Mediated Ideals and Adolescents' Wellbeing'. Dit project maakt gebruik van een multidisciplinaire aanpak omdat het communicatie en politieke wetenschappen combineert, evenals psychologie.

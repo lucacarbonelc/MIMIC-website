@@ -39,7 +39,7 @@ user_groups:
 - Team
 ---
 
-Depuis 2023, Laura Vandenbosch est Maître de Conférence à la School for Mass Communication Research (bourse de recherche BOF-ZAP). La relation entre les médias et le bien-être est au cœur de ses recherches, menant à des publications internationales dans plusieurs domaines dont la psychologie du développement, la sexologie, l'image corporelle, les relations sociales et la théorie de la communication.
+Depuis 2023, Laura Vandenbosch est Maître de Conférence à la Media Psychology Lab (bourse de recherche BOF-ZAP). La relation entre les médias et le bien-être est au cœur de ses recherches, menant à des publications internationales dans plusieurs domaines dont la psychologie du développement, la sexologie, l'image corporelle, les relations sociales et la théorie de la communication.
 
 En 2015, elle a été élue secrétaire de la Division des enfants, des adolescents et des médias de l'Association internationale de la communication (2015-2018). Laura est actuellement également membre du comité de rédaction des revues classées ISI Human Communication Research, Journal of Children and Media, et Communications: The European Journal of Communication Research.
 

@@ -49,6 +49,6 @@ user_groups:
 - Team
 ---
 
-Je suis doctorant à l'École de recherche en communication de masse, KU Leuven (BE). Mes intérêts de recherche se situent à l'intersection de la sociologie culturelle et cognitive, de la recherche sur les effets des médias et de l'étude des inégalités.
+Je suis doctorant à la Media Psychology Lab, KU Leuven (BE). Mes intérêts de recherche se situent à l'intersection de la sociologie culturelle et cognitive, de la recherche sur les effets des médias et de l'étude des inégalités.
 D'un point de vue théorique, j'étudie comment les processus de socialisation chez les adolescents peuvent façonner la formation de leurs croyances sur les inégalités. En m'inspirant de la sociologie culturelle, j'étudie comment l'accès et l'engagement socialement stratifiés avec des biens symboliques prestigieux (c'est-à-dire les genres musicaux) pourraient agir comme une forme de différenciation culturelle. En m'inspirant de la littérature sur les effets médiatiques, j'étudie comment la musique dépeint le statut social et les voies possibles par lesquelles ces représentations influencent les croyances des adolescents.
 Empiriquement, j'emploie des méthodologies quantitatives, telles que l'analyse de réseaux sociaux, la modélisation d'équations structurelles et l'analyse de texte informatique. Je suis attaché à un cadre et à un état d'esprit scientifiques ouverts.

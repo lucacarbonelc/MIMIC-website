@@ -49,4 +49,4 @@ user_groups:
 - Team
 ---
 
-Anaëlle Gonzalez is a PhD student at the Leuven School for Mass Communication Research (KU Leuven) under the supervision of Professor Laura Vandenbosch. Her PhD project focuses on the role that Social media and Entertainment Fiction play in Adolescents’ Political Socialization. It is part of the bigger ERC starting grant on Malleable Mediated Ideals and Adolescents’ Wellbeing. This project uses a multidisciplinary approach as it combines communication and political science, as well as psychology.
+Anaëlle Gonzalez is a PhD student at the Media Psychology Lab (KU Leuven) under the supervision of Professor Laura Vandenbosch. Her PhD project focuses on the role that Social media and Entertainment Fiction play in Adolescents’ Political Socialization. It is part of the bigger ERC starting grant on Malleable Mediated Ideals and Adolescents’ Wellbeing. This project uses a multidisciplinary approach as it combines communication and political science, as well as psychology.

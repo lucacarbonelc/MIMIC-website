@@ -49,4 +49,4 @@ user_groups:
 - Ekipa
 ---
 
-Anaëlle Gonzalez je doktorska študentka na Oddelku za raziskovanje množičnega komuniciranja Univerze v Leuvnu pod mentorstvom izredne profesorice Laure Vandenbosch. V njenem doktorskem projektu se osredotoča na vlogo, ki jo imajo družbena omrežja in zabavni mediji (tv serije) pri politični socializaciji mladostnikov. Njeno delo poteka v okviru širšega z ERC sredstvi podprtega projekta z naslovom Spremenljivost “pokvarljivih idealov” in blaginja mladostnikov. Ta projekt uporablja multidisciplinaren pristop, saj združuje področja komunikologije, političnih ved in psihologije.
+Anaëlle Gonzalez je doktorska študentka na Media Psychology Lab Univerze v Leuvnu pod mentorstvom izredne profesorice Laure Vandenbosch. V njenem doktorskem projektu se osredotoča na vlogo, ki jo imajo družbena omrežja in zabavni mediji (tv serije) pri politični socializaciji mladostnikov. Njeno delo poteka v okviru širšega z ERC sredstvi podprtega projekta z naslovom Spremenljivost “pokvarljivih idealov” in blaginja mladostnikov. Ta projekt uporablja multidisciplinaren pristop, saj združuje področja komunikologije, političnih ved in psihologije.

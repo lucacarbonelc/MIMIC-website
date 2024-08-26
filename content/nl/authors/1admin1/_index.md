@@ -39,7 +39,7 @@ user_groups:
 - Team
 ---
 
-Laura Vandenbosch is sinds 2017 universitair docent aan de School for Mass Communication Research (BOF-ZAP Research Professororship Grant). De relatie tussen media en welzijn is het kernonderwerp van haar onderzoek en heeft geleid tot internationale publicaties op verschillende gebieden, waaronder ontwikkelingspsychologie, seksuologie, lichaamsbeeld, sociale relaties en communicatietheorie.
+Laura Vandenbosch is sinds 2017 universitair docent aan de Media Psychology Lab (BOF-ZAP Research Professororship Grant). De relatie tussen media en welzijn is het kernonderwerp van haar onderzoek en heeft geleid tot internationale publicaties op verschillende gebieden, waaronder ontwikkelingspsychologie, seksuologie, lichaamsbeeld, sociale relaties en communicatietheorie.
 
 In 2015 werd ze verkozen tot secretaris van de afdeling Kinderen, Adolescenten en Media van de International Communication Association (2015-2018). Laura is momenteel ook redactielid van ISI-gerangschikte tijdschriften Human Communication Research, Journal of Children and Media en Communications: The European Journal of Communication Research.
 

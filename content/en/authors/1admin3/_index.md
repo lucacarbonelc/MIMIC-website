@@ -44,5 +44,5 @@ user_groups:
 - Team
 ---
 
-Gaëlle Vanhoffelen is a PhD student at the Leuven School for Mass Communication (KU Leuven) under the supervision of Professor Laura Vandenbosch. Her PhD project focuses on the links between performance messages on digital media, such as social media and television, and youth's performance orientations with attention for the heterogenous cultural background of the youth audience. This project is part of the ERC-funded MIMIc project: ”Malleability in mediated ideals: A paradigm to understand effects of contemporary media in adolescents' well-being”.
+Gaëlle Vanhoffelen is a PhD student at the Media Psychology Lab (KU Leuven) under the supervision of Professor Laura Vandenbosch. Her PhD project focuses on the links between performance messages on digital media, such as social media and television, and youth's performance orientations with attention for the heterogenous cultural background of the youth audience. This project is part of the ERC-funded MIMIc project: ”Malleability in mediated ideals: A paradigm to understand effects of contemporary media in adolescents' well-being”.
 

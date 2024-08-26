@@ -39,7 +39,7 @@ user_groups:
 - Ekipa
 ---
 
-Laura Vandenbosch je od leta 2017 izredna profesorica na Oddelku za raziskovanje množičnega komuniciranja Univerze v Leuvnu, Belgija (BOF-ZAP sredstva za raziskovalno profesuro). Osrednja tema njenega raziskovanja je odnos med mediji in blaginjo, svoja dognanja pa objavlja v številnih mednarodnih revijah iz področja razvojne psihologije, seksologije, telesne podobe, socialnih odnosov in teorije komunikacije.
+Laura Vandenbosch je od leta 2017 izredna profesorica na Media Psychology Lab Univerze v Leuvnu, Belgija (BOF-ZAP sredstva za raziskovalno profesuro). Osrednja tema njenega raziskovanja je odnos med mediji in blaginjo, svoja dognanja pa objavlja v številnih mednarodnih revijah iz področja razvojne psihologije, seksologije, telesne podobe, socialnih odnosov in teorije komunikacije.
 
 Leta 2015 je bila izvoljena za položaj sekretarke za otroke, mladostnike in medijsko delitev na Mednarodnem združenju za komunikacijo (Children, Adolescents and Media Division of the International Communication Association) (2015–2018). Trenutno pa je tudi članica uredniškega odbora mednarodno indeksiranih znanstvenih revij (ISI-ranked), kot so Human Communication Research, Journal of Children and Media in The European Journal of Communication Research.
 

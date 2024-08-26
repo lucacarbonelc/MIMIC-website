@@ -52,6 +52,6 @@ user_groups:
 - Team
 ---
 
-I am a PhD student at the School for Mass Communication Research, KU Leuven (BE). My research interests lie at the intersection of cultural and cognitive sociology, media effects research, and the study of inequalities.
-From a theoretical point of view, I study how socialization processes among adolescents might shape the formation of their beliefs about inequalities. Drawing from cultural sociology, I study how the socially-stratified access and engagement with prestigious symbolic goods (i.e., music genres) might act as a form of cultural differentiation. Drawing from the media effects literature, I study how music portrays social status and the possible routes through which these portrayals influence adolescents beliefs.
-Empirically, I employ quantitative methodologies, such as social network analysis, structural equation modelling, and computational text analysis. I am committed to an open science framework and mindset.
+Luca Carbone is a PhD student at the Media Psychology Lab, KU Leuven (BE). Their research interests lie at the intersection of cultural and cognitive sociology, media effects research, and the study of inequalities.
+From a theoretical point of view, Luca studies how socialization processes among adolescents might shape the formation of their beliefs about inequalities. Drawing from cultural sociology, they study how the socially-stratified access and engagement with prestigious symbolic goods (i.e., music genres) might act as a form of cultural differentiation. Drawing from the media effects literature, they study how music portrays social status and the possible routes through which these portrayals influence adolescents beliefs.
+Empirically, Luca employs quantitative methodologies, such as social network analysis, structural equation modelling, and computational text analysis. In their work, they are committed to an open science framework and mindset.
