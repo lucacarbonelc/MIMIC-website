@@ -68,7 +68,7 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
-Za mlade med 13. in 18. letom starosti. Namenjeno uporabi v šolah in mladinskih organizacijah.
+Igra je namenjena mladim med 13. in 18. letom starosti. Namenjena je uporabi v šolah in mladinskih organizacijah.
 
 Z igro Vibe Check se mladi s pomočjo namišljenih situacij naučijo razmišljati o čustvih, ki jih doživljajo ob uporabi družbenih omrežij in se naučijo dobrih strategij za obvladovanje teh čustev.
 
@@ -100,7 +100,7 @@ Trajanje: 1 do 2 uri
 
 ### Kaj potrebujete?
 
-<a href="/img/WATWAT_priročnik.pdf" tabindex="-1"><strong>Prenesite Vibe Check priročnik</strong></a>
+<a href="/img/WATWAT_prirocnik.pdf" tabindex="-1"><strong>Prenesite Vibe Check priročnik</strong></a>
 
 <a href="/img/WATWAT_POSTER_si.pdf" tabindex="-1"><strong>Prenesite Vibe Check plakat</strong></a>
 
