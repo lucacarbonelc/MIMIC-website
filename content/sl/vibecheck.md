@@ -8,9 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Vibe Check"
-subtitle = "70 % mladih meni, da imajo lahko družbeni mediji nanje tako pozitiven kot negativen vpliv. Toda zaradi katerih vsebin se počutijo (manj) dobro? In kako se lahko z njimi soočijo? To odkrivajo v igri Vibe Check.
-
-Za mlade med 13. in 18. letom starosti. Namenjeno uporabi v šolah in mladinskih organizacijah."
+subtitle = "70 % mladih meni, da imajo lahko družbeni mediji nanje tako pozitiven kot negativen vpliv. Toda zaradi katerih vsebin se počutijo (manj) dobro? In kako se lahko z njimi soočijo? To odkrivajo v igri Vibe Check."
 date = "2020-06-30T00:00:00+01:00"
 lastmod = [":fileModTime", ":default"]
 
@@ -69,6 +67,8 @@ lastmod = [":fileModTime", ":default"]
  # CSS class.
  css_class = ""
 +++
+
+Za mlade med 13. in 18. letom starosti. Namenjeno uporabi v šolah in mladinskih organizacijah.
 
 Z igro Vibe Check se mladi s pomočjo namišljenih situacij naučijo razmišljati o čustvih, ki jih doživljajo ob uporabi družbenih omrežij in se naučijo dobrih strategij za obvladovanje teh čustev.
 
