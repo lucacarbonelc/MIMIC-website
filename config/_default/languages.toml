@@ -132,12 +132,6 @@
   parent = "resources"
   url = "/diary4"
   weight = 3.8
-
-[[fr.menu.main]]
-  name = "Vibe Check"
-  parent = "resources"
-  url = "/vibecheck"
-  weight = 3.9
   
 [[fr.menu.main]]
   name = "Écoles"
@@ -300,12 +294,6 @@
   parent = "resources"
   url = "/diary4"
   weight = 3.8
-
-[[nl.menu.main]]
-  name = "Vibe Check"
-  parent = "resources"
-  url = "/vibecheck"
-  weight = 3.9
 
 [[nl.menu.main]]
   name = "Scholen"

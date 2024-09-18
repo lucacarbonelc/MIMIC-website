@@ -96,7 +96,7 @@ Igra je sestavljena iz uvoda, dveh krogov igre in zaključka:
 
 Sodeluje lahko največ 24 igralcev, priporočamo skupine od 4 do 6 oseb.
 
-Trajanje: 1 do 2 uri
+Trajanje: od 1 do 2 uri
 
 ### Kaj potrebujete?
 

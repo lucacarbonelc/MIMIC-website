@@ -12,7 +12,7 @@ Anaëlle Gonzalez werd geïnterviewd voor het online magazine Causette om te pra
 
 ### 9 mei 2024
 
-Laura Vandenbosch deelde de bevindingen van het MIMIc-project in de podcast van de Universiteit van Vlaanderen met de titel "Worden we allemaal ongelukkiger van alle perfecte beelden op sociale media? Lees meer over de aflevering op deze [link](https://www.universiteitvanvlaanderen.be/podcast/worden-we-allemaal-ongelukkiger-van-al-die-perfecte-beelden-op-sociale-media); in het Nederlands).
+Laura Vandenbosch deelde de bevindingen van het MIMIc-project in de podcast van de Universiteit van Vlaanderen met de titel "Worden we allemaal ongelukkiger van alle perfecte beelden op sociale media? Lees meer over de aflevering op deze [link](https://www.universiteitvanvlaanderen.be/podcast/worden-we-allemaal-ongelukkiger-van-al-die-perfecte-beelden-op-sociale-media) (in het Nederlands).
 
 ### 27 april 2024
 
@@ -20,7 +20,7 @@ Anaëlle Gonzalez werd geïnterviewd voor de online krant 20minutes over influen
 
 ### 1 maart 2024
 
-Anaëlle Gonzalez werd geïnterviewd voor een online krantenartikel om te praten over het fenomeen "Sephora Kids", en het bredere onderwerp van influencers door kinderen. Het artikel kan hier worden gelezen ([link](https://www.dna.fr/magazine-lifestyle/2024/03/01/elles-ont-10-ans-et-veulent-du-retinol-les-sephora-kids-envahissent-tiktok); in het Frans).
+Anaëlle Gonzalez werd geïnterviewd voor een online krantenartikel om te praten over het fenomeen "Sephora Kids", en het bredere onderwerp van influencers door kinderen. Het artikel kan hier worden gelezen [link](https://www.dna.fr/magazine-lifestyle/2024/03/01/elles-ont-10-ans-et-veulent-du-retinol-les-sephora-kids-envahissent-tiktok) (in het Frans).
 
 ### 6 december 2023
 

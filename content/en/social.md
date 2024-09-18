@@ -16,7 +16,7 @@ Laura Vandenbosch shared the findings of the MIMIc project in the University of 
 
 ### 27 April 2024
 
-Anaëlle Gonzalez was interviewed for the online newspapers 20minutes on the topic of influencers, parasocial interactions and sect-like behaviors. The article can be read [here] (link: https://www.20minutes.fr/high-tech/by-the-web/4088072-20240427-tiktok-influenceurs-comme-ophenya-ligne-fine-entre-derive-sectaire-relation-parasociale) (in French).
+Anaëlle Gonzalez was interviewed for the online newspapers 20minutes on the topic of influencers, parasocial interactions and sect-like behaviors. The article can be read [here](link: https://www.20minutes.fr/high-tech/by-the-web/4088072-20240427-tiktok-influenceurs-comme-ophenya-ligne-fine-entre-derive-sectaire-relation-parasociale) (in French).
 
 ### 1 March 2024
 

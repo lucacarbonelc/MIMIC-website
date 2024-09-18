@@ -12,7 +12,7 @@ Anaëlle Gonzalez je v intervjuju spletne revije Causette spregovorila o gibanju
 
 ### 9. maj 2024
 
-Laura Vandenbosch je v podkastu Univerze v Flandriji z naslovom »Ali postajamo zaradi vseh popolnih slik na družbenih omrežjih bolj nesrečni?« delila ugotovitve projekta MIMIc ([povezava]((https://www.universiteitvanvlaanderen.be/podcast/worden-we-allemaal-ongelukkiger-van-al-die-perfecte-beelden-op-sociale-media)), v nizozemščini).
+Laura Vandenbosch je v podkastu Univerze v Flandriji z naslovom »Ali postajamo zaradi vseh popolnih slik na družbenih omrežjih bolj nesrečni?« delila ugotovitve projekta MIMIc ([povezava](https://www.universiteitvanvlaanderen.be/podcast/worden-we-allemaal-ongelukkiger-van-al-die-perfecte-beelden-op-sociale-media)), v nizozemščini).
 
 ### 27. april 2024
 
