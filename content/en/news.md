@@ -6,6 +6,10 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### [Upcoming] 18 October 2024
+
+Prof. Laura Vandenbosch will present results from the MIMIc project at the event "Lichaamsbeeld in de tijd van likes" as part of the Child and Youth Institute seminar series.
+
 ### [Upcoming] 24 – 27 September 2024
 
 Jasmina Rosič, Anaëlle Gonzalez, and Gaëlle Vanhoffelen will present their most recent work within the MIMIc project at the 10th European Communication Research and Education Association (ECREA) conference in Ljubljana (Slovenia) on 24 – 27th of September 2024.
@@ -14,9 +18,52 @@ Jasmina Rosič, Anaëlle Gonzalez, and Gaëlle Vanhoffelen will present their mo
 
 The Project MIMIc closing event for schools and various relevant stakeholders will take place on 24 September 2024 in Ljubljana (Slovenia). Jasmina Rosič and Laura Vandenbosch, together with Bojana Lobe and Kristina Rakinić, will share some insights from the MIMIc project and discuss the results with some of the project's youth participants and representatives of the digital media literacy organizations in Slovenia. A tool to promote media literacy among youth will be offered.
 
-### [Upcoming] 20-21 June 2024
+### 17 August 2024
+
+Gaëlle Vanhoffelen gave an invited lecture on the links between social media use and adolescents’ mental health, based on the MIMIc data, at the No Babes’ social media event in Ghent. [link](https://www.facebook.com/events/292670433836877?ref=newsfeed)
+
+### 4 - 11 August 2024
+
+Jasmina Rosič participated in the European media and communication doctoral summer school (ECREA) in Roskilde (Denmark). She shared the results of the MIMIc project, gained valuable insights from scholarly peer-review, and participated in workshops that were important for further investigation within the project.
+
+### 1 August 2024
+
+Katie Fitzgerald, Toon Tabruyn, and Laura Vandenbosch published an article titled “Adolescent Emotional Expression on Social Media: A Data Donation Study Across Three European Countries” in the journal Affective Science. The article is available at the following [link](https://link.springer.com/article/10.1007/s42761-024-00259-9).
+
+### 1 July 2024
+
+Prof. Laura Vandenbosch was invited to give a lecture roundtable at the EC program to talk about the influence of social media on mental health (organized by European Council).
+
+### 20-21 June 2024
 
 For the European Communication Science Event (ECSE) that will take place in Nijmegen (Netherlands) on 20-21st of June 2024, Anaëlle Gonzalez will coordinate a panel session on influencer research across communication sub-disciplines. During this panel, she will present some follow-up findings on the political content of influencers (co-authored with Phoebe Kwan and Laura Vandenbosch) and the frames that they use when talking about politics on social media.
+
+### 13 June 2024
+
+Jasmina Rosič presented the MIMIc Project and her study on digital flourishing in adolescence in a pitch session at the General Assembly of the KU Leuven Digital Society Institute (DigiSoc).
+
+### 1 June 2024
+
+Prof. Laura Vandenbosch was invited to give a lecture titled “Apestaartjaren & Génération 2024” at the Federal Event “Online relaties” (Brussels).
+
+### 27 May 2024
+
+Luca Carbone, Priscila Alvarez-Cueva, and Laura Vandenbosch published an article titled “Status Markers in Popular Music Across Six Countries: A Content Analysis of Gender, Race/Ethnicity, Genre, and Capital in Music Lyrics” in the journal Sex Roles. The article is available at the following [link](https://doi.org/10.1007/s11199-024-01483-0).
+
+### 16 May 2024
+
+Prof. Laura Vandenbosch was invited to give a lecture titled “Apestaartjaren: Digital Balance” at Mediawijs (Mechelen).
+
+### 14 May 2024
+
+Prof. Laura Vandenbosch was part of the documentary “Chasing Beauty” where she offered her expertise on the role of social media on beauty ideals. Find more information at this [link](https://www.flair.be/nl/chillax/series-films/chasing-beauty-de-prijs-van-perfectie-trailer/).
+
+### 7 May 2024
+Luca Carbone presented results of the MIMIc project at the invited talk “KU Leuven x AB Talk” to discuss the impact of social media on popular culture and the contemporary music industry. The talk can be seen at the following [link]( https://www.youtube.com/watch?v=lZFGsV2joEg).
+
+### 18 April 2024
+
+Prof. Laura Vandenbosch was invited to give a lecture titled “Sociale media vloek of zegen?” at the Postuniversitair centrum KU Leuven (Kortrijk)
 
 ### 13 April 2024
 
@@ -33,6 +80,10 @@ MIMIc team member Luca Carbone presented results from the research conducted wit
 ### 19 March 2024
 
 MIMIc team member Gaëlle Vanhoffelen presented results regarding adolescents’ social media use from the research conducted within the MIMIc project as part of the invited lecture titled “Sociale media: een vloek of een zegen?”. This event was part of the “A1000” project organized by Het Paleis with the aim of informing Antwerp youth (16 to 18 years old) about today’s societal challenges to prepare them for the upcoming elections.
+
+### 14 March 2024
+
+Luca Carbone and Laura Vandenbosch published an article titled “Adolescents’ music tastes in the streaming era: The case of Belgium” in the journal Cultural Sociology. The article is available at the following [link](https://doi.org/10.1177/17499755241244529).
 
 ### 14 March 2024
 
@@ -91,6 +142,9 @@ Participants were rewarded with gift vouchers. **Detailed information about the 
 Finally, the MIMIc team is grateful for the dedication and enthusiasm of the participants in participating in our study and would like to thank them again. We look forward to analyzing the collected data and informing the participants of the results.
 
 We already wish everyone happy winter holidays!
+
+### 2023
+Prof. Laura Vandenbosch was awarded the Vlaamse Wetenschappelijke Stichting (VWS) price for her research into growing up in a digital media world [link](https://kvab.be/nl/nieuws/prijs-vws-2023-voor-laura-vandenbosch).
 
 ### 1 December 2023
 

@@ -6,6 +6,19 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 17. maj 2024
+
+Anaëlle Gonzalez je v intervjuju spletne revije Causette spregovorila o gibanju #Blockout2024 na družbenih omrežjih in njegovih učinkih, ki se nanašajo na širšo temo političnega udejstvovanja vplivnežev [povezava](https://www.causette.fr/societe/humeurs/le-mouvement-blockout2024-qui-appelle-a-bloquer-des-personnalites-ne-prenant-pas-position-pour-gaza-peut-il-vraiment-avoir-un-impact/), [povezava](https://www.instagram.com/p/C7EqcMHMjTY/?utm_source=ig_web_copy_link) (v francoščini).
+
+### 9. maj 2024
+
+Laura Vandenbosch je v podkastu Univerze v Flandriji z naslovom »Ali postajamo zaradi vseh popolnih slik na družbenih omrežjih bolj nesrečni?« delila ugotovitve projekta MIMIc ([povezava]((https://www.universiteitvanvlaanderen.be/podcast/worden-we-allemaal-ongelukkiger-van-al-die-perfecte-beelden-op-sociale-media)), v nizozemščini).
+
+### 27. april 2024
+
+Anaëlle Gonzalez je v intervjuju spletnega časopisa 20minutes spregovorila o vplivnežih, parasocialnih interakcijah in vedenju sekt. Članek je na voljo [tukaj](https://www.20minutes.fr/high-tech/by-the-web/4088072-20240427-tiktok-influenceurs-comme-ophenya-ligne-fine-entre-derive-sectaire-relation-parasociale) (v francoščni).
+
+
 ### 1. marec 2024
 
 Anaëlle Gonzalez je v intervjuju za spletni časopis spregovorila o pojavu »Sephora Kids« in širši temi otroških vplivnežev/-ic. Članek si lahko preberete tukaj (povezava; v francoščini).

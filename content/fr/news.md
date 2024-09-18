@@ -6,38 +6,100 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### [À venir] 18 octobre 2024 
+
+La professeure Laura Vandenbosch présentera les résultats du projet MIMIc lors de l'événement « Lichaamsbeeld in de tijd van likes » dans le cadre du cycle de séminaires du Child and Youth Institute.
+
 ### [À venir] 24 – 27 septembre 2024 
+
 Jasmina Rosič, Anaëlle Gonzalez et Gaëlle Vanhoffelen présenteront leurs travaux les plus récents dans le cadre du projet MIMIc lors de la 10ème conférence de l’Association européenne de recherche et d’éducation en communication (ECREA) à Ljubljana (Slovénie) du 24 au 27 septembre 2024.
 
 ### [À venir] 24 septembre 2024 
+
 L’événement de clôture du projet MIMIc pour les établissements scolaires et autres intervenants impliqués en Slovénie aura lieu le 24 septembre 2024 à Ljubljana (Slovénie). Jasmina Rosič et Laura Vandenbosch, accompagnées de Bojana Lobe et Kristina Rakinić, partageront quelques enseignements tirés du projet MIMIc et discuteront des résultats avec certains jeunes participants du projet et avec des représentants des organisations de littératie médiatique numérique en Slovénie. Un outil de promotion de la littératie médiatique chez les jeunes sera présenté.
 
-### [À venir] 20-21 juin 2024 
+### 20-21 juin 2024 
+
 Pour l’événement européen de science de la communication (ECSE) qui aura lieu à Nijmegen (Pays-Bas) les 20 et 21 juin 2024, Anaëlle Gonzalez coordonnera une session de panel sur la recherche sur les influenceurs dans les sous-disciplines de la science de la communication. Au cours de ce panel, elle présentera certaines conclusions complémentaires sur le contenu politique des influenceurs (en collaboration avec Phoebe Kwan et Laura Vandenbosch) et les cadres de référence qu’ils utilisent lorsqu’ils parlent de politique sur les réseaux sociaux.
+
+### 17 août 2024
+
+Gaëlle Vanhoffelen a été invitée pour donner une conférence sur les liens entre l'utilisation des réseaux sociaux et la santé mentale des adolescents, sur la base des données MIMIc, lors de l'événement No Babes’ social media à Gand. [lien](https://www.facebook.com/events/292670433836877?ref=newsfeed)
+
+### 1er août 2024
+
+Katie Fitzgerald, Toon Tabruyn et Laura Vandenbosch ont publié un article intitulé “L'expression émotionnelle des adolescents sur les réseaux sociaux : Une étude sur le don de données dans trois pays européens” dans la revue Affective Science. L'article est disponible via ce [lien](https://link.springer.com/article/10.1007/s42761-024-00259-9).
+
+### Juillet 2024
+
+Prof. Laura Vandenbosch a été invitée à donner une conférence en table ronde au programme CE pour parler de l'influence des réseaux sociaux sur la santé mentale (organisée par le Conseil européen).
+
+### 20-21 juin 2024
+
+Lors de l'European Communication Science Event (ECSE) qui a eu lieu à Nimègue (Pays-Bas) les 20 et 21 juin 2024, Anaëlle Gonzalez a coordonné une session de panel sur la recherche sur les influenceurs à travers les sous-disciplines de la communication. Au cours de ce panel, elle a présenté des résultats de suivi sur le contenu politique des influenceurs (co-écrit avec Phoebe Kwan et Laura Vandenbosch) et les cadres qu'ils utilisent lorsqu'ils parlent de politique sur les réseaux sociaux.
+
+### 13 juin 2024
+
+Jasmina Rosič a présenté le projet MIMIc et son étude sur l'épanouissement numérique à l'adolescence lors de l'Assemblée générale de l'Institut de la société numérique de la KU Leuven (DigiSoc).
+
+### Juin 2024
+
+Prof. Laura Vandenbosch a été invitée à donner une conférence intitulée “Apestaartjaren & Génération 2024” à l'événement fédéral “Relations En Ligne” (Bruxelles).
+
+### 27 mai 2024
+
+Luca Carbone, Priscila Alvarez-Cueva et Laura Vandenbosch ont publié un article intitulé “ Les marqueurs de statut dans la musique populaire à travers six pays : Une analyse de contenu du genre, de la race/ethnicité, du genre et du capital dans les paroles de musique ” dans la revue Sex Roles. L'article est disponible via ce [lien](https://doi.org/10.1007/s11199-024-01483-0).
+
+### 16 mai 2024
+
+Prof. Laura Vandenbosch a été invitée à donner une conférence intitulée “Apestaartjaren: L’équilibre digital” chez l’association d’éducation au numérique Mediawijs (Malines).
+
+### 14 mai 2024
+
+Prof. Laura Vandenbosch a participé au documentaire “Chasing Beauty” où elle a offert son expertise sur le rôle des réseaux sociaux sur les idéaux de beauté. Vous pouvez trouver plus d'informations via ce [lien](https://www.flair.be/nl/chillax/series-films/chasing-beauty-de-prijs-van-perfectie-trailer/).
+
+### 7 mai 2024
+
+Luca Carbone a été invité à présenter les résultats du projet MIMIc lors de la conférence “KU Leuven x AB Talk” pour discuter de l'impact des réseaux sociaux sur la culture populaire et l'industrie musicale contemporaine. La conférence peut être visionnée via ce [lien](https://www.youtube.com/watch?v=lZFGsV2joEg) (en anglais).
+
+### 18 Avril 2024
+
+Prof. Laura Vandenbosch a été invitée à donner une conférence intitulée “Les réseaux sociaux, malédiction ou bénédiction?” au centre post-universitaire de la KU Leuven (Courtrai).
 
 ### 13 avril 2024
 
 Jasmina Rosič et Laura Vandenbosch ont publié un article intitulé “Trajectoires d’épanouissement numérique à l’adolescence : Les rôles prédictifs des changements développementaux et des facteurs de fracture numérique”. L’article est disponible sur ce [lien](http://doi.org/10.1111/cdev.14101).
 
 ### 03 avril 2024 
+
 Le membre de l’équipe MIMIc Luca Carbone a été invité à présenter des résultats du projet MIMIc dans un séminaire intitulé « Effets musicaux à long terme chez les adolescents ». Ce séminaire faisait partie de l’événement CII Spotlight organisé par le Cluster sur les inégalités et l’inclusion au Weatherhead Center (Université Harvard).
 
 ### 26 mars 2024 
+
 Le membre de l’équipe MIMIc Luca Carbone a été invité à présenter des résultats du projet MIMIc dans un séminaire intitulé « Méritocratie et inégalité ». Cet événement faisait partie de l’événement Harvard Culture and Social Analysis Workshop organisé par le département de sociologie de l’Université Harvard.
 
 ### 19 mars 2024 
+
 Le membre de l’équipe MIMIc Gaëlle Vanhoffelen a été invitée à présenter des résultats du projet MIMIc sur l’utilisation des réseaux sociaux par les adolescents dans un séminaire intitulé « Réseaux sociaux : une malédiction ou une bénédiction ? ». Ce séminaire faisait partie du projet « A1000 » organisé par Het Paleis dans le but d’informer les jeunes d’Anvers (16 à 18 ans) sur les défis sociétaux actuels pour les préparer aux prochaines élections.
 
+### 14 mars 2024
+
+Luca Carbone et Laura Vandenbosch ont publié un article intitulé “Les goûts musicaux des adolescents à l'ère du streaming : Le cas de la Belgique” dans la revue Cultural Sociology. L'article est disponible via ce [lien](https://doi.org/10.1177/17499755241244529).
+
 ### 14 mars 2024 
+
 Anaëlle Gonzalez et Laura Vandenbosch ont publié un article intitulé « Analyse systématique du contenu des fondements moraux présentés dans le contenu Instagram des célébrités, influenceurs et athlètes ». L’article est disponible au lien suivant : https://doi.org/10.1080/15205436.2024.2317764
 
 ### 07 mars 2024 
+
 Les membres de MIMIc Laura Vandenbosch, Jasmina Rosič et Anaëlle Gonzalez ont rencontré l’officier scientifique actuel ERCEA pour les sciences sociales et humaines. Lors de la réunion, elles ont présenté les progrès du projet MIMIc et son importance pour la société, et ont discuté de certains défis inhérents aux grands projets CER (Conseil Européen de la Recherche).
 
 ### 20 février 2024 
+
 Le membre de l’équipe MIMIc Luca Carbone a été invité à présenter des résultats du projet MIMIc dans une présentation intitulée « Stratégies de mesure à travers les objets médiatiques et les cognitions des individus ». Cet événement faisait partie du Séminaire de troisième cycle sur les méthodes quantitatives en sociologie, organisé par le département de sociologie de l’Université de Boston.
 
 ### 08-09 février 2024
+
 Les membres de MIMIc Jasmina Rosič, Gaëlle Vanhoffelen et Anaëlle Gonzalez, ont présenté de nouveaux résultats du projet MIMIc lors de la conférence Etmaal van de Communicatiewetenschap à Rotterdam (Pays-Bas) en février 2024. Ces mêmes travaux seront présentés en septembre 2024 lors de la conférence de l'Association européenne de recherche et d'éducation en communication (ECREA) à Ljubljana (Slovénie). Ci-dessous, vous pouvez lire les titres et résumés des travaux qu'elles ont présentés/vont présenter:
 
 **Jasmina Rosič**<br><br>
@@ -54,6 +116,10 @@ Les membres de MIMIc Jasmina Rosič, Gaëlle Vanhoffelen et Anaëlle Gonzalez, o
 - **Auteures**: Anaëlle Gonzalez and Laura Vandenbosch
 - **Titre**: L'Empouvoirement politique des adolescents sur les réseaux sociaux : Exploration des relations entre le contenu politique des personnalités préférées des adolescents et l'auto-efficacité politique
 - **Résumé**: Les personnalités préférées des adolescents (c'est-à-dire les influenceurs, les célébrités et les stars du sport) partagent leurs opinions politiques sur leurs comptes de réseaux sociaux au milieu de leur contenu de divertissement et de style de vie. À travers leurs publications politiques engageantes, ces acteurs ont le potentiel de renforcer les compétences en auto-efficacité politique de leur jeune public. Il est possible que ce lien entre la promotion de contenu politique par ces personnalités et l'auto-efficacité politique des adolescents puisse aussi dépendre du type de personnalité (en comparant les influenceurs, les célébrités et les stars du sport), des interactions parasociales entre la personnalité et l'adolescent, du niveau d'intérêt politique de l’ado et du niveau de traitement élaboré et sélectif de l'information politique sur les réseaux sociaux de l'ado. Cependant, les connaissances font défaut sur ces conditions potentielles. Nous avons utilisé des données (transversales) collectées auprès de 415 adolescents français âgés de 11 à 19 ans en 2022. Les résultats ont montré qu'une plus grande prévalence de contenu politique dans les réseaux sociaux des personnalités favorites était associée à des niveaux plus élevés d'auto-efficacité politique chez les adolescents. Aucune des conditions explorées n'a modéré la relation d'intérêt. Les implications théoriques et pratiques sont discutées.
+
+### 2023
+
+Prof. Laura Vandenbosch a reçu le prix de la Fondation Scientifique Flamande (VWS) pour ses recherches sur le fait de grandir dans un monde médiatique numérique (lien).
 
 ### 7 décembre 2023
 

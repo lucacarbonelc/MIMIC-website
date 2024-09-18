@@ -6,6 +6,18 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 17 mei 2024
+
+Anaëlle Gonzalez werd geïnterviewd voor het online magazine Causette om te praten over de beweging #Blockout2024 op sociale media en de gevolgen ervan, met betrekking tot het bredere onderwerp van politieke betrokkenheid van influencers. Het artikel kan [hier](https://www.causette.fr/societe/humeurs/le-mouvement-blockout2024-qui-appelle-a-bloquer-des-personnalites-ne-prenant-pas-position-pour-gaza-peut-il-vraiment-avoir-un-impact/) en [hier](https://www.instagram.com/p/C7EqcMHMjTY/?utm_source=ig_web_copy_link) gelezen worden (in het Frans).
+
+### 9 mei 2024
+
+Laura Vandenbosch deelde de bevindingen van het MIMIc-project in de podcast van de Universiteit van Vlaanderen met de titel "Worden we allemaal ongelukkiger van alle perfecte beelden op sociale media? Lees meer over de aflevering op deze [link](https://www.universiteitvanvlaanderen.be/podcast/worden-we-allemaal-ongelukkiger-van-al-die-perfecte-beelden-op-sociale-media); in het Nederlands).
+
+### 27 april 2024
+
+Anaëlle Gonzalez werd geïnterviewd voor de online krant 20minutes over influencers, parasociale interacties en sekteachtig gedrag. Het artikel kan [hier](https://www.20minutes.fr/high-tech/by-the-web/4088072-20240427-tiktok-influenceurs-comme-ophenya-ligne-fine-entre-derive-sectaire-relation-parasociale) gelezen worden (in het Frans).
+
 ### 1 maart 2024
 
 Anaëlle Gonzalez werd geïnterviewd voor een online krantenartikel om te praten over het fenomeen "Sephora Kids", en het bredere onderwerp van influencers door kinderen. Het artikel kan hier worden gelezen ([link](https://www.dna.fr/magazine-lifestyle/2024/03/01/elles-ont-10-ans-et-veulent-du-retinol-les-sephora-kids-envahissent-tiktok); in het Frans).

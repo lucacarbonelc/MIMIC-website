@@ -6,10 +6,23 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 17 mai 2024
+Anaëlle Gonzalez a été interviewée pour le magazine en ligne Causette pour parler du mouvement #Blockout2024 sur les réseaux sociaux et de ses impacts, en lien avec le sujet plus large de l'engagement politique des influenceurs. L'article peut être lu [ici](https://www.causette.fr/societe/humeurs/le-mouvement-blockout2024-qui-appelle-a-bloquer-des-personnalites-ne-prenant-pas-position-pour-gaza-peut-il-vraiment-avoir-un-impact/) et [ici](https://www.instagram.com/p/C7EqcMHMjTY/?utm_source=ig_web_copy_link) (en français).
+
+### 9 mai 2024
+
+Prof. Laura Vandenbosch a partagé les résultats du projet MIMIc dans le podcast de l'Université de Flandre intitulé “Are we all getting unhappier from all perfect images on social media?”. Découvrez plus d'informations sur l'épisode via ce [lien](https://www.universiteitvanvlaanderen.be/podcast/worden-we-allemaal-ongelukkiger-van-al-die-perfecte-beelden-op-sociale-media) (en néerlandais).
+
+### 27 avril 2024
+
+Anaëlle Gonzalez a été interviewée pour le journal en ligne 20minutes sur le sujet des influenceurs, des interactions parasociales et des comportements de dérives sectaires. L'article peut être lu [ici](https://www.20minutes.fr/high-tech/by-the-web/4088072-20240427-tiktok-influenceurs-comme-ophenya-ligne-fine-entre-derive-sectaire-relation-parasociale) (en français).
+
 ### 1er mars 2024 
+
 Anaëlle Gonzalez a été interviewée pour un article de journal en ligne afin de parler du phénomène des ‘Sephora Kids’ et du sujet plus large des influenceurs enfants. L'article peut être lu ici [lien](https://www.dna.fr/magazine-lifestyle/2024/03/01/elles-ont-10-ans-et-veulent-du-retinol-les-sephora-kids-envahissent-tiktok).
 
 ### 6 décembre 2023 
+
 Gaëlle Vanhoffelen a été interviewée par Veto, le journal étudiant de la KU Leuven, au sujet des résultats de l'article ‘Être vrai, être heureux ? Examiner les relations entre les présentations authentiques de soi sur BeReal et l'estime de soi des adolescents’, qui a été mené dans le cadre du projet MIMIc. L'article peut être lu via ce [lien](https://www.veto.be/onderzoek/onderzoeker-ku-leuven-vindt-verband-tussen-bereal-en-je-zelfbeeld-het-kan-jezelf-versterken-als-je-zoekende-bent/337266?fbclid=IwAR1w98Fvyj91bwks_LAZkd71GGishIwvm4o3oear-tOvT8tlOs8iKIgnBDY).
 
 ### 5 juillet 2023

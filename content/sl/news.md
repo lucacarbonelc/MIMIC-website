@@ -6,6 +6,10 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### [Napovedujemo] 18. oktober 2024
+
+Prof. Laura Vandenbosch bo predstavila rezultate projekta MIMIc na dogodku "Lichaamsbeeld in de tijd van likes" v okviru serije seminarjev Inštituta za otroke in mladino.
+
 ### [Napovedujemo] 24. – 27. september 2024
 
 Jasmina Rosič, Anaëlle Gonzalez in Gaëlle Vanhoffelen bodo predstavile najnovejše ugotovitve projekta MIMIc na 10. konferenci Evropskega združenja komunikološkega raziskovanja in izobraževanja (ECREA), ki bo potekala od 24. do 27. septembra 2024 v Ljubljani (Slovenija).
@@ -14,9 +18,53 @@ Jasmina Rosič, Anaëlle Gonzalez in Gaëlle Vanhoffelen bodo predstavile najnov
 
 Ob zaključku projekta MIMIc bo 24. septembra 2024 bo v Ljubljani (Slovenija) potekal dogodek za šole in druge pomembne deležnike, na katerem bosta Jasmina Rosič in Laura Vandenbosch skupaj z Bojano Lobe in Kristino Rakinić delili nekaj spoznanj o projektu MIMIc. Skupaj z nekaj mladimi, ki so sodelovali v projektu ter s predstavniki/-cami organizacij za večjo medijsko pismenost v Sloveniji bodo razpravljale o rezultatih projekta. Ponudile bodo tudi orodje za spodbujanje medijske pismenosti med mladimi.
 
-### [Napovedujemo] 20. in 21. junij 2024
+### 17. avgust 2024
+
+Gaëlle Vanhoffelen je dogodku No Babes v Gentu (Belgija) izvedla vabljeno predavanje o povezavi med uporabo družbenih medijev in duševnim zdravjem mladostnikov, ki je temeljilo na podatkih iz projekta MIMIc [povezava](https://www.facebook.com/events/292670433836877?ref=newsfeed).
+
+### 4.–11. avgust 2024
+
+Jasmina Rosič se je udeležila mednarodne poletne šole Evropskega združenja komunikološkega raziskovanja in izobraževanja (ECREA) v Roskilde na Danskem, kjer je predstavila rezultate projekta MIMIc, pridobila uporabne informacije  drugih raziskovalcev in se udeležila delavnic, pomembnih za nadaljnje analize v projektu.
+
+### 1. avgust 2024
+
+Katie Fitzgerald, Toon Tabruyn, and Laura Vandenbosch so v reviji Affective Science objavili članek z naslovom Čustveno izražanje mladostnikov na družbenih medijih: študija doniranih podatkov v treh evropskih državah. Članek je na voljo na naslednji [povezavi](https://link.springer.com/article/10.1007/s42761-024-00259-9).
+
+### Julij 2024
+
+Prof. Laura Vandenbosch je bila povabljena na okroglo mizo v okviru programa EC v organizaciji Evropskega Sveta, kjer je predavala o vplivu družbenih medijev na duševno zdravje.
+
+### 20. in 21. junij 2024
 
 Anaëlle Gonzalez bo na Evropskem dogodku komunikološke znanosti (ECSE), ki bo potekal 20. in 21. junija 2024 v Nijmegenu (Nizozemska), koordinirala panelno razpravo o raziskavah vplivnežev/-ic med različnimi komunikološkimi disciplinami. Na panelu bo predstavila nekaj ugotovitev o političnih vsebinah in okvirjih, ki jih uporabljajo vplivneži/-ice, ko govorijo o politiki na družbenih omrežjih (študija v soavtorstvu s Phoebe Kwan in Lauro Vandenbosch).
+
+### 13. junij 2024
+
+Jasmina Rosič je na generalni skupščini Inštituta DigiSoc (the KU Leuven Digital Society Institute)  predstavila projekt MIMIc in svojo študijo tem, kako mladi blestijo na spletu.
+
+### 1 Junij 2024
+
+Prof. Laura Vandenbosch je na vabilo zveznega dogodka Spletna razmerja v Bruslju izvedla predavanje z naslovom Apestaartjaren & Génération 2024.
+
+### 27. maj 2024
+
+Luca Carbone, Priscila Alvarez-Cueva in Laura Vandenbosch so v reviji Sex Roles objavili članek z naslovom Statusni označevalci v popularni glasbi v šestih državah: analiza vsebine spola, rase/etničnosti, žanra in kapitala v glasbi. Članek je na voljo na naslednji [povezavi](https://doi.org/10.1007/s11199-024-01483-0).
+
+### 16. maj 2024
+
+Prof. Laura Vandenbosch je na vabilo organizacije Mediawijs v Mechelenu (Belgija) predavala o digitalnem ravnovesju.
+
+### 14. maj 2024
+
+Prof. Laura Vandenbosch je sodelovala v dokumentarnem filmu Chasing Beauty, kjer je ponudila svoje strokovno znanje o vlogi družbenih medijev na lepotne ideale. Več informacij na tej [povezavi](https://www.flair.be/nl/chillax/series-films/chasing-beauty-de-prijs-van-perfectie-trailer/).
+
+### 7. maj 2024
+
+Luca Carbone je na vabljenem pogovoru »KU Leuven x AB Talk« predstavil rezultate projekta MIMIc o vplivu družbenih medijev na popularno kulturo in sodobno glasbeno industrijo. Pogovor je na voljo na naslednji [povezavi](https://www.youtube.com/watch?v=lZFGsV2joEg).
+
+### 18. april 2024
+
+Prof. Laura Vandenbosch je na podiplomskem centru KU Leuven (Kortrijk, Belgija) izvedla vabljeno predavanje z naslovom Družbeni mediji: prekletstvo ali blagoslov?
 
 ### 13. april 2024
 
@@ -33,6 +81,10 @@ Luca Carbone je na vabljenem predavanju z naslovom »Meritokracija in neenakost�
 ### 19. marec 2024
 
 Gaëlle Vanhoffelen je na vabljenem predavanju z naslovom »Družbena omrežja: prekletstvo ali blagoslov?« predstavila rezultate projekta MIMIc o uporabi družbenih omrežjih med mladimi. To predavanje je bilo del projekta »A100«, ki ga je organizirala mladinska organizacija Het Paleis z namenom, da bi antwerpsko mladino (16–18 let) seznanila s trenutnimi družbenimi izzivi in jo tako pripravila na prihajajoče volitve.
+
+### 14. marec 2024
+
+Luca Carbone in Laura Vandenbosch sta v reviji Cultural Sociology objavila članek z naslovom Glasbeni okusi mladostnikov v obdobju pretočnih storitev: primer Belgije. Članek je na voljo na naslednji [povezavi](https://doi.org/10.1177/17499755241244529).
 
 ### 14. marec 2024
 
@@ -64,6 +116,10 @@ Jasmina Rosič, Gaëlle Vanhoffelen in Anaëlle Gonzalez so februarja 2024 na ko
 - **Avtorice**: Anaëlle Gonzalez and Laura Vandenbosch
 - **Naslov**: Politično opolnomočenje mladostnikov na družbenih omrežjih: Raziskovanje odnosov med politično vsebino vzornikov/-ic in politično samoučinkovitostjo
 - **Povzetek**: Študije so pokazale, da najljubši vzorniki/-ce mladostnikov/-ic (tj. vplivneži/-ce, zvezdniki/-ce in športniki/-ce) na družbenih omrežjih delijo politična mnenja med svojimi zabavnimi vsebinami in vsebinami o življenjskem slogu. Z zanimivimi političnimi objavami lahko ti akterji okrepijo spretnosti politične samoučinkovitosti svojega (mladega) občinstva. Povezava med spodbujanjem političnih vsebin s strani vzornikov/-ic na družbenih omrežjih in politično samoučinkovitostjo mladostnikov/-ic je lahko nadalje odvisna od vrste vzornika/-ce (primerjava vplivnežev/-ic, zvezdnikov /-ic in športnikov/-ic), parasocialnih interakcij med vzornikom/-co in uporabnikom/-co, stopnje političnega zanimanja uporabnika/-ce ter stopnje izpopolnjene in kritične obdelave političnih informacij na družbenih omrežjih pri uporabniku/-ci. Vendar pa znanja o teh možnih pogojih primanjkuje. Uporabili sva (presečne) podatke, zbrane med 415 mladostniki/-cami iz Francije, starimi od 11 do 19 let, leta 2022. Rezultati so pokazali, da je večja razširjenost političnih vsebin v družbenih omrežjih vzornikov/-ic povezana z višjo stopnjo politične samoučinkovitosti med mladostniki/-icami. Nobeden od raziskanih pogojev ni moderiral te povezanosti. Razpravljava o teoretičnih in praktičnih posledicah.
+
+### 2023
+
+Prof. Laura Vandenbosch je prejela nagrado Flamske znanstvene fundacije (VWS) za njeno raziskovalno delo o odraščanju v svetu digitalnih medijev [povezava](https://kvab.be/nl/nieuws/prijs-vws-2023-voor-laura-vandenbosch).
 
 ### 7. december 2023
 

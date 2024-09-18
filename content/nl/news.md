@@ -6,14 +6,62 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### [Binnenkort] 18 october 2024
+
+Prof. Laura Vandenbosch presenteert de resultaten van het MIMIc-project op het evenement "Lichaamsbeeld in de tijd van likes" als onderdeel van de seminarreeks van het Kind- en Jeugdinstituut.
+
 ### [Binnenkort] 24 - 27 september 2024
 Jasmina Rosič, Anaëlle Gonzalez en Gaëlle Vanhoffelen zullen hun meest recente werk binnen het MIMIc project presenteren op de 10e editie van de ‘European Communication Research and Education Association’ (ECREA) conferentie in Ljubljana (Slovenië) op 24 - 27 september 2024.
 
 ### [Binnenkort] 24 september 2024
 Het Sloveense slotevenement van het MIMIc Project voor de scholen en verschillende relevante stakeholders vindt plaats op 24 september 2024 in Ljubljana (Slovenië). Jasmina Rosič en Laura Vandenbosch zullen samen met Bojana Lobe en Kristina Rakinić enkele inzichten uit het MIMIc project delen en de resultaten bespreken met enkele jongerendeelnemers van het project en vertegenwoordigers van de organisaties voor digitale mediageletterdheid in Slovenië. Er zal een hulpmiddel worden aangeboden om mediawijsheid onder jongeren te promoten.
 
-### [Binnenkort] 20-21 juni 2024
+### 20-21 juni 2024
 Voor het ‘European Communication Science Event’ (ECSE) dat plaatsvindt in Nijmegen (Nederland) op 20-21 juni 2024, zal Anaëlle Gonzalez een panelsessie coördineren over onderzoek naar influencers in verschillende communicatiedisciplines. Tijdens dit panel zal ze een aantal aanvullende bevindingen presenteren over de politieke inhoud van influencers (co-auteurs Phoebe Kwan en Laura Vandenbosch) en de frames die ze gebruiken wanneer ze over politiek praten op sociale media.
+
+### 17 augustus 2024
+
+Gaëlle Vanhoffelen gaf een gastlezing over de verbanden tussen sociale media en het mentale welzijn van adolescenten, gebaseerd op de MIMIc data, op het social media event van No Babes in Gent. [link](https://www.facebook.com/events/292670433836877?ref=newsfeed)
+
+### 1 augustus 2024
+
+Katie Fitzgerald, Toon Tabruyn en Laura Vandenbosch hebben een artikel gepubliceerd met de titel "Adolescent Emotional Expression on Social Media: A Data Donation Study Across Three European Countries" in het tijdschrift Affective Science. Het artikel is beschikbaar via de volgende [link](https://link.springer.com/article/10.1007/s42761-024-00259-9).
+
+### Juli 2024
+
+Prof. Laura Vandenbosch werd uitgenodigd om een rondetafel-lezing te geven op het EC programma om te spreken over de invloed van sociale media op mentale gezondheid (georganiseerd door European Council).
+
+### 20-21 juni 2024
+
+Voor het European Communication Science Event (ECSE) dat plaatsvond in Nijmegen (Nederland) op 20-21 juni 2024, coördineerde Anaëlle Gonzalez een panelsessie over onderzoek naar influencers in verschillende subdisciplines van communicatiewetenschappen. Tijdens dit panel presenteerde ze een aantal vervolgbevindingen over de politieke inhoud van influencers (co-auteurs Phoebe Kwan en Laura Vandenbosch) en de frames die ze gebruiken wanneer ze over politiek praten op sociale media.
+
+### 13 juni 2024
+
+Jasmina Rosič presenteerde het MIMIc Project en haar studie over digitaal floreren in de adolescentie in een pitch-sessie op de Algemene Vergadering van het KU Leuven Digital Society Institute (DigiSoc).
+
+### Juni 2024
+
+Prof. Laura Vandenbosch werd uitgenodigd om een lezing te geven met als titel "Apestaartjaren & Génération 2024" op het Federaal Evenement "Online relaties" (Brussel).
+
+### 27 mei 2024
+
+Luca Carbone, Priscila Alvarez-Cueva en Laura Vandenbosch publiceerden een artikel getiteld "Status Markers in Popular Music Across Six Countries: A Content Analysis of Gender, Race/Ethnicity, Genre, and Capital in Music Lyrics" in het tijdschrift Sex Roles. Het artikel is beschikbaar via de volgende [link](https://doi.org/10.1007/s11199-024-01483-0).
+
+### 16 mei 2024
+
+Prof. dr. Laura Vandenbosch werd uitgenodigd om een lezing te geven met als titel "Apestaartjaren: Digitale Balans" bij Mediawijs (Mechelen).
+
+### 14 mei 2024
+
+Prof. Laura Vandenbosch maakte deel uit van de documentaire "Chasing Beauty" waar ze haar expertise aanbood over de rol van sociale media op schoonheidsidealen. Meer informatie is te vinden via deze [link](https://www.flair.be/nl/chillax/series-films/chasing-beauty-de-prijs-van-perfectie-trailer/).
+
+### 7 mei 2024
+
+Luca Carbone presenteerde de resultaten van het MIMIc project op de invited talk "KU Leuven x AB Talk" om de impact van sociale media op de populaire cultuur en de hedendaagse muziekindustrie te bespreken. De lezing kan worden bekeken via de volgende [link](https://www.youtube.com/watch?v=lZFGsV2joEg).
+
+### 18 april 2024
+
+Prof. dr. Laura Vandenbosch werd uitgenodigd om een lezing te geven met als titel "Sociale media vloek of zegen?" aan het Postgraduaatcentrum KU Leuven (Kortrijk).
 
 ### 13 april 2024
 
@@ -27,6 +75,10 @@ MIMIc teamlid Luca Carbone presenteerde resultaten van het onderzoek uitgevoerd 
 
 ### 19 maart 2024
 MIMIc teamlid Gaëlle Vanhoffelen presenteerde de resultaten van het onderzoek dat is uitgevoerd binnen het MIMIc project over het gebruik van sociale media door adolescenten als onderdeel van de lezing "Sociale media: een vloek of een zegen?”. Dit evenement maakte deel uit van het ‘A1000’ project georganiseerd door Het Paleis met als doel Antwerpse jongeren (16 tot 18 jaar) te informeren over de maatschappelijke uitdagingen van vandaag om hen voor te bereiden op de aanstaande verkiezingen.
+
+### 14 maart 2024
+
+Luca Carbone en Laura Vandenbosch publiceerden een artikel getiteld "Adolescents' music tastes in the streaming era: The case of Belgium" in het tijdschrift Cultural Sociology. Het artikel is beschikbaar via de volgende [link](https://doi.org/10.1177/17499755241244529).
 
 ### 14 maart 2024
 Anaëlle Gonzalez en Laura Vandenbosch publiceerden een artikel getiteld "A Systematic Content Analysis of the Moral Foundations Featured in Celebrities', Influencers', and Athletes' Instagram Content". Het artikel is beschikbaar op de volgende link: https://doi.org/10.1080/15205436.2024.2317764
@@ -54,6 +106,10 @@ MIMIc leden Jasmina Rosič, Gaëlle Vanhoffelen en Anaëlle Gonzalez presenteerd
 - **Auteurs**: Anaëlle Gonzalez and Laura Vandenbosch
 - **Titel**: Politieke empowerment van adolescenten op sociale media: Verkennend onderzoek naar de relaties tussen de politieke content van rolmodellen en politieke zelfredzaamheid
 - **Abstract**: Het is gedocumenteerd dat favoriete rolmodellen van adolescenten (d.w.z. influencers, beroemdheden en sportsterren) politieke meningen delen op hun sociale media accounts te midden van hun entertainment en lifestyle content. Door middel van aantrekkelijke politieke posts kunnen deze personen de politieke zelfredzaamheid van hun (jonge) publiek vergroten. Het verband tussen het promoten van politieke inhoud door sociale media rolmodellen en de politieke zelfredzaamheid van adolescenten kan verder afhangen van het type rolmodel (het vergelijken van influencers, beroemdheden en sportsterren), parasociale interacties tussen het rolmodel en de gebruiker, het niveau van politieke interesse van de gebruiker, en het niveau van uitgebreide en selectieve verwerking van politieke informatie op sociale media van de gebruiker. Kennis over deze potentiële randvoorwaarden ontbreekt echter. We gebruikten (cross-sectionele) data verzameld onder 415 Franse adolescenten van 11-19 jaar in 2022. De bevindingen toonden aan dat een hogere prevalentie van politieke content in sociale media van rolmodellen geassocieerd was met hogere niveaus van politieke zelfredzaamheid onder adolescenten. Geen van de onderzochte condities modereerde de relatie. Theoretische en praktische implicaties worden besproken.
+
+### 2023
+
+Prof. dr. Laura Vandenbosch kreeg de prijs van het Vlaams Wetenschappelijk Fonds (VWS) voor haar onderzoek naar opgroeien in een digitale mediawereld [link](https://kvab.be/nl/nieuws/prijs-vws-2023-voor-laura-vandenbosch).
 
 ### 7 december 2023
 
