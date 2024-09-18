@@ -8,8 +8,8 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Vibe Check"
-subtitle = "70 % mladih meni, da imajo lahko družbeni mediji nanje tako pozitiven kot negativen vpliv. Toda zaradi katerih vsebin se počutijo (manj) dobro? In kako se lahko z njimi soočijo? To odkrivajo v igri Vibe Check."
-date = "2020-06-30T00:00:00+01:00"
+subtitle = "70 % mladih meni, da imajo lahko družbeni mediji nanje tako pozitiven kot negativen vpliv. Toda zaradi katerih vsebin se počutijo (manj) dobro? In kako se lahko z njimi soočijo? To odkrivajo v igri Vibe Check, ki sta jo razvili Flamski organizaciji Mediawijs in Wat Wat v sodelovanju z Media Psychology Lab, Department of Communication Science (KU Leuven)."
+date = "2024-09-18T00:00:00+01:00"
 lastmod = [":fileModTime", ":default"]
 
 [content]
@@ -111,3 +111,15 @@ Trajanje: 1 do 2 uri
 Uporabite priloženo [predstavitev](https://docs.google.com/presentation/d/1YrrT__xF_h12l7ABgcbRQ0vDZ1vtlo02ROqQjMukHX0/edit#slide=id.p1)
 
 [WAT WAT](https://www.watwat.be/), [Media Psychology Lab, Department of Communication Science (KU Leuven)](https://soc.kuleuven.be/smc) in [Mediawijs](https://www.mediawijs.be/nl/homepage)
+
+<p align="center">
+  <img src="/img/mediawijs.png">
+</p>
+
+Mediawijs je flamski center znanja za digitalno in medijsko pismenost. Na spletni strani Mediawijs.be zbirajo informacije in gradiva za strokovnjake in prostovoljce, ki prebivalcem Flandrije in Bruslja pomagajo, da so dejavni, ustvarjalni, kritični in ozaveščeni o digitalni tehnologiji in medijih ter tako sodelujejo v naši družbi.
+
+<p align="center">
+  <img src="/img/powered.png">
+</p>
+
+Za vsebino te publikacije je odgovoren izključno imec vzw in ne odraža nujno mnenja Evropske unije.
