@@ -108,7 +108,7 @@
   parent = "resources"
   url = "/videos"
   weight = 3.4
-
+  
 [[fr.menu.main]]
   name = "Questionnaire journalier 1 – Ethica"
   parent = "resources"
@@ -133,6 +133,12 @@
   url = "/diary4"
   weight = 3.8
 
+[[fr.menu.main]]
+  name = "Vibe Check"
+  parent = "resources"
+  url = "/vibecheck"
+  weight = 3.9
+  
 [[fr.menu.main]]
   name = "Écoles"
   identifier = "schools"
@@ -296,6 +302,12 @@
   weight = 3.8
 
 [[nl.menu.main]]
+  name = "Vibe Check"
+  parent = "resources"
+  url = "/vibecheck"
+  weight = 3.9
+
+[[nl.menu.main]]
   name = "Scholen"
   identifier = "schools"
   url = "#"
@@ -457,6 +469,12 @@
   url = "/diary4"
   weight = 3.8
 
+[[sl.menu.main]]
+  name = "Vibe Check"
+  parent = "resources"
+  url = "/vibecheck"
+  weight = 3.9
+  
 [[sl.menu.main]]
   name = "Šole"
   identifier = "schools"
