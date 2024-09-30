@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Vibe Check"
-subtitle = "70 % mladih meni, da imajo lahko družbeni mediji nanje tako pozitiven kot negativen vpliv. Toda zaradi katerih vsebin se počutijo (manj) dobro? In kako se lahko z njimi soočijo? To odkrivajo v igri Vibe Check, ki sta jo razvili Flamski organizaciji Mediawijs in Wat Wat v sodelovanju z Media Psychology Lab, Department of Communication Science (KU Leuven)."
+subtitle = "70 % mladih meni, da imajo lahko družbeni mediji nanje tako pozitiven kot negativen vpliv. Toda zaradi katerih vsebin se počutijo (manj) dobro? In kako se lahko z njimi soočijo? To odkrivajo v igri Vibe Check, ki sta jo razvili Flamski organizaciji Mediawijs in WAT WAT v sodelovanju z Media Psychology Lab, Department of Communication Science (KU Leuven)."
 date = "2024-09-18T00:00:00+01:00"
 lastmod = [":fileModTime", ":default"]
 
