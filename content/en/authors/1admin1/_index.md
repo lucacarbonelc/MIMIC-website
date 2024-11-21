@@ -39,10 +39,4 @@ user_groups:
 - Team
 ---
 
-Starting from 2023, Laura Vandenbosch is an associate professor at the Media Psychology Lab (BOF-ZAP research professorship grant). The relationship between media and well-being is the core subject of her research, leading to international publications in several fields including developmental psychology, sexology, body image, social relationships and communication theory.
-
-In 2015 she was elected as the secretary of the Children, Adolescents and Media Division of the International Communication Association (2015-2018). Laura is currently also an editorial board member of ISI-ranked journals Human Communication Research, Journal of Children and Media, and Communications: The European Journal of Communication Research.
-
-Currently, she is involved in several (international) research projects aimed to study how media may affect well-being by focusing on factors that have not been understood well, such as the role of social relationships, cultural background, sexualization, media literacy and malleability beliefs. Part of these projects are embedded within the international network she has built throughout the years by spending periods abroad at, for instance, the U of Michigan, the U of Toronto and the U of Vienna. Her work has led to several awards, such as the Top Paper, Top Article and Top Dissertation Awards from the Children, Adolescents and Media (CAM) Division of the International Communication Association (2013-2016) and the Research Council Award in the Humanities (Prijs Onderzoeksraad, 2016).
-
-In 2019, she received an ERC starting grant for the project “Malleability in mediated ideals: A paradigm to understand effects of contemporary media in adolescents’ well-being.”
+Laura Vandenbosch is associate professor and the coordinator of the Media Psychology Lab (KU Leuven) (BOF-ZAP research professorship grant). The relationship between media and well-being is the core subject of her research, leading to international publications in several fields, including developmental psychology, sexology, body image, social relationships, and communication theory.

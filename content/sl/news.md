@@ -6,23 +6,27 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
-### [Napovedujemo] 18. oktober 2024
+### Oktober – november 2024
 
-Prof. Laura Vandenbosch bo predstavila rezultate projekta MIMIc na dogodku "Lichaamsbeeld in de tijd van likes" v okviru serije seminarjev Inštituta za otroke in mladino.
+Anaëlle Gonzalez je za en mesec obiskala Dr. Lindsay Hahn, docentko na oddelku za komunikologijo (center za kognitivno znanost) na [Univerzi v Buffalu](https://www.buffalo.edu/cas/communication/about-us.html) (New York). Dr. Hahn vodi katedro za psihologijo medijev in moralnost, ter se pri svojem raziskovalnem delu osredotoča na moralno obremenjene medije in njihove učinke. Skupaj sta v okviru ERC projekta MIMIc pripravljali članek, ki raziskuje longitudinalno povezanost med moralnimi vrednotami najljubših vplivnežev in zvezdnikov na družbenih medijih med mladostniki ter moralnimi vrednotami mladostnikov samih, kar ponuja nov vpogled v preučevanje mladih, morale in družbenih medijev. Poleg tega je Anaëlle je predstavila rezultate projekta MIMIc na seminarju oddelka.
 
-### [Napovedujemo] 24. – 27. september 2024
+### 18. oktober 2024
 
-Jasmina Rosič, Anaëlle Gonzalez in Gaëlle Vanhoffelen bodo predstavile najnovejše ugotovitve projekta MIMIc na 10. konferenci Evropskega združenja komunikološkega raziskovanja in izobraževanja (ECREA), ki bo potekala od 24. do 27. septembra 2024 v Ljubljani (Slovenija).
+Prof. Laura Vandenbosch je predstavila rezultate projekta MIMIc na dogodku “Telesna samopodoba v času všečkov” v okviru serije seminarjev Inštituta za otroke in mladino.
 
-### [Napovedujemo] 24. september 2024
+### 24. – 27. september 2024
 
-Ob zaključku projekta MIMIc bo 24. septembra 2024 bo v Ljubljani (Slovenija) potekal dogodek za šole in druge pomembne deležnike, na katerem bosta Jasmina Rosič in Laura Vandenbosch skupaj z Bojano Lobe in Kristino Rakinić delili nekaj spoznanj o projektu MIMIc. Skupaj z nekaj mladimi, ki so sodelovali v projektu ter s predstavniki/-cami organizacij za večjo medijsko pismenost v Sloveniji bodo razpravljale o rezultatih projekta. Ponudile bodo tudi orodje za spodbujanje medijske pismenosti med mladimi.
+Jasmina Rosič, Anaëlle Gonzalez in Gaëlle Vanhoffelen so predstavile najnovejše ugotovitve projekta MIMIc na 10. konferenci Evropskega združenja komunikološkega raziskovanja in izobraževanja (ECREA) v Ljubljani (Slovenija).
+
+### 24. september 2024
+
+Ob zaključku projekta MIMIc je v Ljubljani (Slovenija) potekal dogodek za šole in druge pomembne deležnike, ki so se ga udeležili predstavniki nacionalnega inštituta za javno zdravje, univerze v Ljubljani (fakultete za družbene vede, pedagoške fakultete, filozofske fakultete), varuha človekovih pravic, ministrstva za vzgojo in izobraževanje, ministrstva za digitalno preobrazbo in nevladne organizacije LOGOUT.  Jasmina Rosič in Laura Vandenbosch sta skupaj s Kristino Rakinić delili nekaj spoznanj o projektu MIMIc, policy in raziskovalna priporočila, ter orodje za spodbujanje medijske pismenosti med mladimi ([Vibe check](https://www.projectmimic.eu/sl/vibecheck/)). Skupaj s predstavniki/-cami organizacij za večjo medijsko pismenost v Sloveniji (Safe.si in LOGOUT) so razpravljale o ugotovitvah projekta.
 
 ### 17. avgust 2024
 
-Gaëlle Vanhoffelen je dogodku No Babes v Gentu (Belgija) izvedla vabljeno predavanje o povezavi med uporabo družbenih medijev in duševnim zdravjem mladostnikov, ki je temeljilo na podatkih iz projekta MIMIc [povezava](https://www.facebook.com/events/292670433836877?ref=newsfeed).
+Gaëlle Vanhoffelen je na dogodku No Babes v Gentu (Belgija) predavala o povezanosti med uporabo družbenih medijev in duševnim zdravjem mladostnikov, ki je temeljilo na podatkih iz projekta MIMIc ([povezava](https://www.facebook.com/events/292670433836877?ref=newsfeed)).
 
-### 4.–11. avgust 2024
+### 4. – 11. avgust 2024
 
 Jasmina Rosič se je udeležila mednarodne poletne šole Evropskega združenja komunikološkega raziskovanja in izobraževanja (ECREA) v Roskilde na Danskem, kjer je predstavila rezultate projekta MIMIc, pridobila uporabne informacije  drugih raziskovalcev in se udeležila delavnic, pomembnih za nadaljnje analize v projektu.
 

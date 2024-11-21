@@ -6,17 +6,21 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
-### [Upcoming] 18 October 2024
+### October-November 2024
+
+Anaëlle Gonzalez was on a research stay at the [University at Buffalo](https://www.buffalo.edu/cas/communication/about-us.html), New York. For a month, she visiting Dr. Lindsay Hahn, an Assistant Professor in the Department of Communication and Center for Cognitive Science. Dr. Hahn directs the Media Psychology and Morality Lab, where her research focuses on morally-laden media and its effects. Together, they collaborated on a paper as part of the ERC MIMIc project. This research investigates the longitudinal relationships between the moral values of adolescents’ favorite influencers and celebrities on social media and the adolescents’ own moral values, offering new insights into the study of youth, morality, and social media. Besides this, Anaëlle was also invited to give a departmental seminar to share the results of the MIMIc project.
+
+### 18 October 2024
 
 Prof. Laura Vandenbosch will present results from the MIMIc project at the event "Lichaamsbeeld in de tijd van likes" as part of the Child and Youth Institute seminar series.
 
-### [Upcoming] 24 – 27 September 2024
+### 24 – 27 September 2024
 
-Jasmina Rosič, Anaëlle Gonzalez, and Gaëlle Vanhoffelen will present their most recent work within the MIMIc project at the 10th European Communication Research and Education Association (ECREA) conference in Ljubljana (Slovenia) on 24 – 27th of September 2024.
+Jasmina Rosič, Anaëlle Gonzalez, and Gaëlle Vanhoffelen will present their most recent work within the MIMIc project at the 10th European Communication Research and Education Association (ECREA) conference in Ljubljana (Slovenia).
 
-### [Upcoming] 24 September 2024
+### 24 September 2024
 
-The Project MIMIc closing event for schools and various relevant stakeholders will take place on 24 September 2024 in Ljubljana (Slovenia). Jasmina Rosič and Laura Vandenbosch, together with Bojana Lobe and Kristina Rakinić, will share some insights from the MIMIc project and discuss the results with some of the project's youth participants and representatives of the digital media literacy organizations in Slovenia. A tool to promote media literacy among youth will be offered.
+The Project MIMIc closing event for schools and various relevant stakeholders took place in Ljubljana (Slovenia). The representatives of the schools, National Institute of Public Health, University of Ljubljana (Faculty of Social Sciences, Faculty of Education, Faculty of Arts), Ombudsperson, Ministry of Education, Ministry of Digital Transformation, and NGO LOGOUT participated in the event. Jasmina Rosič and Laura Vandenbosch, together with Kristina Rakinić shared some insights from the MIMIc project, policy and research recommendations, and a tool to promote adolescents’ digital literacy (i.e., [Vibe check](https://www.projectmimic.eu/sl/vibecheck/)). The findings were discussed with a local researcher and practitioner in the digital literacy field (i.e., Safe.si and LOGOUT).
 
 ### 17 August 2024
 
@@ -36,7 +40,7 @@ Prof. Laura Vandenbosch was invited to give a lecture roundtable at the EC progr
 
 ### 20-21 June 2024
 
-For the European Communication Science Event (ECSE) that will take place in Nijmegen (Netherlands) on 20-21st of June 2024, Anaëlle Gonzalez will coordinate a panel session on influencer research across communication sub-disciplines. During this panel, she will present some follow-up findings on the political content of influencers (co-authored with Phoebe Kwan and Laura Vandenbosch) and the frames that they use when talking about politics on social media.
+During the European Communication Science Event (ECSE) that took place in Nijmegen (Netherlands) on 20-21st of June 2024, Anaëlle Gonzalez coordinated a panel session on influencer research across communication sub-disciplines. During this panel, she presented some follow-up findings on the political content of influencers (co-authored with Phoebe Kwan and Laura Vandenbosch) and the frames that they use when talking about politics on social media.
 
 ### 13 June 2024
 

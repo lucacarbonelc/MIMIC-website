@@ -12,19 +12,19 @@ Anaëlle Gonzalez was interviewed for the online magazine Causette to talk about
 
 ### 9 May 2024
 
-Laura Vandenbosch shared the findings of the MIMIc project in the University of Flanders podcast titled “Are we all getting unhappier from all perfect images on social media?”. Find out more about the episode at this [link](https://www.universiteitvanvlaanderen.be/podcast/worden-we-allemaal-ongelukkiger-van-al-die-perfecte-beelden-op-sociale-media; in Dutch).
+Laura Vandenbosch shared the findings of the MIMIc project in the University of Flanders podcast titled “Are we all getting unhappier from all perfect images on social media?”. Find out more about the episode at this [link](https://www.universiteitvanvlaanderen.be/podcast/worden-we-allemaal-ongelukkiger-van-al-die-perfecte-beelden-op-sociale-media) (in Dutch).
 
 ### 27 April 2024
 
-Anaëlle Gonzalez was interviewed for the online newspapers 20minutes on the topic of influencers, parasocial interactions and sect-like behaviors. The article can be read [here](link: https://www.20minutes.fr/high-tech/by-the-web/4088072-20240427-tiktok-influenceurs-comme-ophenya-ligne-fine-entre-derive-sectaire-relation-parasociale) (in French).
+Anaëlle Gonzalez was interviewed for the online newspapers 20minutes on the topic of influencers, parasocial interactions and sect-like behaviors. The article can be read [here](https://www.20minutes.fr/high-tech/by-the-web/4088072-20240427-tiktok-influenceurs-comme-ophenya-ligne-fine-entre-derive-sectaire-relation-parasociale) (in French).
 
 ### 1 March 2024
 
-Anaëlle Gonzalez was interviewed for an online newspaper article to talk about the phenomenon of “Sephora Kids”, and the broader topic of children influencers. The article can be read [here](https://www.dna.fr/magazine-lifestyle/2024/03/01/elles-ont-10-ans-et-veulent-du-retinol-les-sephora-kids-envahissent-tiktok; in French).
+Anaëlle Gonzalez was interviewed for an online newspaper article to talk about the phenomenon of “Sephora Kids”, and the broader topic of children influencers. The article can be read [here](https://www.dna.fr/magazine-lifestyle/2024/03/01/elles-ont-10-ans-et-veulent-du-retinol-les-sephora-kids-envahissent-tiktok) (in French).
 
 ### 6 December 2023
 
-Gaëlle Vanhoffelen was interviewed by Veto, the student journal of KU Leuven, about the results of the paper “BeReal, Be Happy? Examining the relationships between authentic self-presentations on BeReal and adolescents’ self-esteem” which was conducted within the MIMIc project. The article can be read via this [link](https://www.veto.be/onderzoek/onderzoeker-ku-leuven-vindt-verband-tussen-bereal-en-je-zelfbeeld-het-kan-jezelf-versterken-als-je-zoekende-bent/337266?fbclid=IwAR1w98Fvyj91bwks_LAZkd71GGishIwvm4o3oear-tOvT8tlOs8iKIgnBDY; in Dutch).
+Gaëlle Vanhoffelen was interviewed by Veto, the student journal of KU Leuven, about the results of the paper “BeReal, Be Happy? Examining the relationships between authentic self-presentations on BeReal and adolescents’ self-esteem” which was conducted within the MIMIc project. The article can be read via this [link](https://www.veto.be/onderzoek/onderzoeker-ku-leuven-vindt-verband-tussen-bereal-en-je-zelfbeeld-het-kan-jezelf-versterken-als-je-zoekende-bent/337266?fbclid=IwAR1w98Fvyj91bwks_LAZkd71GGishIwvm4o3oear-tOvT8tlOs8iKIgnBDY) (in Dutch).
 
 ### 5 July 2023
 

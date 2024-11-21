@@ -39,7 +39,7 @@ Questions regarding the approved ethical guidelines can be emailed to:
 
 Moreover, an additional ethical board has been constituted to monitor the ethical guidelines applied in the current study and consists out of Prof. **Eva Lievens** (E.Lievens@UGent.be), Prof. **Moniek Buijzen** (m.buijzen@ru.nl), Prof. **Drew Cingel** (dcingel@ucdavis.edu) and Dr. **Sandra Verbeken** (Sandra.Verbeken@UGent.be) will further confidentially monitor the approach.
 
-## Processig of personal data
+## Processing of personal data
 If you have questions about the processing of personal data, please contact:
 - the **Data Protection Officer of KU Leuven** via dpo@kuleuven.be (for Belgium)
 - the **Data Protection Officer of University of Tours** via daj@univ-tours.fr (for France)

@@ -44,4 +44,4 @@ user_groups:
 - Team
 ---
 
-Gaëlle Vanhoffelen is een doctoraatsstudente aan de Media Psychology Lab (KU Leuven) onder de supervisie van Professor Laura Vandenbosch. Haar doctoraatsproject focust op de verbanden tussen prestatiegerichte boodschappen op digitale media, zoals sociale media en televisie, en de prestatiedruk bij adolescenten, met aandacht voor de heterogene culturele achtergrond van het jongerenpubliek. Dit onderzoek maakt deel uit van het ERC-gefundeerde MIMIc project: ”Malleability in mediated ideals: A paradigm to understand effects of contemporary media in adolescents' well-being”.
+Gaëlle Vanhoffelen je doktorska študentka na katedri za psihologijo medijev (KU Leuven) pod mentorstvom izredne profesorice Laure Vandenbosch. V svojem doktorskem projektu raziskuje povezavo med sporočili o uspešnosti v družbenih medijih, kot so družbena omrežja in televizija, in prepričanji mladih glede uspešnosti, pri čemer je pozorna na heterogeno kulturno ozadje mladih. Ta projekt je del projekta MIMIc, ki ga financira ERC: ‘Spremenljivost “pokvarljivih idealov”: paradigma za razumevanje učinkov sodobnih medijev na dobrobit otrok in mladostnikov’.

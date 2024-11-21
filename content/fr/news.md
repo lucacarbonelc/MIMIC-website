@@ -6,17 +6,21 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
-### [À venir] 18 octobre 2024 
+### Octobre-Novembre 2024
 
-La professeure Laura Vandenbosch présentera les résultats du projet MIMIc lors de l'événement « Lichaamsbeeld in de tijd van likes » dans le cadre du cycle de séminaires du Child and Youth Institute.
+Anaëlle Gonzalez a effectué un séjour de recherche à l’[Université de Buffalo](https://www.buffalo.edu/cas/communication/about-us.html), à New York (Etats-Unis). Pendant un mois, elle a rendu visite à la Dr. Lindsay Hahn, professeure assistante au Département de Communication et au Centre des Sciences Cognitives. La Dr. Hahn dirige le Media Psychology and Morality Lab, où ses recherches portent sur les médias à charge morale et leurs effets. Ensemble, elles ont collaboré sur un article dans le cadre du projet MIMIc. Cette recherche explore les relations longitudinales entre les valeurs morales des influenceurs et célébrités préférés des adolescents sur les réseaux sociaux et les valeurs morales des adolescents eux-mêmes, apportant de nouvelles perspectives à l’étude de la jeunesse, de la moralité et des réseaux sociaux. Par ailleurs, Anaëlle a également été invitée à donner un séminaire départemental pour partager les résultats du projet MIMIc.
 
-### [À venir] 24 – 27 septembre 2024 
+### 18 octobre 2024 
 
-Jasmina Rosič, Anaëlle Gonzalez et Gaëlle Vanhoffelen présenteront leurs travaux les plus récents dans le cadre du projet MIMIc lors de la 10ème conférence de l’Association européenne de recherche et d’éducation en communication (ECREA) à Ljubljana (Slovénie) du 24 au 27 septembre 2024.
+Professeure Laura Vandenbosch a présenté les résultats du projet MIMIc lors de l’événement « L’image corporelle à l’ère des likes », dans le cadre de la série de séminaires de l’Institut pour l’enfance et la jeunesse.
 
-### [À venir] 24 septembre 2024 
+### 24 – 27 septembre 2024 
 
-L’événement de clôture du projet MIMIc pour les établissements scolaires et autres intervenants impliqués en Slovénie aura lieu le 24 septembre 2024 à Ljubljana (Slovénie). Jasmina Rosič et Laura Vandenbosch, accompagnées de Bojana Lobe et Kristina Rakinić, partageront quelques enseignements tirés du projet MIMIc et discuteront des résultats avec certains jeunes participants du projet et avec des représentants des organisations de littératie médiatique numérique en Slovénie. Un outil de promotion de la littératie médiatique chez les jeunes sera présenté.
+Jasmina Rosič, Anaëlle Gonzalez et Gaëlle Vanhoffelen ont présenté leurs travaux les plus récents dans le cadre du projet MIMIc lors de la 10e conférence de l’Association européenne pour la recherche et l’éducation en communication (ECREA) à Ljubljana (Slovénie).
+
+### 24 septembre 2024 
+
+L’événement de clôture du projet MIMIc à destination des écoles et des différentes parties prenantes concernées s’est tenu à Ljubljana (Slovénie). Les représentants des écoles, de l’Institut national de santé publique, de l’Université de Ljubljana (Faculté des sciences sociales, Faculté des sciences de l’éducation, Faculté des arts), du Défenseur des droits, du Ministère de l’Éducation, du Ministère de la Transformation numérique, et de l’ONG LOGOUT ont participé à l’événement. Jasmina Rosič et Laura Vandenbosch, accompagnées de Kristina Rakinić, ont partagé des perspectives issues du projet MIMIc, des recommandations politiques et de recherche, ainsi qu’un outil destiné à promouvoir la littératie numérique des adolescents (le « [Vibe Check](https://www.projectmimic.eu/sl/vibecheck/) »). Les résultats ont été discutés avec un chercheur local et un praticien du domaine de la littératie numérique (Safe.si et LOGOUT).
 
 ### 20-21 juin 2024 
 
@@ -24,19 +28,19 @@ Pour l’événement européen de science de la communication (ECSE) qui aura li
 
 ### 17 août 2024
 
-Gaëlle Vanhoffelen a été invitée pour donner une conférence sur les liens entre l'utilisation des réseaux sociaux et la santé mentale des adolescents, sur la base des données MIMIc, lors de l'événement No Babes’ social media à Gand. [lien](https://www.facebook.com/events/292670433836877?ref=newsfeed)
+Gaëlle Vanhoffelen a été invitée à donner une conférence sur les liens entre l’utilisation des réseaux sociaux et la santé mentale des adolescents, basée sur les données du projet MIMIc, lors de l’événement « No Babes » sur les réseaux sociaux à Gand.[lien](https://www.facebook.com/events/292670433836877?ref=newsfeed)
 
 ### 1er août 2024
 
-Katie Fitzgerald, Toon Tabruyn et Laura Vandenbosch ont publié un article intitulé “L'expression émotionnelle des adolescents sur les réseaux sociaux : Une étude sur le don de données dans trois pays européens” dans la revue Affective Science. L'article est disponible via ce [lien](https://link.springer.com/article/10.1007/s42761-024-00259-9).
+Katie Fitzgerald, Toon Tabruyn et Laura Vandenbosch ont publié un article intitulé « Adolescent Emotional Expression on Social Media: A Data Donation Study Across Three European Countries » dans la revue Affective Science. L’article est disponible via le [lien](https://link.springer.com/article/10.1007/s42761-024-00259-9) suivant.
 
-### Juillet 2024
+### 1er juillet 2024
 
-Prof. Laura Vandenbosch a été invitée à donner une conférence en table ronde au programme CE pour parler de l'influence des réseaux sociaux sur la santé mentale (organisée par le Conseil européen).
+La professeure Laura Vandenbosch a été invitée à donner une conférence-débat dans le cadre du programme EC pour discuter de l’influence des réseaux sociaux sur la santé mentale (organisé par le Conseil de l’Europe).
 
 ### 20-21 juin 2024
 
-Lors de l'European Communication Science Event (ECSE) qui a eu lieu à Nimègue (Pays-Bas) les 20 et 21 juin 2024, Anaëlle Gonzalez a coordonné une session de panel sur la recherche sur les influenceurs à travers les sous-disciplines de la communication. Au cours de ce panel, elle a présenté des résultats de suivi sur le contenu politique des influenceurs (co-écrit avec Phoebe Kwan et Laura Vandenbosch) et les cadres qu'ils utilisent lorsqu'ils parlent de politique sur les réseaux sociaux.
+Lors de l’événement européen de science de la communication (ECSE) qui a eu lieu à Nijmegen (Pays-Bas) les 20 et 21 juin 2024, Anaëlle Gonzalez a coordonné une session de panel sur la recherche sur les influenceurs dans les sous-disciplines de la science de la communication. Au cours de ce panel, elle a présenté certaines conclusions complémentaires sur le contenu politique des influenceurs (en collaboration avec Phoebe Kwan et Laura Vandenbosch) et les cadres de référence qu’ils utilisent lorsqu’ils parlent de politique sur les réseaux sociaux.
 
 ### 13 juin 2024
 

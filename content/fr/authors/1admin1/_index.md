@@ -20,7 +20,7 @@ name: Laura Vandenbosch
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00060068"
-role: Maître de Conférence à l'École de recherche en communication de masse
+role: Maître de Conférence au Laboratoire de Psychologie des Médias (Media Psychology Lab)
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,10 +39,4 @@ user_groups:
 - Team
 ---
 
-Depuis 2023, Laura Vandenbosch est Maître de Conférence à la Media Psychology Lab (bourse de recherche BOF-ZAP). La relation entre les médias et le bien-être est au cœur de ses recherches, menant à des publications internationales dans plusieurs domaines dont la psychologie du développement, la sexologie, l'image corporelle, les relations sociales et la théorie de la communication.
-
-En 2015, elle a été élue secrétaire de la Division des enfants, des adolescents et des médias de l'Association internationale de la communication (2015-2018). Laura est actuellement également membre du comité de rédaction des revues classées ISI Human Communication Research, Journal of Children and Media, et Communications: The European Journal of Communication Research.
-
-Actuellement, elle participe à plusieurs projets de recherche (internationaux) visant à étudier comment les médias peuvent affecter le bien-être en se concentrant sur des facteurs qui n'ont pas été bien compris, tels que le rôle des relations sociales, le contexte culturel, la sexualisation, l'éducation aux médias et la malléabilité. croyances. Une partie de ces projets est intégrée au réseau international qu'elle a bâti au fil des ans en passant des périodes à l'étranger, par exemple, à l'Université du Michigan, à l'Université de Toronto et à l'Université de Vienne. Son travail a conduit à plusieurs prix, tels que les prix Top Paper, Top Article et Top Dissertation Awards de la Division Enfants, Adolescents et Médias (CAM) de l'International Communication Association (2013-2016) et le Research Council Award in the Humanities ( Prijs Onderzoeksraad, 2016).
-
-En 2019, elle a reçu une bourse de démarrage ERC pour le projet «Malléabilité dans les idéaux médiatisés: un paradigme pour comprendre les effets des médias contemporains sur le bien-être des adolescents».
+Laura Vandenbosch est coordinatrice et Maîtresse de Conférence (Associate Professor) au Laboratoire de Psychologie des Médias (KU Leuven) (bourse professorale de recherche BOF-ZAP). La relation entre les médias et le bien-être constitue le sujet central de ses recherches, ce qui l’a menée à des publications internationales dans plusieurs domaines, notamment la psychologie du développement, la sexologie, l’image corporelle, les relations sociales et la théorie de la communication.

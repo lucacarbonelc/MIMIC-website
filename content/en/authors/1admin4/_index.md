@@ -52,6 +52,6 @@ user_groups:
 - Team
 ---
 
-Luca Carbone is a PhD student at the Media Psychology Lab, KU Leuven (BE). Their research interests lie at the intersection of cultural and cognitive sociology, media effects research, and the study of inequalities.
-From a theoretical point of view, Luca studies how socialization processes among adolescents might shape the formation of their beliefs about inequalities. Drawing from cultural sociology, they study how the socially-stratified access and engagement with prestigious symbolic goods (i.e., music genres) might act as a form of cultural differentiation. Drawing from the media effects literature, they study how music portrays social status and the possible routes through which these portrayals influence adolescents beliefs.
-Empirically, Luca employs quantitative methodologies, such as social network analysis, structural equation modelling, and computational text analysis. In their work, they are committed to an open science framework and mindset.
+Luca Carbone is a postdoctoral researcher at the Media Psychology Lab at Department of Communication Sciences at KU Leuven. Luca obtained their PhD at KU Leuven in September 2024, where they worked as part of the ERC project MIMIc. They are also affiliated with the Weatherhead Research Cluster on Comparative Inequalities and Inclusion at Harvard University.
+
+Luca works at the intersection of media psychology and cultural sociology to study music effects on the identities and mental health of young people, with a focus on narratives about meritocracy, success, and masculinity. They are also interested in social and communication theory, algorithms and platforms, media events and online cultures, and methods (NLP, networks, ESM, SEM, psychometrics, interviews, and archives).

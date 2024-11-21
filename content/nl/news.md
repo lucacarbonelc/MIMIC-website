@@ -6,65 +6,52 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
-### [Binnenkort] 18 october 2024
+### Oktober – november 2024
+Anaëlle Gonzalez verbleef voor wetenschappelijk verblijf aan de [Universiteit van Buffalo](https://www.buffalo.edu/cas/communication/about-us.html), New York. Gedurende een maand bezocht ze Dr. Lindsay Hahn, een assistent-professor aan de afdeling Communicatie en het Centrum voor Cognitieve Wetenschap. Dr. Hahn leidt het Media Psychology and Morality Lab, waar haar onderzoek zich richt op moreel geladen media en de effecten daarvan. Samen werkten ze aan een paper als onderdeel van het ERC MIMIc project. Dit onderzoek bestudeert de longitudinale relaties tussen de morele waarden van de favoriete influencers en beroemdheden van adolescenten op sociale media en de eigen morele waarden van deze adolescenten, waardoor nieuwe inzichten worden geboden in de relatie tussen adolescenten, moraliteit en sociale media. Daarnaast werd Anaëlle ook uitgenodigd om een departementaal seminarie te geven om de resultaten van het MIMIc-project te delen.
 
-Prof. Laura Vandenbosch presenteert de resultaten van het MIMIc-project op het evenement "Lichaamsbeeld in de tijd van likes" als onderdeel van de seminarreeks van het Kind- en Jeugdinstituut.
+### 18 october 2024
+Prof. Laura Vandenbosch presenteerde de resultaten van het MIMIc-project op het evenement “Lichaamsbeeld in de tijd van likes” als onderdeel van de seminarreeks van het Kind- en Jeugdinstituut.
 
-### [Binnenkort] 24 - 27 september 2024
-Jasmina Rosič, Anaëlle Gonzalez en Gaëlle Vanhoffelen zullen hun meest recente werk binnen het MIMIc project presenteren op de 10e editie van de ‘European Communication Research and Education Association’ (ECREA) conferentie in Ljubljana (Slovenië) op 24 - 27 september 2024.
+### 24 - 27 september 2024
+Jasmina Rosič, Anaëlle Gonzalez en Gaëlle Vanhoffelen presenteerden hun meest recente werk binnen het MIMIc project op de 10e editie van de ‘European Communication Research and Education Association’ (ECREA) conferentie in Ljubljana (Slovenië).
 
-### [Binnenkort] 24 september 2024
-Het Sloveense slotevenement van het MIMIc Project voor de scholen en verschillende relevante stakeholders vindt plaats op 24 september 2024 in Ljubljana (Slovenië). Jasmina Rosič en Laura Vandenbosch zullen samen met Bojana Lobe en Kristina Rakinić enkele inzichten uit het MIMIc project delen en de resultaten bespreken met enkele jongerendeelnemers van het project en vertegenwoordigers van de organisaties voor digitale mediageletterdheid in Slovenië. Er zal een hulpmiddel worden aangeboden om mediawijsheid onder jongeren te promoten.
-
-### 20-21 juni 2024
-Voor het ‘European Communication Science Event’ (ECSE) dat plaatsvindt in Nijmegen (Nederland) op 20-21 juni 2024, zal Anaëlle Gonzalez een panelsessie coördineren over onderzoek naar influencers in verschillende communicatiedisciplines. Tijdens dit panel zal ze een aantal aanvullende bevindingen presenteren over de politieke inhoud van influencers (co-auteurs Phoebe Kwan en Laura Vandenbosch) en de frames die ze gebruiken wanneer ze over politiek praten op sociale media.
+### 24 september 2024
+Het Sloveense slotevenement van het MIMIc Project voor de scholen en verschillende relevante stakeholders vond plaats op 24 september 2024 in Ljubljana (Slovenië). Jasmina Rosič en Laura Vandenbosch deelden samen met Bojana Lobe en Kristina Rakinić enkele inzichten uit het MIMIc project en bespraken de resultaten met enkele jongerendeelnemers van het project en vertegenwoordigers van de organisaties voor digitale mediageletterdheid in Slovenië. Er werd een hulpmiddel aangeboden om mediawijsheid onder jongeren te promoten.
 
 ### 17 augustus 2024
-
 Gaëlle Vanhoffelen gaf een gastlezing over de verbanden tussen sociale media en het mentale welzijn van adolescenten, gebaseerd op de MIMIc data, op het social media event van No Babes in Gent. [link](https://www.facebook.com/events/292670433836877?ref=newsfeed)
 
 ### 1 augustus 2024
-
 Katie Fitzgerald, Toon Tabruyn en Laura Vandenbosch hebben een artikel gepubliceerd met de titel "Adolescent Emotional Expression on Social Media: A Data Donation Study Across Three European Countries" in het tijdschrift Affective Science. Het artikel is beschikbaar via de volgende [link](https://link.springer.com/article/10.1007/s42761-024-00259-9).
 
 ### Juli 2024
-
 Prof. Laura Vandenbosch werd uitgenodigd om een rondetafel-lezing te geven op het EC programma om te spreken over de invloed van sociale media op mentale gezondheid (georganiseerd door European Council).
 
 ### 20-21 juni 2024
-
-Voor het European Communication Science Event (ECSE) dat plaatsvond in Nijmegen (Nederland) op 20-21 juni 2024, coördineerde Anaëlle Gonzalez een panelsessie over onderzoek naar influencers in verschillende subdisciplines van communicatiewetenschappen. Tijdens dit panel presenteerde ze een aantal vervolgbevindingen over de politieke inhoud van influencers (co-auteurs Phoebe Kwan en Laura Vandenbosch) en de frames die ze gebruiken wanneer ze over politiek praten op sociale media.
+Voor het 'European Communication Science Event' (ECSE) dat plaatsvond in Nijmegen (Nederland) op 20-21 juni 2024, coördineerde Anaëlle Gonzalez een panelsessie over onderzoek naar influencers in verschillende subdisciplines van communicatiewetenschappen. Tijdens dit panel presenteerde ze een aantal vervolgbevindingen over de politieke inhoud van influencers (co-auteurs Phoebe Kwan en Laura Vandenbosch) en de frames die ze gebruiken wanneer ze over politiek praten op sociale media.
 
 ### 13 juni 2024
-
 Jasmina Rosič presenteerde het MIMIc Project en haar studie over digitaal floreren in de adolescentie in een pitch-sessie op de Algemene Vergadering van het KU Leuven Digital Society Institute (DigiSoc).
 
 ### Juni 2024
-
 Prof. Laura Vandenbosch werd uitgenodigd om een lezing te geven met als titel "Apestaartjaren & Génération 2024" op het Federaal Evenement "Online relaties" (Brussel).
 
 ### 27 mei 2024
-
 Luca Carbone, Priscila Alvarez-Cueva en Laura Vandenbosch publiceerden een artikel getiteld "Status Markers in Popular Music Across Six Countries: A Content Analysis of Gender, Race/Ethnicity, Genre, and Capital in Music Lyrics" in het tijdschrift Sex Roles. Het artikel is beschikbaar via de volgende [link](https://doi.org/10.1007/s11199-024-01483-0).
 
 ### 16 mei 2024
-
 Prof. dr. Laura Vandenbosch werd uitgenodigd om een lezing te geven met als titel "Apestaartjaren: Digitale Balans" bij Mediawijs (Mechelen).
 
 ### 14 mei 2024
-
 Prof. Laura Vandenbosch maakte deel uit van de documentaire "Chasing Beauty" waar ze haar expertise aanbood over de rol van sociale media op schoonheidsidealen. Meer informatie is te vinden via deze [link](https://www.flair.be/nl/chillax/series-films/chasing-beauty-de-prijs-van-perfectie-trailer/).
 
 ### 7 mei 2024
-
 Luca Carbone presenteerde de resultaten van het MIMIc project op de invited talk "KU Leuven x AB Talk" om de impact van sociale media op de populaire cultuur en de hedendaagse muziekindustrie te bespreken. De lezing kan worden bekeken via de volgende [link](https://www.youtube.com/watch?v=lZFGsV2joEg).
 
 ### 18 april 2024
-
 Prof. dr. Laura Vandenbosch werd uitgenodigd om een lezing te geven met als titel "Sociale media vloek of zegen?" aan het Postgraduaatcentrum KU Leuven (Kortrijk).
 
 ### 13 april 2024
-
 Jasmina Rosič en Laura Vandenbosch hebben een artikel gepubliceerd met als titel "Trajectories of digital flourishing in adolescence: The predictive roles of developmental changes and digital divide factors". Het artikel is beschikbaar via de volgende [link](http://doi.org/10.1111/cdev.14101).
 
 ### 03 april 2024
@@ -77,7 +64,6 @@ MIMIc teamlid Luca Carbone presenteerde resultaten van het onderzoek uitgevoerd 
 MIMIc teamlid Gaëlle Vanhoffelen presenteerde de resultaten van het onderzoek dat is uitgevoerd binnen het MIMIc project over het gebruik van sociale media door adolescenten als onderdeel van de lezing "Sociale media: een vloek of een zegen?”. Dit evenement maakte deel uit van het ‘A1000’ project georganiseerd door Het Paleis met als doel Antwerpse jongeren (16 tot 18 jaar) te informeren over de maatschappelijke uitdagingen van vandaag om hen voor te bereiden op de aanstaande verkiezingen.
 
 ### 14 maart 2024
-
 Luca Carbone en Laura Vandenbosch publiceerden een artikel getiteld "Adolescents' music tastes in the streaming era: The case of Belgium" in het tijdschrift Cultural Sociology. Het artikel is beschikbaar via de volgende [link](https://doi.org/10.1177/17499755241244529).
 
 ### 14 maart 2024
@@ -108,11 +94,9 @@ MIMIc leden Jasmina Rosič, Gaëlle Vanhoffelen en Anaëlle Gonzalez presenteerd
 - **Abstract**: Het is gedocumenteerd dat favoriete rolmodellen van adolescenten (d.w.z. influencers, beroemdheden en sportsterren) politieke meningen delen op hun sociale media accounts te midden van hun entertainment en lifestyle content. Door middel van aantrekkelijke politieke posts kunnen deze personen de politieke zelfredzaamheid van hun (jonge) publiek vergroten. Het verband tussen het promoten van politieke inhoud door sociale media rolmodellen en de politieke zelfredzaamheid van adolescenten kan verder afhangen van het type rolmodel (het vergelijken van influencers, beroemdheden en sportsterren), parasociale interacties tussen het rolmodel en de gebruiker, het niveau van politieke interesse van de gebruiker, en het niveau van uitgebreide en selectieve verwerking van politieke informatie op sociale media van de gebruiker. Kennis over deze potentiële randvoorwaarden ontbreekt echter. We gebruikten (cross-sectionele) data verzameld onder 415 Franse adolescenten van 11-19 jaar in 2022. De bevindingen toonden aan dat een hogere prevalentie van politieke content in sociale media van rolmodellen geassocieerd was met hogere niveaus van politieke zelfredzaamheid onder adolescenten. Geen van de onderzochte condities modereerde de relatie. Theoretische en praktische implicaties worden besproken.
 
 ### 2023
-
 Prof. dr. Laura Vandenbosch kreeg de prijs van het Vlaams Wetenschappelijk Fonds (VWS) voor haar onderzoek naar opgroeien in een digitale mediawereld [link](https://kvab.be/nl/nieuws/prijs-vws-2023-voor-laura-vandenbosch).
 
 ### 7 december 2023
-
 *Informatie over het einde van de dagboekstudie en de cadeaubonnen voor de deelnemers*
 
 We zijn met het MIMIc-team blij om te kunnen aankondigen dat de dagboekstudie (de derde en dus laatste studie van het MIMIc project) succesvol is afgerond. Elke avond van 6 november tot 21 november beantwoordden de deelnemende jongeren uit Frankrijk, Slovenië en België vragen over hun dagelijkse mediagewoonten en welzijn. De gemiddelde dagelijkse deelnamepercentages zijn als volgt: 110 deelnemers per dag in Frankrijk, 260 in Slovenië en 230 in België.
@@ -140,49 +124,39 @@ Tot slot zijn we met het hele MIMIc-team erg dankbaar voor de toewijding en het 
 We wensen iedereen alvast een fijne wintervakantie!
 
 ### 1 december 2023
-
 MIMIc leden Jasmina Rosič en Laura Vandenbosch hebben een artikel gepubliceerd met de titel "Measuring digital well-being in everyday life among Slovenian adolescents: The Perceived Digital Well-Being in Adolescence Scale". Het artikel is beschikbaar via [deze link](https://www.tandfonline.com/doi/abs/10.1080/17482798.2023.2272651).
 
 ### 16 november 2023
 MIMIc leden Gaëlle Vanhoffelen en Laura Vandenbosch hebben een artikel gepubliceerd met de titel " BeReal, Be Happy? Examining the relationships between authentic self-presentations on BeReal and adolescents’ self-esteem". Het artikel is beschikbaar via [deze link](https://journals.sagepub.com/doi/abs/10.1177/14614448231207783).
 
 ### 7 oktober 2023
-
 Professor Laura Vandenbosch presenteerde de resultaten van het onderzoek dat werd uitgevoerd binnen het MIMIc project in het kader van de lezing "Picture Perfect: Hoe Instagram, Netflix en muziek de identiteit van tieners vormen". Dit evenement maakte deel uit van de jaarlijkse "Kinderuniversiteitsdag aan de KU Leuven". Meer informatie over het evenement vind je op deze [link](https://www.kuleuven.be/kinderuniversiteit/praktisch).
 
 ### 6 oktober 2023
-
 MIMIc teamlid Luca Carbone presenteerde de resultaten van het onderzoek binnen het MIMIc project als onderdeel van de lezing "Spotify killed the video stars? Individualiseringsprocessen in hedendaagse mainstream muziek". Dit evenement maakte deel uit van het evenement "Pop Talks" georganiseerd door de International Association for the Study of Popular Music (IASPM).
 
 ### 24 september 2023
-
 Professor Laura Vandenbosch presenteerde resultaten van het onderzoek uitgevoerd binnen het MIMIc project op het NEFCA Mediapsychologie evenement "Dag van de Mediapsychologie: Uitdagingen en kansen bespreken in een evoluerend medialandschap".
 
 ### 24 augustus 2023
-
 Professor Laura Vandenbosch presenteerde de resultaten van het onderzoek binnen het MIMIc project als onderdeel van haar lezing "Digital Media Uses and Adolescents' Development". Dit evenement maakte deel uit van het evenement "ENIGMA" georganiseerd met leerkrachten door de KU Leuven.
 
 ### 21 april 2023
-
 Het MIMIc-team heeft het project en de verschillende onderdelen ervan voorgesteld aan de Faculteit Sociale Wetenschappen van de KU Leuven op de Onderzoeksdag. Hieronder vindt u de poster die werd gebruikt voor deze dag, evenals een leuke foto van het team!
 
 ![](/img/rd1.png)
 ![](/img/rd2.png)
 
 ### 19 april 2023
-
 MIMIc-leden Luca Carbone en Laura Vandenbosch publiceerden een artikel met de titel "A Meta-Analysis of Studies Examining the Effect of Music on Beliefs". Het artikel is beschikbaar via de volgende [link](https://doi.org/10.1177/00936502231163633).
 
 ### 27 february  2023
-
 MIMIc teamlid Jasmina Rosič presenteerde enkele resultaten van het MIMIc project in de lezing op uitnodiging aan de Chapman University (VS) getiteld "Digital flourishing in adolescence".
 
 ### 13 february 2023
-
 MIMIc teamlid Jasmina Rosič presenteerde enkele resultaten van het MIMIc project in de lezing op uitnodiging aan de Chapman University (VS) getiteld "The perceived digital balance in adolescence."
 
 ### 25 januari 2023
-
 MIMIc-leden, Anaëlle Gonzalez, Gaëlle Vanhoffelen, Jasmina Rosič en Luca Carbone, presenteerden nieuw werk uit hun PhD's op twee conferenties, het Etmaal van de Communicatiewetenschap (februari 2023) en de 73e International Communication Association (ICA) (mei 2023). Hieronder kun je de titels en abstracts lezen van de werken die ze gepresenteerd hebben.
 
 ![The MIMIc team representing at one of the many ICA23 reception parties](/img/ica23.jpg)
@@ -222,22 +196,18 @@ MIMIc-leden, Anaëlle Gonzalez, Gaëlle Vanhoffelen, Jasmina Rosič en Luca Carb
 - **Abstract**: Muziekartiesten zijn cruciale inspiratiebronnen over wat het betekent om succesvol te zijn en een hoge status te hebben. Eerdere literatuur heeft zich vooral gericht op economische factoren, zoals luxueuze juwelen, maar heeft andere fundamentele dynamieken in de definitie van status genegeerd, namelijk sociale relaties en machtsdynamiek, in het bijzonder seksuele ob(sub)jectificatie. Met een intersectioneel Bourdieusiaans perspectief analyseerde dit artikel een unieke dataset van 4117 songteksten die tussen 2016 en 2019 populair waren op Spotify in zes landen (VS, VK, Nederland, Australië, Nieuw-Zeeland, Canada). Uit een handmatige analyse van deze songteksten bleek dat bijna de helft (46%) van de nummers status weergaf in termen van economisch kapitaal, 26% via sociaal kapitaal, 16% via cultureel kapitaal en 6% via seksuele ob(sub)jectificatie. De meeste van deze representaties kwamen voor in rapmuziek en bij artiesten van zwarte en bruine mannen. Tot slot bespraken we deze resultaten in relatie tot een steeds meer geglobaliseerde muziekindustrie en het welzijn van artiesten.
 
 ### 19 september 2022
-
 De derde en laatste gegevensverzameling van de tijdstudie werd afgerond in september 2022. 1242 jongeren tussen 12 en 18 jaar uit de drie landen vulden de vragenlijst volledig in. 335 jongeren namen deel in België, 386 in Frankrijk en 521 in Slovenië. De vragenlijst ging over sociale media, smartphones, tv-series en muziek, alsook enkele vragen over de jongeren zelf en hun visie op de samenleving. Een samenvatting van de bevindingen vindt u in dit [beknopte verslag](https://www.projectmimic.eu/nl/debriefings/debriefing_be/index_w3/).
 
 ### 01 september 2022
 MIMIc-leden Jasmina Rosič, Luca Carbone en Laura Vandenbosch publiceren het eerste artikel van het MIMIc-project, getiteld "Positieve digitale communicatie onder jongeren: De ontwikkeling en validatie van de ‘digital flourishing scale’ voor adolescenten". Het artikel is beschikbaar via de [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9474732/).
 
 ### 20 juni 2022
-
 Afronding van de socialemediastudie.
 
 ### 01 juni 2022
-
 De tweede gegevensverzameling van de tijdstudie werd voltooid in mei-juni 2022. 1791 jongeren tussen 12 en 18 jaar uit de drie landen vulden de vragenlijst volledig in. 415 jongeren namen deel in België, 580 in Frankrijk en 796 in Slovenië. De vragenlijst ging over sociale media, smartphones, tv-series en muziek, alsook enkele vragen over de jongeren zelf en hun visie op de samenleving. Enkele voorlopige resultaten vindt u in dit [beknopte verslag](https://www.projectmimic.eu/nl/debriefings/debriefing_be/index_w2/).
 
 ### 13 januari 2022
-
 MIMIc-leden, Anaëlle Gonzalez, Jasmina Rosič, en Luca Carbone, presenteren binnenkort de eerste studies van hun doctoraten op twee conferenties, Etmaal van de Communicatiewetenschap (februari 2022) en de 72e International Communication Association (ICA) (mei 2022). Hieronder kunt u de titels en abstracts lezen van de studies die zij zullen presenteren.
 
 **Anaëlle Gonzalez**
@@ -256,11 +226,9 @@ MIMIc-leden, Anaëlle Gonzalez, Jasmina Rosič, en Luca Carbone, presenteren bin
 -	**Abstract**: Meritocratie is een dominant thema in de populaire cultuur (Mijs & Savage, 2020). Toch heeft de aanwezigheid ervan in muziek nauwelijks aandacht gekregen. Deze studie analyseert de aanwezigheid en prevalentie van meritocratische frames in populaire songteksten door handmatige en netwerk inhoudsanalyses te combineren. We analyseerden de 200 populairste liedjes op Spotify in zes individualistische landen van 2016-2019 (N = 4117). Onze analyses vonden een sterke (24% van de liedjes met minstens één referentie), gevarieerde (vijf frames) aanwezigheid van meritocratie. Deze representaties kwamen veel voor in rap (81,7%) maar ook in pop en rock. Netwerkanalyses bevestigde deze resultaten door patronen in het gelijktijdig voorkomen van woorden te analyseren. Door handmatige en netwerkanalyses te combineren, geven wij suggesties voor toekomstig onderzoek naar media en de effecten daarvan op het publiek.
 
 ### 04 januari 2022
-
 De eerste gegevensverzameling voor de tijdstudie werd voltooid in september-november 2021. 2412 jongeren tussen 12 en 18 jaar uit de drie deelnemende landen vulden de vragenlijst volledig in. 590 jongeren uit België, 740 jongeren uit Frankrijk en 1082 jongeren uit Slovenië namen deel. De survey ging over sociale media, smartphonegebruik, tv-series en muziek en bevatte ook enkele vragen over de jongeren zelf en de maatschappij. Enkele voorlopige resultaten vindt u in dit [beknopte verslag](https://www.projectmimic.eu/nl/debriefings/debriefing_be/index_w1/).
 
 ### 15 april 2021
-
 1. Veranderingen in de data over tijdsstudie.
 
 OUDE DATA:

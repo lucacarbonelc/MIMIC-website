@@ -21,11 +21,11 @@ Anaëlle Gonzalez je v intervjuju spletnega časopisa 20minutes spregovorila o v
 
 ### 1. marec 2024
 
-Anaëlle Gonzalez je v intervjuju za spletni časopis spregovorila o pojavu »Sephora Kids« in širši temi otroških vplivnežev/-ic. Članek si lahko preberete tukaj (povezava; v francoščini).
+Anaëlle Gonzalez je v intervjuju za spletni časopis spregovorila o pojavu »Sephora Kids« in širši temi otroških vplivnežev/-ic. Članek si lahko preberete tukaj ([povezava](https://www.dna.fr/magazine-lifestyle/2024/03/01/elles-ont-10-ans-et-veulent-du-retinol-les-sephora-kids-envahissent-tiktok); v francoščini).
 
 ### 6. december 2023
 
-Gaëlle Vanhoffelen je v intervjuju za Veto, študentsko revijo KU Leuven, spregovorila o rezultatih študije »BeReal, Be Happy? Preučevanje odnosov med avtentičnimi samopredstavitvami na BeReal-u in samopodobo mladostnikov/-ic«, ki je bila izvedena v okviru projekta MIMIc. Članek si lahko preberete na tej povezavi.
+Gaëlle Vanhoffelen je v intervjuju za Veto, študentsko revijo KU Leuven, spregovorila o rezultatih študije »BeReal, Be Happy? Preučevanje odnosov med avtentičnimi samopredstavitvami na BeReal-u in samopodobo mladostnikov/-ic«, ki je bila izvedena v okviru projekta MIMIc. Članek si lahko preberete na tej [povezavi](https://www.veto.be/onderzoek/onderzoeker-ku-leuven-vindt-verband-tussen-bereal-en-je-zelfbeeld-het-kan-jezelf-versterken-als-je-zoekende-bent/337266?fbclid=IwAR1w98Fvyj91bwks_LAZkd71GGishIwvm4o3oear-tOvT8tlOs8iKIgnBDY) (v nizozemščini).
 
 ### 5. julij 2023
 

@@ -20,7 +20,7 @@ name: Laura Vandenbosch
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00060068"
-role: Izredna profesorica na Oddelku za raziskovanje množičnega komuniciranja 
+role: Izredna profesorica na katedri za psihologijo medijev 
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,10 +39,4 @@ user_groups:
 - Ekipa
 ---
 
-Laura Vandenbosch je od leta 2017 izredna profesorica na Media Psychology Lab Univerze v Leuvnu, Belgija (BOF-ZAP sredstva za raziskovalno profesuro). Osrednja tema njenega raziskovanja je odnos med mediji in blaginjo, svoja dognanja pa objavlja v številnih mednarodnih revijah iz področja razvojne psihologije, seksologije, telesne podobe, socialnih odnosov in teorije komunikacije.
-
-Leta 2015 je bila izvoljena za položaj sekretarke za otroke, mladostnike in medijsko delitev na Mednarodnem združenju za komunikacijo (Children, Adolescents and Media Division of the International Communication Association) (2015–2018). Trenutno pa je tudi članica uredniškega odbora mednarodno indeksiranih znanstvenih revij (ISI-ranked), kot so Human Communication Research, Journal of Children and Media in The European Journal of Communication Research.
-
-Trenutno sodeluje v številnih (mednarodnih) raziskovalnih projektih s področja preučevanja vpliva medijev na blaginjo, s poudarkom na dejavnikih, ki do sedaj še niso bili dobro raziskani, kot so vloga socialnih odnosov, kulturno ozadje, spolnost, medijska pismenost in spremenljivost prepričanj (“malleability beliefs”). Del teh projektov je vključenih v mednarodno socialno mrežo, ki jo je zgradila med preživljanjem obdobij v tujini, kot na primer na Univerzi v Michiganu, Univerzi v Torontu in Univerzi na Dunaju. Za svoje raziskovalno delo je prejela že številne nagrade, kot so Top Paper, Top Article and Top Dissertation Awards from the Children, Adolescents and Media (CAM) Division of the International Communication Association (2013-2016) in the Research Council Award in the Humanities (Prijs Onderzoeksraad, 2016).
-
-Leta 2019 je prejela sredstva Evropskega raziskovalnega sveta za projekt »Spremenljivost “pokvarljivih idealov”: paradigma za razumevanje učinkov sodobnih medijev na dobrobit otrok in mladostnikov«.
+Laura Vandenbosch je koordinatorka in izredna profesorica na katedri za psihologijo medijev (KU Leuven), Belgija (BOF-ZAP sredstva za raziskovalno profesuro). Osrednja tema njenega raziskovanja je odnos med mediji in blaginjo, svoja dognanja pa objavlja v številnih mednarodnih revijah iz področja razvojne psihologije, seksologije, telesne podobe, socialnih odnosov in teorije komunikacije.
