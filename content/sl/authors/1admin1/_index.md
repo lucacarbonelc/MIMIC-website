@@ -4,7 +4,7 @@ authors:
 bio:
 education:
   courses:
-  - course: Doktorica znanosti iz komunikologije
+  - course: Doktorica znanosti družbenih ved
     institution: Katholieke Universiteit Leuven
     year: 2013
 email: ""

@@ -4,7 +4,7 @@ authors:
 bio: 
 education:
   courses:
-  - course: Doktorski komunikologije
+  - course: Doktor znanosti družbenih ved
     institution: KU Leuven Media Psychology Lab
     year: 2020 - 2024
   - course: Magister sociologije
