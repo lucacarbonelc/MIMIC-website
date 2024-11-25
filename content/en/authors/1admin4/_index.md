@@ -4,9 +4,9 @@ authors:
 bio: 
 education:
   courses:
-  - course: PhD candidate in Communication Science
-    institution: KU Leuven school for Mass Communication
-    year: 2019 - in progress
+  - course: PhD in Communication Science
+    institution: KU Leuven Media Psychology Lab
+    year: 2020 - 2024
   - course: Research MSc in Sociology
     institution: Tilburg University
     year: 2017 - 2019
@@ -24,7 +24,7 @@ name: Luca Carbone
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00135858"
-role: PhD student
+role: Postdoctoral researcher
 social:
 - icon: envelope
   icon_pack: fa

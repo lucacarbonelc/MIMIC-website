@@ -5,8 +5,8 @@ bio:
 education:
   courses:
   - course: PhD in communicatiewetenschap
-    institution: KU Leuven school for Mass Communication
-    year: 2019 - heden
+    institution: KU Leuven Media Psychology Lab
+    year: 2020 - 2024
   - course: Onderzoek MSc in sociologie
     institution: Tilburg University
     year: 2017 - 2019
@@ -24,7 +24,7 @@ name: Luca Carbone
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00135858"
-role: Doctoraatsstudent
+role: Postdoctoral researcher
 social:
 - icon: envelope
   icon_pack: fa
@@ -52,4 +52,6 @@ user_groups:
 - Team
 ---
 
-Ik ben een doctoraatsstudent aan de Media Psychology Lab, KU Leuven (BE). Mijn onderzoeksinteresses liggen op het snijvlak van culturele en cognitieve sociologie, media-effectenonderzoek en de studie van ongelijkheden. Vanuit een theoretisch oogpunt bestudeer ik hoe socialisatieprocessen onder adolescenten de vorming van hun opvattingen over ongelijkheden kunnen beïnvloeden. Op basis van de culturele sociologie bestudeer ik hoe de sociaal gestratificeerde toegang tot (en betrokkenheid bij) prestigieuze symbolische goederen (d.w.z. muziekgenres) zou kunnen werken als een vorm van culturele differentiatie. Op basis van de literatuur over media-effecten bestudeer ik hoe muziek de sociale status weergeeft en de mogelijke routes waarlangs deze afbeeldingen de overtuigingen van adolescenten beïnvloeden. Empirisch gebruik ik kwantitatieve methoden, zoals sociale netwerkanalyse, structurele vergelijkingsmodellering en computationele tekstanalyse. Ik zet me in voor een open science framework en mindset.
+Luca Carbone is postdoctoraal onderzoeker bij het Lab voor Mediapsychologie aan het Departement Communicatiewetenschappen van de KU Leuven. Luca behaalde hun doctoraat aan de KU Leuven in september 2024, waar hen werkte in het kader van het ERC-project MIMIc. Hen is ook verbonden aan de Weatherhead Research Cluster on Comparative Inequalities and Inclusion aan Harvard University.
+ 
+Luca werkt op het snijvlak van mediapsychologie en cultuursociologie om de effecten van muziek op de identiteit en mentale gezondheid van jongeren te bestuderen, met een focus op verhalen over meritocratie, succes en mannelijkheid. Hen is ook geïnteresseerd in sociale en communicatietheorie, algoritmen en platforms, mediagebeurtenissen en online culturen, en methoden (NLP, netwerken, ESM, SEM, psychometrie, interviews en archieven).

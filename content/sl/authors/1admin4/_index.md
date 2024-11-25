@@ -4,9 +4,9 @@ authors:
 bio: 
 education:
   courses:
-  - course: Doktorski kandidat komunikologije
-    institution: KU Leuven school for Mass Communication
-    year: 2019 - v teku
+  - course: Doktorski komunikologije
+    institution: KU Leuven Media Psychology Lab
+    year: 2020 - 2024
   - course: Magister sociologije
     institution: Tilburg University
     year: 2017 - 2019
@@ -23,7 +23,7 @@ name: Luca Carbone
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00135858"
-role: Doktorski študent
+role: Postdoctoral researcher
 social:
 - icon: envelope
   icon_pack: fa
