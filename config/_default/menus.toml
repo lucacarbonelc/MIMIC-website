@@ -93,6 +93,12 @@
   weight = 3.3
 
 [[main]]
+  name = "MIMIc Doctors"
+  parent = "resources"
+  url = "/doctors"
+  weight = 3.4
+
+[[main]]
   name = "Schools"
   identifier = "schools"
   url = "#"

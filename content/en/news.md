@@ -83,6 +83,10 @@ Prof. Laura Vandenbosch was invited to give a lecture titled “Sociale media vl
 
 Jasmina Rosič and Laura Vandenbosch published an article titled “Trajectories of digital flourishing in adolescence: The predictive roles of developmental changes and digital divide factors”. The article is available at the following [link](http://doi.org/10.1111/cdev.14101).
 
+### 09 April 2024
+
+Edward Noon, Luca Carbone, and Laura Vandenbosch published an article titled “Adolescents’ videogame play, need satisfaction, and self-esteem: a self-determination perspective” in the journal Current Psychology. The article is available at the following [link](https://doi.org/10.1007/s12144-024-05933-6).
+
 ### 03 April 2024
 
 MIMIc team member Luca Carbone presented results from the research conducted within the MIMIc project as part of the invited lecture titled “Long-term music effects among adolescents”. This event was part of the event “CII Spotlight” organized by the Cluster on Inequalities and Inclusion at the Weatherhead Center (Harvard University).
