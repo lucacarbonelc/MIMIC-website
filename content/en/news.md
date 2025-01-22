@@ -6,9 +6,19 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 07 January 2025
+
+Laura Vandenbosch, Kathleen Beullens, Robyn Vanherle, and Lara Schreurs published an article titled “Digital media uses and eﬀects: The contributing roles of time” in the journal Journal of Children and Media. The article is available at the following [link](https://doi.org/10.1080/17482798.2024.2438690).
+
 ### October-November 2024
 
 Anaëlle Gonzalez was on a research stay at the [University at Buffalo](https://www.buffalo.edu/cas/communication/about-us.html), New York. For a month, she visiting Dr. Lindsay Hahn, an Assistant Professor in the Department of Communication and Center for Cognitive Science. Dr. Hahn directs the Media Psychology and Morality Lab, where her research focuses on morally-laden media and its effects. Together, they collaborated on a paper as part of the ERC MIMIc project. This research investigates the longitudinal relationships between the moral values of adolescents’ favorite influencers and celebrities on social media and the adolescents’ own moral values, offering new insights into the study of youth, morality, and social media. Besides this, Anaëlle was also invited to give a departmental seminar to share the results of the MIMIc project.
+
+### 16 September 2024
+
+Luca Carbone has successfully defended their PhD titled "MainStreaming Success. Neoliberal Success Narratives in Music and their Internalization among Adolescents". You can find a copy of Luca's PhD dissertation at the following [link](https://www.lucacarbone.com/files/diss.pdf).
+
+![Dr. Carbone and the members of their PhD committee after the defense](/img/luca.png)
 
 ### 18 October 2024
 
