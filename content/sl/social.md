@@ -6,6 +6,10 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 19. feburar 2025
+
+Laura Vandenbosch je bila gostja v oddaji VRT NWS Late o uporabi pornografije med mladimi. Odgovarjala je vprašanja: "Ali res vsi gledamo manj pornografije, kot trdijo glavne pornografske platforme? Ali pa se za temi številkami skriva kaj več?" (na [povezavi](https://www.vrt.be/vrtmax/a-z/vrt-nws-laat/2025/vrt-nws-laat-d20250219/) si oglejte minute od 12:14 do 21:10)
+
 ### 17. maj 2024
 
 Anaëlle Gonzalez je v intervjuju spletne revije Causette spregovorila o gibanju #Blockout2024 na družbenih omrežjih in njegovih učinkih, ki se nanašajo na širšo temo političnega udejstvovanja vplivnežev [povezava](https://www.causette.fr/societe/humeurs/le-mouvement-blockout2024-qui-appelle-a-bloquer-des-personnalites-ne-prenant-pas-position-pour-gaza-peut-il-vraiment-avoir-un-impact/), [povezava](https://www.instagram.com/p/C7EqcMHMjTY/?utm_source=ig_web_copy_link) (v francoščini).
@@ -17,7 +21,6 @@ Laura Vandenbosch je v podkastu Univerze v Flandriji z naslovom »Ali postajamo 
 ### 27. april 2024
 
 Anaëlle Gonzalez je v intervjuju spletnega časopisa 20minutes spregovorila o vplivnežih, parasocialnih interakcijah in vedenju sekt. Članek je na voljo [tukaj](https://www.20minutes.fr/high-tech/by-the-web/4088072-20240427-tiktok-influenceurs-comme-ophenya-ligne-fine-entre-derive-sectaire-relation-parasociale) (v francoščni).
-
 
 ### 1. marec 2024
 

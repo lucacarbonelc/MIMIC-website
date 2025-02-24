@@ -6,6 +6,12 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 19 February 2025
+
+Laura Vandenbosch was a guest on the broadcast of VRT NWS Late about pornography use among youth. She was answering the questions, "Are we all really watching less porn, as major porn platforms claim? Or is there more behind those numbers?" (watch minute 12:14 – 21:10 via [link](https://www.vrt.be/vrtmax/a-z/vrt-nws-laat/2025/vrt-nws-laat-d20250219/))
+
+![](/img/vrt.jpeg)
+
 ### 17 May 2024
 
 Anaëlle Gonzalez was interviewed for the online magazine Causette to talk about the movement #Blockout2024 on social media and its impacts, relating to the broader topic of influencers’ political engagement. The article can be read [here](https://www.causette.fr/societe/humeurs/le-mouvement-blockout2024-qui-appelle-a-bloquer-des-personnalites-ne-prenant-pas-position-pour-gaza-peut-il-vraiment-avoir-un-impact/) and [here](https://www.instagram.com/p/C7EqcMHMjTY/?utm_source=ig_web_copy_link) (in French).

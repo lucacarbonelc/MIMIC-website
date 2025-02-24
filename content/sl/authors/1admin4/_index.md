@@ -23,14 +23,11 @@ name: Luca Carbone
 organizations:
 - name: KU Leuven
   url: "https://soc.kuleuven.be/smc/staff/00135858"
-role: Postdoctoral researcher
+role: Podoktorand
 social:
 - icon: envelope
   icon_pack: fa
   link: "mailto:lucacarbone.lc@gmail.com"
-- icon: globe
-  icon_pack: fas
-  link: https://www.lucacarbone.com
 - icon: osf
   icon_pack: ai ai-osf
   link: https://osf.io/r2s8q/
@@ -43,9 +40,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/lucacarbonelc
-- icon: twitter
+- icon: bluesky
   icon_pack: fab
-  link: https://twitter.com/lucacarbone__lc
+  link: https://bsky.app/profile/luca-carbone.bsky.social
 superuser: true
 user_groups:
 - Ekipa

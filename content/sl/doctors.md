@@ -1,26 +1,26 @@
 ---
 
-title: MIMIc Doctors
+title: Doktoranti/-ke projekta MIMIc
 date: "2020-08-31T00:00:00+01:00"
 lastmod: [":fileModTime", ":default"]
 
 ---
 
-**Team member**: \
+**Član ekipe:** \
 Dr. Luca Carbone
 
-**Title dissertation**: \
-MainStreaming Success. Neoliberal Success Narratives in Music and their Internalization among Adolescents
+**Naslov disertacije:** \
+MainStreaming Success. Neoliberal Success Narratives in Music and their Internalization among Adolescents (MainStreaming Success. Neoliberalne pripovedi o uspehu v glasbi in njihova internalizacija med mladostniki)
 
-**Date defense**: \
-September 16th, 2024
+**Datum zagovora:** \
+16. september 2024
 
-**Jury committee**:
-- Prof. Dr. Laura Vandenbosch [KU Leuven] (promotor)
+**Komisija:**
+- Prof. Dr. Laura Vandenbosch [KU Leuven] (mentorica)
 - Prof. Dr. Steven Eggermont [KU Leuven]
 - Prof. Dr. Giselinde Kuipers [KU Leuven]
 - Prof. Dr. Tom ter Bogt [Utrecht University]
 - Prof. Dr. Stef Aupers [KU Leuven]
 - Prof. Dr. Michèle Lamont [Harvard University]
 
-<a href="/img/luca_diss.pdf" tabindex="-1"><strong>Download Luca Carbone's PhD dissertation</strong></a>
+<a href="/img/luca_diss.pdf" tabindex="-1"><strong>Prenesite doktorsko disertacijo Luce Carboneta</strong></a>

@@ -6,6 +6,46 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 22. februar 2025
+
+Anaëlle Gonzalez in Jasmina Rosič sta skupaj s prof. dr. Esther Martínez Pastor in prof. dr. Marian Blanco-Ruiz Rey z Univerze Juan Carlos (Španija) gostujoči urednici posebne številke revije Doxa Comunicación z naslovom Digitalna okolja in duševno zdravje mladih: Izzivi in priložnosti. Vljudno vabljeni, da do 30. 6. 2025 pošljete svoj prispevek. Več informacij na [povezavi](bit.ly/4hJTdG5).
+
+### 21. februar 2025
+
+Laura Vandenbosch in Jasmina Rosič od 30. maja 2025 z izbrano skupino ERC raziskovalcev/-k sodelujeta v pilotnem projektu o dostopu do podatkov za raziskovalce/-ke v skladu z zakonom o digitalnih storitvah (DSA) in pomagata pri pripravi vloge za dostop do nejavnih podatkov s platform za izvajanje raziskav o »sistemskih tveganjih« v EU. Pilotni projekt koordinirata Generalni direktorat Evropske komisije za komunikacijska omrežja, vsebine in tehnologijo (DG CNECT) in Evropski raziskovalni svet (ERC) ob podpori Skupnega raziskovalnega središča - Evropskega centra za preglednost algoritmov (JRC-ECAT).
+
+### 15. – 16. februar 2025
+
+Ekipa MIMIc je sodelovala na otvoritvenem vikend dogodku ob praznovanju 600-letnice KU Leuven, KU Leuven Inside. Skupaj s kolegi iz katedre za psihologijo medijev smo z interaktivno razstavo o uporabi pametnih telefonov predstavili/-e ugotovitve projekta MIMIc o učinkih uporabe digitalnih medijev. Poleg tega je Laura Vandenbosch izvedla 600-sekundno predavanje, namenjeno otrokom, v katerem je pojasnila, ali so družbeni mediji prekletstvo ali blagoslov. Na voljo na tej [povezavi](https://www.youtube.com/watch?v=lDlOLk2-A5I&list=PLXWyIz0l7YBsPW-HRrvwu0bayONySryey&index=41) (v nizozemščini).
+
+![](/img/smartphone.jpeg)
+
+### 5. – 6. februar 2025
+
+Luca Carbone in Jasmina Rosič sta se udeležila konference Inštituta za otroke in mladino v Leuvnu, kjer je Laura Vandenbosch predstavila ugotovitve projekta MIMIc o tem, kako spletno okolje vpliva na telesno podobo uporabnikov.
+
+![](/img/cy-institute.jpeg)
+
+### 3. – 4. februar 2025
+
+Sodelovali smo na konferenci Etmaal van de Communicatiewetenschap 2025 v Bruggesu, ki smo jo organizirali skupaj s kolegi z oddelka za komunikologijo. Predstavili smo naslednje študije projekta MIMIc:
+
+**Luca Carbone, Laura Vandenbosch**, Christoph Klimmt, & Julian Schaap. A Theory of Resonant Experiences with Media.
+
+**Anaëlle Gonzalez & Laura Vandenbosch**. Politically-Influenced by Non-Political Actors? Longitudinal Reciprocal Associations Between Famous Figures’ Political Social Media Posts and Political Interest in Adolescence.
+
+**Jasmina Rosič**, Robyn Vanherle, & **Laura Vandenbosch**. Disentangling Daily Relationships Between Adolescents' Perceived Digital Well-Being, State Self-Esteem, and Affective Well-being.
+
+**Gaëlle Vanhoffelen**, Lara Schreurs, & **Laura Vandenbosch**. Very Demure, Very Authentic? Disentangling the Longitudinal Links between Authentic and Inauthentic Online Self-Presentations and Adolescents' Identity Distress in Social Media Contexts.
+
+### 7. januar 2025
+
+Laura Vandenbosch, Kathleen Beullens, Robyn Vanherle in Lara Schreurs so objavile članek z naslovom »Digital media uses and eﬀects: The contributing roles of time« v reviji Journal of Children and Media. Članek je na voljo na naslednji [povezavi](https://doi.org/10.1080/17482798.2024.2438690).
+
+### 29. november 2024
+
+Laura Vandenbosch je imela osrednje predavanje na konferenci Cyberspace Conference, ki jo je organizirala Masarykova univerza v Brnu. Predstavila je najnovejše trende na področju raziskav o povezavi med uporabo družbenih medijev in telesno samopodobo, ki lahko mladim pomagajo pri krepitvi odpornosti in premagovanju pritiskov glede videza, ki jih povzročajo algoritmi ([povezava](https://cyberspace.muni.cz/keynote-speakers)).
+
 ### Oktober – november 2024
 
 Anaëlle Gonzalez je za en mesec obiskala Dr. Lindsay Hahn, docentko na oddelku za komunikologijo (center za kognitivno znanost) na [Univerzi v Buffalu](https://www.buffalo.edu/cas/communication/about-us.html) (New York). Dr. Hahn vodi katedro za psihologijo medijev in moralnost, ter se pri svojem raziskovalnem delu osredotoča na moralno obremenjene medije in njihove učinke. Skupaj sta v okviru ERC projekta MIMIc pripravljali članek, ki raziskuje longitudinalno povezanost med moralnimi vrednotami najljubših vplivnežev in zvezdnikov na družbenih medijih med mladostniki ter moralnimi vrednotami mladostnikov samih, kar ponuja nov vpogled v preučevanje mladih, morale in družbenih medijev. Poleg tega je Anaëlle je predstavila rezultate projekta MIMIc na seminarju oddelka.
@@ -14,6 +54,10 @@ Anaëlle Gonzalez je za en mesec obiskala Dr. Lindsay Hahn, docentko na oddelku 
 
 Prof. Laura Vandenbosch je predstavila rezultate projekta MIMIc na dogodku “Telesna samopodoba v času všečkov” v okviru serije seminarjev Inštituta za otroke in mladino.
 
+### 30. september 2024
+
+Z veseljem sporočamo, da je Univerza Stanford priznala profesorico Lauro Vandenbosch za eno od 2 % najboljših znanstvenic na svetu. Seznam Univerze Stanford razvršča znanstvenike na podlagi bibliometričnih podatkov, vključno s številom citatov in indeksom h. Te metrike odražajo vpliv in doseg znanstvenikovega raziskovalnega prispevka. Prof. Vandenbosch je bila uvrščena na 403. mesto od 14.032 na področju komunikacijskih in medijskih študij. To priznanje poudarja njene pomembne raziskovalne prispevke z indeksom h 36 in več kot 5000 citati. Prof. Vandenbosch poudarja, da to priznanje ni rezultat zgolj njenega individualnega uspeha, temveč rezultat skupnih prizadevanj z (doktorskimi) raziskovalci, s katerimi sodeluje. Za več podrobnosti: [povezava](https://topresearcherslist.com/Home/Profile/860849)
+
 ### 24. – 27. september 2024
 
 Jasmina Rosič, Anaëlle Gonzalez in Gaëlle Vanhoffelen so predstavile najnovejše ugotovitve projekta MIMIc na 10. konferenci Evropskega združenja komunikološkega raziskovanja in izobraževanja (ECREA) v Ljubljani (Slovenija).
@@ -21,6 +65,12 @@ Jasmina Rosič, Anaëlle Gonzalez in Gaëlle Vanhoffelen so predstavile najnovej
 ### 24. september 2024
 
 Ob zaključku projekta MIMIc je v Ljubljani (Slovenija) potekal dogodek za šole in druge pomembne deležnike, ki so se ga udeležili predstavniki nacionalnega inštituta za javno zdravje, univerze v Ljubljani (fakultete za družbene vede, pedagoške fakultete, filozofske fakultete), varuha človekovih pravic, ministrstva za vzgojo in izobraževanje, ministrstva za digitalno preobrazbo in nevladne organizacije LOGOUT.  Jasmina Rosič in Laura Vandenbosch sta skupaj s Kristino Rakinić delili nekaj spoznanj o projektu MIMIc, policy in raziskovalna priporočila, ter orodje za spodbujanje medijske pismenosti med mladimi ([Vibe check](https://www.projectmimic.eu/sl/vibecheck/)). Skupaj s predstavniki/-cami organizacij za večjo medijsko pismenost v Sloveniji (Safe.si in LOGOUT) so razpravljale o ugotovitvah projekta.
+
+### 16. september 2024
+
+Luca Carbone je uspešno zagovarjal doktorat z naslovom »MainStreaming Success. Neoliberalne pripovedi o uspehu v glasbi in njihova internalizacija med mladostniki.« Kopijo doktorske disertacije lahko najdete na naslednji povezavi.
+
+![](/img/luca.jpeg)
 
 ### 17. avgust 2024
 
