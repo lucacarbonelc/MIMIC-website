@@ -12,6 +12,10 @@ Anaëlle Gonzalez and Jasmina Rosič, together with Prof. Dr. Esther Martínez P
 
 ### 21 February 2025
 
+Gaëlle Vanhoffelen participated in media.forum 2025, the second symposium organized by the knowledge center Mediapunt in partnership with the Department of Culture, Youth, and Media of the Flemish Government. During this symposium, insights from the media.monitor 2025 were shared. Afterwards, participants were invited to formulate relevant policy recommendations that contribute to a stronger and more resilient media landscape in Flanders, in the presence of Minister Van Achter.
+
+### 21 February 2025
+
 Since May 30, 2025, Laura Vandenbosch and Jasmina Rosič have been participating with a selected group of ERC grantees in a pilot project on data access for research under the Digital Services Act (DSA) to help prepare an application for access to non-public data from platforms to conduct research on "systemic risks" in the EU. The pilot is under the coordination of the European Commission’s Directorate-General for Communications Networks, Content and Technology (DG CNECT) and the European Research Council (ERC) with the support of the Joint Research Centre - European Centre for Algorithmic Transparency (JRC-ECAT).
 
 ### 15 – 16 February 2025
@@ -30,13 +34,11 @@ Luca Carbone and Jasmina Rosič attended the Leuven Child and Youth Institute co
 
 We participated at the Etmaal van de Communicatiewetenschap 2025 conference in Brugges, which we co-organized with our colleagues from the Communication Science department. We presented these studies of the MIMIc project:
 
-**Luca Carbone, Laura Vandenbosch**, Christoph Klimmt, & Julian Schaap. A Theory of Resonant Experiences with Media.
-
-**Anaëlle Gonzalez & Laura Vandenbosch**. Politically-Influenced by Non-Political Actors? Longitudinal Reciprocal Associations Between Famous Figures’ Political Social Media Posts and Political Interest in Adolescence.
-
-**Jasmina Rosič**, Robyn Vanherle, & **Laura Vandenbosch**. Disentangling Daily Relationships Between Adolescents' Perceived Digital Well-Being, State Self-Esteem, and Affective Well-being.
-
-**Gaëlle Vanhoffelen**, Lara Schreurs, & **Laura Vandenbosch**. Very Demure, Very Authentic? Disentangling the Longitudinal Links between Authentic and Inauthentic Online Self-Presentations and Adolescents' Identity Distress in Social Media Contexts.
+- **Luca Carbone, Laura Vandenbosch**, Christoph Klimmt, & Julian Schaap. A Theory of Resonant Experiences with Media.
+- **Anaëlle Gonzalez & Laura Vandenbosch**. Politically-Influenced by Non-Political Actors? Longitudinal Reciprocal Associations Between Famous Figures’ Political Social Media Posts and Political Interest in Adolescence.
+- **Jasmina Rosič**, Robyn Vanherle, & **Laura Vandenbosch**. Disentangling Daily Relationships Between Adolescents' Perceived Digital Well-Being, State Self-Esteem, and Affective Well-being.
+- **Gaëlle Vanhoffelen**, Lara Schreurs, & **Laura Vandenbosch**. Very Demure, Very Authentic? Disentangling the Longitudinal Links between Authentic and Inauthentic Online Self-Presentations and Adolescents' Identity Distress in Social Media Contexts.
+- Thi Willems, **Gaëlle Vanhoffelen**, Chelly Maes, and **Laura Vandenbosch**. An Intercultural Study on Adolescents’ Consensual and Non-Consensual Sexting Practices and Their Body Image and Sexuality
 
 ### 07 January 2025
 

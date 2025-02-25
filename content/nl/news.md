@@ -6,17 +6,57 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 22 februari 2025
+Anaëlle Gonzalez en Jasmina Rosič zijn, samen met Prof. Dr. Esther Martínez Pastor en Prof. Dr. Marian Blanco-Ruiz Rey van de Juan Carlos Universiteit (Spanje), gastredacteuren van de speciale uitgave van Doxa Comunicación getiteld “Digital Environments and Mental Health in Young People: Uitdagingen en kansen”. U bent vriendelijk uitgenodigd om uw paper daar in te dienen tot 30/06/2025. Meer informatie via [link](bit.ly/4hJTdG5)
+
+### 21 februari 2025
+Gaëlle Vanhoffelen nam deel aan media.forum 2025, het tweede symposium georganiseerd door het kenniscentrum Mediapunt in samenwerking met het Departement Cultuur, Jeugd en Media van de Vlaamse Overheid. Tijdens dit symposium werden de inzichten uit de media.monitor 2025 gedeeld. Nadien werden de deelnemers uitgenodigd om relevante beleidsaanbevelingen te formuleren die bijdragen aan een sterker en veerkrachtiger medialandschap in Vlaanderen, in het bijzijn van minister Van Achter.
+
+### 21 februari 2025
+Sinds 30 mei 2025 nemen Laura Vandenbosch en Jasmina Rosič samen met een geselecteerde groep ERC-begunstigden deel aan een proefproject over gegevenstoegang voor onderzoek in het kader van de Digital Services Act (DSA) om te helpen bij de voorbereiding van een aanvraag voor toegang tot niet-openbare gegevens van platforms om onderzoek te doen naar “systeemrisico's” in de EU. De pilot wordt gecoördineerd door het directoraat-generaal voor Communicatienetwerken, Inhoud en Technologie (DG CNECT) van de Europese Commissie en de Europese Onderzoeksraad (ERC) met de steun van het Gemeenschappelijk Centrum voor Onderzoek - Europees Centrum voor Algoritmische Transparantie (GCO-ECAT).
+
+### 15-16 februari 2025
+Het MIMIc-team nam deel aan KU Leuven Inside—het openingsweekend ter viering van 600 jaar KU Leuven. Samen met collega’s van het Media Psychology Lab presenteerden we de bevindingen van het MIMIc project over de effecten van digitaal mediagebruik via een interactieve tentoonstelling over smartphonegebruik. Daarnaast gaf Laura Vandenbosch een lezing van 600 seconden, gericht op kinderen, waarin ze uitlegde of sociale media een vloek of een zegen zijn. Beschikbaar via deze [link](https://www.youtube.com/watch?v=lDlOLk2-A5I&list=PLXWyIz0l7YBsPW-HRrvwu0bayONySryey&index=41) (in het Nederlands).
+
+### 5-6 februari 2025
+Luca Carbone en Jasmina Rosič woonden de conferentie van het KU Leuven Instituut voor Kind en Jeugd bij, waar Laura Vandenbosch de bevindingen van het MIMIc project presenteerde en de invloed van online platformen op het lichaamsbeeld van gebruikers besprak.
+
+### 3-4 februari 2025
+We namen deel aan de Etmaal van de Communicatiewetenschap 2025-conferentie in Brugge, die we mede organiseerden met onze collega’s van de afdeling Communicatiewetenschap van KU Leuven. Tijdens de conferentie presenteerden we de volgende studies van het MIMIc-project:
+- **Luca Carbone**, **Laura Vandenbosch**, Christoph Klimmt & Julian Schaap – A Theory of Resonant Experiences with Media.
+- **Anaëlle Gonzalez** & **Laura Vandenbosch** – Politically-Influenced by Non-Political Actors? Longitudinal Reciprocal Associations Between Famous Figures’ Political Social Media Posts and Political Interest in Adolescence.
+- **Jasmina Rosič**, Robyn Vanherle & **Laura Vandenbosch** – Disentangling Daily Relationships Between Adolescents' Perceived Digital Well-Being, State Self-Esteem, and Affective Well-Being.
+- **Gaëlle Vanhoffelen**, Lara Schreurs & **Laura Vandenbosc** – Very Demure, Very Authentic? Disentangling the Longitudinal Links Between Authentic and Inauthentic Online Self-Presentations and Adolescents' Identity Distress in Social Media Contexts.
+- Thi Willems, **Gaëlle Vanhoffelen**, Chelly Maes & **Laura Vandenbosch** – An Intercultural Study on Adolescents’ Consensual and Non-Consensual Sexting Practices and Their Body Image and Sexuality.
+
+### 07 januari 2025
+Laura Vandenbosch, Kathleen Beullens, Robyn Vanherle en Lara Schreurs publiceerden een artikel getiteld “Digital Media Uses and Effects: The Contributing Roles of Time” in het Journal of Children and Media. Het artikel is beschikbaar via de volgende [link](https://doi.org/10.1080/17482798.2024.2438690).
+
+### 29 november 2024
+Laura Vandenbosch gaf een keynote speech op de Cyberspace Conference, georganiseerd door de Masaryk Universiteit in Brno. Ze presenteerde de nieuwste onderzoekstrends over de relatie tussen sociale mediagebruik en lichaamsbeeld, met inzichten die jongeren kunnen helpen veerkracht op te bouwen en de door algoritmes gedreven uiterlijkheidsdruk te bestrijden. Meer informatie via deze [link](https://cyberspace.muni.cz/keynote-speakers).
+
 ### Oktober – november 2024
 Anaëlle Gonzalez verbleef voor wetenschappelijk verblijf aan de [Universiteit van Buffalo](https://www.buffalo.edu/cas/communication/about-us.html), New York. Gedurende een maand bezocht ze Dr. Lindsay Hahn, een assistent-professor aan de afdeling Communicatie en het Centrum voor Cognitieve Wetenschap. Dr. Hahn leidt het Media Psychology and Morality Lab, waar haar onderzoek zich richt op moreel geladen media en de effecten daarvan. Samen werkten ze aan een paper als onderdeel van het ERC MIMIc project. Dit onderzoek bestudeert de longitudinale relaties tussen de morele waarden van de favoriete influencers en beroemdheden van adolescenten op sociale media en de eigen morele waarden van deze adolescenten, waardoor nieuwe inzichten worden geboden in de relatie tussen adolescenten, moraliteit en sociale media. Daarnaast werd Anaëlle ook uitgenodigd om een departementaal seminarie te geven om de resultaten van het MIMIc-project te delen.
 
 ### 18 october 2024
 Prof. Laura Vandenbosch presenteerde de resultaten van het MIMIc-project op het evenement “Lichaamsbeeld in de tijd van likes” als onderdeel van de seminarreeks van het Kind- en Jeugdinstituut.
 
+### 30 september 2024
+Wij zijn verheugd om aan te kondigen dat Stanford University prof. Laura Vandenbosch heeft erkend als een van de top 2% wetenschappers ter wereld. De ranglijst van Stanford University beoordeelt wetenschappers op basis van bibliometrische gegevens, waaronder citaties en de h-index, die de invloed en reikwijdte van hun onderzoeksbijdragen weerspiegelen.
+Prof. Vandenbosch werd gerangschikt op de 403e plaats van de 14.032 wetenschappers in de categorie Communication & Media Studies. Deze erkenning onderstreept haar belangrijke onderzoeksbijdragen, met een h-index van 36 en meer dan 5000 citaties.
+Ze benadrukt dat deze erkenning niet alleen een individuele prestatie is, maar het resultaat van nauwe samenwerkingen met de (PhD-)onderzoekers met wie ze werkt.
+Meer details via deze [link](https://topresearcherslist.com/Home/Profile/860849).
+
 ### 24 - 27 september 2024
 Jasmina Rosič, Anaëlle Gonzalez en Gaëlle Vanhoffelen presenteerden hun meest recente werk binnen het MIMIc project op de 10e editie van de ‘European Communication Research and Education Association’ (ECREA) conferentie in Ljubljana (Slovenië).
 
 ### 24 september 2024
 Het Sloveense slotevenement van het MIMIc Project voor de scholen en verschillende relevante stakeholders vond plaats op 24 september 2024 in Ljubljana (Slovenië). Jasmina Rosič en Laura Vandenbosch deelden samen met Bojana Lobe en Kristina Rakinić enkele inzichten uit het MIMIc project en bespraken de resultaten met enkele jongerendeelnemers van het project en vertegenwoordigers van de organisaties voor digitale mediageletterdheid in Slovenië. Er werd een hulpmiddel aangeboden om mediawijsheid onder jongeren te promoten.
+
+### 16 september 2024
+Luca Carbone heeft met succes zijn PhD verdedigd, getiteld “MainStreaming Success: Neoliberal Success Narratives in Music and Their Internalization Among Adolescents”. Een kopie van Luca’s proefschrift is te vinden via de volgende [link](https://www.lucacarbone.com/files/diss.pdf).
+
+![](/img/luca.jpeg)
 
 ### 17 augustus 2024
 Gaëlle Vanhoffelen gaf een gastlezing over de verbanden tussen sociale media en het mentale welzijn van adolescenten, gebaseerd op de MIMIc data, op het social media event van No Babes in Gent. [link](https://www.facebook.com/events/292670433836877?ref=newsfeed)

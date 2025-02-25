@@ -6,16 +6,16 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
-**Team member**: \
+**Teamlid**: \
 Dr. Luca Carbone
 
-**Title dissertation**: \
-MainStreaming Success. Neoliberal Success Narratives in Music and their Internalization among Adolescents
+**Titel proefschrift**: \
+MainStreaming Success. Neoliberal Success Narratives in Music and their Internalization among Adolescents (MainStreaming Success. Neoliberale Success Narratieven in Muziek en de Internalizatie ervan bij Adolescenten)
 
-**Date defense**: \
+**Datum verdediging**: \
 September 16th, 2024
 
-**Jury committee**:
+**Jurycommissie**:
 - Prof. Dr. Laura Vandenbosch [KU Leuven] (promotor)
 - Prof. Dr. Steven Eggermont [KU Leuven]
 - Prof. Dr. Giselinde Kuipers [KU Leuven]
@@ -23,4 +23,4 @@ September 16th, 2024
 - Prof. Dr. Stef Aupers [KU Leuven]
 - Prof. Dr. Michèle Lamont [Harvard University]
 
-<a href="/img/luca_diss.pdf" tabindex="-1"><strong>Download Luca Carbone's PhD dissertation</strong></a>
+<a href="/img/luca_diss.pdf" tabindex="-1"><strong>Download Luca Carbone’s proefschrift</strong></a>
