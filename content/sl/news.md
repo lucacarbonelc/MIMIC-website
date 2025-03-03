@@ -6,19 +6,31 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 26. februar 2025
+
+Laura Vandenbosch se je udeležila srečanja s predstavniki flamske ministrice za blaginjo in skupaj z drugimi flamskimi raziskovalci svetovala o ukrepih glede uporabe družbenih medijev med mladostniki.
+
 ### 22. februar 2025
 
 Anaëlle Gonzalez in Jasmina Rosič sta skupaj s prof. dr. Esther Martínez Pastor in prof. dr. Marian Blanco-Ruiz Rey z Univerze Juan Carlos (Španija) gostujoči urednici posebne številke revije Doxa Comunicación z naslovom Digitalna okolja in duševno zdravje mladih: Izzivi in priložnosti. Vljudno vabljeni, da do 30. 6. 2025 pošljete svoj prispevek. Več informacij na [povezavi](bit.ly/4hJTdG5).
 
 ### 21. februar 2025
 
-Laura Vandenbosch in Jasmina Rosič od 30. maja 2025 z izbrano skupino ERC raziskovalcev/-k sodelujeta v pilotnem projektu o dostopu do podatkov za raziskovalce/-ke v skladu z zakonom o digitalnih storitvah (DSA) in pomagata pri pripravi vloge za dostop do nejavnih podatkov s platform za izvajanje raziskav o »sistemskih tveganjih« v EU. Pilotni projekt koordinirata Generalni direktorat Evropske komisije za komunikacijska omrežja, vsebine in tehnologijo (DG CNECT) in Evropski raziskovalni svet (ERC) ob podpori Skupnega raziskovalnega središča - Evropskega centra za preglednost algoritmov (JRC-ECAT).
+Gaëlle Vanhoffelen je sodelovala na drugem simpoziju media.forum 2025, ki ga je organiziral center znanja Mediapunt v sodelovanju z Ministrstvom za kulturo, mladino in medije flamske vlade. Pedstavljena so bila spoznanja iz projekta media.monitor 2025. Nato so udeleženci navzočnosti ministra Van Achterja oblikovali ustrezna politična priporočila, ki prispevajo k močnejšemu in odpornejšemu medijskemu okolju v Flandriji.
+
+### 21. februar 2025
+
+Laura Vandenbosch in Jasmina Rosič od 30. maja 2024 z izbrano skupino ERC raziskovalcev/-k sodelujeta v pilotnem projektu o dostopu do podatkov za raziskovalce/-ke v skladu z zakonom o digitalnih storitvah (DSA) in pomagata pri pripravi vloge za dostop do nejavnih podatkov s platform za izvajanje raziskav o »sistemskih tveganjih« v EU. Pilotni projekt koordinirata Generalni direktorat Evropske komisije za komunikacijska omrežja, vsebine in tehnologijo (DG CNECT) in Evropski raziskovalni svet (ERC) ob podpori Skupnega raziskovalnega središča - Evropskega centra za preglednost algoritmov (JRC-ECAT).
 
 ### 15. – 16. februar 2025
 
-Ekipa MIMIc je sodelovala na otvoritvenem vikend dogodku ob praznovanju 600-letnice KU Leuven, KU Leuven Inside. Skupaj s kolegi iz katedre za psihologijo medijev smo z interaktivno razstavo o uporabi pametnih telefonov predstavili/-e ugotovitve projekta MIMIc o učinkih uporabe digitalnih medijev. Poleg tega je Laura Vandenbosch izvedla 600-sekundno predavanje, namenjeno otrokom, v katerem je pojasnila, ali so družbeni mediji prekletstvo ali blagoslov. Na voljo na tej [povezavi](https://www.youtube.com/watch?v=lDlOLk2-A5I&list=PLXWyIz0l7YBsPW-HRrvwu0bayONySryey&index=41) (v nizozemščini).
+Ekipa MIMIc je sodelovala na otvoritvenem vikend dogodku ob praznovanju 600-letnice KU Leuven, KU Leuven Inside. Skupaj s kolegicami iz katedre za psihologijo medijev smo z interaktivno razstavo o uporabi pametnih telefonov predstavili ugotovitve projekta MIMIc o učinkih uporabe digitalnih medijev. Poleg tega je Laura Vandenbosch izvedla 600-sekundno predavanje, namenjeno otrokom, v katerem je pojasnila, ali so družbeni mediji prekletstvo ali blagoslov. Na voljo na tej [povezavi](https://www.youtube.com/watch?v=lDlOLk2-A5I&list=PLXWyIz0l7YBsPW-HRrvwu0bayONySryey&index=41) (v nizozemščini).
 
 ![](/img/smartphone.jpeg)
+
+### 11. februar 2025
+
+Laura Vandenbosch je sodelovala na dnevu varnejšega interneta na temo uporabe umetne inteligence med otroki in mladimi, kjer je osvetlila, kako mladostniki doživljajo umetno inteligenco in kakojih  lahko naučimo zavestnega soočanja s tveganji, ki jih prinašajo spletni roboti, deepfakes in deepnudes ([povezava](https://www.mediawijs.be/nl/saferinternetday)).
 
 ### 5. – 6. februar 2025
 
@@ -37,6 +49,8 @@ Sodelovali smo na konferenci Etmaal van de Communicatiewetenschap 2025 v Brugges
 **Jasmina Rosič**, Robyn Vanherle, & **Laura Vandenbosch**. Disentangling Daily Relationships Between Adolescents' Perceived Digital Well-Being, State Self-Esteem, and Affective Well-being.
 
 **Gaëlle Vanhoffelen**, Lara Schreurs, & **Laura Vandenbosch**. Very Demure, Very Authentic? Disentangling the Longitudinal Links between Authentic and Inauthentic Online Self-Presentations and Adolescents' Identity Distress in Social Media Contexts.
+
+Thi Willems, **Gaëlle Vanhoffelen**, Chelly Maes & **Laura Vandenbosch**. An Intercultural Study on Adolescents’ Consensual and Non-Consensual Sexting Practices and Their Body Image and Sexuality.
 
 ### 7. januar 2025
 

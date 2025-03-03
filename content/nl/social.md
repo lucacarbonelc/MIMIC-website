@@ -10,6 +10,8 @@ lastmod: [":fileModTime", ":default"]
 
 Laura Vandenbosch was de gast in de uitzending van VRT NWS Laat over pornografiegebruik bij jongeren. Zij beantwoordde op de vragen: "Kijken we met z'n allen echt minder porno, zoals grote pornoplatformen beweren? Of schuilt er meer achter die cijfers?" (Herbekijk minuut 12:14 tot 21:10 via de volgende [link](https://www.vrt.be/vrtmax/a-z/vrt-nws-laat/2025/vrt-nws-laat-d20250219/))
 
+![](/img/vrt.jpeg)
+
 ### 17 mei 2024
 
 Anaëlle Gonzalez werd geïnterviewd voor het online magazine Causette om te praten over de beweging #Blockout2024 op sociale media en de gevolgen ervan, met betrekking tot het bredere onderwerp van politieke betrokkenheid van influencers. Het artikel kan [hier](https://www.causette.fr/societe/humeurs/le-mouvement-blockout2024-qui-appelle-a-bloquer-des-personnalites-ne-prenant-pas-position-pour-gaza-peut-il-vraiment-avoir-un-impact/) en [hier](https://www.instagram.com/p/C7EqcMHMjTY/?utm_source=ig_web_copy_link) gelezen worden (in het Frans).

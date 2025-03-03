@@ -6,11 +6,23 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 27 February 2025
+
+Laura Vandenbosch explained the effects of problematic social media content on children in an interview for the Nieuwsblad. Read more at this [link](https://www.nieuwsblad.be/cnt/dmf20250227_93798586) (in Dutch).
+
+### 27 February 2025
+
+Laura Vandenbosch provided the input to create social media content to inform young followers of the Flemish news Instagram channel (NWS) how to protect themselves from the harmful effects of violent social media content ([link](https://www.instagram.com/p/DGla2-eM-gb/?img_index=3&igsh=MXR4a2w3ZXhsemZuMA==)) (in Dutch).
+
 ### 19 February 2025
 
 Laura Vandenbosch was a guest on the broadcast of VRT NWS Late about pornography use among youth. She was answering the questions, "Are we all really watching less porn, as major porn platforms claim? Or is there more behind those numbers?" (watch minute 12:14 – 21:10 via [link](https://www.vrt.be/vrtmax/a-z/vrt-nws-laat/2025/vrt-nws-laat-d20250219/))
 
 ![](/img/vrt.jpeg)
+
+### 29 January 2025
+
+Laura Vandenbosch was a guest at Radio 1, where she explained positivity bias and authenticity on social media to answer the question, “Why do we pretend to be better on social media?” ([link](https://www.vrt.be/vrtmax/luister/radio/d/de-wereld-van-sofie~11-65/de-wereld-van-sofie~11-31846-0/fragment~8976e0e4-061d-4944-bd65-ba16e40ec431/), in Dutch).
 
 ### 17 May 2024
 

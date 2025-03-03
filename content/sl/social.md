@@ -6,9 +6,23 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 27. feburar 2025
+
+Laura Vandenbosch je v intervjuju za časnik Nieuwsblad pojasnila učinke problematičnih vsebin družbenih medijev na otroke. Več na tej [povezavi](https://www.nieuwsblad.be/cnt/dmf20250227_93798586) (v nizozemščini).
+
+### 27 February 2025
+
+Laura Vandenbosch je podala informacije za oblikovanje vsebine prispevka, ki bo mlade sledilce flamskega novičarskega kanala NWS na Instagramu obveščal, kako se zaščititi pred škodljivimi učinki naslnih vsebin na družbenih omrežjih ([povezava](https://www.instagram.com/p/DGla2-eM-gb/?img_index=3&igsh=MXR4a2w3ZXhsemZuMA==)) (v nizozemščini).
+
 ### 19. feburar 2025
 
 Laura Vandenbosch je bila gostja v oddaji VRT NWS Late o uporabi pornografije med mladimi. Odgovarjala je vprašanja: "Ali res vsi gledamo manj pornografije, kot trdijo glavne pornografske platforme? Ali pa se za temi številkami skriva kaj več?" (na [povezavi](https://www.vrt.be/vrtmax/a-z/vrt-nws-laat/2025/vrt-nws-laat-d20250219/) si oglejte minute od 12:14 do 21:10)
+
+![](/img/vrt.jpeg)
+
+### 29. januar 2025
+
+Laura Vandenbosch je gostovala na Radiu 1, kjer je razložila positivity bias in avtentičnost na družbenih omrežjih ter odgovorila na vprašanje: »Zakaj se na družbenih omrežjih pretvarjamo, da smo boljši?« ([povezava](https://www.vrt.be/vrtmax/luister/radio/d/de-wereld-van-sofie~11-65/de-wereld-van-sofie~11-31846-0/fragment~8976e0e4-061d-4944-bd65-ba16e40ec431/), v nizozemščini).
 
 ### 17. maj 2024
 
