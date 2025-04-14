@@ -146,16 +146,10 @@
   weight = 4.0
 
 [[fr.menu.main]]
-  name = "Liste des écoles participantes"
-  parent = "schools"
-  url = "/list"
-  weight = 4.1
-
-[[fr.menu.main]]
   name = "Ecoles éduquées à la littératie médiatique"
   parent = "schools"
   url = "/media_lit_schools"
-  weight = 4.2
+  weight = 4.1
 
 [[fr.menu.main]]
   name = "Parents et Participants"
@@ -314,16 +308,10 @@
   weight = 4.0
 
 [[nl.menu.main]]
-  name = "Lijst met deelnemende scholen"
-  parent = "schools"
-  url = "/list"
-  weight = 4.1
-
-[[nl.menu.main]]
   name = "Mediageletterde scholen"
   parent = "schools"
   url = "/media_lit_schools"
-  weight = 4.2
+  weight = 4.1
 
 [[nl.menu.main]]
   name = "Ouders en deelnemers"
@@ -488,16 +476,10 @@
   weight = 4.0
 
 [[sl.menu.main]]
-  name = "Seznam sodelujočih šol"
-  parent = "schools"
-  url = "/list"
-  weight = 4.1
-
-[[sl.menu.main]]
   name = "Medijsko pismene šole"
   parent = "schools"
   url = "/media_lit_schools"
-  weight = 4.2
+  weight = 4.1
 
 [[sl.menu.main]]
   name = "Starši in udeleženci"

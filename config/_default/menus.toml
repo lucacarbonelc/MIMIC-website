@@ -105,16 +105,10 @@
   weight = 4.0
 
 [[main]]
-  name = "List of participating schools"
-  parent = "schools"
-  url = "/list"
-  weight = 4.1
-
-[[main]]
   name = "Media Literate Schools"
   parent = "schools"
   url = "/media_lit_schools"
-  weight = 4.2
+  weight = 4.1
 
 [[main]]
   name = "Parents and Participants"
