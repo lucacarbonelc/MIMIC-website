@@ -68,14 +68,88 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
-Cette recherche n'est rendue possible que grâce à la participation de merveilleuses Media Literate Schools en Belgique, en France et en Slovénie. Ces écoles éduquées à la littératie médiatique ont choisi de déployer des efforts considérables pour aider à mieux comprendre les effets des médias sur les adolescents en Europe. Nous sommes reconnaissants de leur coopération et de leur engagement à aider les adolescents à tirer le meilleur parti de leur utilisation des médias.
+The MIMIc research project has only been possible thanks to the participation of wonderful media literate schools in Belgium, France, and Slovenia. These media literate schools have decided to expend a considerable effort to contribute to the understanding of media effects on adolescents in Europe. We are grateful for their cooperation and commitment to helping adolescents make the most of their media use. 
 
-En guise de remerciement, ces écoles recevront un module de formation en littératie médiatique à la fin du projet MIMIc. Ce dossier contiendra un rapport sur les résultats de la recherche, deux clips vidéo digitaux et un guide de discussion.
-Le premier clip vidéo est destiné aux adolescents et explique les résultats de la recherche et leurs implications pour la vie des adolescents. Les écoles sont fortement encouragées à motiver les enseignants et les élèves à regarder le clip vidéo ensemble et à engager une discussion sur les résultats par la suite.
-Pour former les enseignants à devenir des modérateurs expérimentés pour des discussions sur la littératie médiatique, un deuxième clip vidéo digital est destiné aux enseignants et leur explique les points d'attention essentiels à prendre en compte lors de la modération des discussions en classe sur les résultats de la recherche.
+As a token of our gratitude, these schools received four interim debriefing reports (one after each study) and a final debriefing report with the key findings of the project. The schools have been/will be invited to participate in the final stakeholder event at the end of the MIMIc project in their respective country. We have organized such an event in Slovenia on 24/09/2024 and the other two in Belgium and France will follow in 2025. During these events we have presented (or will present) the results of the MIMIc project, discussed the results with the local experts from each country and shared a digital media literacy tool that can be used in schools to promote digital media literacy among adolescents.
 
-Pour organiser la discussion, le guide de discussion contient une explication détaillée par étapes sur la façon dont une conversation peut se dérouler et présente plusieurs sujets à discuter en classe. Les écoles qui mettent en œuvre le module de formation en littératie médiatique dans leur programme sont également invitées à demander aux étudiants de répondre à un bref questionnaire avant et après la formation. Ce questionnaire est analysé par l'équipe MIMIc et donne à l'école un retour d'expérience sur la formation.
+Below is a list of participating schools in France, Belgium, and Slovenia.
 
-En tant que telles, les écoles qui participent au projet MIMIc et utilisent le module de formation en littératie numérique fourni peuvent vraiment se considérer comme une Media Literate School ou Ecole éduquée à la Littératie Médiatique. Entièrement équipées pour aider les étudiants à naviguer dans les complexités d'une société de plus en plus numérique.
+### France:
+1.	Collège les Denteliers de Calais
+2.	Collège Saint-Firmin de Firminy
+3.	Collège Louise Michel de Lussac Les Châteaux
+4.	Collège Vallées du Paillon – Roger Carlès de Contes
+5.	Collège Léonard de Vinci de Romorantin
+6.	Collège Marie Noël de Joigny
+7.	Collège Félix Landreau de Angers
+8.	Collège Paul Emile Victor de Corcieux
+9.	Collège Pierre et Marie Curie de Albert
+10.	Collège Maria Montessori des Aiglons
+11.	Collège Adèle de Trenquelléon
+12.	Collège Travail-Langevin
+13.	Collège Iles de Loire
+14.	Collège Jeanne d’Arc - Saint Géraud
+15.	Collège Endarra - Anglet
+16.	Collège Jules Ferry - Neuves-Maisons
+17.	Collège Henri Vincenot
+18.	Collège Jean Cocteau
+19.	Collège Saint-Antoine La Salle
+20.	Collège André Duchesne - L’Ile Bouchard
+21.	Lycée Professionnel Pierre Mendès-France
+22.	Lycée Augustin Thierry de Blois
+23.	Lycée Fustel de Coulanges de Strasbourg
+24.	Lycée la Martinière Duchère de Lyon
+25.	Lycée privé Saint-Joseph la Salle de Pantin
+26.	Lycée Saint-Joseph de Lamballe
+27.	Lycée privé Jean-Baptiste la Salle de Rouen
+28.	Lycée Georges Leygues-Louis Couffignal de Villeneuve-sur-Lot
+29.	Lycée Saint Joseph de Lectoure
+30.	Lycée Saint Exupéry de Terrasson
+31.	Lycée professionnel H.S.C. Deville
+32.	Lycée du Vexin - Chars
+33.	Lycée Edouard Herriot - Lyon
+34.	Lycée Mirail, Rive Gauche - Toulouse
+35.	Lycée de Bougainville - Nantes
+36.	Lycée Napoléon - L’Aigle
+37.	Lycée Julien Gracq
+38.	Lycée Blaise Pascal - Segre
+39.	Lycée professionnel Ernest Ferroul
+40.	Lycée Jacques Coeur – Bourges
 
-Pour trouver une liste de ces écoles ayant fait le choix de participer, cliquez [ici](http://www.projectmimic.eu/fr/list/).
+### Belgium:
+1.	GO! atheneum Maerlant Blankenberge
+2.	Gitok Bovenbouw
+3.	Pedagogisch Humaniora Heilig Hartinstituut [Heverlee]
+4.	Instituut Heilig Hart [Kalmthout]
+5.	Sint-Gabriëlcollege Boechout
+6.	SJC Aarschot
+7.	COLOMAplus
+
+### Slovenia:
+1.	II. osnovna šola Celje
+2.	Osnovna šola Antona Martina Slomška Vrhnika
+3.	Osnovna šola Brežice
+4.	Osnovna šola Bršljin Novo mesto
+5.	Osnovna šola Danile Kumar Ljubljana Bežigrad
+6.	Osnovna šola Dragomirja Benčiča - Brkina Hrpelje
+7.	Osnovna šola Ivana Cankarja Vrhnika
+8.	Osnovna šola Kidričevo
+9.	Osnovna šola Milojke Štrukelj Nova Gorica
+10.	Osnovna šola Ob Rinži Kočevje
+11.	Osnovna šola Pohorskega odreda Slovenska Bistrica
+12.	Osnovna šola Puconci
+13.	Osnovna šola Šentjanž pri Dravogradu
+14.	Osnovna šola Simona Gregorčiča Kobarid
+15.	Osnovna šola Stopiče
+16.	Osnovna šola Tončke Čeč Trbovlje
+17.	Osnovna šola Toneta Čufarja Jesenice
+18.	Ekonomska gimnazija in srednja šola Radovljica
+19.	Ekonomska šola Ljubljana
+20.	Gimnazija Jožeta Plečnika Ljubljana
+21.	Gimnazija Kranj
+22.	Šolski center Celje. Srednja šola za storitvene dejavnosti in - logistiko
+23.	Šolski center Nova Gorica. Strojna, prometna in lesarska šola - Nova Gorica
+24.	Srednja ekonomska šola in gimnazija Maribor
+25.	Srednja gozdarska in lesarska šola Postojna
+26.	Srednja šola za oblikovanje in fotografijo Ljubljana
+27.	Srednja tehniška šola Koper

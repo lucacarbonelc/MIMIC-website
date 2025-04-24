@@ -68,16 +68,86 @@ lastmod = [":fileModTime", ":default"]
  css_class = ""
 +++
 
-Izvedba te raziskave je mogoča zgolj zaradi sodelovanja pomagajočih medijsko pismenih šol v Belgiji, Franciji in Sloveniji. Te medijsko pismene šole so se odločile, da bodo vložile precej truda, da bi pomagale razumeti vpliv medijev na mladostnike v Evropi. Hvaležni smo jim za njihovo sodelovanje in zavezanost, da mladostnikom pomagajo, kako čim bolje izkoristiti svojo uporabo medijev.
+Izvedba projekta MIMIc je bila mogoča zaradi sodelovanja medijsko pismenih šol v Belgiji, Franciji in Sloveniji, ki so se odločile, da bodo vložile precej truda, da bi pomagale razumeti vpliv medijev na mladostnike v Evropi. Hvaležni smo jim za njihovo sodelovanje in zavezanost, da mladostnikom pomagajo, kako čim bolje izkoristiti svojo uporabo medijev.
+V zahvalo za sodelovanje so šole prejele štiri vmesna [poročila](https://www.projectmimic.eu/sl/#debriefings) z rezultati (po eno po vsaki študiji) in končno poročilo o poročanju s ključnimi ugotovitvami projekta. Šole so bile/ bodo povabljene k sodelovanju na zaključnem dogodku projekta MIMIc v svoji državi. V Sloveniji smo takšen dogodek organizirali 24. 9. 2024, druga dva v Belgiji in Franciji pa bosta sledila leta 2025. Na teh dogodkih smo (ali bomo) predstavili rezultate projekta MIMIc, o njih razpravljali z lokalnimi strokovnjaki in delili [orodje za digitalno medijsko pismenost](https://www.projectmimic.eu/sl/vibecheck/), ki se lahko uporablja v šolah za spodbujanje digitalne medijske pismenosti med mladostniki.
+Spodaj je seznam sodelujočih šol v Franciji, Belgiji in Sloveniji.
 
-V zahvalo bodo te šole ob koncu projekta MIMIc prejele paket digitalne pismenosti. Ta paket bo vseboval poročilo o rezultatih raziskav, dva video posnetka in priročnik za razpravo.
+### France:
+1.	Collège les Denteliers de Calais
+2.	Collège Saint-Firmin de Firminy
+3.	Collège Louise Michel de Lussac Les Châteaux
+4.	Collège Vallées du Paillon – Roger Carlès de Contes
+5.	Collège Léonard de Vinci de Romorantin
+6.	Collège Marie Noël de Joigny
+7.	Collège Félix Landreau de Angers
+8.	Collège Paul Emile Victor de Corcieux
+9.	Collège Pierre et Marie Curie de Albert
+10.	Collège Maria Montessori des Aiglons
+11.	Collège Adèle de Trenquelléon
+12.	Collège Travail-Langevin
+13.	Collège Iles de Loire
+14.	Collège Jeanne d’Arc - Saint Géraud
+15.	Collège Endarra - Anglet
+16.	Collège Jules Ferry - Neuves-Maisons
+17.	Collège Henri Vincenot
+18.	Collège Jean Cocteau
+19.	Collège Saint-Antoine La Salle
+20.	Collège André Duchesne - L’Ile Bouchard
+21.	Lycée Professionnel Pierre Mendès-France
+22.	Lycée Augustin Thierry de Blois
+23.	Lycée Fustel de Coulanges de Strasbourg
+24.	Lycée la Martinière Duchère de Lyon
+25.	Lycée privé Saint-Joseph la Salle de Pantin
+26.	Lycée Saint-Joseph de Lamballe
+27.	Lycée privé Jean-Baptiste la Salle de Rouen
+28.	Lycée Georges Leygues-Louis Couffignal de Villeneuve-sur-Lot
+29.	Lycée Saint Joseph de Lectoure
+30.	Lycée Saint Exupéry de Terrasson
+31.	Lycée professionnel H.S.C. Deville
+32.	Lycée du Vexin - Chars
+33.	Lycée Edouard Herriot - Lyon
+34.	Lycée Mirail, Rive Gauche - Toulouse
+35.	Lycée de Bougainville - Nantes
+36.	Lycée Napoléon - L’Aigle
+37.	Lycée Julien Gracq
+38.	Lycée Blaise Pascal - Segre
+39.	Lycée professionnel Ernest Ferroul
+40.	Lycée Jacques Coeur – Bourges
 
-Prvi video posnetek je namenjen mladostnikom in pojasni rezultate raziskave ter vsebuje napotke za življenje mladostnikov z mediji. Vodstvo šol, učitelje in učencev močno spodbujamo, da si video posnetek skupaj ogledajo in se nato pogovorijo o rezultatih.
+### Belgium:
+1.	GO! atheneum Maerlant Blankenberge
+2.	Gitok Bovenbouw
+3.	Pedagogisch Humaniora Heilig Hartinstituut [Heverlee]
+4.	Instituut Heilig Hart [Kalmthout]
+5.	Sint-Gabriëlcollege Boechout
+6.	SJC Aarschot
+7.	COLOMAplus
 
-Drugi video posnetek je namenjen učiteljem, da bi postali usposobljeni izkušeni moderatorji za razpravo o veščinah medijske pismenosti. Video posnetek jim razloži ključne točke, ki jih je treba upoštevati pri vodenju razprav z učenci o rezultatih raziskave.
-
-Priročnik za organizacijo razprave vsebuje podrobno razlago o tem, o katerih temah lahko učenci in učitelji razpravljajo, ter kako se lahko pogovor v razredu odvija. Šole, ki bodo v svoj učni načrt uvajale paket digitalne pismenosti, tudi vabimo, da učence pred in po usposabljanju povabijo k izpolnjevanju kratkega vprašalnika. Odgovore na vprašalnik bo analizirala skupina MIMIc in dala šoli povratne informacije o usposabljanju.
-
-Šole, ki sodelujejo v projektu MIMIc in uporabijo ponujeni paket digitalne pismenosti, se lahko štejejo za medijsko pismeno šolo. Slednje pomeni, da so popolnoma opremljene za pomoč učencem ali dijakom pri krmarjenju kompleksnosti vse bolj digitalne družbe.
-
-Seznam teh pomagajočih medijsko pismenih šol se nahaja [tukaj](http://www.projectmimic.eu/sl/list/).
+### Slovenia:
+1.	II. osnovna šola Celje
+2.	Osnovna šola Antona Martina Slomška Vrhnika
+3.	Osnovna šola Brežice
+4.	Osnovna šola Bršljin Novo mesto
+5.	Osnovna šola Danile Kumar Ljubljana Bežigrad
+6.	Osnovna šola Dragomirja Benčiča - Brkina Hrpelje
+7.	Osnovna šola Ivana Cankarja Vrhnika
+8.	Osnovna šola Kidričevo
+9.	Osnovna šola Milojke Štrukelj Nova Gorica
+10.	Osnovna šola Ob Rinži Kočevje
+11.	Osnovna šola Pohorskega odreda Slovenska Bistrica
+12.	Osnovna šola Puconci
+13.	Osnovna šola Šentjanž pri Dravogradu
+14.	Osnovna šola Simona Gregorčiča Kobarid
+15.	Osnovna šola Stopiče
+16.	Osnovna šola Tončke Čeč Trbovlje
+17.	Osnovna šola Toneta Čufarja Jesenice
+18.	Ekonomska gimnazija in srednja šola Radovljica
+19.	Ekonomska šola Ljubljana
+20.	Gimnazija Jožeta Plečnika Ljubljana
+21.	Gimnazija Kranj
+22.	Šolski center Celje. Srednja šola za storitvene dejavnosti in - logistiko
+23.	Šolski center Nova Gorica. Strojna, prometna in lesarska šola - Nova Gorica
+24.	Srednja ekonomska šola in gimnazija Maribor
+25.	Srednja gozdarska in lesarska šola Postojna
+26.	Srednja šola za oblikovanje in fotografijo Ljubljana
+27.	Srednja tehniška šola Koper

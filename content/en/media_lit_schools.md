@@ -121,13 +121,9 @@ Below is a list of participating schools in France, Belgium, and Slovenia.
 2.	Gitok Bovenbouw
 3.	Pedagogisch Humaniora Heilig Hartinstituut [Heverlee]
 4.	Instituut Heilig Hart [Kalmthout]
-5.	SGC Lier
-6.	Sint-Dimpna College
-7.	Sint-Aloysius Geel
-8.	kOsh
-9.	Sint-Gabriëlcollege Boechout
-10.	SJC Aarschot
-11.	COLOMAplus
+5.	Sint-Gabriëlcollege Boechout
+6.	SJC Aarschot
+7.	COLOMAplus
 
 ### Slovenia:
 1.	II. osnovna šola Celje
