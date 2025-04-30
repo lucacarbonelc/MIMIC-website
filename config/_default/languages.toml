@@ -464,7 +464,7 @@
   weight = 3.9
   
 [[sl.menu.main]]
-  name = "MIMIc Doctors"
+  name = "MIMIc doktorji"
   parent = "resources"
   url = "/doctors"
   weight = 3.10

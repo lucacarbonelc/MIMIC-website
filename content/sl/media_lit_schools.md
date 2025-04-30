@@ -72,7 +72,7 @@ Izvedba projekta MIMIc je bila mogoča zaradi sodelovanja medijsko pismenih šol
 V zahvalo za sodelovanje so šole prejele štiri vmesna [poročila](https://www.projectmimic.eu/sl/#debriefings) z rezultati (po eno po vsaki študiji) in končno poročilo o poročanju s ključnimi ugotovitvami projekta. Šole so bile/ bodo povabljene k sodelovanju na zaključnem dogodku projekta MIMIc v svoji državi. V Sloveniji smo takšen dogodek organizirali 24. 9. 2024, druga dva v Belgiji in Franciji pa bosta sledila leta 2025. Na teh dogodkih smo (ali bomo) predstavili rezultate projekta MIMIc, o njih razpravljali z lokalnimi strokovnjaki in delili [orodje za digitalno medijsko pismenost](https://www.projectmimic.eu/sl/vibecheck/), ki se lahko uporablja v šolah za spodbujanje digitalne medijske pismenosti med mladostniki.
 Spodaj je seznam sodelujočih šol v Franciji, Belgiji in Sloveniji.
 
-### France:
+### Francija:
 1.	Collège les Denteliers de Calais
 2.	Collège Saint-Firmin de Firminy
 3.	Collège Louise Michel de Lussac Les Châteaux
@@ -114,7 +114,7 @@ Spodaj je seznam sodelujočih šol v Franciji, Belgiji in Sloveniji.
 39.	Lycée professionnel Ernest Ferroul
 40.	Lycée Jacques Coeur – Bourges
 
-### Belgium:
+### Belgija:
 1.	GO! atheneum Maerlant Blankenberge
 2.	Gitok Bovenbouw
 3.	Pedagogisch Humaniora Heilig Hartinstituut [Heverlee]
@@ -123,7 +123,7 @@ Spodaj je seznam sodelujočih šol v Franciji, Belgiji in Sloveniji.
 6.	SJC Aarschot
 7.	COLOMAplus
 
-### Slovenia:
+### Slovenija:
 1.	II. osnovna šola Celje
 2.	Osnovna šola Antona Martina Slomška Vrhnika
 3.	Osnovna šola Brežice

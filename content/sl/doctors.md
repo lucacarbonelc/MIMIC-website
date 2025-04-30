@@ -1,6 +1,6 @@
 ---
 
-title: Doktoranti/-ke projekta MIMIc
+title: Doktorji/-ce projekta MIMIc
 date: "2020-08-31T00:00:00+01:00"
 lastmod: [":fileModTime", ":default"]
 
