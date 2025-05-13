@@ -5,6 +5,67 @@ date: "2020-08-31T00:00:00+01:00"
 lastmod: [":fileModTime", ":default"]
 
 ---
+### 13 May 2025
+
+Gaëlle Vanhoffelen, Anaëlle Gonzalez, Lara Schreurs, Caroline Giraudeau, and Laura Vandenbosch published an article titled “The Perfect Li(f)e: A Longitudinal Study on Positive Social Media Content and European Adolescents’ Perfectionism.” in the journal Communication Research. The article is available at the following [link](https://doi.org/10.1177/00936502251337650).
+
+### 13 May 2025
+
+Femke Konings, Laura Vandenbosch, Kaitlin Fitzgerald, Jasmine Fardouly, Elien Beleen, Toon Tabruyn, Kathrin Karsay, and Chelly Maes published an article titled “Adolescents’ sexualized self-presentations on social media: A cross-national data donation study” in the journal Media Psychology. The article is available at the following [link]().
+
+### 10 April 2025
+
+Jasmina Rosič, Lara Schreurs, & Laura Vandenbosch published an article titled “Adolescents’ perceptions regarding their smartphone use: Longitudinal relationships between perceived digital well-being and self-esteem” in the journal Journal of Computer-Mediated Communication. The article is available at the following [link](https://doi.org/10.1093/jcmc/zmaf005).
+
+### 26 February 2025
+
+Laura Vandenbosch attended the meeting with representatives of the Flemish Government’s Minister of Well-Being to advise, together with other Flemish researchers, on measures to tackle social media use among youngsters.
+
+### 22 February 2025
+
+Anaëlle Gonzalez and Jasmina Rosič, together with Prof. Dr. Esther Martínez Pastor and Prof. Dr. Marian Blanco-Ruiz Rey from Juan Carlos University (Spain), are guest editors of the special issue of Doxa Comunicación entitled “Digital Environments and Mental Health in Young People: Challenges and Opportunities.” You are kindly invited to submit your paper there until 30/06/2025. More information via [this link](bit.ly/4hJTdG5)
+
+### 21 February 2025
+
+Gaëlle Vanhoffelen participated in media.forum 2025, the second symposium organized by the knowledge center Mediapunt in partnership with the Department of Culture, Youth, and Media of the Flemish Government. Insights from the media.monitor 2025 were shared. Afterwards, participants formulated relevant policy recommendations that contribute to a stronger and more resilient media landscape in Flanders, in the presence of Minister Van Achter.
+
+### 21 February 2025
+
+Since May 30, 2024, Laura Vandenbosch and Jasmina Rosič have been participating with a selected group of ERC grantees in a pilot project on data access for research under the Digital Services Act (DSA) to help prepare an application for access to non-public data from platforms to conduct research on "systemic risks" in the EU. The pilot is under the coordination of the European Commission’s Directorate-General for Communications Networks, Content and Technology (DG CNECT) and the European Research Council (ERC) with the support of the Joint Research Centre - European Centre for Algorithmic Transparency (JRC-ECAT).
+
+### 15 – 16 February 2025
+
+The MIMIc team participated at KU Leuven Inside—the opening weekend celebrating 600 years of KU Leuven. Together with colleagues from the Media Psychology lab, we showcased project MIMIc findings on the effects of digital media use through an interactive smartphone use exhibition. Additionally, Laura Vandenbosch delivered a 600-second lecture targeted at children explaining whether social media is a curse or a blessing. Available via [this link](https://www.youtube.com/watch?v=lDlOLk2-A5I&list=PLXWyIz0l7YBsPW-HRrvwu0bayONySryey&index=41) (in Dutch).
+
+![](/img/smartphone.jpeg)
+
+### 11 February 2025
+
+Laura Vandenbosch participated at the Safer Internet Day on the topic of AI use among children and youth, where she shed a light on how youth experience AI and how can we teach adolescents to consciously deal with the risks that chatbots, deepfakes, and deepnudes ([link](https://www.mediawijs.be/nl/saferinternetday)).
+
+### 5 - 6 February 2025
+
+Luca Carbone and Jasmina Rosič attended the Leuven Child and Youth Institute conference, where Laura Vandenbosch presented and discussed the project MIMIc findings on how online spaces influence users' body image.
+
+![](/img/cy-institute.jpeg)
+
+### 3 – 4 February 2025
+
+We participated at the Etmaal van de Communicatiewetenschap 2025 conference in Brugges, which we co-organized with our colleagues from the Communication Science department. We presented these studies of the MIMIc project:
+
+- **Luca Carbone**, **Laura Vandenbosch**, Christoph Klimmt, & Julian Schaap. A Theory of Resonant Experiences with Media.
+- **Anaëlle Gonzalez & Laura Vandenbosch**. Politically-Influenced by Non-Political Actors? Longitudinal Reciprocal Associations Between Famous Figures’ Political Social Media Posts and Political Interest in Adolescence.
+- **Jasmina Rosič**, Robyn Vanherle, & **Laura Vandenbosch**. Disentangling Daily Relationships Between Adolescents' Perceived Digital Well-Being, State Self-Esteem, and Affective Well-being.
+- **Gaëlle Vanhoffelen**, Lara Schreurs, & **Laura Vandenbosch**. Very Demure, Very Authentic? Disentangling the Longitudinal Links between Authentic and Inauthentic Online Self-Presentations and Adolescents' Identity Distress in Social Media Contexts.
+- Thi Willems, **Gaëlle Vanhoffelen**, Chelly Maes, and **Laura Vandenbosch**. An Intercultural Study on Adolescents’ Consensual and Non-Consensual Sexting Practices and Their Body Image and Sexuality
+
+### 07 January 2025
+
+Laura Vandenbosch, Kathleen Beullens, Robyn Vanherle, and Lara Schreurs published an article titled “Digital media uses and eﬀects: The contributing roles of time” in the journal Journal of Children and Media. The article is available at the following [link](https://doi.org/10.1080/17482798.2024.2438690).
+
+### 29 November 2024
+
+Laura Vandenbosch gave a keynote speech at the Cyberspace Conference organized by Masaryk University in Brno. She presented the latest trends in research about the relationship between social media use and body image that can help empower youth in building resilience and combating algorithm-driven appearance pressures ([link](https://cyberspace.muni.cz/keynote-speakers)).
 
 ### Octobre-Novembre 2024
 

@@ -6,6 +6,18 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 13 May 2025
+
+Gaëlle Vanhoffelen, Anaëlle Gonzalez, Lara Schreurs, Caroline Giraudeau, and Laura Vandenbosch published an article titled “The Perfect Li(f)e: A Longitudinal Study on Positive Social Media Content and European Adolescents’ Perfectionism.” in the journal Communication Research. The article is available at the following [link](https://doi.org/10.1177/00936502251337650).
+
+### 13 May 2025
+
+Femke Konings, Laura Vandenbosch, Kaitlin Fitzgerald, Jasmine Fardouly, Elien Beleen, Toon Tabruyn, Kathrin Karsay, and Chelly Maes published an article titled “Adolescents’ sexualized self-presentations on social media: A cross-national data donation study” in the journal Media Psychology. The article is available at the following [link]().
+
+### 10. april 2025
+ 
+Jasmina Rosič, Lara Schreurs, and Laura Vandenbosch so objavile članek z naslovom »Adolescents’ perceptions regarding their smartphone use: Longitudinal relationships between perceived digital well-being and self-esteem« v reviji Journal of Computer-Mediated Communication. Članek je na voljo na naslednji [povezavi](https://doi.org/10.1093/jcmc/zmaf005).
+
 ### 26. februar 2025
 
 Laura Vandenbosch se je udeležila srečanja s predstavniki flamske ministrice za blaginjo in skupaj z drugimi flamskimi raziskovalci svetovala o ukrepih glede uporabe družbenih medijev med mladostniki.
