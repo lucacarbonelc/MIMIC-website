@@ -7,7 +7,7 @@ authors:
 - Caroline Giraudeau
 - Laura Vandenbosch
 date: "2025-05-13T00:00:00Z"
-doi: "https://doi.org/10.1177/00936502251337650"
+doi: "10.1177/00936502251337650"
 featured: false
 projects: []
 publication: 'Communication Research'
