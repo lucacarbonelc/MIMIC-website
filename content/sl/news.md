@@ -6,6 +6,10 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 15 May 2025
+
+Anaëlle Gonzalez, Isra Irmak Akgün, and Laura Vandenbosch published an article titled “The Values of Fame: Exploring the Visual and Textual Representations of Basic Values in Influencers’ Instagram Content” in the journal Social Media + Society. The article is available at the following [link](https://doi.org/10.1177/20563051251339035).
+
 ### 13 May 2025
 
 Gaëlle Vanhoffelen, Anaëlle Gonzalez, Lara Schreurs, Caroline Giraudeau, and Laura Vandenbosch published an article titled “The Perfect Li(f)e: A Longitudinal Study on Positive Social Media Content and European Adolescents’ Perfectionism.” in the journal Communication Research. The article is available at the following [link](https://doi.org/10.1177/00936502251337650).
