@@ -7,10 +7,10 @@ projects: []
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2024-05-21T00:00:00Z"
+publishDate: "2025-05-21T00:00:00Z"
 tags:
 - debriefing
-title: Debriefing - Dagboekstudie
+title: Debriefing - Finale
 url_code: ""
 url_dataset: ""
 url_pdf: ""
