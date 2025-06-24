@@ -6,6 +6,27 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 14 June 2025
+
+At ICA, Dr. Luca Carbone received the Top Dissertation Award from the Children, Adolescents, and Media (CAM) division for their dissertation completed as part of the MIMIc project, titled “Mainstreaming Success: Neoliberal Success Narratives in Music and Their Internalization Among Adolescents.”
+
+### 12 – 16 June 2025
+
+We participated at the annual meeting of the International Communication Association (ICA) in Denver. We presented the following studies of the MIMIc project:
+
+- Edward Noon, **Luca Carbone** & **Laura Vandenbosch**. A Toxic Feedback Loop? The Relationship Between Performance-Contingent Self-Esteem and Toxic Communication in Adolescent Videogame Play
+- **Jasmina Rosič**, Robyn Vanherle and **Laura Vandenbosch**. Daily Links Between Adolescents’ Perceived Digital Well-Being, State Self-Esteem, and Affective Well-Being.
+- Thi Willems, **Gaëlle Vanhoffelen**, Chelly Maes and **Laura Vandenbosch**. An Intercultural Study on Adolescents’ Consensual and Non-Consensual Sexting Practices and Their Body Image and Sexuality.
+- **Luca Carbone**, Christoph Klimmt, & **Laura Vandenbosch**. The Internalization of a Performance-Oriented Self-Concept among Adolescents through their Favorite Music Artists
+- **Luca Carbone** & **Laura Vandenbosch**. Unpacking the Internalization of Effort-Oriented Success Narratives through Adolescents’ Favorite Music Lyrics
+- Chelly Maes, Robyn Vanherle, Jasmine Fardouly and **Laura Vandenbosch**. #BoPo, #Ideal, or #Mixed? Exploring Adolescents’ Daily Exposure to Appearance Content on Social Media and Its Relations With Body Image Components.
+- **Jasmina Rosič** and **Laura Vandenbosch**. Adolescents’ Conversations in the Digital Era: The Role of Friends in Co-Present Smartphone Use Competence.
+- Lara Schreurs, Ines Boeckxstaens, Angela Y. Lee, Toon Tabruyn, Sunny X. Liu, Katie Fitzgerald, Jeff Hancock & **Laura Vandenbosch**. Who Is Posting What on Social Media? Insights From Adolescents’ Data Donations in Three European Countries
+- Femke Konings, **Laura Vandenbosch**, Katie Fitzgerald, Jasmine Fardouly, Elien Beelen, Toon Tabruyn, Kathrin Karsay and Chelly Maes. Adolescents’ Sexualized Self-Presentations on Social Media: A Cross-National Data Donation Study.
+- **Luca Carbone**, **Laura Vandenbosch**, Christoph Klimmt, & Julian Schaap. A Theory of Resonant Experiences with Media.
+
+![](/img/ica25.jpeg)
+
 ### 15 May 2025
 
 Anaëlle Gonzalez, Isra Irmak Akgün, and Laura Vandenbosch published an article titled “The Values of Fame: Exploring the Visual and Textual Representations of Basic Values in Influencers’ Instagram Content” in the journal Social Media + Society. The article is available at the following [link](https://doi.org/10.1177/20563051251339035).
