@@ -6,6 +6,10 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 24 October 2025 (upcoming)
+
+The MIMIc team will present the results of the MIMIc project at the Belgian stakeholder event, organized at KU Leuven as part of the [Leuven Child and Youth Institute](https://www.kuleuven.be/child-youth/en/index.html) seminar series. Participation is free, but you need to register at the following [link](https://www.kuleuven.be/child-youth/en/forms/lcy-seminar-24102025).
+
 ### 14 June 2025
 
 At ICA, Dr. Luca Carbone received the Top Dissertation Award from the Children, Adolescents, and Media (CAM) division for their dissertation completed as part of the MIMIc project, titled “Mainstreaming Success: Neoliberal Success Narratives in Music and Their Internalization Among Adolescents.”
@@ -42,6 +46,10 @@ Femke Konings, Laura Vandenbosch, Kaitlin Fitzgerald, Jasmine Fardouly, Elien Be
 ### 10 April 2025
 
 Jasmina Rosič, Lara Schreurs, & Laura Vandenbosch published an article titled “Adolescents’ perceptions regarding their smartphone use: Longitudinal relationships between perceived digital well-being and self-esteem” in the journal Journal of Computer-Mediated Communication. The article is available at the following [link](https://doi.org/10.1093/jcmc/zmaf005).
+
+### 3 April 2025
+
+The results of the MIMIc project were shared on the ERC website. Find more information at the following [link](https://erc.europa.eu/projects-statistics/science-stories/teenagers-wellbeing-affected-media-narratives).
 
 ### 26 February 2025
 
