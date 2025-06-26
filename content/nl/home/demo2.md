@@ -58,7 +58,7 @@ ERC interview by Prof. Laura Vandenbosch
 <br>
 
 <div style="text-align: justify">
-"<u>**Imiteren**</u> jongeren de levensstijlen die ze tegenkomen op sociale media en in entertainment fictie, en hoe gaan ze om met de alomtegenwoordigheid van smartphones in hun leven (nl., <u>**digitaal welzijn**</u>)?" is de kernvraag van het onderzoek uitgevoerd door het MIMIc team in België, Frankrijk en Slovenië.
+"**Imiteren** jongeren de levensstijlen die ze tegenkomen op sociale media en in entertainment fictie, en hoe gaan ze om met de alomtegenwoordigheid van smartphones in hun leven (nl., **digitaal welzijn**)?" is de kernvraag van het onderzoek uitgevoerd door het MIMIc team in België, Frankrijk en Slovenië.
 </div>
 
 ### Inhoudelijke analyses: Het onderzoeken van de inhoud van populaire media
@@ -73,7 +73,7 @@ In de <u>tweede reeks studies</u> vroegen we 507 Belgische, Franse en Sloveense 
 
 ### Tijds-/longitudinale studies: Het onderzoeken van de lange termijn relaties tussen het mediagebruik van adolescenten en hun leven
 <div style="text-align: justify">
-In <u>de derde reeks studies</u> bevroegen we drie keer in één jaar 2721 adolescenten (607 in België, 868 in Frankrijk en 1246 in Slovenië) tussen 12 en 18 jaar om de lange termijn effecten van populaire muziekteksten, tv-programma's en sociale media-inhoud op hun ontluikende identiteit te begrijpen. Door hun activiteiten een jaar lang te onderzoeken, kan dit onderzoek helpen om te begrijpen of jongeren de levensstijlen <u>**nabootsen**</u> die ze tegenkomen op deze verschillende entertainmentmedia. Een deel van de analyses voor deze onderzoeken is nog niet afgerond. Hieronder beschrijven we enkele beschikbare bevindingen.
+In <u>de derde reeks studies</u> bevroegen we drie keer in één jaar 2721 adolescenten (607 in België, 868 in Frankrijk en 1246 in Slovenië) tussen 12 en 18 jaar om de lange termijn effecten van populaire muziekteksten, tv-programma's en sociale media-inhoud op hun ontluikende identiteit te begrijpen. Door hun activiteiten een jaar lang te onderzoeken, kan dit onderzoek helpen om te begrijpen of jongeren de levensstijlen **nabootsen** die ze tegenkomen op deze verschillende entertainmentmedia. Een deel van de analyses voor deze onderzoeken is nog niet afgerond. Hieronder beschrijven we enkele beschikbare bevindingen.
 
 In lijn met de bovengenoemde resultaten waaruit 'succes' en 'het perfecte leven' alomtegenwoordige thema’s bleken te zijn in de mediaberichten van zowel rolmodellen (bv. influencers, artiesten) als adolescenten, toonde een <u>eerste studie</u> aan dat adolescenten die sterk streven naar perfectie ook meer van dergelijke boodschappen zien online (d.w.z. sociale mediaposts van anderen die laten zien hoe perfect ze zijn) en vice versa, dat adolescenten die meer van dergelijke boodschappen zien ook adolescenten zijn die een druk ervaren om perfect te zijn. Ongeveer 40% van de adolescenten uit de drie landen gaf aan (zeer) vaak positieve sociale media-inhoud tegen te komen, zoals beelden van een perfect uiterlijk of een ideale levensstijl. Tegelijkertijd vonden we dat tot 61% van de adolescenten druk voelt om perfect te zijn in alles wat ze doen. Van deze groep gaf 38% aan deze druk te voelen vanwege de hoge verwachtingen die ze voelen vanuit hun omgeving, waaronder de maatschappij, leeftijdsgenoten en ouders.
 
@@ -86,7 +86,9 @@ Uit een <u>vierde studie</u> naar digitaal welzijn onder Sloveense jongeren blee
 
 ### Dagboekstudies: Het onderzoeken van de korte termijn relaties tussen het mediagebruik van adolescenten en hun leven
 <div style="text-align: justify">
-Tot slot werden er in oktober 2023 dagboekstudies (nl., dagelijkse vragenlijsten) georganiseerd om de dagelijkse interacties van adolescenten met sociale en entertainmentmedia beter te begrijpen. In deze studie volgden we 278 Belgische, 150 Franse en 344 Sloveense jongeren. De analyses zijn nog aan de gang.
+Ten slotte werden er in oktober 2023 dagelijkse vragenlijsten georganiseerd om beter inzicht te krijgen in de dagelijkse interacties van adolescenten met sociale en entertainmentmedia. In deze studie volgden we 278 Belgische, 150 Franse en 344 Sloveense jongeren.
+Een eerste studie onderzocht hoe de dagelijkse blootstelling van adolescenten aan uiterlijk-gerelateerde content op sociale media, zowel geïdealiseerde als body-positive (BoPo) content, samenhangt met schommelingen in hun lichaamstevredenheid en zelfmonitoring. De bevindingen tonen aan dat hoewel de totale mediablootstelling en zorgen over het lichaam van dag tot dag sterk kunnen variëren, adolescenten (en vooral meisjes) die consequent meer blootgesteld worden aan geïdealiseerde content ook meer zorgen over hun lichaam rapporteren. Daarentegen hangt kortdurende blootstelling aan BoPo-content samen met een verbeterde lichaamstevredenheid.
+Een tweede studie onderzocht verder de dagelijkse verbanden tussen de ervaren digitale welzijn, het zelfbeeld en het affectieve welzijn van adolescenten. Deze studie toonde aan dat de dagelijkse percepties van digitaal welzijn positief samenhangen met het zelfbeeld en de stemming van adolescenten, waarbij de effecten binnen individuen over de tijd sterker zijn dan tussen verschillende individuen. Geslacht en het opleidingsniveau van de moeder beïnvloedden deze effecten, waarbij meisjes en adolescenten met hoogopgeleide moeders meer profijt hadden van positieve digitale ervaringen.
 </div>
 
 <br>

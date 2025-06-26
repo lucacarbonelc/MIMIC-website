@@ -6,20 +6,43 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
-### 15 May 2025
-Anaëlle Gonzalez, Isra Irmak Akgün, and Laura Vandenbosch published an article titled “The Values of Fame: Exploring the Visual and Textual Representations of Basic Values in Influencers’ Instagram Content” in the journal Social Media + Society. The article is available at the following [link](https://doi.org/10.1177/20563051251339035).
+### 14 juni 2025
+Tijdens het ICA congres ontving Dr. Luca Carbone de Top Dissertation Award van de ‘Children, Adolescents, and Media’ (CAM) divisie voor zijn doctoraat dat hij afrondde binnen het MIMIc-project, getiteld: “Mainstreaming Success: Neoliberal Success Narratives in Music and Their Internalization Among Adolescents.”
 
-### 13 May 2025
-Gaëlle Vanhoffelen, Anaëlle Gonzalez, Lara Schreurs, Caroline Giraudeau, and Laura Vandenbosch published an article titled “The Perfect Li(f)e: A Longitudinal Study on Positive Social Media Content and European Adolescents’ Perfectionism.” in the journal Communication Research. The article is available at the following [link](https://doi.org/10.1177/00936502251337650).
+### 12 – 16 juni 2025
+We namen deel aan de jaarlijkse congres van de International Communication Association (ICA) in Denver. Tijdens deze conferentie presenteerden we de volgende studies binnen het MIMIc-project:
+-	Edward Noon, **Luca Carbone** & **Laura Vandenbosch**. A Toxic Feedback Loop? The Relationship Between Performance-Contingent Self-Esteem and Toxic Communication in Adolescent Videogame Play
+-	**Jasmina Rosič**, Robyn Vanherle en **Laura Vandenbosch**. Daily Links Between Adolescents’ Perceived Digital Well-Being, State Self-Esteem, and Affective Well-Being
+-	Thi Willems, **Gaëlle Vanhoffelen**, Chelly Maes en **Laura Vandenbosch**. An Intercultural Study on Adolescents’ Consensual and Non-Consensual Sexting Practices and Their Body Image and Sexuality
+-	**Gaëlle Vanhoffelen**, Lara Schreurs en **Laura Vandenbosch** Goal-Oriented Online Self-Presentations: The Development and Validation of the GO-SP Scales and Their Links With Authenticity, Audience Size, and Platform Choices.
+-	**Gaëlle Vanhoffelen**, Laura Vandenbosch en Lara Schreurs. Teens, Tech, and Talk: Adolescents’ Use of and Emotional Reactions to Snapchat’s My AI Chatbot.
+-	**Luca Carbone**, Christoph Klimmt & **Laura Vandenbosch**. The Internalization of a Performance-Oriented Self-Concept among Adolescents through their Favorite Music Artists
+-	**Luca Carbone** & **Laura Vandenbosch**. Unpacking the Internalization of Effort-Oriented Success Narratives through Adolescents’ Favorite Music Lyrics
+-	Chelly Maes, Robyn Vanherle, Jasmine Fardouly en **Laura Vandenbosch**. #BoPo, #Ideal, or #Mixed? Exploring Adolescents’ Daily Exposure to Appearance Content on Social Media and Its Relations With Body Image Components
+-	**Jasmina Rosič** en **Laura Vandenbosch**. Adolescents’ Conversations in the Digital Era: The Role of Friends in Co-Present Smartphone Use Competence
+-	Lara Schreurs, Ines Boeckxstaens, Angela Y. Lee, Toon Tabruyn, Sunny X. Liu, Katie Fitzgerald, Jeff Hancock & **Laura Vandenbosch**. Who Is Posting What on Social Media? Insights From Adolescents’ Data Donations in Three European Countries
+-	Femke Konings, **Laura Vandenbosch**, Katie Fitzgerald, Jasmine Fardouly, Elien Beelen, Toon Tabruyn, Kathrin Karsay en Chelly Maes. Adolescents’ Sexualized Self-Presentations on Social Media: A Cross-National Data Donation Study
+-	**Luca Carbone**, **Laura Vandenbosch**, Christoph Klimmt & Julian Schaap. A Theory of Resonant Experiences with Media
 
-### 13 May 2025
-Femke Konings, Laura Vandenbosch, Kaitlin Fitzgerald, Jasmine Fardouly, Elien Beleen, Toon Tabruyn, Kathrin Karsay, and Chelly Maes published an article titled “Adolescents’ sexualized self-presentations on social media: A cross-national data donation study” in the journal Media Psychology. The article is available at the following [link]().
+![](/img/ica25.jpeg)
 
-### 10 April 2025
-Jasmina Rosič, Lara Schreurs, & Laura Vandenbosch published an article titled “Adolescents’ perceptions regarding their smartphone use: Longitudinal relationships between perceived digital well-being and self-esteem” in the journal Journal of Computer-Mediated Communication. The article is available at the following [link](https://doi.org/10.1093/jcmc/zmaf005).
+### 15 mei 2025
+Gaëlle Vanhoffelen gaf een workshop over het socialemediagebruik van jongeren, gebaseerd op de resultaten van het MIMIc project, aan een breed publiek van ouders, zorgmedewerkers, leerkrachten en mediaprofessionals tijdens de studiedag van Stad Genk “Online Polarisering & Verbinding 2.0”.
 
-### 26 February 2025
-Laura Vandenbosch attended the meeting with representatives of the Flemish Government’s Minister of Well-Being to advise, together with other Flemish researchers, on measures to tackle social media use among youngsters.
+### 15 mei 2025
+Anaëlle Gonzalez, Isra Irmak Akgün en Laura Vandenbosch publiceerden een artikel met de titel “The Values of Fame: Exploring the Visual and Textual Representations of Basic Values in Influencers’ Instagram Content” in het tijdschrift Social Media + Society. Het artikel is beschikbaar via de volgende [link](https://doi.org/10.1177/20563051251339035).
+
+### 13 mei 2025
+Gaëlle Vanhoffelen, Anaëlle Gonzalez, Lara Schreurs, Caroline Giraudeau en Laura Vandenbosch publiceerden een artikel met de titel “The Perfect Li(f)e: A Longitudinal Study on Positive Social Media Content and European Adolescents’ Perfectionism.” in het tijdschrift Communication Research. Het artikel is beschikbaar via de volgende [link](https://doi.org/10.1177/00936502251337650).
+
+### 13 mei 2025
+Femke Konings, Laura Vandenbosch, Kaitlin Fitzgerald, Jasmine Fardouly, Elien Beelen, Toon Tabruyn, Kathrin Karsay en Chelly Maes publiceerden een artikel met de titel “Adolescents’ sexualized self-presentations on social media: A cross-national data donation study” in het tijdschrift Media Psychology. Het artikel is beschikbaar via de volgende [link](https://www.tandfonline.com/doi/full/10.1080/15213269.2025.2509500).
+
+### 10 april 2025
+Jasmina Rosič, Lara Schreurs en Laura Vandenbosch publiceerden een artikel met de titel “Adolescents’ perceptions regarding their smartphone use: Longitudinal relationships between perceived digital well-being and self-esteem” in het tijdschrift Journal of Computer-Mediated Communication. Het artikel is beschikbaar via de volgende [link](https://doi.org/10.1093/jcmc/zmaf005).
+
+### 26 februari 2025
+Laura Vandenbosch woonde de vergadering bij met vertegenwoordigers van de Vlaamse minister van Welzijn om, samen met andere Vlaamse onderzoekers, advies te geven over maatregelen om het gebruik van sociale media onder jongeren aan te pakken.
 
 ### 22 februari 2025
 Anaëlle Gonzalez en Jasmina Rosič zijn, samen met Prof. Dr. Esther Martínez Pastor en Prof. Dr. Marian Blanco-Ruiz Rey van de Juan Carlos Universiteit (Spanje), gastredacteuren van de speciale uitgave van Doxa Comunicación getiteld “Digital Environments and Mental Health in Young People: Uitdagingen en kansen”. U bent vriendelijk uitgenodigd om uw paper daar in te dienen tot 30/06/2025. Meer informatie via [link](bit.ly/4hJTdG5)

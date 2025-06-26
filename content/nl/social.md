@@ -6,6 +6,15 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 23 juni 2025
+Gaëlle Vanhoffelen werd geïnterviewd door Knack om de bevindingen van de MIMIc-studie over het BeReal-gebruik van jongeren toe te lichten. Lees het artikel via deze [link](https://www.knack.be/nieuws/technologie/bereal-in-vrije-val-wat-is-er-misgelopen-met-de-authentieke-sociale-media-app/).
+
+### 27 februari 2025
+Laura Vandenbosch lichtte in een interview voor het Nieuwsblad de effecten toe van problematische socialmediacontent op kinderen. Lees er meer over via deze [link](https://www.nieuwsblad.be/cnt/dmf20250227_93798586).
+
+### 27 februari 2025
+Laura Vandenbosch leverde input voor het creëren van socialmediacontent om jonge volgers van het Vlaamse nieuws-Instagramkanaal (NWS) te informeren over hoe ze zich kunnen beschermen tegen de schadelijke effecten van gewelddadige socialmediacontent [link](https://www.instagram.com/p/DGla2-eM-gb/?img_index=3&igsh=MXR4a2w3ZXhsemZuMA==).
+
 ### 19 februari 2025
 
 Laura Vandenbosch was de gast in de uitzending van VRT NWS Laat over pornografiegebruik bij jongeren. Zij beantwoordde op de vragen: "Kijken we met z'n allen echt minder porno, zoals grote pornoplatformen beweren? Of schuilt er meer achter die cijfers?" (Herbekijk minuut 12:14 tot 21:10 via de volgende [link](https://www.vrt.be/vrtmax/a-z/vrt-nws-laat/2025/vrt-nws-laat-d20250219/))

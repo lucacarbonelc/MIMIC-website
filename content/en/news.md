@@ -21,6 +21,8 @@ We participated at the annual meeting of the International Communication Associa
 - Edward Noon, **Luca Carbone** & **Laura Vandenbosch**. A Toxic Feedback Loop? The Relationship Between Performance-Contingent Self-Esteem and Toxic Communication in Adolescent Videogame Play
 - **Jasmina Rosič**, Robyn Vanherle and **Laura Vandenbosch**. Daily Links Between Adolescents’ Perceived Digital Well-Being, State Self-Esteem, and Affective Well-Being.
 - Thi Willems, **Gaëlle Vanhoffelen**, Chelly Maes and **Laura Vandenbosch**. An Intercultural Study on Adolescents’ Consensual and Non-Consensual Sexting Practices and Their Body Image and Sexuality.
+- **Gaëlle Vanhoffelen**, Lara Schreurs and **Laura Vandenbosch** Goal-Oriented Online Self-Presentations: The Development and Validation of the GO-SP Scales and Their Links With Authenticity, Audience Size, and Platform Choices.
+- **Gaëlle Vanhoffelen**, **Laura Vandenbosch** and Lara Schreurs. Teens, Tech, and Talk: Adolescents’ Use of and Emotional Reactions to Snapchat’s My AI Chatbot.
 - **Luca Carbone**, Christoph Klimmt, & **Laura Vandenbosch**. The Internalization of a Performance-Oriented Self-Concept among Adolescents through their Favorite Music Artists
 - **Luca Carbone** & **Laura Vandenbosch**. Unpacking the Internalization of Effort-Oriented Success Narratives through Adolescents’ Favorite Music Lyrics
 - Chelly Maes, Robyn Vanherle, Jasmine Fardouly and **Laura Vandenbosch**. #BoPo, #Ideal, or #Mixed? Exploring Adolescents’ Daily Exposure to Appearance Content on Social Media and Its Relations With Body Image Components.
@@ -30,6 +32,9 @@ We participated at the annual meeting of the International Communication Associa
 - **Luca Carbone**, **Laura Vandenbosch**, Christoph Klimmt, & Julian Schaap. A Theory of Resonant Experiences with Media.
 
 ![](/img/ica25.jpeg)
+
+### 15 May 2025
+Gaëlle Vanhoffelen gave a workshop on youth social media use, based on the findings of the MIMIc project, to a broad audience of parents, caregivers, teachers, and media professionals during the City of Genk’s study day “Online Polarization & Connection 2.0.” 
 
 ### 15 May 2025
 
