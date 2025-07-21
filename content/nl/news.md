@@ -6,6 +6,10 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 18 juli 2025
+De bevindingen uit het MIMIc-project zijn opgenomen in HORIZON: The EU Research & Innovation Magazine. Lees het volledige artikel via deze [link](https://projects.research-and-innovation.ec.europa.eu/en/horizon-magazine/under-influence-how-digital-media-affects-teens?pk_source=twitter&pk_medium=social_organic&pk_campaign=ict-society).
+Bekijk ook de videofragmenten: [link1](https://www.facebook.com/horizon.magazine.eu/videos/2205251046616342/), [link2](https://www.youtube.com/watch?reload=9&v=kmt_iwHwink).
+
 ### 14 juni 2025
 Tijdens het ICA congres ontving Dr. Luca Carbone de Top Dissertation Award van de ‘Children, Adolescents, and Media’ (CAM) divisie voor zijn doctoraat dat hij afrondde binnen het MIMIc-project, getiteld: “Mainstreaming Success: Neoliberal Success Narratives in Music and Their Internalization Among Adolescents.”
 

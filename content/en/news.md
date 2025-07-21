@@ -10,6 +10,9 @@ lastmod: [":fileModTime", ":default"]
 
 The MIMIc team will present the results of the MIMIc project at the Belgian stakeholder event, organized at KU Leuven as part of the [Leuven Child and Youth Institute](https://www.kuleuven.be/child-youth/en/index.html) seminar series. Participation is free, but you need to register at the following [link](https://www.kuleuven.be/child-youth/en/forms/lcy-seminar-24102025).
 
+### 18 July 2025
+The findings from the MIMIc project have been featured in HORIZON: the EU Research & Innovation magazine. Read the full article at the following [link](https://projects.research-and-innovation.ec.europa.eu/en/horizon-magazine/under-influence-how-digital-media-affects-teens?pk_source=twitter&pk_medium=social_organic&pk_campaign=ict-society). Video features: [link1](https://www.facebook.com/horizon.magazine.eu/videos/2205251046616342/), [link2](https://www.youtube.com/watch?reload=9&v=kmt_iwHwink)
+
 ### 14 June 2025
 
 At ICA, Dr. Luca Carbone received the Top Dissertation Award from the Children, Adolescents, and Media (CAM) division for their dissertation completed as part of the MIMIc project, titled “Mainstreaming Success: Neoliberal Success Narratives in Music and Their Internalization Among Adolescents.”
