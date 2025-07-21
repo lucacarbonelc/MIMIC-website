@@ -33,6 +33,9 @@ We participated at the annual meeting of the International Communication Associa
 
 ![](/img/ica25.jpeg)
 
+### 20 May 2025
+Laura Vandenbosch participated at the MediaNest Study Day where new findings from the research MediaNest on media-parenting practices in Flanders were presented.
+
 ### 15 May 2025
 Gaëlle Vanhoffelen gave a workshop on youth social media use, based on the findings of the MIMIc project, to a broad audience of parents, caregivers, teachers, and media professionals during the City of Genk’s study day “Online Polarization & Connection 2.0.” 
 
@@ -48,6 +51,12 @@ Gaëlle Vanhoffelen, Anaëlle Gonzalez, Lara Schreurs, Caroline Giraudeau, and L
 
 Femke Konings, Laura Vandenbosch, Kaitlin Fitzgerald, Jasmine Fardouly, Elien Beleen, Toon Tabruyn, Kathrin Karsay, and Chelly Maes published an article titled “Adolescents’ sexualized self-presentations on social media: A cross-national data donation study” in the journal Media Psychology. The article is available at the following [link]().
 
+### 13 May 2025
+Anaëlle Gonzalez was appointed as a Social Media Editor for the Journal of Children and Media.
+
+### 13 April 2025
+The MIMIc project was presented as part of the EU Pavilion exhibition at EXPO 2025 in Osaka, Japan.
+
 ### 10 April 2025
 
 Jasmina Rosič, Lara Schreurs, & Laura Vandenbosch published an article titled “Adolescents’ perceptions regarding their smartphone use: Longitudinal relationships between perceived digital well-being and self-esteem” in the journal Journal of Computer-Mediated Communication. The article is available at the following [link](https://doi.org/10.1093/jcmc/zmaf005).
@@ -55,6 +64,12 @@ Jasmina Rosič, Lara Schreurs, & Laura Vandenbosch published an article titled �
 ### 3 April 2025
 
 The results of the MIMIc project were shared on the ERC website. Find more information at the following [link](https://erc.europa.eu/projects-statistics/science-stories/teenagers-wellbeing-affected-media-narratives).
+
+### 25 March 2025
+Following the screening of Can't Feel Nothing (2024), directed by David Borenstein, at DOCVILLE, the international documentary film festival held at Cinema ZED in Leuven, Luca Carbone was invited to discuss youth mental health and social media use .
+
+### 13 March 2025
+Gaëlle Vanhoffelen presented findings from the MIMIc project on adolescents’ self-presentation on social media at Research Day, organized by the Faculty of Social Sciences (KU Leuven).
 
 ### 26 February 2025
 

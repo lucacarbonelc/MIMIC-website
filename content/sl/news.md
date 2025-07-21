@@ -6,21 +6,65 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
-### 15 May 2025
+### 24. oktober 2025 (prihaja)
+Ekipa projekta MIMIc bo predstavila rezultate projekta MIMIc na dogodku za Belgijsko javnost, ki ga organizira KU Leuven v okviru serije seminarjev [Leuvenskega Inštituta za otroke in mladino](https://www.kuleuven.be/child-youth/en/index.html). Udeležba je brezplačna, vendar je obvezna prijava na naslednji [povezavi](https://www.kuleuven.be/child-youth/en/forms/lcy-seminar-24102025).
 
-Anaëlle Gonzalez, Isra Irmak Akgün, and Laura Vandenbosch published an article titled “The Values of Fame: Exploring the Visual and Textual Representations of Basic Values in Influencers’ Instagram Content” in the journal Social Media + Society. The article is available at the following [link](https://doi.org/10.1177/20563051251339035).
+### 18. julij 2025
+Ugotovitve projekta MIMIc so bile objavljene v reviji HORIZON: EU Research & Innovation. Celoten članek si lahko preberete na naslednji [povezavi](https://projects.research-and-innovation.ec.europa.eu/en/horizon-magazine/under-influence-how-digital-media-affects-teens?pk_source=twitter&pk_medium=social_organic&pk_campaign=ict-society). Videoposnetki: [povezava1](https://www.facebook.com/horizon.magazine.eu/videos/2205251046616342/), [povezava2](https://www.youtube.com/watch?reload=9&v=kmt_iwHwink).
 
-### 13 May 2025
+### 14. junij 2025
+Dr. Luca Carbone je na mednarodni komunikološki konferenci ICA prejel nagrado za najboljšo disertacijo odseka za otroke, mladostnike in medije (CAM) za svojo disertacijo, ki je nastala v okviru projekta MIMIc, z naslovom "Mainstreaming Success: Neoliberal Success Narratives in Music and Their Internalization Among Adolescents".
 
-Gaëlle Vanhoffelen, Anaëlle Gonzalez, Lara Schreurs, Caroline Giraudeau, and Laura Vandenbosch published an article titled “The Perfect Li(f)e: A Longitudinal Study on Positive Social Media Content and European Adolescents’ Perfectionism.” in the journal Communication Research. The article is available at the following [link](https://doi.org/10.1177/00936502251337650).
+### 12.–16. junij 2025
+Udeležili smo se letne conference Mednarodne komunikološke organizacije (ICA) v Denverju. Predstavili smo naslednje študije projekta MIMIc:
+- Edward Noon, **Luca Carbone** & **Laura Vandenbosch**. A Toxic Feedback Loop? The Relationship Between Performance-Contingent Self-Esteem and Toxic Communication in Adolescent Videogame Play
+- **Jasmina Rosič**, Robyn Vanherle and **Laura Vandenbosch**. Daily Links Between Adolescents’ Perceived Digital Well-Being, State Self-Esteem, and Affective Well-Being.
+- Thi Willems, **Gaëlle Vanhoffelen**, Chelly Maes and **Laura Vandenbosch**. An Intercultural Study on Adolescents’ Consensual and Non-Consensual Sexting Practices and Their Body Image and Sexuality.
+- **Gaëlle Vanhoffelen**, Lara Schreurs and **Laura Vandenbosch** Goal-Oriented Online Self-Presentations: The Development and Validation of the GO-SP Scales and Their Links With Authenticity, Audience Size, and Platform Choices.
+- **Gaëlle Vanhoffelen**, **Laura Vandenbosch** and Lara Schreurs. Teens, Tech, and Talk: Adolescents’ Use of and Emotional Reactions to Snapchat’s My AI Chatbot.
+- **Luca Carbone**, Christoph Klimmt, & **Laura Vandenbosch**. The Internalization of a Performance-Oriented Self-Concept among Adolescents through their Favorite Music Artists
+- **Luca Carbone** & **Laura Vandenbosch**. Unpacking the Internalization of Effort-Oriented Success Narratives through Adolescents’ Favorite Music Lyrics
+- Chelly Maes, Robyn Vanherle, Jasmine Fardouly and **Laura Vandenbosch**. #BoPo, #Ideal, or #Mixed? Exploring Adolescents’ Daily Exposure to Appearance Content on Social Media and Its Relations With Body Image Components.
+- **Jasmina Rosič** and **Laura Vandenbosch**. Adolescents’ Conversations in the Digital Era: The Role of Friends in Co-Present Smartphone Use Competence.
+- Lara Schreurs, Ines Boeckxstaens, Angela Y. Lee, Toon Tabruyn, Sunny X. Liu, Katie Fitzgerald, Jeff Hancock & **Laura Vandenbosch**. Who Is Posting What on Social Media? Insights From Adolescents’ Data Donations in Three European Countries
+- Femke Konings, **Laura Vandenbosch**, Katie Fitzgerald, Jasmine Fardouly, Elien Beelen, Toon Tabruyn, Kathrin Karsay and Chelly Maes. Adolescents’ Sexualized Self-Presentations on Social Media: A Cross-National Data Donation Study.
+- **Luca Carbone**, **Laura Vandenbosch**, Christoph Klimmt, & Julian Schaap. A Theory of Resonant Experiences with Media.
 
-### 13 May 2025
+![](/img/ica25.jpeg)
+ 
+### 20. maj 2025
+Laura Vandenbosch je sodelovala na študijskem dnevu MediaNest, kjer so bile predstavljene nove ugotovitve raziskave MediaNest o praksah starševstva v medijskem svetu v Flandriji.
 
-Femke Konings, Laura Vandenbosch, Kaitlin Fitzgerald, Jasmine Fardouly, Elien Beleen, Toon Tabruyn, Kathrin Karsay, and Chelly Maes published an article titled “Adolescents’ sexualized self-presentations on social media: A cross-national data donation study” in the journal Media Psychology. The article is available at the following [link]().
+### 15. maj 2025
+Gaëlle Vanhoffelen je na študijskem dnevu mesta Genk „Online Polarization & Connection 2.0“ za široko občinstvo staršev, vzgojiteljev, učiteljev in medijskih strokovnjakov pripravila delavnico o uporabi družbenih medijev med mladimi, ki temelji na ugotovitvah projekta MIMIc.
+
+### 15. maj 2025
+Anaëlle Gonzalez, Isra Irmak Akgün in Laura Vandenbosch so v reviji Social Media + Society objavile članek z naslovom »The Values of Fame: Exploring the Visual and Textual Representations of Basic Values in Influencers' Instagram Content.« Članek je na voljo na naslednji [povezavi](https://doi.org/10.1177/20563051251339035).
+
+### 13. maj 2025
+Gaëlle Vanhoffelen, Anaëlle Gonzalez, Lara Schreurs, Caroline Giraudeau, in Laura Vandenbosch so v reviji Communication Research objavile članek z naslovom »The Perfect Li(f)e: A Longitudinal Study on Positive Social Media Content and European Adolescents’ Perfectionism.« in the journal. Članek je na voljo na naslednji [povezavi](https://doi.org/10.1177/00936502251337650).
+
+### 13. maj 2025
+Femke Konings, Laura Vandenbosch, Kaitlin Fitzgerald, Jasmine Fardouly, Elien Beleen, Toon Tabruyn, Kathrin Karsay, in Chelly Maes so v reviji Media Psychology objavili članek u naslovom »Adolescents’ sexualized self-presentations on social media: A cross-national data donation study«. Članek je na voljo na naslednji [povezavi](https://doi.org/10.1080/15213269.2025.2509500).
+
+### 13. maj 2025
+Anaëlle Gonzalez je bila izbrana za urednico družbenih medijev pri reviji Journal of Children and Media.
+
+### 13. april 2025
+Projekt MIMIc je bil predstavljen v okviru razstave v paviljonu EU na EXPO 2025 v Osaki na Japonskem.
 
 ### 10. april 2025
  
 Jasmina Rosič, Lara Schreurs, and Laura Vandenbosch so objavile članek z naslovom »Adolescents’ perceptions regarding their smartphone use: Longitudinal relationships between perceived digital well-being and self-esteem« v reviji Journal of Computer-Mediated Communication. Članek je na voljo na naslednji [povezavi](https://doi.org/10.1093/jcmc/zmaf005).
+
+### 3. april 2025
+Rezultati projekta MIMIc so bili objavljeni na spletni strani ERC. Več informacij najdete na naslednji [povezavi](https://erc.europa.eu/projects-statistics/science-stories/teenagers-wellbeing-affected-media-narratives).
+
+### 25. marec 2025
+Na DOCVILLE, mednarodnem festivalu dokumentarnega filma v kinu ZED v Leuvnu je bil po projekciji filma Can't Feel Nothing (2024), ki ga je režiral David Borenstein, Luca Carbone povabljen na razpravo o duševnem zdravju mladih in uporabi družbenih medijev.
+
+### 13. marec 2025
+Gaëlle Vanhoffelen je na raziskovalnem dnevu, ki ga je organizirala Fakulteta za družbene vede (KU Leuven), predstavila ugotovitve projekta MIMIc o samopredstavljanju mladostnikov na družbenih medijih.
 
 ### 26. februar 2025
 

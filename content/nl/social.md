@@ -6,6 +6,9 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 15 July 2025
+A summary of the main results of the MIMIc project were presented in a blog post on the website of the European Commission, which can be accessed at the following [link](https://projects.research-and-innovation.ec.europa.eu/en/horizon-magazine/under-influence-how-digital-media-affects-teens).
+
 ### 23 juni 2025
 Gaëlle Vanhoffelen werd geïnterviewd door Knack om de bevindingen van de MIMIc-studie over het BeReal-gebruik van jongeren toe te lichten. Lees het artikel via deze [link](https://www.knack.be/nieuws/technologie/bereal-in-vrije-val-wat-is-er-misgelopen-met-de-authentieke-sociale-media-app/).
 
