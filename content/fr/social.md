@@ -6,6 +6,23 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 23 juin 2025
+Gaëlle Vanhoffelen a été interviewée par Knack pour expliquer les résultats de l’étude MIMIc sur l’usage de BeReal par les jeunes. Lire l’article via ce lien (en néerlandais).
+
+### 27 février 2025
+Laura Vandenbosch a expliqué les effets des contenus problématiques sur les réseaux sociaux chez les enfants dans une interview pour Nieuwsblad. Lire la suite via ce lien (en néerlandais).
+
+### 27 février 2025
+Laura Vandenbosch a contribué à la création de contenus pour les réseaux sociaux afin d’informer les jeunes abonnés du compte Instagram de NWS (actualités flamandes) sur la manière de se protéger des effets néfastes des contenus violents sur les réseaux sociaux (lien) (en néerlandais).
+
+### 19 février 2025
+Laura Vandenbosch était invitée à l’émission VRT NWS Late pour parler de l’usage de la pornographie chez les jeunes. Elle a répondu aux questions : «Regardons-nous tous vraiment moins de porno, comme le prétendent les grandes plateformes pornographiques ? Ou y a-t-il autre chose derrière ces chiffres ?» (voir minute 12:14 – 21:10 via ce lien).
+
+![](/img/lauraVRT.jpg)
+
+### 29 janvier 2025
+Laura Vandenbosch était invitée sur Radio 1, où elle a expliqué le biais de positivité et l’authenticité sur les réseaux sociaux pour répondre à la question : «Pourquoi faisons-nous semblant d’être meilleurs sur les réseaux sociaux?» (lien, en néerlandais)
+
 ### 17 mai 2024
 Anaëlle Gonzalez a été interviewée pour le magazine en ligne Causette pour parler du mouvement #Blockout2024 sur les réseaux sociaux et de ses impacts, en lien avec le sujet plus large de l'engagement politique des influenceurs. L'article peut être lu [ici](https://www.causette.fr/societe/humeurs/le-mouvement-blockout2024-qui-appelle-a-bloquer-des-personnalites-ne-prenant-pas-position-pour-gaza-peut-il-vraiment-avoir-un-impact/) et [ici](https://www.instagram.com/p/C7EqcMHMjTY/?utm_source=ig_web_copy_link) (en français).
 

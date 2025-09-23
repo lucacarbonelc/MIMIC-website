@@ -6,6 +6,12 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
+### 24 oktober 2025 (aankomend)
+Het MIMIc-team stelt de resultaten van het MIMIc-project voor tijdens het Belgische stakeholderevent, georganiseerd aan de KU Leuven in het kader van de seminarreeks van het Leuven Child and Youth Institute. Deelname is gratis, maar inschrijving is verplicht via de volgende link.
+
+### 30 juli 2025
+Gaëlle Vanhoffelen, Laura Vandenbosch en Lara Schreurs publiceerden een artikel met de titel “Teens, Tech, and Talk: Adolescents' Use of and Emotional Reactions to Snapchat's My AI Chatbot” in het tijdschrift Behavioral Sciences. Het artikel is beschikbaar via de volgende link.
+
 ### 18 juli 2025
 De bevindingen uit het MIMIc-project zijn opgenomen in HORIZON: The EU Research & Innovation Magazine. Lees het volledige artikel via deze [link](https://projects.research-and-innovation.ec.europa.eu/en/horizon-magazine/under-influence-how-digital-media-affects-teens?pk_source=twitter&pk_medium=social_organic&pk_campaign=ict-society).
 Bekijk ook de videofragmenten: [link1](https://www.facebook.com/horizon.magazine.eu/videos/2205251046616342/), [link2](https://www.youtube.com/watch?reload=9&v=kmt_iwHwink).
@@ -30,6 +36,16 @@ We namen deel aan de jaarlijkse congres van de International Communication Assoc
 
 ![](/img/ica25.jpeg)
 
+
+### 12 juni 2025
+Anaëlle Gonzalez presenteerde een poster op de 'Social Sciences and Humanities Research Day 2025' over AI van en voor de humane en sociale wetenschappen aan de KU Leuven. De poster toonde het lopende AI-gerelateerde onderzoek van het Media Psychology Lab, met reflecties op basis van de MIMIc-resultaten over influencers en moraliteit, evenals het onderzoek van Gaëlle Vanhoffelen over de AI-chatbot van Snapchat binnen het MIMIc-project.29 mei 2025
+
+### 29 mei 2025
+Chelly Maes, Robyn Vanherle, Jasmine Fardouly en Laura Vandenbosch publiceerden een artikel met de titel “#BoPo, #Ideal of #Mixed? Onderzoek naar de dagelijkse blootstelling van adolescenten aan inhoud over uiterlijk op sociale media en de relatie daarvan met componenten van het lichaamsbeeld” in het tijdschrift Communication Research. Het artikel is beschikbaar via de volgende link.
+
+### 20 mei 2025
+Laura Vandenbosch nam deel aan de MediaNest Studiedag, waar nieuwe bevindingen uit het MediaNest-onderzoek over mediapedagogische praktijken in Vlaanderen werden voorgesteld.
+
 ### 15 mei 2025
 Gaëlle Vanhoffelen gaf een workshop over het socialemediagebruik van jongeren, gebaseerd op de resultaten van het MIMIc project, aan een breed publiek van ouders, zorgmedewerkers, leerkrachten en mediaprofessionals tijdens de studiedag van Stad Genk “Online Polarisering & Verbinding 2.0”.
 
@@ -41,6 +57,11 @@ Gaëlle Vanhoffelen, Anaëlle Gonzalez, Lara Schreurs, Caroline Giraudeau en Lau
 
 ### 13 mei 2025
 Femke Konings, Laura Vandenbosch, Kaitlin Fitzgerald, Jasmine Fardouly, Elien Beelen, Toon Tabruyn, Kathrin Karsay en Chelly Maes publiceerden een artikel met de titel “Adolescents’ sexualized self-presentations on social media: A cross-national data donation study” in het tijdschrift Media Psychology. Het artikel is beschikbaar via de volgende [link](https://www.tandfonline.com/doi/full/10.1080/15213269.2025.2509500).
+
+### 12–13 april 2025
+De volgende studies met betrekking tot moraliteit uit de MIMIc longitudinale en datadonatiestudies werden op de Moral Media Conference in Buffalo, Verenigde Staten, gepresenteerd.
+•    Anaëlle Gonzalez, Lindsay Hahn & Laura Vandenbosch. De morele invloed van de favoriete influencers en tv-personages van adolescenten: een panelstudie in drie fasen naar media, selectie en wederzijdse effecten.
+•    Kaitlin Fitzgerald, Anaëlle Gonzalez, Kristina Rakinić, Bojana Lobe & Laura Vandenbosch. Morele grondslagen in posts van adolescenten op sociale media: inzichten uit een transnationaal gegevensdonatiestudie.
 
 ### 10 april 2025
 Jasmina Rosič, Lara Schreurs en Laura Vandenbosch publiceerden een artikel met de titel “Adolescents’ perceptions regarding their smartphone use: Longitudinal relationships between perceived digital well-being and self-esteem” in het tijdschrift Journal of Computer-Mediated Communication. Het artikel is beschikbaar via de volgende [link](https://doi.org/10.1093/jcmc/zmaf005).

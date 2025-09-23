@@ -6,71 +6,117 @@ lastmod: [":fileModTime", ":default"]
 
 ---
 
-### 15 May 2025
+### 24 octobre 2025 (à venir)
+L’équipe MIMIc présentera les résultats du projet MIMIc lors de l’évènement ouvert aux acteurs concernés – écoles, participants, chercheurs, associations et professionnels, organisé à KU Leuven dans le cadre de la série de séminaires de l’Institut pour l’Enfance et la Jeunesse de Louvain [Leuven Child and Youth Institute]. La participation est gratuite, mais l’inscription est obligatoire via ce lien.
 
-Anaëlle Gonzalez, Isra Irmak Akgün, and Laura Vandenbosch published an article titled “The Values of Fame: Exploring the Visual and Textual Representations of Basic Values in Influencers’ Instagram Content” in the journal Social Media + Society. The article is available at the following [link](https://doi.org/10.1177/20563051251339035).
+### 30 juillet 2025
+Gaëlle Vanhoffelen, Laura Vandenbosch et Lara Schreurs ont publié un article intitulé “Teens, Tech, and Talk: Adolescents’ Use of and Emotional Reactions to Snapchat’s My AI Chatbot” dans le journal Behavioral Sciences. L’article est disponible via ce lien.
 
-### 13 May 2025
+### 24 juillet 2025
+Luca Carbone, Christoph Klimmt et Laura Vandenbosch ont publié un article intitulé “The Internalization of a Performance-Oriented Self-Concept Among Adolescents Through Their Favorite Music Artists” dans le journal Mass Communication and Society. L’article est disponible via ce lien.
 
-Gaëlle Vanhoffelen, Anaëlle Gonzalez, Lara Schreurs, Caroline Giraudeau, and Laura Vandenbosch published an article titled “The Perfect Li(f)e: A Longitudinal Study on Positive Social Media Content and European Adolescents’ Perfectionism.” in the journal Communication Research. The article is available at the following [link](https://doi.org/10.1177/00936502251337650).
+### 18 juillet 2025
+Les résultats du projet MIMIc ont été présentés dans HORIZON : le magazine Recherche et Innovation de l’UE. Lire l’article complet via ce lien. Liens vidéos : lien 1, lien 2.
 
-### 13 May 2025
+### 14 juin 2025
+Lors de la conférence ICA, le Dr Luca Carbone a reçu le Prix de la meilleure thèse de la division Enfants, Adolescents et Médias (CAM) pour sa thèse réalisée dans le cadre du projet MIMIc, intitulée “Mainstreaming Success: Neoliberal Success Narratives in Music and Their Internalization Among Adolescents.”
 
-Femke Konings, Laura Vandenbosch, Kaitlin Fitzgerald, Jasmine Fardouly, Elien Beleen, Toon Tabruyn, Kathrin Karsay, and Chelly Maes published an article titled “Adolescents’ sexualized self-presentations on social media: A cross-national data donation study” in the journal Media Psychology. The article is available at the following [link]().
+### 12 – 16 juin 2025
 
-### 10 April 2025
+Nous avons participé au congrès annuel de l’International Communication Association (ICA) à Denver. Nous y avons présenté les études suivantes du projet MIMIc :
+•	Edward Noon, Luca Carbone & Laura Vandenbosch. A Toxic Feedback Loop? The Relationship Between Performance-Contingent Self-Esteem and Toxic Communication in Adolescent Videogame Play
+•	Jasmina Rosič, Robyn Vanherle & Laura Vandenbosch. Daily Links Between Adolescents’ Perceived Digital Well-Being, State Self-Esteem, and Affective Well-Being
+•	Thi Willems, Gaëlle Vanhoffelen, Chelly Maes & Laura Vandenbosch. An Intercultural Study on Adolescents’ Consensual and Non-Consensual Sexting Practices and Their Body Image and Sexuality
+•	Gaëlle Vanhoffelen, Lara Schreurs & Laura Vandenbosch. Goal-Oriented Online Self-Presentations: The Development and Validation of the GO-SP Scales and Their Links With Authenticity, Audience Size, and Platform Choices
+•	Gaëlle Vanhoffelen, Laura Vandenbosch & Lara Schreurs. Teens, Tech, and Talk: Adolescents’ Use of and Emotional Reactions to Snapchat’s My AI Chatbot
+•	Luca Carbone, Christoph Klimmt & Laura Vandenbosch. The Internalization of a Performance-Oriented Self-Concept among Adolescents through their Favorite Music Artists
+•	Luca Carbone & Laura Vandenbosch. Unpacking the Internalization of Effort-Oriented Success Narratives through Adolescents’ Favorite Music Lyrics
+•	Chelly Maes, Robyn Vanherle, Jasmine Fardouly & Laura Vandenbosch. #BoPo, #Ideal, or #Mixed? Exploring Adolescents’ Daily Exposure to Appearance Content on Social Media and Its Relations With Body Image Components
+•	Jasmina Rosič & Laura Vandenbosch. Adolescents’ Conversations in the Digital Era: The Role of Friends in Co-Present Smartphone Use Competence
+•	Lara Schreurs, Ines Boeckxstaens, Angela Y. Lee, Toon Tabruyn, Sunny X. Liu, Katie Fitzgerald, Jeff Hancock & Laura Vandenbosch. Who Is Posting What on Social Media? Insights From Adolescents’ Data Donations in Three European Countries
+•	Femke Konings, Laura Vandenbosch, Katie Fitzgerald, Jasmine Fardouly, Elien Beelen, Toon Tabruyn, Kathrin Karsay & Chelly Maes. Adolescents’ Sexualized Self-Presentations on Social Media: A Cross-National Data Donation Study
+•	Luca Carbone, Laura Vandenbosch, Christoph Klimmt & Julian Schaap. A Theory of Resonant Experiences with Media.
 
-Jasmina Rosič, Lara Schreurs, & Laura Vandenbosch published an article titled “Adolescents’ perceptions regarding their smartphone use: Longitudinal relationships between perceived digital well-being and self-esteem” in the journal Journal of Computer-Mediated Communication. The article is available at the following [link](https://doi.org/10.1093/jcmc/zmaf005).
+### 12 juin 2025
+Anaëlle Gonzalez a présenté un poster lors de la Journée des sciences sociales et humaines 2025 consacrée à l’« IA dans et pour les sciences humaines et sociales » à KU Leuven. Le poster mettait en avant les recherches en cours sur l’IA menées au Media Psychology Lab, comprenant des réflexions issues des résultats du projet MIMIc sur les influenceurs et la moralité, ainsi que le travail de Gaëlle Vanhoffelen sur le chatbot IA de Snapchat, également développé dans le cadre du projet MIMIc.
 
-### 26 February 2025
+### 29 mai 2025
+Chelly Maes, Robyn Vanherle, Jasmine Fardouly et Laura Vandenbosch ont publié un article intitulé “#BoPo, #Ideal, or #Mixed? Exploring Adolescents’ Daily Exposure to Appearance Content on Social Media and Its Relations with Body Image Components” dans le journal Communication Research. L’article est disponible via ce lien.
 
-Laura Vandenbosch attended the meeting with representatives of the Flemish Government’s Minister of Well-Being to advise, together with other Flemish researchers, on measures to tackle social media use among youngsters.
+### 20 mai 2025
+Laura Vandenbosch a participé à la journée d’étude MediaNest, où de nouveaux résultats sur les pratiques parentales liées aux médias en Flandre ont été présentés.
 
-### 22 February 2025
+### 15 mai 2025
+Gaëlle Vanhoffelen a animé un atelier sur l’usage des réseaux sociaux par les jeunes, basé sur les résultats du projet MIMIc, devant un large public de parents, éducateurs, enseignants et professionnels des médias lors de la journée d’étude de la ville de Genk “Online Polarization & Connection 2.0.” 
 
-Anaëlle Gonzalez and Jasmina Rosič, together with Prof. Dr. Esther Martínez Pastor and Prof. Dr. Marian Blanco-Ruiz Rey from Juan Carlos University (Spain), are guest editors of the special issue of Doxa Comunicación entitled “Digital Environments and Mental Health in Young People: Challenges and Opportunities.” You are kindly invited to submit your paper there until 30/06/2025. More information via [this link](bit.ly/4hJTdG5)
+### 15 mai 2025
+Anaëlle Gonzalez, Isra Irmak Akgün et Laura Vandenbosch ont publié un article intitulé “The Values of Fame: Exploring the Visual and Textual Representations of Basic Values in Influencers’ Instagram Content” dans le journal Social Media + Society. L’article est disponible via ce [lien](https://doi.org/10.1177/20563051251339035).
 
-### 21 February 2025
+### 13 mai 2025
+Gaëlle Vanhoffelen, Anaëlle Gonzalez, Lara Schreurs, Caroline Giraudeau et Laura Vandenbosch ont publié un article intitulé “The Perfect Li(f)e: A Longitudinal Study on Positive Social Media Content and European Adolescents’ Perfectionism” dans le journal Communication Research. L’article est disponible via ce [lien](https://doi.org/10.1177/00936502251337650).
 
-Gaëlle Vanhoffelen participated in media.forum 2025, the second symposium organized by the knowledge center Mediapunt in partnership with the Department of Culture, Youth, and Media of the Flemish Government. Insights from the media.monitor 2025 were shared. Afterwards, participants formulated relevant policy recommendations that contribute to a stronger and more resilient media landscape in Flanders, in the presence of Minister Van Achter.
+### 13 mai 2025
+Femke Konings, Laura Vandenbosch, Kaitlin Fitzgerald, Jasmine Fardouly, Elien Beleen, Toon Tabruyn, Kathrin Karsay et Chelly Maes ont publié un article intitulé “Adolescents’ sexualized self-presentations on social media: A cross-national data donation study” dans le journal Media Psychology. L’article est disponible via ce [lien](https://doi.org/10.1080/15213269.2025.2509500).
 
-### 21 February 2025
+### 13 mai 2025
+Anaëlle Gonzalez a été nommée rédactrice pour les réseaux sociaux du journal Journal of Children and Media.
 
-Since May 30, 2024, Laura Vandenbosch and Jasmina Rosič have been participating with a selected group of ERC grantees in a pilot project on data access for research under the Digital Services Act (DSA) to help prepare an application for access to non-public data from platforms to conduct research on "systemic risks" in the EU. The pilot is under the coordination of the European Commission’s Directorate-General for Communications Networks, Content and Technology (DG CNECT) and the European Research Council (ERC) with the support of the Joint Research Centre - European Centre for Algorithmic Transparency (JRC-ECAT).
+### 13 avril 2025
+Le projet MIMIc a été présenté dans le cadre de l’exposition du pavillon de l’UE à l’EXPO 2025 à Osaka au Japon.
 
-### 15 – 16 February 2025
+### 12–13 avril 2025
+Les études suivantes, liées à la moralité et issues des études longitudinales et de don de données du projet MIMIc, ont été présentées à la Moral Media Conference à Buffalo, États-Unis.
+•	Anaëlle Gonzalez, Lindsay Hahn & Laura Vandenbosch. The Moral Influence of Adolescents’ Favorite Influencers and TV Characters: A Three-Wave Panel Study of Media, Selection, and Reciprocal Effects.
+•	Kaitlin Fitzgerald, Anaëlle Gonzalez, Kristina Rakinić, Bojana Lobe, & Laura Vandenbosch. Moral Foundations in Adolescents’ Social Media Posts: Insights from a Cross-National Data Donation Study.
 
-The MIMIc team participated at KU Leuven Inside—the opening weekend celebrating 600 years of KU Leuven. Together with colleagues from the Media Psychology lab, we showcased project MIMIc findings on the effects of digital media use through an interactive smartphone use exhibition. Additionally, Laura Vandenbosch delivered a 600-second lecture targeted at children explaining whether social media is a curse or a blessing. Available via [this link](https://www.youtube.com/watch?v=lDlOLk2-A5I&list=PLXWyIz0l7YBsPW-HRrvwu0bayONySryey&index=41) (in Dutch).
+### 10 avril 2025
+Jasmina Rosič, Lara Schreurs et Laura Vandenbosch ont publié un article intitulé “Adolescents’ perceptions regarding their smartphone use: Longitudinal relationships between perceived digital well-being and self-esteem” dans le journal Journal of Computer-Mediated Communication. L’article est disponible via ce [lien](https://doi.org/10.1093/jcmc/zmaf005).
 
+### 3 avril 2025
+Les résultats du projet MIMIc ont été partagés sur le site web de l’ERC. Plus d’informations via ce lien.
+
+### 25 mars 2025
+Suite à la projection de Can't Feel Nothing (2024), réalisé par David Borenstein, lors du festival international de films documentaires DOCVILLE au cinéma ZED à Louvain, Luca Carbone a été invité à discuter de la santé mentale des jeunes et de l’usage des réseaux sociaux. 
+
+### 13 mars 2025
+Gaëlle Vanhoffelen a présenté les résultats du projet MIMIc sur l’auto-présentation des adolescents sur les réseaux sociaux lors de la journée de recherche organisée par la Faculté des sciences sociales (KU Leuven).
+
+### 26 février 2025
+Laura Vandenbosch a participé à une réunion avec des représentants du Ministre du Bien-être du gouvernement flamand afin de conseiller, avec d’autres chercheurs flamands, sur des mesures visant à encadrer l’usage des réseaux sociaux chez les jeunes.
+
+### 22 février 2025
+Anaëlle Gonzalez et Jasmina Rosič, avec le Prof. Dr. Esther Martínez Pastor et le Prof. Dr. Marian Blanco-Ruiz Rey de l’Université Juan Carlos (Espagne), sont éditrices invitées du numéro spécial de Doxa Comunicación intitulé “Digital Environments and Mental Health in Young People: Challenges and Opportunities.” Vous êtes cordialement invité·e·s à soumettre votre article avant le 30/06/2025. Plus d’informations via ce [lien](bit.ly/4hJTdG5).
+
+### 21 février 2025
+Gaëlle Vanhoffelen a participé au media.forum 2025, le deuxième symposium organisé par le centre de connaissances Mediapunt en partenariat avec le Département de la Culture, de la Jeunesse et des Médias du gouvernement flamand. Les résultats du media.monitor 2025 ont été partagés. Par la suite, les participant·e·s ont formulé des recommandations politiques pertinentes pour contribuer à un paysage médiatique plus fort et résilient en Flandre, en présence du Ministre Van Achter.
+
+### 21 février 2025
+Depuis le 30 mai 2024, Laura Vandenbosch et Jasmina Rosič participent avec un groupe sélectionné de bénéficiaires ERC à un projet pilote sur l’accès aux données pour la recherche dans le cadre du Digital Services Act (DSA), afin de préparer une demande d’accès à des données non publiques de plateformes pour étudier les « risques systémiques » dans l’UE. Le projet pilote est coordonné par la Direction générale des réseaux de communication, du contenu et de la technologie (DG CNECT) de la Commission européenne et le Conseil européen de la recherche (ERC), avec le soutien du Centre commun de recherche - European Centre for Algorithmic Transparency (JRC-ECAT).
+
+### 15 – 16 février 2025
+L’équipe MIMIc a participé à KU Leuven Inside, le week-end d’ouverture célébrant les 600 ans de KU Leuven. Avec des collègues du Media Psychology Lab, nous avons présenté les résultats du projet MIMIc sur les effets de l’usage des médias numériques à travers une exposition interactive sur l’usage des smartphones. De plus, Laura Vandenbosch a donné une conférence de 600 secondes destinée aux enfants, expliquant si les réseaux sociaux sont une malédiction ou une bénédiction. Disponible via ce [lien](https://www.youtube.com/watch?v=lDlOLk2-A5I&list=PLXWyIz0l7YBsPW-HRrvwu0bayONySryey&index=41) (en néerlandais).
 ![](/img/smartphone.jpeg)
 
-### 11 February 2025
+### 11 février 2025
+Laura Vandenbosch a participé à la Safer Internet Day sur le thème de l’utilisation de l’IA chez les enfants et les jeunes, où elle a mis en lumière la manière dont les jeunes expérimentent l’IA et comment leur apprendre à gérer consciemment les risques liés aux chatbots, deepfakes et deepnudes : [lien](https://www.mediawijs.be/nl/saferinternetday).
 
-Laura Vandenbosch participated at the Safer Internet Day on the topic of AI use among children and youth, where she shed a light on how youth experience AI and how can we teach adolescents to consciously deal with the risks that chatbots, deepfakes, and deepnudes ([link](https://www.mediawijs.be/nl/saferinternetday)).
-
-### 5 - 6 February 2025
-
-Luca Carbone and Jasmina Rosič attended the Leuven Child and Youth Institute conference, where Laura Vandenbosch presented and discussed the project MIMIc findings on how online spaces influence users' body image.
-
+### 5 - 6 février 2025
+Luca Carbone et Jasmina Rosič ont participé à la conférence de l’Institut pour l’Enfance et la Jeunesse de Louvain, où Laura Vandenbosch a présenté et discuté des résultats du projet MIMIc sur l’influence des espaces en ligne sur l’image corporelle des utilisateurs.
 ![](/img/cy-institute.jpeg)
 
-### 3 – 4 February 2025
+### 3 – 4 février 2025
+Nous avons participé au congrès Etmaal van de Communicatiewetenschap 2025 à Bruges, co-organisé avec nos collègues du département de Sciences de la Communication. Nous y avons présenté les études suivantes du projet MIMIc :
+•	**Luca Carbone**, **Laura Vandenbosch**, Christoph Klimmt, & Julian Schaap. A Theory of Resonant Experiences with Media.
+•	**Anaëlle Gonzalez** & **Laura Vandenbosch**. Politically-Influenced by Non-Political Actors? Longitudinal Reciprocal Associations Between Famous Figures’ Political Social Media Posts and Political Interest in Adolescence.
+•	**Jasmina Rosič**, Robyn Vanherle, & **Laura Vandenbosch**. Disentangling Daily Relationships Between Adolescents’ Perceived Digital Well-Being, State Self-Esteem, and Affective Well-being.
+•	**Gaëlle Vanhoffelen**, Lara Schreurs, & **Laura Vandenbosch**. Very Demure, Very Authentic? Disentangling the Longitudinal Links between Authentic and Inauthentic Online Self-Presentations and Adolescents’ Identity Distress in Social Media Contexts.
+•	Thi Willems, **Gaëlle Vanhoffelen**, Chelly Maes, & **Laura Vandenbosch**. An Intercultural Study on Adolescents’ Consensual and Non-Consensual Sexting Practices and Their Body Image and Sexuality.
 
-We participated at the Etmaal van de Communicatiewetenschap 2025 conference in Brugges, which we co-organized with our colleagues from the Communication Science department. We presented these studies of the MIMIc project:
+### 07 janvier 2025
+Laura Vandenbosch, Kathleen Beullens, Robyn Vanherle et Lara Schreurs ont publié un article intitulé “Digital media uses and eﬀects: The contributing roles of time” dans le journal Journal of Children and Media. L’article est disponible via ce [lien](https://doi.org/10.1080/17482798.2024.2438690).
 
-- **Luca Carbone**, **Laura Vandenbosch**, Christoph Klimmt, & Julian Schaap. A Theory of Resonant Experiences with Media.
-- **Anaëlle Gonzalez & Laura Vandenbosch**. Politically-Influenced by Non-Political Actors? Longitudinal Reciprocal Associations Between Famous Figures’ Political Social Media Posts and Political Interest in Adolescence.
-- **Jasmina Rosič**, Robyn Vanherle, & **Laura Vandenbosch**. Disentangling Daily Relationships Between Adolescents' Perceived Digital Well-Being, State Self-Esteem, and Affective Well-being.
-- **Gaëlle Vanhoffelen**, Lara Schreurs, & **Laura Vandenbosch**. Very Demure, Very Authentic? Disentangling the Longitudinal Links between Authentic and Inauthentic Online Self-Presentations and Adolescents' Identity Distress in Social Media Contexts.
-- Thi Willems, **Gaëlle Vanhoffelen**, Chelly Maes, and **Laura Vandenbosch**. An Intercultural Study on Adolescents’ Consensual and Non-Consensual Sexting Practices and Their Body Image and Sexuality
-
-### 07 January 2025
-
-Laura Vandenbosch, Kathleen Beullens, Robyn Vanherle, and Lara Schreurs published an article titled “Digital media uses and eﬀects: The contributing roles of time” in the journal Journal of Children and Media. The article is available at the following [link](https://doi.org/10.1080/17482798.2024.2438690).
-
-### 29 November 2024
-
-Laura Vandenbosch gave a keynote speech at the Cyberspace Conference organized by Masaryk University in Brno. She presented the latest trends in research about the relationship between social media use and body image that can help empower youth in building resilience and combating algorithm-driven appearance pressures ([link](https://cyberspace.muni.cz/keynote-speakers)).
+### 29 novembre 2024
+Laura Vandenbosch a prononcé un discours principal lors de la Cyberspace Conference organisée par l’Université Masaryk à Brno. Elle a présenté les dernières tendances de la recherche sur la relation entre l’usage des réseaux sociaux et l’image corporelle, visant à aider les jeunes à renforcer leur résilience et à lutter contre les pressions liées à l’apparence générées par les algorithmes :  ([lien](https://cyberspace.muni.cz/keynote-speakers)).
 
 ### Octobre-Novembre 2024
 

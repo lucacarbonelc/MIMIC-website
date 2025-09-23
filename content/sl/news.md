@@ -31,7 +31,10 @@ Udeležili smo se letne conference Mednarodne komunikološke organizacije (ICA) 
 - **Luca Carbone**, **Laura Vandenbosch**, Christoph Klimmt, & Julian Schaap. A Theory of Resonant Experiences with Media.
 
 ![](/img/ica25.jpeg)
- 
+
+### 12. junij 2025
+Anaëlle Gonzalez  je na raziskovalnem dnevu družboslovnih in humanističnih ved 2025 na KU Leuven predstavila poster o umetni inteligenci v humanističnih in družboslovnih vedah. Predstavila je raziskave o umetni inteligenci, ki so v teku na katedri za medijsko psihologijo. Posebno pozornost je namenila ugotovitvam o vplivnežih in moralnosti, ki temeljijo na rezultatih projekta MIMIc, ter študiji Gaëlle Vanhoffelen na temo umetne inteligence Snapchatovega chatbota, ki je bila prav tako opravljena v okviru projekta MIMIc.
+
 ### 20. maj 2025
 Laura Vandenbosch je sodelovala na študijskem dnevu MediaNest, kjer so bile predstavljene nove ugotovitve raziskave MediaNest o praksah starševstva v medijskem svetu v Flandriji.
 
@@ -49,6 +52,11 @@ Femke Konings, Laura Vandenbosch, Kaitlin Fitzgerald, Jasmine Fardouly, Elien Be
 
 ### 13. maj 2025
 Anaëlle Gonzalez je bila izbrana za urednico družbenih medijev pri reviji Journal of Children and Media.
+
+### 12. – 13. april 2025
+Na konferenci Moral Media Conference v Buffalu, ZDA smo predstavili naslednje študije v zvezi z moralnostjo, ki so nastale v okviru longitudinalne študije in študije podatkov iz analize družbenih omrežij projekta MIMIc.
+•	Anaëlle Gonzalez, Lindsay Hahn in Laura Vandenbosch. The Moral Influence of Adolescents’ Favorite Influencers and TV Characters: A Three-Wave Panel Study of Media, Selection, and Reciprocal Effects.
+•	Kaitlin Fitzgerald, Anaëlle Gonzalez, Kristina Rakinić, Bojana Lobe in Laura Vandenbosch. Moral Foundations in Adolescents’ Social Media Posts: Insights from a Cross-National Data Donation Study.
 
 ### 13. april 2025
 Projekt MIMIc je bil predstavljen v okviru razstave v paviljonu EU na EXPO 2025 v Osaki na Japonskem.

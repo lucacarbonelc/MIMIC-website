@@ -14,8 +14,10 @@ The MIMIc team will present the results of the MIMIc project at the Belgian stak
 The findings from the MIMIc project have been featured in HORIZON: the EU Research & Innovation magazine. Read the full article at the following [link](https://projects.research-and-innovation.ec.europa.eu/en/horizon-magazine/under-influence-how-digital-media-affects-teens?pk_source=twitter&pk_medium=social_organic&pk_campaign=ict-society). Video features: [link1](https://www.facebook.com/horizon.magazine.eu/videos/2205251046616342/), [link2](https://www.youtube.com/watch?reload=9&v=kmt_iwHwink)
 
 ### 14 June 2025
-
 At ICA, Dr. Luca Carbone received the Top Dissertation Award from the Children, Adolescents, and Media (CAM) division for their dissertation completed as part of the MIMIc project, titled “Mainstreaming Success: Neoliberal Success Narratives in Music and Their Internalization Among Adolescents.”
+
+### 12 June 2025
+Anaëlle Gonzalez presented a poster at the 2025 Social Sciences and Humanities Research Day on AI in and for Humanities and Social Sciences at KU Leuven. The poster showcased ongoing AI-related research at the Media Psychology Lab, featuring reflections building on the MIMIc results on influencers and morality, as well as Gaëlle Vanhoffelen’s work on Snapchat’s AI Chatbot, also developed within the MIMIc project.
 
 ### 12 – 16 June 2025
 
@@ -59,6 +61,11 @@ Anaëlle Gonzalez was appointed as a Social Media Editor for the Journal of Chil
 
 ### 13 April 2025
 The MIMIc project was presented as part of the EU Pavilion exhibition at EXPO 2025 in Osaka, Japan.
+
+### 12–13 April 2025
+The following studies related to morality from the MIMIc longitudinal and data donation studies at the Moral Media Conference in Buffalo, United States.
+•	Anaëlle Gonzalez, Lindsay Hahn & Laura Vandenbosch. The Moral Influence of Adolescents’ Favorite Influencers and TV Characters: A Three-Wave Panel Study of Media, Selection, and Reciprocal Effects.
+•	Kaitlin Fitzgerald, Anaëlle Gonzalez, Kristina Rakinić, Bojana Lobe, & Laura Vandenbosch. Moral Foundations in Adolescents’ Social Media Posts: Insights from a Cross-National Data Donation Study.
 
 ### 10 April 2025
 
