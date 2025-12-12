@@ -10,7 +10,7 @@ publication_types:
 publishDate: "2025-12-12T00:00:00Z"
 tags:
 - debriefing
-title: Debriefing - Dernier
+title: Debriefing - Final
 url_code: ""
 url_dataset: ""
 url_pdf: ""
